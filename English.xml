@@ -763,7 +763,7 @@
     <value>the Hunter 🎯</value>
   </string>
   <string key="Cupid">
-    <value>Mathcmaker 💘</value>
+    <value>Matchmaker 💘</value>
   </string>
   <string key="SerialKiller">
     <value>the Serial Killer 🔪</value>
@@ -909,7 +909,7 @@
     <value>That asylum was silly anyways. What a joke. You are free now however, back to business as usual - killing! The serial killer is a lone player, on their own team. They can win only if they are the last player alive (exception: lovers). As the serial killer, you can kill ANYONE - wolves, hunters, gunners, guardian angels, whatever. If the wolves try to attack you, you will kill one of them (random), and live.</value>
   </string>
   <string key="AboutPara">
-    <value>Para is a silly developer that likes to bark at people. Maybe he's been messing with werewolves too long.... Messing with werewolves is a very bad idea.</value>
+    <value>“One Stormy Night” a cartoon on how friendship started between a wolf and a goat. Similar to most of here, without knowing each other personally, we started talking and become friends... One day a group of people realized that it could be more than a movie and so the "Stormy Night Bot" was created, a bot that values ​​fun among its players.</value>
   </string>
   <string key="EndTime">
     <value>Game Length: {0}</value>
@@ -927,7 +927,7 @@
     <value>I have sent you a PM</value>
   </string>
   <string key="StartPM" deprecated="true">
-    <value>Please send me a pm so I can PM you: @werewolfbot</value>
+    <value>Please send me a pm so I can PM you: @StormyNightBot</value>
   </string>
   <string key="PMTrue" deprecated="true">
     <value>Thanks for starting me! I can PM you now.</value>
@@ -966,10 +966,10 @@
     <value>You must run this command in a group</value>
   </string>
   <string key="NotGlobalAdmin">
-    <value>You aren't a global admin...</value>
+    <value>You aren't a stormy night admin!</value>
   </string>
   <string key="NotPara">
-    <value>You aren't Para!</value>
+    <value>You aren’t Keko nor Snow.</value>
   </string>
   <string key="Yes">
     <value>Yes</value>
@@ -1543,10 +1543,10 @@
   </string>
 
   <string key="RoleInfoOracle">
-    <value>You are the Oracle 💈. Each night you can choose to look at someone, but you will only be able to see what they are NOT. You will be given a role of someone else in the game that is still alive, so pay attention to what role is said, that means one is still alive :)</value>
+    <value>You are the Oracle 🧿. Each night you can choose to look at someone, but you will only be able to see what they are NOT. You will be given a role of someone else in the game that is still alive, so pay attention to what role is said, that means one is still alive :)</value>
   </string>
   <string key="Oracle">
-    <value>the Oracle 💈</value>
+    <value>the Oracle 🧿</value>
   </string>
   <string key="AboutOracle">
     <value>The oracle will be told what role someone is NOT, choosing from roles that are still alive in the game</value>
@@ -1615,12 +1615,12 @@
   <string key="HunterKilledWiseElder">
   <!-- {0} - Hunter's Name -->
   <!-- {1} - Wise Elder's Name -->
-    <value>The Hunter 🎯, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Hunter abilities. They died a regular citizen 👱.</value>
+    <value>The Hunter 🎯, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Hunter abilities. They died a regular citizen 👱🏻‍♂️.</value>
   </string>
   <string key="GunnerShotWiseElder">
   <!-- {0} - Gunner's Name -->
   <!-- {1} - Wise Elder's Name -->
-    <value>The Gunner 🔫, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a regular citizen 👱 with a field to plow.</value>
+    <value>The Gunner 🔫, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a regular citizen 👱🏻‍♂️ with a field to plow.</value>
   </string>
   
   <string key="ThiefStealFailed">
@@ -1725,7 +1725,7 @@
     <value>Your role got stolen! You are now the new thief 😈 and can steal a role the next night!</value>
   </string>
   <string key="ThiefStoleYourRoleVillager">
-    <value>Your role got stolen! You are now a citizen 👱, plowing your fields all day.</value>
+    <value>Your role got stolen! You are now a citizen 👱🏻‍♂️, plowing your fields all day.</value>
   </string>
   
   <string key="SerialKillerKilledYou" isgif="true">
@@ -1821,13 +1821,13 @@
 	<value>The cult members are currently: {0}</value>
   </string>
   <string key="SnowWolf">
-	<value>the Snow Wolf 🐺☃️</value>
+	<value>the Snow Wolf 🐺❄️</value>
   </string>
   <string key="RoleInfoSnowWolf">
-    <value>You are the Snow Wolf 🐺☃️. Every night, instead of following your pack to hunt someone, you skulk around on your own to freeze someone out of your pack. A frozen person will be unable to use any night actions, if they have any. However, your victim will have some residue of your power the next night and can not be frozen a second time in a row.</value>
+    <value>You are the Snow Wolf 🐺❄️. Every night, instead of following your pack to hunt someone, you skulk around on your own to freeze someone out of your pack. A frozen person will be unable to use any night actions, if they have any. However, your victim will have some residue of your power the next night and can not be frozen a second time in a row.</value>
   </string>
   <string key="AboutSnowWolf">
-    <value>The Snow Wolf 🐺☃️ is a wolf that was native to the snowcapped mountains near the village. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their pack at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
+    <value>The Snow Wolf 🐺❄️ is a wolf that was native to the snowcapped mountains near the village. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their pack at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
   </string>
   <string key="AskFreeze">
 	<value>Who do you want to freeze tonight?</value>
@@ -1863,33 +1863,33 @@
     <value>{0} is no longer your teammate and {1} has now become the new snow wolf!</value>
   </string>
   <string key="HarlotFrozen">
-    <value>As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks 🐺☃️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now. </value>
+    <value>As you opened the door to leave your house, a gust of wind blew towards you, causing you to freeze in your tracks 🐺❄️. You stand frozen in the doorway, silently cursing this weird form of bondage. Ah well, thank goodness you're thawed now. </value>
   </string>
   <string key="ChemistFrozen">
-    <value>As you stirred in your sleep, preparing to wake up to get your potions, a strong gust of wind blew in from the windows, causing you to freeze 🐺☃️. From the corner of your eyes, you saw the bottles of your potions frosted over. Looks like they didn't escape the brunt of the freezing spell either. You mentally sighed, wishing the sun came up sooner... Good thing you're thawed now, though</value>
+    <value>As you stirred in your sleep, preparing to wake up to get your potions, a strong gust of wind blew in from the windows, causing you to freeze 🐺❄️. From the corner of your eyes, you saw the bottles of your potions frosted over. Looks like they didn't escape the brunt of the freezing spell either. You mentally sighed, wishing the sun came up sooner... Good thing you're thawed now, though</value>
   </string>
   <string key="CultistFrozen">
-    <value>As you donned your cloak and prepared to leave your house, a gust of wind blew in from the doorway, causing you to freeze 🐺☃️. Your fellow cultists dropped by soon after to bring you along to cult people, but they ended up laughing at your demise. Leaving you by the doorway, they promised that they'll make good work of tonight. Now that you're unfrozen, you leave the house, cringing in embarrassment. </value>
+    <value>As you donned your cloak and prepared to leave your house, a gust of wind blew in from the doorway, causing you to freeze 🐺❄️. Your fellow cultists dropped by soon after to bring you along to cult people, but they ended up laughing at your demise. Leaving you by the doorway, they promised that they'll make good work of tonight. Now that you're unfrozen, you leave the house, cringing in embarrassment. </value>
   </string>
   <string key="CHFrozen">
-    <value>As you grabbed your sword, a gust of wind blew in from the window, causing you to freeze, back still arched 🐺☃️. You mentally groaned, your limbs aching from being in this position until now... </value>
+    <value>As you grabbed your sword, a gust of wind blew in from the window, causing you to freeze, back still arched 🐺❄️. You mentally groaned, your limbs aching from being in this position until now... </value>
   </string>
   <string key="SeeingFrozen">
   <!-- used for seer, fool, oracle and sorcerer -->
-    <value>As you sat at your table, ready to use your psychic powers, a gust of wind blew in from the window, causing you to freeze 🐺☃️. While being bound usually isn't a problem, the freezing spell also gave you a serious case of brain freeze. You weren't worried though, knowing that the sun rising is one of the constants of this world and that you'll be thawed now. </value>
+    <value>As you sat at your table, ready to use your psychic powers, a gust of wind blew in from the window, causing you to freeze 🐺❄️. While being bound usually isn't a problem, the freezing spell also gave you a serious case of brain freeze. You weren't worried though, knowing that the sun rising is one of the constants of this world and that you'll be thawed now. </value>
   </string>
   <string key="GAFrozen">
-    <value>As you willed your wings to appear, a gust of wind blew in from the windows, causing you to freeze 🐺☃️. You inwardly cringed as you suddenly imagine yourself as an ornament on a Christmas tree. Thankfully, this is now over since the sun has risen. </value>
+    <value>As you willed your wings to appear, a gust of wind blew in from the windows, causing you to freeze 🐺❄️. You inwardly cringed as you suddenly imagine yourself as an ornament on a Christmas tree. Thankfully, this is now over since the sun has risen. </value>
   </string>
   <string key="SKFrozen">
-    <value>As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you 🐺☃️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver. </value>
+    <value>As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you 🐺❄️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver. </value>
   </string>
   <string key="ThiefFrozen">
-    <value>As you sulked around the village, you felt a strong gust of wind. You stood frozen in your tracks, literally unable to move 🐺☃️. Luckily, it was dark enough for you to not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you. </value>
+    <value>As you sulked around the village, you felt a strong gust of wind. You stood frozen in your tracks, literally unable to move 🐺❄️. Luckily, it was dark enough for you to not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you. </value>
   </string>
   <string key="DefaultFrozen">
   <!-- used for all roles without (every-)night action -->
-    <value>While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that you couldn't move at all! Looks like the Snow Wolf 🐺☃️ has cast a freezing spell on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold.</value>
+    <value>While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that you couldn't move at all! Looks like the Snow Wolf 🐺❄️ has cast a freezing spell on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold.</value>
   </string>
   <string key="GuardBlockedSnowWolf">
     <value>You head to {0}'s house to freeze them, but you are met by a tall dark figure, armed to the teeth. The Guardian Angel fights you off, and you head back defeated.</value>
