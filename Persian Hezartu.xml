@@ -309,7 +309,7 @@
 	<value>تو فرشته ی نگهبانی!هرشب میتونی از یکی در برابر حمله ی گرگ ها و قاتل محافظت کنی اما مواظب باش چه کسی رو انتخاب میکنی چون اگه سعی کنی از یک گرگ محافظت کنی 50 درصد احتمال داره بمیری</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو یه روستایی ساده ای🙂</value>
+    <value >تو یه روستایی ساده ای☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو کلانتر روستا هستی. اگه کشته بشی میتونی یه نفر دیگه رو هم همراه با خودت به گور ببری. اگه گرگا بخورنت میتونی یه گرگینه رو به کشتن بدی ولی حق انتخاب نداری</value>
@@ -618,10 +618,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

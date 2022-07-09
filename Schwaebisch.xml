@@ -631,10 +631,10 @@
     <value>Davohgloffa</value>
   </string>
   <string key="Dead">
-    <value>💀Dod</value>
+    <value>🪦Dod</value>
   </string>
   <string key="Alive">
-    <value>🙂 am Leba</value>
+    <value>☁ am Leba</value>
   </string>
   <!-- New strings 4 MAY 2016-->
   <string key="Mason">
@@ -962,7 +962,7 @@
     <value>Am Morga schdandad {0} ond {1} wüdend aufam Dorfplatz ond beschuldigad sich gegaseitig, der Mörder zom sae. Tja, {1} hot Rechd, aber des hilfd am ao nemme vill. Ma sieht no, wie {0}'s Messer 🔪 en dr Sonne aufblitzd, kurz drauf schdeckds scho em Herza von {1}.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>'S kompledde Dorf isch vrreckd... D' Leicha 💀 liegad überall rom. Des Schbiel gwinnt gar koener...</value>
+    <value>'S kompledde Dorf isch vrreckd... D' Leicha 🪦 liegad überall rom. Des Schbiel gwinnt gar koener...</value>
   </string>
   <string key="SKHunterEnd">
     <!-- 0 - SK's name -->
@@ -1687,7 +1687,7 @@
   </string>
 
   <string key="RoleInfoLycan">
-    <value>Du bisch dr Lykan 🐺🌝!  Du bisch an Wolf, abr du brengsch da Seher durchanand so dass der denkt du wärsch an normaler Dorfbewohner 🙂</value>
+    <value>Du bisch dr Lykan 🐺🌝!  Du bisch an Wolf, abr du brengsch da Seher durchanand so dass der denkt du wärsch an normaler Dorfbewohner ☁</value>
   </string>
   <string key="Lycan">
     <value>dr Lykan 🐺🌝</value>

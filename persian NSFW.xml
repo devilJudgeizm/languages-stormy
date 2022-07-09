@@ -405,10 +405,10 @@
     <value>در رفت</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

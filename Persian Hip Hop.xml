@@ -495,10 +495,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 کنار رفته </value>
+    <value>🪦 کنار رفته </value>
   </string>
   <string key="Alive">
-    <value>🙂فعال </value>
+    <value>☁فعال </value>
   </string>
   <string key="PlayersAlive">
     <value>هنرمندای فعال </value>

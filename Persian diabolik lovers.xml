@@ -192,7 +192,7 @@
     <value >تو بتریکس هستی. هر شب میتونی هویت یکی رو فاش بکنی. </value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو  یویی هستی یک دختر ساده و دوست داشتنی 🙂</value>
+    <value >تو  یویی هستی یک دختر ساده و دوست داشتنی ☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو کارلی! تنها هدفت توی زندگی اینه که باقی افراد اعدامت کنند و برنده بشی.</value>
@@ -486,10 +486,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

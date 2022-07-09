@@ -406,10 +406,10 @@
 		<value>Fugiu</value>
 	</string>
 	<string key="Dead">
-		<value>💀 Morreu</value>
+		<value>🪦 Morreu</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Sobrevivente</value>
+		<value>☁ Sobrevivente</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Jogadores vivos:</value>

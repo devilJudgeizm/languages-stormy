@@ -500,10 +500,10 @@
     <value>도망침</value>
   </string>
   <string key="Dead">
-    <value>💀 사망</value>
+    <value>🪦 사망</value>
   </string>
   <string key="Alive">
-    <value>🙂 생존</value>
+    <value>☁ 생존</value>
   </string>
   <string key="PlayersAlive">
   <!-- New strings 4 MAY 2016-->

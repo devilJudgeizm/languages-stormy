@@ -436,10 +436,10 @@
 		<value>🚀 移左民</value>
 	</string>
 	<string key="Dead">
-		<value>💀 歹匕LA左</value>
+		<value>🪦 歹匕LA左</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 生存梗</value>
+		<value>☁ 生存梗</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>生還者 </value>
@@ -491,7 +491,7 @@
 		<value>管理員話︰矛人可以出村．.*]]</value>
 	</string>
 	<string key="IsDead"> <!-- used when gunner shoots a player -->
-		<value>歹匕左 T_T 💀</value>
+		<value>歹匕左 T_T 🪦</value>
 	</string>
 
 	<!-- MORE STRINGS May 16, 2016 -->
@@ -1549,7 +1549,7 @@
 	<string key="HunterKilledWiseElder">
 		<!-- {0} - Hunter's Name -->
 		<!-- {1} - Wise Elder's Name -->
-		<value>臨死ge獵人【{0}】一槍轟落【{1}】度，以為佢系狼，點知錯手殺左長老！無盡ge後悔，佔據佢人生最後幾秒ge腦海，傷心到連自己系冰個都唔記得，好似一個廢村咁死去。\n【👱 村民】已死 💀。</value>
+		<value>臨死ge獵人【{0}】一槍轟落【{1}】度，以為佢系狼，點知錯手殺左長老！無盡ge後悔，佔據佢人生最後幾秒ge腦海，傷心到連自己系冰個都唔記得，好似一個廢村咁死去。\n【👱 村民】已死 🪦。</value>
 	</string>
 	<string key="GunnerShotWiseElder">
 		<!-- {0} - Gunner's Name -->

@@ -392,10 +392,10 @@
     <value>走左</value>
   </string>
   <string key="Dead">
-    <value>💀死亡</value>
+    <value>🪦死亡</value>
   </string>
   <string key="Alive">
-    <value>🙂生存</value>
+    <value>☁生存</value>
   </string>
   <string key="PlayersAlive">
     <value>生還者</value>

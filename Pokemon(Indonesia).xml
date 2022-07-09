@@ -500,10 +500,10 @@
     <value>Kabur</value>
   </string>
   <string key="Dead">
-    <value>💀 Pingsan</value>
+    <value>🪦 Pingsan</value>
   </string>
   <string key="Alive">
-    <value>🙂 Masih hidup</value>
+    <value>☁ Masih hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Trainers yang masih hidup</value>

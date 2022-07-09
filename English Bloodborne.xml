@@ -588,14 +588,14 @@
         <value>had his/her soul eaten.</value>
     </string>
     <string key="Dead">
-        <value>💀 Dead</value>
-		<value>💀 Dead (how I wanted to be)</value>
-		<value>💀 ded</value>
+        <value>🪦 Dead</value>
+		<value>🪦 Dead (how I wanted to be)</value>
+		<value>🪦 ded</value>
     </string>
     <string key="Alive">
-        <value>🙂 Alive</value>
-		<value>🙂 Alive and well</value>
-		<value>- Still breathing 🙂</value>
+        <value>☁ Alive</value>
+		<value>☁ Alive and well</value>
+		<value>- Still breathing ☁</value>
     </string>
     <string key="PlayersAlive">
         <value>Players Alive</value>

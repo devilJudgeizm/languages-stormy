@@ -317,7 +317,7 @@
     <value>Kate Stewart 🙋</value>
   </string>
   <string key="Drunk">
-    <value>Donna Nobble 🙂</value>
+    <value>Donna Nobble ☁</value>
   </string>
   <string key="Harlot">
     <value>Jack  💋</value>
@@ -368,10 +368,10 @@
     <value>🚶 Fugiu</value>
   </string>
   <string key="Dead">
-    <value>💀 Morreu</value>
+    <value>🪦 Morreu</value>
   </string>
   <string key="Alive">
-    <value>🙂 Sobrevivente:</value>
+    <value>☁ Sobrevivente:</value>
   </string>
   <string key="PlayersAlive">
     <value>Permanecem Vivos:</value>
@@ -931,7 +931,7 @@ Atual: {0}</value>
     <value>Brigadeiro 👤</value>
   </string>
   <string key="Sorcerer">
-    <value>Colônia Sarff 💀</value>
+    <value>Colônia Sarff 🪦</value>
   </string>
   <string key="ClumsyGuy">
     <value>Ood 🔮</value>

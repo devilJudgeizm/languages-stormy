@@ -419,10 +419,10 @@
 		<value>Fugiu do Digimundo</value>
 	</string>
 	<string key="Dead">
-		<value>💀 MORTO</value>
+		<value>🪦 MORTO</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 VIVO</value>
+		<value>☁ VIVO</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Digimons vivos</value>

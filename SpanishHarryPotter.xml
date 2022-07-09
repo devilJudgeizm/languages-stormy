@@ -281,9 +281,9 @@ Sin embargo, si intentas encantar a un Mortífago, o alguien que está siendo at
   </string><!-- These are for the player list --><string key="RanAway">
     <value>🏃</value>
   </string><string key="Dead">
-    <value>💀</value>
+    <value>🪦</value>
   </string><string key="Alive">
-    <value>🙂</value>
+    <value>☁</value>
   </string><string key="PlayersAlive">
     <value>Jugadores vivos</value>
   </string><!-- New strings 4 MAY 2016--><string key="Mason">

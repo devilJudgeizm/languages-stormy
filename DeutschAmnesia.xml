@@ -557,11 +557,11 @@
     <value>Vergessen</value>
   </string>
   <string key="Dead">
-    <value>💀 Tot</value>
-    <value>💀 Auf ewig vergessen</value>
+    <value>🪦 Tot</value>
+    <value>🪦 Auf ewig vergessen</value>
   </string>
   <string key="Alive">
-    <value>🙂 Lebendig</value>
+    <value>☁ Lebendig</value>
   </string>
   <string key="Mason">
     <value>ein Freimaurer 👷</value>
@@ -881,8 +881,8 @@
     <value>Als {1} sein Haus verlässt, fällt ihm plötzlich auf: Außer ihm ist nur noch {0} am Leben. Die Morde haben aber immer noch nicht aufgehört... {1} versteckt sich ängstlich unter dem Bett, doch es gibt kein Entkommen. Der Serienmörder 🔪 beendet das Leben des letzten Dorfbewohners.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>Jeder im Dorf starb... die toten Körper 💀  liegen überall herum. Niemand gewinnt die Runde...</value>
-    <value>Alles ist voller Leichen 💀 ... und niemand kann sie mehr wegräumen! Es gibt keinen Gewinner.</value>
+    <value>Jeder im Dorf starb... die toten Körper 🪦  liegen überall herum. Niemand gewinnt die Runde...</value>
+    <value>Alles ist voller Leichen 🪦 ... und niemand kann sie mehr wegräumen! Es gibt keinen Gewinner.</value>
   </string>
   <string key="SKHunterEnd">
     <value>Als die Sonne aufgeht, spazieren {0} und {1} in Richtung Dorf. Plötzlich nimmt {0} das Messer 🔪 heraus und springt auf {1}. Gerade als {0} das Messer tief in sein Herz rammt, greift {1} nach seinem Gewehr 🎯 und schießt {0} mit einem gezielten Schuss in den Kopf. Beide sind tot, und das Dorf hat jetzt keine Bewohner mehr. Es gibt keinen Gewinner...</value>

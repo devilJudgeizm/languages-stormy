@@ -255,7 +255,7 @@
   </string>
   <string key="DrunkEaten" >
     <!-- 0 - victim name -->
-    <value >Semua orang tersedar disebabkan bau ketum yang kuat...selepas membersihkan kawasan tersebut didapati {0} telah pengsan dengan kepingan daun ketum di mulut akibat dibuli💀...dasat giler ler...</value>
+    <value >Semua orang tersedar disebabkan bau ketum yang kuat...selepas membersihkan kawasan tersebut didapati {0} telah pengsan dengan kepingan daun ketum di mulut akibat dibuli🪦...dasat giler ler...</value>
   </string>
   <string key="FoolEaten" >
     <!-- 0 - victim name -->
@@ -264,7 +264,7 @@
   <string key="DefaultEaten" >
     <!-- 0 - victim name -->
     <!-- 1 - victim role -->
-    <value>Bila semua warga sekolah bangun pada waktu pagi, mereka dapati ada benda yang pelik berlaku. Mereka menyelidik dan mendapati {0}, {1} telah dibuli dengan teruk sekali sampai bengkak kepala💀</value>
+    <value>Bila semua warga sekolah bangun pada waktu pagi, mereka dapati ada benda yang pelik berlaku. Mereka menyelidik dan mendapati {0}, {1} telah dibuli dengan teruk sekali sampai bengkak kepala🪦</value>
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
@@ -358,10 +358,10 @@
     <value >Tiba-tiba, Budak Silat melompat dan memberikan satu jurus. Pihak sekolah melihat {0} berdiri ditengkuk {1}, dengan tangan masih dikepala. {2} adalah .....</value>
   </string>
   <string key="WolfWins" isgif="true" >
-    <value >Yeah!!🎉🎉🎉🎊/nPembuli menang💀🔐🐺🐶⚡️</value>
+    <value >Yeah!!🎉🎉🎉🎊/nPembuli menang🪦🔐🐺🐶⚡️</value>
   </string>
   <string key="WolvesWin" isgif="true" >
-    <value >Yeah!!🎉🎉🎉🎊/nPembuli menang💀🔐🐺🐶⚡️</value>
+    <value >Yeah!!🎉🎉🎉🎊/nPembuli menang🪦🔐🐺🐶⚡️</value>
   </string>
   <string key="VillageWins" isgif="true" >
     <value >Para Pelajar dan Warga Sekolah Budakgilerr menang✨📚🎉</value>
@@ -404,11 +404,11 @@
     <value>Kumpulan Kaki Ponteng menghantar ahli baru mereka {0} ke kelas {1} untuk mengajak ponteng kelas skali, malangnya kelas kosong sebab semua pelajar pergi rombongan sambil belajar. 🤦</value>
   </string>
   <string key="CultWins" isgif="true">
-    <value >Semua Pembuli, Virus dan warga sekolah telah dibuang, yang tinggal adalah murid yang suka ponteng sekolah. Kaki Ponteng menang! 👤👻💀🎉</value>
+    <value >Semua Pembuli, Virus dan warga sekolah telah dibuang, yang tinggal adalah murid yang suka ponteng sekolah. Kaki Ponteng menang! 👤👻🪦🎉</value>
   </string>
   <string key="HunterVisitDead">
     <!-- 0 - target name -->
-    <value>Anda mencari pelajar {0} yang dikatakan suka ponteng kelas tetapi dia telah dibuang sekolah!💀</value>
+    <value>Anda mencari pelajar {0} yang dikatakan suka ponteng kelas tetapi dia telah dibuang sekolah!🪦</value>
   </string>
   <string key="HunterFindCultist">
     <!-- 0 - target name -->
@@ -420,7 +420,7 @@
   </string>
   <string key="WildChildToWolves">
     <!-- 0 - Werechild's name -->
-    <value>Pelajar yang buat kerja sekolah {0} telah dibuang sekolah. Dalam ketidakpuasan hatinya, dia telah menyertai Geng Pembuli untuk membalas dendam💀</value>
+    <value>Pelajar yang buat kerja sekolah {0} telah dibuang sekolah. Dalam ketidakpuasan hatinya, dia telah menyertai Geng Pembuli untuk membalas dendam🪦</value>
   </string>
   <string key="WildChildTransform">
     <!-- 0 - role's name -->
@@ -485,10 +485,10 @@
     <value>Melarikan diri</value>
   </string>
   <string key="Dead">
-    <value>💀 Dibuang dari sekolah</value>
+    <value>🪦 Dibuang dari sekolah</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hadir
+    <value>☁ Hadir
       </value>
   </string>
   <string key="PlayersAlive">
@@ -689,7 +689,7 @@
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>Penculikan anda gagal pada malam ini! Pelajar yang bernama {0} sedang diawasi oleh Pengawal Keselamatan Sekolah yang amat digeruni oleh para pelajar dan semua warga sekolah💀 Anda terpaksa membatalkan hasrat anda untuk menculik hari ini :')</value>
+    <value>Penculikan anda gagal pada malam ini! Pelajar yang bernama {0} sedang diawasi oleh Pengawal Keselamatan Sekolah yang amat digeruni oleh para pelajar dan semua warga sekolah🪦 Anda terpaksa membatalkan hasrat anda untuk menculik hari ini :')</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
@@ -703,7 +703,7 @@
     <value>Apabila {0} masuk ke kelas dengan serta merta telah diserkup dengan guni lalu {1} menculik {0} dan membawa lari keluar dari sekolah!! {0} telah diculik.</value>
   </string>
   <string key="GuardKiller">
-    <value>Malang🤢 anda hendak menjaga penculik? Seriously?!! Anda telah diculik bersama kunci sekolah di tangan. Anda tahu siapa dia sebenarnya tapi perlahan-lahan anda tidak sedarkan diri kerana kesan ubat tidur yang dimasukkan ke dalam badan anda💀🌝</value>
+    <value>Malang🤢 anda hendak menjaga penculik? Seriously?!! Anda telah diculik bersama kunci sekolah di tangan. Anda tahu siapa dia sebenarnya tapi perlahan-lahan anda tidak sedarkan diri kerana kesan ubat tidur yang dimasukkan ke dalam badan anda🪦🌝</value>
   </string>
   <string key="HarlotFuckKiller">
     <!-- 0 - target's name -->
@@ -714,7 +714,7 @@
   </string>
   <string key="DGToMason">
     <!-- 0 - target's name -->
-    <value>{0} si Peniru telah menjadi Ahli Jawatan Kuasa, menjawat jawatan yang sama seperti anda🙂</value>
+    <value>{0} si Peniru telah menjadi Ahli Jawatan Kuasa, menjawat jawatan yang sama seperti anda☁</value>
   </string>
   <string key="DGTransformToMason">
     <!-- 0 - dead mason's name -->
@@ -732,7 +732,7 @@
   </string>
   <string key="DGToWolf">
     <!-- 0 - DG's name -->
-    <value>{0} si Peniru telah menjadi ahli kumpulan Pembuli, satu geng dengan anda!💀</value>
+    <value>{0} si Peniru telah menjadi ahli kumpulan Pembuli, satu geng dengan anda!🪦</value>
   </string>
   <string key="DGTransformToWolf">
     <!-- 0 - target's name -->
@@ -740,7 +740,7 @@
     <value>{0} adalah Idola anda dan telah dibuang sekolah. Sekarang anda telah menjadi Pembuli. Rakan-rakan anda : {1}</value>
   </string>
   <string key="SerialKillerWins" isgif="true">
-    <value>Satu-satunya orang yang masih kekal di sekolah adalah Penculik! Penculik menang🌝💀</value>
+    <value>Satu-satunya orang yang masih kekal di sekolah adalah Penculik! Penculik menang🌝🪦</value>
   </string>
   <string key="AskKill">
     <value>Siapakah pelajar yang akan anda culik malam ini😈?</value>
@@ -782,7 +782,7 @@
   <string key="HunterKilledVisiter">
     <!-- 0 - target's name -->
     <!-- 1 - role -->
-    <value>Kelibat {0} telah hilang dari pandangan usai sahaja waktu rehat telah tamat, nota daripada penculik telah ditinggalkan di atas meja cikgu tersebut. “Merotan aku nampaknya bukan idea yang bijak”💀 *evil laugh! {1}</value>
+    <value>Kelibat {0} telah hilang dari pandangan usai sahaja waktu rehat telah tamat, nota daripada penculik telah ditinggalkan di atas meja cikgu tersebut. “Merotan aku nampaknya bukan idea yang bijak”🪦 *evil laugh! {1}</value>
   </string>
   <string key="CultAttempt">
     <value>Kaki Ponteng sekolah cuba untuk mengajak anda menyertai mereka, namun minat anda untuk belajar terlalu kuat, dan anda tidak berminat untuk ponteng sekolah.😊</value>
@@ -805,7 +805,7 @@
     <value>Menjelang pagi dan hanya tinggal dua pelajar sahaja yang berjalan keluar dari sekolah. Namun salah seorang pelajar adalah Penculik {0} lalu memekup mulut {1} dengan kain sehingga pengsan dan membawa {1} lari keluar dari sekolah.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>Semua murid dan pihak sekolah telah dibuang serta diberhentikan serta merta. Tiada siapa yang tinggal💀, sekolah kosong dan ditutup🦉</value>
+    <value>Semua murid dan pihak sekolah telah dibuang serta diberhentikan serta merta. Tiada siapa yang tinggal🪦, sekolah kosong dan ditutup🦉</value>
   </string>
   <string key="SKHunterEnd">
     <!-- 0 - SK's name -->
@@ -1275,7 +1275,7 @@
   
   <!--New Death Strings 05 DEC-->
   <string key="ApprenticeSeerEaten">
-    <value>Nampaknya Pembuli tidak berpuas hati dengan {0}. Kesian🤢, Hasrat Timbalan Pengerusi tersebut untuk menjadi Pengerusi Sekolah  tahun hadapan tidak kesampaian. {0} memutuskan untuk berhenti sekolah akibat tidak tahan menjadi mangsa buli💀 Timbalan Pengerusi🙇 telah berhenti</value>
+    <value>Nampaknya Pembuli tidak berpuas hati dengan {0}. Kesian🤢, Hasrat Timbalan Pengerusi tersebut untuk menjadi Pengerusi Sekolah  tahun hadapan tidak kesampaian. {0} memutuskan untuk berhenti sekolah akibat tidak tahan menjadi mangsa buli🪦 Timbalan Pengerusi🙇 telah berhenti</value>
   </string>
   <string key="BlacksmithKilled">
     <value>Nampaknya seperti {0} selaku Penolong Ketua Kelas tidak bernasib baik apabila dia telah diserang hendap oleh Penculik dan {0} telah dimasukan ke dalam guni dan menghilangkan diri malam tadi.</value>
@@ -1296,14 +1296,14 @@
     <value>{0} si Budak Silat🔫 telah hilang semasa dia sedang berlatih petang semalam! Satu pergaduhan besar berlaku malam tadi. Nampaknya penculik bergiat aktif pada waktu malam🔪</value>
   </string>
   <string key="MayorKilled">
-    <value>Penculikan berlaku lagi! {0} Ketua Kelas🎖 telah hilang dan tidak dapat ditemui, hanya nota yang ditinggalkan diatas meja kelas miliknya “Berikan aku duit sebagai tebusan budak ini!” Jelas sekali semua ni kerja orang dalam Sekolah 💀👻</value>
+    <value>Penculikan berlaku lagi! {0} Ketua Kelas🎖 telah hilang dan tidak dapat ditemui, hanya nota yang ditinggalkan diatas meja kelas miliknya “Berikan aku duit sebagai tebusan budak ini!” Jelas sekali semua ni kerja orang dalam Sekolah 🪦👻</value>
   </string>
   <string key="PrinceKilled">
-    <value>Penculik telah mengetahui siapa Pengetua👑 Sekolah  yang sebenarnya! {0} tidak hadir ke sekolah hari ini kerana dilaporkan hilang sejak petang semalam💀</value>
+    <value>Penculik telah mengetahui siapa Pengetua👑 Sekolah  yang sebenarnya! {0} tidak hadir ke sekolah hari ini kerana dilaporkan hilang sejak petang semalam🪦</value>
     <value>Bunyi alarm di kawasan rumah {0}, pengetua Sekolah  telah mengejutkan semua orang terutama pelajar yang tinggal berdekatan dengan rumah beliau. Kes kehilangan Pengetua👑 sekolah ini menjadi gosip liar dalam kalangan para pelajar pagi ini!</value>
   </string>
   <string key="SeerKilled">
-    <value>Gemparrrr! Pengerusi👳‍♀ Sekolah  telah hilang pada pagi ini berikutan desas desus mengatakan bahawa pengerusi telah diculik oleh orang dalam sekolah ini! Siapakah dia {0}💀🌚</value>
+    <value>Gemparrrr! Pengerusi👳‍♀ Sekolah  telah hilang pada pagi ini berikutan desas desus mengatakan bahawa pengerusi telah diculik oleh orang dalam sekolah ini! Siapakah dia {0}🪦🌚</value>
   </string>
   <string key="SorcererEaten">
     <value>Bunyi riuh di dalam kelas  pembuli sedang asyik membuli SPY🔮 mereka dengan membaling meja dan kerusi ke arahnya. {0} lari keluar daripada kawasan sekolah tanpa kebenaran guru lalu dia dibuang daripada sekolah dengan serta merta🤢</value>
@@ -1313,22 +1313,22 @@
     <value>Bunyi sorakan begitu kuat malam tadi, Pembuli menyerang seorang Budak Nakal👶, {0} sehingga cedera dengan teruk sekali! Pihak sekolah tertanya-tanya adakah Pembuli tidak ada rasa simpati sedikit pun membuli sampai teruk begini.</value>
   </string>
   <string key="SerialKillerKilledCH"> <!--used when CH visits SK-->
-    <value>Kelibat {0} Cikgu Disiplin, telah hilang dari pandangan usai sahaja waktu rehat telah tamat. Nampaknya {0} mengesyaki seseorang adalah Kaki Ponteng pagi tadi lalu mengekorinya untuk merotan pelajar tersebut, tetapi secara tiba-tiba Guru Disiplin💂‍♀ itu hilang! Tips ; “Jangan cuba merotan Penculik💀” *gelak jahat</value>
-    <value>Rotan milik {0} yang patah dijumpai di dalam bilik muzik Sekolah ! Guru Disiplin yang garang itu telah hilang💀 nampaknya {0} tersilap langkah! merotan penculik adalah bukan satu idea yang bijak🤢</value>
+    <value>Kelibat {0} Cikgu Disiplin, telah hilang dari pandangan usai sahaja waktu rehat telah tamat. Nampaknya {0} mengesyaki seseorang adalah Kaki Ponteng pagi tadi lalu mengekorinya untuk merotan pelajar tersebut, tetapi secara tiba-tiba Guru Disiplin💂‍♀ itu hilang! Tips ; “Jangan cuba merotan Penculik🪦” *gelak jahat</value>
+    <value>Rotan milik {0} yang patah dijumpai di dalam bilik muzik Sekolah ! Guru Disiplin yang garang itu telah hilang🪦 nampaknya {0} tersilap langkah! merotan penculik adalah bukan satu idea yang bijak🤢</value>
   </string>
   <string key="CultConvertWolfPublic"> <!--used when Cultists convert the wolves, only if wolves stayed home-->
     <value>Apabila semua kembali ke kelas masing-masing, Pembuli pun seakan-akan malas untuk membuli, tiba-tiba {0} salah seorang dari Kaki Ponteng cuba untuk mengajak si Pembuli untuk ponteng sekolah sekali namun {0} telah dibuli balik dengan teruk sehingga masuk ICU...silap la kacau orang yang tengah tiada mood!</value>
     <value>Kaki ponteng sekolah menghadapi masalah besar apabila mereka cuba untuk mengajak si Pembuli untuk join mereka tetapi {0} telah dibuli. Malang bagi {0}, Pembuli memang tidak sama sekali minat untuk join pakatan mereka.</value>
   </string>
   <string key="CultConvertKillerPublic"> <!--used when Cultists convert the SK-->
-    <value>{0} dilaporkan hilang hari ini! Penculik mula menculik pelajar yang suka ponteng kelas💀 {0} adalah Kaki Ponteng👤</value>
-    <value>Geng Kaki ponteng kelas cikgu MiaRose cuba untuk menambah ahli, tapi mereka silap! {0} Kaki Ponteng telah diculik semalam! Nota kecil ditinggalkan khas untuk Geng mereka “Kalau taknak kena culik sila berhenti daripada ponteng kelas!”💀</value>
+    <value>{0} dilaporkan hilang hari ini! Penculik mula menculik pelajar yang suka ponteng kelas🪦 {0} adalah Kaki Ponteng👤</value>
+    <value>Geng Kaki ponteng kelas cikgu MiaRose cuba untuk menambah ahli, tapi mereka silap! {0} Kaki Ponteng telah diculik semalam! Nota kecil ditinggalkan khas untuk Geng mereka “Kalau taknak kena culik sila berhenti daripada ponteng kelas!”🪦</value>
   </string>
   <string key="GAGuardedKiller"> <!-- used when GA guards SK -->
-    <value>{0} sepatutnya dapat menjalankan tanggungjawabnya untuk menjaga pelajar yang dalam dalam bahaya malam tadi. Tetapi {0} telah diculik oleh seseorang yang sangat dikenalinya dalam sekolah tersebut! Penculik telah meninggalkan nota di papan kenyataan sekolah  iaitu “Aku tak perlukan Security💀”</value>
+    <value>{0} sepatutnya dapat menjalankan tanggungjawabnya untuk menjaga pelajar yang dalam dalam bahaya malam tadi. Tetapi {0} telah diculik oleh seseorang yang sangat dikenalinya dalam sekolah tersebut! Penculik telah meninggalkan nota di papan kenyataan sekolah  iaitu “Aku tak perlukan Security🪦”</value>
   </string>
   <string key="GAGuardedWolf"> <!-- used when GA guards a wolf -->
-    <value>{0} cuba menjaga Pembuli semalam💀 Sekolah  menjadi riuh rendah kerana Pengawal Keselamatan Sekolah mereka yang sado dibuli budak belasan tahun?😂 Nampaknya pembuli tidak perlukan Pengawal Keselamatan untuk menjaga mereka👻</value>
+    <value>{0} cuba menjaga Pembuli semalam🪦 Sekolah  menjadi riuh rendah kerana Pengawal Keselamatan Sekolah mereka yang sado dibuli budak belasan tahun?😂 Nampaknya pembuli tidak perlukan Pengawal Keselamatan untuk menjaga mereka👻</value>
   </string>
 
   <!--1vs1 finales-->
@@ -1343,7 +1343,7 @@
   </string>
   <string key="CHKillsCultistEnd">
     <!--{0} = last cultist's name, {1} = CH's name -->
-    <value>{1) dan {0} sedang sibuk dengan hari kokurikulum yang diadakan di sekolah Budakgiler. {0} mula berasa bosan lalu pergi ke belakang sekolah untuk ponteng! Tiba-tiba rakan sekelasnya ternampak {0} sedang panjat pagar belakang sekolah, lalu pelajar tersebut mengadu hal tersebut kepada Cikgu Disiplin untuk mengejar pelajar yang hendak ponteng tersebut. {1} bergegas ke arah tempat itu lalu cepat-cepat merotannya! {0} gagal untuk ponteng sekolah💀</value>
+    <value>{1) dan {0} sedang sibuk dengan hari kokurikulum yang diadakan di sekolah Budakgiler. {0} mula berasa bosan lalu pergi ke belakang sekolah untuk ponteng! Tiba-tiba rakan sekelasnya ternampak {0} sedang panjat pagar belakang sekolah, lalu pelajar tersebut mengadu hal tersebut kepada Cikgu Disiplin untuk mengejar pelajar yang hendak ponteng tersebut. {1} bergegas ke arah tempat itu lalu cepat-cepat merotannya! {0} gagal untuk ponteng sekolah🪦</value>
   </string>
   
   <!-- Extend time -->

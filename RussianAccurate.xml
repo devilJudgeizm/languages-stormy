@@ -499,10 +499,10 @@
     <value>🏃 оставляет нас без себя!</value>
   </string>
   <string key="Dead">
-    <value>💀 Мёртв</value>
+    <value>🪦 Мёртв</value>
   </string>
   <string key="Alive">
-    <value>🙂 Жив</value>
+    <value>☁ Жив</value>
   </string>
   <string key="Mason">
     <value>Каменщик 👷</value>

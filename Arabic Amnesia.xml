@@ -410,10 +410,10 @@
     <value>هرب</value>
   </string>
   <string key="Dead">
-    <value>💀 ميت</value>
+    <value>🪦 ميت</value>
   </string>
   <string key="Alive">
-    <value>🙂 حي</value>
+    <value>☁ حي</value>
   </string>
   <string key="PlayersAlive">
     <value>فاقدي الذاكرة الأحياء</value>

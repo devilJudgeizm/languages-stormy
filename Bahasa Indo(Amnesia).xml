@@ -537,10 +537,10 @@
 		<value>Kabur</value>
 	</string>
 	<string key="Dead">
-		<value>💀 Tewas</value>
+		<value>🪦 Tewas</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Masih Hidup</value>
+		<value>☁ Masih Hidup</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Pemain yang masih bertahan</value>

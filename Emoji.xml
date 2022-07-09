@@ -25,7 +25,7 @@
     <value>{0} ⏱ join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>🙂❌❗️🎮❌❗️</value>
+    <value>☁❌❗️🎮❌❗️</value>
   </string>
   <string key="StartingGameWait">
     <value>🎮▶️❗️</value>
@@ -46,7 +46,7 @@
     <value>{0} click this: {1}, then click start.  Until you do, I cannot tell you what your role is.</value>
   </string>
   <string key="DeadFlee">
-    <value>👇❌🏃❗️👇💀❗️</value>
+    <value>👇❌🏃❗️👇🪦❗️</value>
   </string>
   <string key="Flee">
     <value>{0} 🏃❗️</value>
@@ -76,10 +76,10 @@
     <value>{0} 🖐✊ {1}</value>
   </string>
   <string key="IdleKill">
-    <value>{0} 🖐❌ 2️⃣🌙‼️ 👿❗️ {0} 💀❗️ {1}</value>
+    <value>{0} 🖐❌ 2️⃣🌙‼️ 👿❗️ {0} 🪦❗️ {1}</value>
   </string>
   <string key="TraitorTurnWolf">
-    <value>🐺🐺🐺💀❗️👇➡️🐺❗️</value>
+    <value>🐺🐺🐺🪦❗️👇➡️🐺❗️</value>
   </string>
   <string key="ChoiceAccepted">
     <value>👍</value>
@@ -88,10 +88,10 @@
     <value>\n👳 {0}❗️</value>
   </string>
   <string key="ApprenticeNowSeer">
-    <value>{0} 👳💀❗️👇➡️👳❗️</value>
+    <value>{0} 👳🪦❗️👇➡️👳❗️</value>
   </string>
   <string key="BeholderNewSeer">
-    <value>{1} 👳💀❗️ {0} 🙇➡️👳❗️</value>
+    <value>{1} 👳🪦❗️ {0} 🙇➡️👳❗️</value>
   </string>
   <string key="SeerSees">
     <value>👀 {0} ➡️ {1}❗️</value>
@@ -144,16 +144,16 @@
     <value>👇🍺❗️🐺🍝👇➡️🐺💤</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>👇👼❗️🌙👇🛡😀❗️▪️👇🛡🐺 5️⃣0️⃣🍀👇💀</value>
+    <value>👇👼❗️🌙👇🛡😀❗️▪️👇🛡🐺 5️⃣0️⃣🍀👇🪦</value>
   </string>
   <string key="RoleInfoGunner">
     <value>👇🔫❗️2️⃣🔫❗️☀️😀🔫❗️🔫👪👪👂❗️</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>👇💋❗️🌙👇👉🏠❗️🏠🐺➡️👇💀❗️</value>
+    <value>👇💋❗️🌙👇👉🏠❗️🏠🐺➡️👇🪦❗️</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>👇🖕❗️👱▪️🐺💀➡️👇🐺❗️👳👇5️⃣0️⃣🍀🐺5️⃣0️⃣🍀👱</value>
+    <value>👇🖕❗️👱▪️🐺🪦➡️👇🐺❗️👳👇5️⃣0️⃣🍀🐺5️⃣0️⃣🍀👱</value>
   </string>
   <string key="RoleInfoWolf">
     <value>👇🐺❗️🌙🍝😀❗️</value>
@@ -168,19 +168,19 @@
     <value>👇👺❗️👊👇➡️👇🏆❗️</value>
   </string>
   <string key="RoleInfoWildChild">
-    <value>👇👶❗️👨💀➡️👇🐺</value>
+    <value>👇👶❗️👨🪦➡️👇🐺</value>
   </string>
   <string key="RoleInfoBeholder">
     <value>👇👁❗️👇👁👳❗️</value>
   </string>
   <string key="RoleInfoApprenticeSeer">
-    <value>👇🙇❗️👳💀➡️👇👳❗️</value>
+    <value>👇🙇❗️👳🪦➡️👇👳❗️</value>
   </string>
   <string key="RoleInfoCultist">
     <value>👇👤❗️🌙💱👤❗️👥👥👥➡️👤👤👤 👇🏆❗️</value>
   </string>
   <string key="RoleInfoCultistHunter">
-    <value>👇💂❗️🌙👇👉🏠❗️🏠👤➡️👤💀❗️</value>
+    <value>👇💂❗️🌙👇👉🏠❗️🏠👤➡️👤🪦❗️</value>
   </string>
   <string key="LynchTime">
     <value>
@@ -195,7 +195,7 @@
     <value>🌃❗️👪😴❗️👪😀 {0} ⏱👉❗️</value>
   </string>
   <string key="LynchKill">
-    <value>🖐🖐🖐❗️✊✊✊ {0} ➡️ 💀❗️ {1}</value>
+    <value>🖐🖐🖐❗️✊✊✊ {0} ➡️ 🪦❗️ {1}</value>
   </string>
   <string key="LynchTie">
     <value>🤔✊✖️❗️</value>
@@ -204,28 +204,28 @@
     <value>✊❌❗️</value>
   </string>
   <string key="DetectiveEaten">
-    <value>🐺🍝 {0}❗️ 🕵💀❗️</value>
+    <value>🐺🍝 {0}❗️ 🕵🪦❗️</value>
   </string>
   <string key="GuardianEaten">
-    <value>🐺🍝 {0}❗️ 👼💀❗️</value>
+    <value>🐺🍝 {0}❗️ 👼🪦❗️</value>
   </string>
   <string key="GunnerEaten">
-    <value>🐺🍝 {0}❗️ 🔫💀❗️</value>
+    <value>🐺🍝 {0}❗️ 🔫🪦❗️</value>
   </string>
   <string key="SeerEaten">
-    <value>🐺🍝 {0}❗️ 👳💀❗️</value>
+    <value>🐺🍝 {0}❗️ 👳🪦❗️</value>
   </string>
   <string key="DrunkEaten">
-    <value>🐺🍝 {0}❗️ 🍺💀❗️</value>
+    <value>🐺🍝 {0}❗️ 🍺🪦❗️</value>
   </string>
   <string key="FoolEaten">
-    <value>🐺🍝 {0}❗️ 🃏💀❗️</value>
+    <value>🐺🍝 {0}❗️ 🃏🪦❗️</value>
   </string>
   <string key="DefaultEaten">
     <value>🐺🍝 {0}❗️ {1}</value>
   </string>
   <string key="HunterKilledCultist">
-    <value>💂🗡 {0}❗️ 👤💀❗️</value>
+    <value>💂🗡 {0}❗️ 👤🪦❗️</value>
   </string>
   <string key="NoAttack">
     <value>🏙🕊❗️</value>
@@ -240,13 +240,13 @@
     <value>{0} 🍝❕ 😾🔜🐺❗️</value>
   </string>
   <string key="WolvesEatYou">
-    <value>🐺🍝👇❗️💀</value>
+    <value>🐺🍝👇❗️🪦</value>
   </string>
   <string key="WolvesEatDrunk">
     <value>{0} 🍺❗️🐺💤💤💤 </value>
   </string>
   <string key="GuardWolf">
-    <value>👇🛡🐺❗️🐺🍝👇❗️💀</value>
+    <value>👇🛡🐺❗️🐺🍝👇❗️🪦</value>
   </string>
   <string key="GuardSaved">
     <value>👇🛡 {0}❗️</value>
@@ -267,13 +267,13 @@
     <value>{0} ❌🏚❗️🍝❌❗️</value>
   </string>
   <string key="HarlotFuckWolf">
-    <value>👇👉🏠🐺❗️ {0} 🐺❗️👇💀❗️</value>
+    <value>👇👉🏠🐺❗️ {0} 🐺❗️👇🪦❗️</value>
   </string>
   <string key="HarlotFuckedWolfPublic">
     <value>{0} 👉💋🏠🐺❗️</value>
   </string>
   <string key="HarlotFuckedVictimPublic">
-    <value>{0} 👉💋🏠 {1}❗️🐺👉🏠❗️ {0} 💀</value>
+    <value>{0} 👉💋🏠 {1}❗️🐺👉🏠❗️ {0} 🪦</value>
   </string>
   <string key="HarlotVisitNonWolf">
     <value>{0} 🐺❌❗️💋❗️</value>
@@ -288,7 +288,7 @@
     <value>🔎 {0} ➡️ {1}</value>
   </string>
   <string key="HarlotShot">
-    <value>{0} 🔫💋❗️ {1} 💀❗️</value>
+    <value>{0} 🔫💋❗️ {1} 🪦❗️</value>
   </string>
   <string key="DefaultShot">
     <value>{0} 👉 {1} 🔫❗️ {2}</value>
@@ -300,7 +300,7 @@
     <value>🐺🐺🐺🏆❗️</value>
   </string>
   <string key="VillageWins">
-    <value>👱👩👱👩🏆❗️🐺💀❗️</value>
+    <value>👱👩👱👩🏆❗️🐺🪦❗️</value>
   </string>
   <string key="TannerWins">
     <value>👊👺❗️👺🏆❗️</value>
@@ -312,7 +312,7 @@
     <value>{0} 🖐💱 {1}</value>
   </string>
   <string key="CultConvertCultHunter">
-    <value>{0} 💱 {1} 💂❗️ {0} 💀❗️</value>
+    <value>{0} 💱 {1} 💂❗️ {0} 🪦❗️</value>
   </string>
   <string key="CultHunterKilledCultVisit">
     <value>{0} 👉💱👇➡️👇🗡👤❗️ {1} 👤👤👤❗️</value>
@@ -330,7 +330,7 @@
     <value>{0} 👉💱 {1} 🏚❗️❌💱❗️</value>
   </string>
   <string key="CultWins">
-    <value>🐺💀 👪👪👪➡️👤👤👤❗️👤🏆❗️</value>
+    <value>🐺🪦 👪👪👪➡️👤👤👤❗️👤🏆❗️</value>
   </string>
   <string key="HunterVisitDead">
     <value>👇👉 {0} 🏚☠❗️</value>
@@ -342,11 +342,11 @@
     <value>👇👉 {0} 🏠▪️🕊❗️</value>
   </string>
   <string key="WildChildToWolves">
-    <value>👨💀❗️ {0} 👶➡️🐺❗️</value>
+    <value>👨🪦❗️ {0} 👶➡️🐺❗️</value>
   </string>
   <string key="WildChildTransform">
 <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
-    <value>{0} 💀❗️👇➡️🐺❗️ 🐺🐺🐺 {1}</value>
+    <value>{0} 🪦❗️👇➡️🐺❗️ 🐺🐺🐺 {1}</value>
   </string>
   <string key="Villager">
     <value>👱</value>
@@ -404,14 +404,14 @@
     <value>🏃</value>
   </string>
   <string key="Dead">
-    <value>💀</value>
+    <value>🪦</value>
   </string>
   <string key="Alive">
-    <value>🙂</value>
+    <value>☁</value>
   </string>
   <string key="PlayersAlive">
 <!-- New strings 4 MAY 2016-->
-    <value>👪🙂</value>
+    <value>👪☁</value>
   </string>
   <string key="Mason">
     <value>👷</value>
@@ -420,7 +420,7 @@
     <value>👇👷❗️👷👷👷👇🤔❗️</value>
   </string>
   <string key="MasonEaten">
-    <value>🐺🍝 {0}❗️ 👷💀❗️</value>
+    <value>🐺🍝 {0}❗️ 👷🪦❗️</value>
   </string>
   <string key="MasonTeam">
 <!-- new strings May 6 2016-->
@@ -448,7 +448,7 @@
     <value>➡️</value>
   </string>
   <string key="GenericDeathNoReveal">
-    <value>{0} 💀❗️</value>
+    <value>{0} 🪦❗️</value>
   </string>
   <string key="MasonConverted">
 <!-- new string May 16 2016-->
@@ -460,7 +460,7 @@
   <string key="IsDead">
 <!-- used when gunner shoots a player -->
 <!-- MORE STRINGS May 16, 2016 -->
-    <value>💀</value>
+    <value>🪦</value>
   </string>
   <string key="AdminAdded">
     <value>{0} 🔨❗️ /config ⚙❗️</value>
@@ -518,20 +518,20 @@
     <value>⌛️⏰❗️</value>
   </string>
   <string key="RoleInfoCupid">
-    <value>👇🏹❗️😀💘😀❗️😀💀➡️💀💀❗️</value>
+    <value>👇🏹❗️😀💘😀❗️😀🪦➡️🪦🪦❗️</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>👇🎭❗️🎭😀❗️🎭💀➡️😀💀❗️</value>
+    <value>👇🎭❗️🎭😀❗️🎭🪦➡️😀🪦❗️</value>
   </string>
   <string key="RoleInfoHunter">
-    <value>👇🎯❗️👇💀➡️🎯😀❗️👇🐺➡️🍀🐺🎯❗️</value>
+    <value>👇🎯❗️👇🪦➡️🎯😀❗️👇🐺➡️🍀🐺🎯❗️</value>
   </string>
   <string key="RoleInfoSerialKiller">
     <value>👇🔪❗️🌙😀🔪❗️</value>
   </string>
   <string key="CupidChosen">
-    <value>💘❗️👇❤️ {0}❗️😀💀➡️💀💀❗️</value>
-    <value>💘❗️👇❤️ {0}❗️😀💀➡️💀💀❗️ 😀😀➡️🏆❗️</value>
+    <value>💘❗️👇❤️ {0}❗️😀🪦➡️🪦🪦❗️</value>
+    <value>💘❗️👇❤️ {0}❗️😀🪦➡️🪦🪦❗️ 😀😀➡️🏆❗️</value>
   </string>
   <string key="HunterLynchedChoice">
     <value>👊👇❗️😀🎯❓</value>
@@ -543,10 +543,10 @@
     <value>{0} 🎯❌❗️</value>
   </string>
   <string key="HunterKilledFinalLynched">
-    <value>{0} 👊💀👉 {1} 🎯➡️💀❗️ {2}</value>
+    <value>{0} 👊🪦👉 {1} 🎯➡️🪦❗️ {2}</value>
   </string>
   <string key="HunterShotChoice">
-    <value>👇💀❗️😀🎯❓</value>
+    <value>👇🪦❗️😀🎯❓</value>
   </string>
   <string key="HunterNoChoiceShot">
     <value>{0} 🎯⌛️❌❗️</value>
@@ -555,55 +555,55 @@
     <value>{0} 🎯❌❗️</value>
   </string>
   <string key="HunterKilledFinalShot">
-    <value>{0} 💀👉 {1} 🎯➡️💀❗️ {2}</value>
+    <value>{0} 🪦👉 {1} 🎯➡️🪦❗️ {2}</value>
   </string>
   <string key="CultConvertSerialKiller">
-    <value>{0} 💱 {1} 🔪‼️ {0} 💀❗️</value>
+    <value>{0} 💱 {1} 🔪‼️ {0} 🪦❗️</value>
   </string>
   <string key="HunterShotWolfMulti">
-    <value>🐺🎯❗️🎯💀➡️🐺🎯❗️ {0} 💀❗️</value>
+    <value>🐺🎯❗️🎯🪦➡️🐺🎯❗️ {0} 🪦❗️</value>
   </string>
   <string key="HunterShotWolf">
-    <value>🐺🎯❗️ {0} 💀❗️</value>
+    <value>🐺🎯❗️ {0} 🪦❗️</value>
   </string>
   <string key="SerialKillerKilledWolf">
-    <value>🐺👉🔪❗️ {0} 💀❗️</value>
+    <value>🐺👉🔪❗️ {0} 🪦❗️</value>
   </string>
   <string key="DefaultKilled">
-    <value>🔪 {0} 💀❗️ {1}</value>
+    <value>🔪 {0} 🪦❗️ {1}</value>
   </string>
   <string key="GuardBlockedKiller">
     <value>{0} 🛡👼❗️</value>
   </string>
   <string key="CultConvertHunter">
-    <value>{0} 💱 {1} 🎯❗️ {0} 💀❗️</value>
+    <value>{0} 💱 {1} 🎯❗️ {0} 🪦❗️</value>
   </string>
   <string key="GuardKiller">
-    <value>👇🛡🔪❗️👇💀❗️</value>
+    <value>👇🛡🔪❗️👇🪦❗️</value>
   </string>
   <string key="HarlotFuckKiller">
-    <value>👇💋 {0} 🔪❗️ 👇💀❗️</value>
+    <value>👇💋 {0} 🔪❗️ 👇🪦❗️</value>
   </string>
   <string key="HarlotFuckKillerPublic">
-    <value>💋🚶👉🔪❕ {0}💀...</value>
+    <value>💋🚶👉🔪❕ {0}🪦...</value>
   </string>
   <string key="DGToMason">
     <value>🎭 {0} ➡️👷❗️</value>
   </string>
   <string key="DGTransformToMason">
-    <value>{0} 💀❗️ 👇➡️👷❗️ 👷👷👷 {1}</value>
+    <value>{0} 🪦❗️ 👇➡️👷❗️ 👷👷👷 {1}</value>
   </string>
   <string key="DGToCult">
     <value>🎭 {0} ➡️👤❗️</value>
   </string>
   <string key="DGTransformToCult">
-    <value>{0} 💀❗️ 👇➡️👤❗️ 👤👤👤 {1}</value>
+    <value>{0} 🪦❗️ 👇➡️👤❗️ 👤👤👤 {1}</value>
   </string>
   <string key="DGToWolf">
     <value>🎭 {0} ➡️🐺❗️</value>
   </string>
   <string key="DGTransformToWolf">
-    <value>{0} 💀❗️ 👇➡️🐺❗️ 🐺🐺🐺 {1}</value>
+    <value>{0} 🪦❗️ 👇➡️🐺❗️ 🐺🐺🐺 {1}</value>
   </string>
   <string key="SerialKillerWins">
     <value>🔪🏆❗️</value>
@@ -612,7 +612,7 @@
     <value>🔪😀❓</value>
   </string>
   <string key="LoverDied">
-    <value>{0} 💀➡️ {1} 💔💀❗️ {2}</value>
+    <value>{0} 🪦➡️ {1} 💔🪦❗️ {2}</value>
   </string>
   <string key="AskDoppelganger">
     <value>🎭😀❓</value>
@@ -642,7 +642,7 @@
     <value>❤️🏆❗️</value>
   </string>
   <string key="HunterKilledVisiter">
-    <value>{0} 👉🎯🏠 💀❗️ {1}</value>
+    <value>{0} 👉🎯🏠 🪦❗️ {1}</value>
   </string>
   <string key="CultAttempt">
     <value>👤💱👇❌❗️👇🙏💪❗️</value>
@@ -660,10 +660,10 @@
     <value>{0} 🔪  {1}❗️</value>
   </string>
   <string key="NoWinner">
-    <value>🏙🏚🏚🏚❗️💀💀💀❗️🏆❌❗️</value>
+    <value>🏙🏚🏚🏚❗️🪦🪦🪦❗️🏆❌❗️</value>
   </string>
   <string key="SKHunterEnd">
-    <value>{0} 🔪 {1}❗️ {1} 👉🎯  {0}❗️💀💀❗️🏆❌❗️</value>
+    <value>{0} 🔪 {1}❗️ {1} 👉🎯  {0}❗️🪦🪦❗️🏆❌❗️</value>
   </string>
   <string key="RoleModelChosen">
     <value>👇❌🔘❗️🤖🔘 {0}</value>
@@ -856,10 +856,10 @@
     <value>🚫🚫🚫</value>
   </string>
   <string key="ShowLiving">
-    <value>📖🙂</value>
+    <value>📖☁</value>
   </string>
   <string key="ShowAll">
-    <value>📖🙂➕💀</value>
+    <value>📖☁➕🪦</value>
   </string>
   <string key="Cancel">
     <value>⛔</value>
@@ -981,7 +981,7 @@
     <value>👇🐺⚡❕  👇👱➡🐺. 🌃, 🐺⚡🔜2⃣0⃣🍀 👉👱➡🐺</value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>👇🐶❕ 🐺🐺😍🐶. 🐺🐶🐺 ☠👱. 👇💀➡🐺🐺😬☠☠</value>
+    <value>👇🐶❕ 🐺🐺😍🐶. 🐺🐶🐺 ☠👱. 👇🪦➡🐺🐺😬☠☠</value>
   </string>
   <string key="PrinceLynched">
     <value>🙋🙋🙋✊?? {0}, {0} 💬⚠👆👑❕ ☠⛔❕ 👱❔❔👱😅🔜😴.</value>
@@ -1029,7 +1029,7 @@
     <value>🐺🐺➡{0}, {1} 💬⚠⛔, {1}👈🐺⚡. {1} 💬🐺🐺 {0} 🚶🔜🐺🐺, 🚫☠. 🐺🐺🚫☠. 🔜🌄🔜🌃➡ {0} 🔜🐺</value>
   </string>
   <string key="PlayerBitten">
-    <value>🐺🐺☠👉👇, ⚠🐺⚡ 💬👇🔜🐺. 👇🚫💀, 🔜🌄🔜🌃➡👇🔜🐺</value>
+    <value>🐺🐺☠👉👇, ⚠🐺⚡ 💬👇🔜🐺. 👇🚫🪦, 🔜🌄🔜🌃➡👇🔜🐺</value>
   </string>
   <string key="BittenTurned">
     <value>🌄🔜🌃, 👇🔜🐺❕</value>
@@ -1061,13 +1061,13 @@
   <string key="DGTransformToAlpha">
 <!-- 0 - target's name -->
 <!-- 1 - teammates's name -->
-    <value>{0} 💀, 👇🔜🐺⚡. 🐺🐺: {1}</value>
+    <value>{0} 🪦, 👇🔜🐺⚡. 🐺🐺: {1}</value>
   </string>
   <string key="DGTransformToWolfCub">
 <!-- 0 - target's name -->
 <!-- 1 - teammates's name -->
 <!-- Keep this for now until bots update-->
-    <value>{0} 💀, 👇🔜🐶. \n🐺🐺: {1}</value>
+    <value>{0} 🪦, 👇🔜🐶. \n🐺🐺: {1}</value>
   </string>
   <string key="VillageTeamEnd">
     <value>👱👱👱👪</value>
@@ -1088,14 +1088,14 @@
     <value>👺👪</value>
   </string>
   <string key="CultConvertWolf">
-    <value>👤🚶 {0} ➡ {1}🔜👤,  ⚠ {0} ☠⬅🐺. {0} 💀</value>
+    <value>👤🚶 {0} ➡ {1}🔜👤,  ⚠ {0} ☠⬅🐺. {0} 🪦</value>
   </string>
   <string key="HarlotFuckedKilledPublic">
 <!--New Death Strings 05 Nov-->
     <value>{0} 🏃 {1} 🏠, 💋💋💋, ⚠👨🔪➡{1}❕ 👨🔪💋➡ {0}, 🔜☠🔪💋</value>
   </string>
   <string key="ApprenticeSeerEaten">
-    <value>👱👱👱😴🚫, 🔎 {0} 💀. 🙇💀.</value>
+    <value>👱👱👱😴🚫, 🔎 {0} 🪦. 🙇🪦.</value>
   </string>
   <string key="BlacksmithKilled">
     <value>{0}, ⚒ ☠. 🔪🔪🔪🔪🔪➡⚒</value>
@@ -1110,7 +1110,7 @@
     <value>👱👱🚶🍻 {0}, ⚠👱👱🔎🔪☠ ❕</value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} 👼⚔👨🔪, 👼😇🔜😮. 👼 {0} 💀.</value>
+    <value>{0} 👼⚔👨🔪, 👼😇🔜😮. 👼 {0} 🪦.</value>
   </string>
   <string key="GunnerKilled">
     <value>{0} 😴🔙🌃, 💬🔫💥, ⚠🔎☠👈🔪.</value>
@@ -1136,7 +1136,7 @@
   </string>
   <string key="CultConvertWolfPublic">
 <!--used when Cultists convert the wolves, only if wolves stayed home-->
-    <value>🐺🐺🚫☠➡👨, {0}, 👈👤, 🚶➡🐺, 🐺☠👉👤. 👤💀.</value>
+    <value>🐺🐺🚫☠➡👨, {0}, 👈👤, 🚶➡🐺, 🐺☠👉👤. 👤🪦.</value>
   </string>
   <string key="CultConvertKillerPublic">
 <!--used when Cultists convert the SK-->
@@ -1147,16 +1147,16 @@
   </string>
   <string key="GAGuardedWolf">
 <!--1vs1 finales-->
-    <value>{0} 👼🚶➡🐺🔙🌃... 👱👱👱🔎👼 {0} 👈💀.</value>
+    <value>{0} 👼🚶➡🐺🔙🌃... 👱👱👱🔎👼 {0} 👈🪦.</value>
   </string>
   <string key="HunterKillsWolfEnd">
 <!--{0} = hunter's name, {1} = wolf's name-->
-    <value>{1} 💭 {0} 🙂, {1} 🍝 {0}, ⚠ {0} 🎯 {1}❕ {0} 🏆 ❕!
+    <value>{1} 💭 {0} ☁, {1} 🍝 {0}, ⚠ {0} 🎯 {1}❕ {0} 🏆 ❕!
     </value>
   </string>
   <string key="WolfKillsHunterEnd">
 <!--{0} = hunter's name, {1} = wolf's name-->
-    <value>{1} 💭 {0} 🙂, {1} 🍝 {0}, {0} 🚫🎯. {1} 🏆❕</value>
+    <value>{1} 💭 {0} ☁, {1} 🍝 {0}, {0} 🚫🎯. {1} 🏆❕</value>
   </string>
   <string key="CHKillsCultistEnd">
 <!--{0} = last cultist's name, {1} = CH's name -->
@@ -1240,7 +1240,7 @@
     <value>🕚➕❓</value>
   </string>
   <string key="ShowRolesDeath">
-    <value>🙂➡️💀❓</value>
+    <value>☁➡️🪦❓</value>
   </string>
   <string key="AllowFlee">
     <value>🚶❓</value>

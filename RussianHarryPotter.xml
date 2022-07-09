@@ -608,10 +608,10 @@
     <value>Полумна Лавгуд 🦅</value>
   </string>
   <string key="Alive">
-    <value>🙂 Жив</value>
+    <value>☁ Жив</value>
   </string>
   <string key="Dead">
-    <value>💀 Мёртв</value>
+    <value>🪦 Мёртв</value>
   </string>
   <string key="RanAway">
     <value>Сбежал</value>

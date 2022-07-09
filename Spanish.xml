@@ -483,7 +483,7 @@
    <value>Huido</value>
  </string>
  <string key="Dead">
-   <value>💀 Muerto</value>
+   <value>🪦 Muerto</value>
  </string>
  <string key="Alive">
    <value>💃 Vivo</value>
@@ -2236,4 +2236,17 @@
   <string key="CHHuntedYou">
     <value>La cazadora de cultistas 💂‍♀️ te ha visitado mientras estabas rezando en el altar. Has sido atravesado con una espada y ahora estás muerto.</value>
   </string>
+
+
+	<string key="RankedOnly">
+		<value>Solo modo ranked</value>
+	</string>
+	<string key="PlayerStartedRankedGame">
+		<!-- 0 - Player name -->
+		<value>¡{0} ha empezado una partida por puntos! Pulsa el botón para unirte a la diversión :P</value>
+		<value>¡{0} ha iniciado una nueva partida por puntos! ¡Pulsa el botón para ser comido!</value>
+	</string>
+	<string key="grupoban">
+		<value>Actualmente están restringidas las partidas en este grupo, habla con un admin del bot para solucionarlo.</value>
+	</string>
 </strings>

@@ -114,10 +114,10 @@ Deprecated strings (only there so your file will pass through validation with no
 		<value>Hilang</value>
 	</string>
 	<string key="Dead">
-		<value>💀 Mati</value>
+		<value>🪦 Mati</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Hidup</value>
+		<value>☁ Hidup</value>
 	</string>
 	<string key="Won">
 		<value>Menang</value>

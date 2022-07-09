@@ -498,10 +498,10 @@ Everyone now has {0} seconds to vote!
     <value>Ran away</value>
   </string>
   <string key="Dead">
-    <value>💀 Fainted</value>
+    <value>🪦 Fainted</value>
   </string>
   <string key="Alive">
-    <value>🙂 Alive</value>
+    <value>☁ Alive</value>
   </string>
   <string key="PlayersAlive">
     <value>Trainers Alive</value>

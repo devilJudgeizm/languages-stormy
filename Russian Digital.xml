@@ -481,10 +481,10 @@
     <value>🏃 Сбежал</value>
   </string>
   <string key="Dead">
-    <value>💀 Уволен</value>
+    <value>🪦 Уволен</value>
   </string>
   <string key="Alive">
-    <value>🙂 Работает</value>
+    <value>☁ Работает</value>
   </string>
   <string key="Mason">
     <value>UX/UI дизайнер ✏️ (👷‍♂️)</value>

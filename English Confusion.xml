@@ -3921,10 +3921,10 @@
     <value>Ran away</value>
   </string>
   <string key="Dead">
-    <value>💀 Dead</value>
+    <value>🪦 Dead</value>
   </string>
   <string key="Alive">
-    <value>🙂 Alive</value>
+    <value>☁ Alive</value>
   </string>
   <string key="PlayersAlive">
     <value>Players Alive</value>

@@ -1339,10 +1339,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂زنده</value>
+    <value>☁زنده</value>
   </string>
   <string key="PlayersAlive">
 <!-- New strings 4 MAY 2016-->

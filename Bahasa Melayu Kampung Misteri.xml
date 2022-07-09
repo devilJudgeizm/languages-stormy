@@ -488,10 +488,10 @@
     <value>Melarikan Diri</value>
   </string>
   <string key="Dead">
-    <value>💀 Tiada</value>
+    <value>🪦 Tiada</value>
   </string>
   <string key="Alive">
-    <value>🙂 Ada</value>
+    <value>☁ Ada</value>
   </string>
   <string key="PlayersAlive">
     <value>Penduduk Yang Tinggal</value>

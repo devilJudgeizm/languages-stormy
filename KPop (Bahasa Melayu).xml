@@ -489,10 +489,10 @@ Pemain {0},{1} telah dibunuh kerana tidak mengundi 2 kali dalam 24 jam yang lalu
 		<value>Berpindah dari dunia kpop</value>
 	</string>
 	<string key="Dead">
-		<value>💀 berpindah</value>
+		<value>🪦 berpindah</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Hidup</value>
+		<value>☁ Hidup</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Pemain Hidup</value>
@@ -745,7 +745,7 @@ Pemain {0},{1} telah dibunuh kerana tidak mengundi 2 kali dalam 24 jam yang lalu
 		<value>Satu-satunya ahli kumpulan yang terselamat adalah ahli Bangtans Boys! orang psycho telah menang!  🔪</value>
 	</string>
 	<string key="AskKill">
-		<value>Siapa yang anda mahu viralkan gambar pada malam ini? 💀</value>
+		<value>Siapa yang anda mahu viralkan gambar pada malam ini? 🪦</value>
 	</string>
 	<string key="LoverDied">
 		<!-- 0 - dead's name -->

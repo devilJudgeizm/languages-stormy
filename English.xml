@@ -2265,5 +2265,33 @@
   <string key="DoppelgangerEnd">
     <value>Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!</value>
   </string>
-  
+
+
+	<string key="RankedOnly">
+		<value>Ranked mode only</value>
+	</string>
+	<string key="PlayerStartedRankedGame">
+		<!-- 0 - Player name -->
+		<value>{0} has started a game for points! Hit the button to join the fun :P</value>
+		<value>{0} has started a new points game! Press the button to be eaten!</value>
+	</string>
+	<string key="PointsObtained">
+		<value>You have earned {0} points! Now you have {1}.</value>
+	</string>
+	<string key="grupoban">
+		<value>Bot in this group are currently restricted, talk to a bot administrator to resolve it.(@KarelysCRP or @tmogeid)</value>
+	</string>
+	<string key="Idle">
+		<value>AFK</value>
+	</string>
+	<string key="pwin">
+		<value>You have won this game, you got </value>
+	</string>
+	<string key="plost">
+		<value>You have lost this game, you got </value>
+	</string>
+	<string key="ppointf">
+		<value> points, your total points are </value>
+	</string>
+
 </strings>

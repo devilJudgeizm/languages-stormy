@@ -595,10 +595,10 @@
     <value>Kabur</value>
   </string>
   <string key="Dead">
-    <value>💀 Tewas</value>
+    <value>🪦 Tewas</value>
   </string>
   <string key="Alive">
-    <value>🙂 Masih Idup</value>
+    <value>☁ Masih Idup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain yang Masih Idup</value>

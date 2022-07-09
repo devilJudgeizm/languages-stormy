@@ -486,10 +486,10 @@
     <value>Melarikan diri</value>
   </string>
   <string key="Dead">
-    <value>💀 Mati</value>
+    <value>🪦 Mati</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hidup</value>
+    <value>☁ Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain Hidup</value>
@@ -742,7 +742,7 @@
     <value>Satu-satunya orang yang terselamat adalah Pembunuh Bersiri! orang psycho telah menang!  🔪</value>
   </string>
   <string key="AskKill">
-    <value>Siapa yang anda mahu bunuh malam ini? 💀</value>
+    <value>Siapa yang anda mahu bunuh malam ini? 🪦</value>
   </string>
   <string key="LoverDied">
     <!-- 0 - dead's name -->

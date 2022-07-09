@@ -404,10 +404,10 @@
     <value>a fui</value>
   </string>
   <string key="Dead">
-    <value>💀 Mort</value>
+    <value>🪦 Mort</value>
   </string>
   <string key="Alive">
-    <value>🙂 en vie</value>
+    <value>☁ en vie</value>
   </string>
   <string key="PlayersAlive">
     <value>Les Amnésiques qui sont en vie</value>

@@ -167,7 +167,7 @@
     <value >Quando desistirem de você, você também desistirá deles, e acionará sua bomba com o maior prazer. KABUM! Seja bem vindo ao jogo, Homem Bomba 💣!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Você nunca perde esperança na natureza humana, até que um de seus parentes seja morto. De fato, se isso acontecer, você entrará na polícia para erradicar o mal da cidade! Este é seu papel do jogo: você é o Justiceiro 💀!</value>
+    <value >Você nunca perde esperança na natureza humana, até que um de seus parentes seja morto. De fato, se isso acontecer, você entrará na polícia para erradicar o mal da cidade! Este é seu papel do jogo: você é o Justiceiro 🪦!</value>
   </string>
   <string key="RoleInfoBeholder" >
     <value >Você tem um "conselheiro pessoal" para "extrair informações". Você é o Conselheiro 👥, mão direita do torturador! Este é o Torturador 💉!</value>
@@ -384,7 +384,7 @@
     <value>Delator 📓</value>
   </string>
   <string key="WildChild">
-    <value>Justiceiro  💀</value>
+    <value>Justiceiro  🪦</value>
   </string>
   <string key="Beholder">
     <value>Conselheiro 👥</value>
@@ -406,7 +406,7 @@
     <value>🚨 Preso</value>
   </string>
   <string key="Alive">
-    <value>🙂 Solto</value>
+    <value>☁ Solto</value>
   </string>
   <string key="PlayersAlive">
     <value>Jogadores soltos:</value>
@@ -641,7 +641,7 @@
     <value>A Bruxa lançou seu feitiço e agora você e {0} estão amaldiçoados para sempre. Quando você estiver no banho, ele estará lá. Quando você estiver no mercado, ele estará lá. Não importa onde você estiver, ELE ESTARÁ LÁ! HAHAHAHAHAHA!</value>
   </string>
   <string key="NewWCRoleModel">
-    <value>À partir de agora você é o Justiceiro 💀. Seu parente é {0}.</value>
+    <value>À partir de agora você é o Justiceiro 🪦. Seu parente é {0}.</value>
   </string>
   <string key="LoversWin">
     <value>Me parece que a maldição da Xuxa foi bem forte! Os Amaldiçoados venceram! Créditos à Xuxa, claro.</value>

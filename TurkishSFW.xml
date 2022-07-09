@@ -485,10 +485,10 @@
     <value>Kaçış</value>
   </string>
   <string key="Dead">
-    <value>💀 Ölü</value>
+    <value>🪦 Ölü</value>
   </string>
   <string key="Alive">
-    <value>🙂 Canlı</value>
+    <value>☁ Canlı</value>
   </string>
   <string key="PlayersAlive">
     <value>Oyuncu Hayatta</value>

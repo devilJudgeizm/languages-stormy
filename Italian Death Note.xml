@@ -398,10 +398,10 @@
     <value>👻 Fuggito</value>
   </string>
   <string key="Dead">
-    <value>💀 Morto</value>
+    <value>🪦 Morto</value>
   </string>
   <string key="Alive">
-    <value>🙂 In vita</value>
+    <value>☁ In vita</value>
   </string>
   <string key="PlayersAlive">
     <value>Giocatori in vita</value>

@@ -491,10 +491,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 سقَط شده</value>
+    <value>🪦 سقَط شده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

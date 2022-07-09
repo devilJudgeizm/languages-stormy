@@ -195,8 +195,8 @@
     <value >تو پیشگو ممنونی هستی. هر شب یه نفرو ممنون کن تا بگم چیه بمولا</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو یه روستایی ممنونی🙂</value>
-    <value >تو یه روستایی مولایی هستی🙂</value>
+    <value >تو یه روستایی ممنونی☁</value>
+    <value >تو یه روستایی مولایی هستی☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو منافق مولایی هستی! اگه ممنونت کنن تو ممنون میشی و بازی تموم میشه بمولا</value>
@@ -490,10 +490,10 @@
     <value>ممنون شده</value>
   </string>
   <string key="Dead">
-    <value>💀 ممنون</value>
+    <value>🪦 ممنون</value>
   </string>
   <string key="Alive">
-    <value>🙂 مولایی</value>
+    <value>☁ مولایی</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکنای مولایی</value>

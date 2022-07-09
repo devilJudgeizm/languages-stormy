@@ -500,10 +500,10 @@
     <value>Сбежал</value>
   </string>
   <string key="Dead">
-    <value>💀 Выбит</value>
+    <value>🪦 Выбит</value>
   </string>
   <string key="Alive">
-    <value>🙂 В Лиге</value>
+    <value>☁ В Лиге</value>
   </string>
   <string key="PlayersAlive">
 <!-- New strings 4 MAY 2016-->

@@ -459,10 +459,10 @@
     <value>ha fet bomba de fum</value>
   </string>
   <string key="Dead">
-    <value>💀 expulsat del tram</value>
+    <value>🪦 expulsat del tram</value>
   </string>
   <string key="Alive">
-    <value>🙂 està a assaig</value>
+    <value>☁ està a assaig</value>
   </string>
   <string key="PlayersAlive">
     <value>Jugadors al tram de diades</value>
@@ -1428,7 +1428,7 @@
   </string>
 
   <string key="RoleInfoOracle">
-    <value>Ets Comi Comunicació 🌀. Cada diada pots triar observar algú, però només podràs veure què NO és. El rol que se't dirà pertanyerà a algú altre del joc que encara va a diades, de manera que para atenció al rol, ja que vol dir que qui el tingui, encara és viu 🙂</value>
+    <value>Ets Comi Comunicació 🌀. Cada diada pots triar observar algú, però només podràs veure què NO és. El rol que se't dirà pertanyerà a algú altre del joc que encara va a diades, de manera que para atenció al rol, ja que vol dir que qui el tingui, encara és viu ☁</value>
   </string>
   <string key="Oracle">
     <value>Comi Comunicació 🌀</value>

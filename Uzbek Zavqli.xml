@@ -565,10 +565,10 @@
     <value>🏃Qochib ketdi</value>
   </string>
   <string key="Dead">
-    <value>💀O'lgan</value>
+    <value>🪦O'lgan</value>
   </string>
   <string key="Alive">
-    <value>🙂Tirik</value>
+    <value>☁Tirik</value>
   </string>
   <string key="Mason">
     <value>G'isht teruvchi 👷</value>
@@ -614,7 +614,7 @@
     <value>G'alati.... {0} tongda qattiqol boshliqlaring o'tkazadigan g'isht teruvchilar yig'ilishiga kelmadi... O.o</value>
   </string>
   <string key="FleeDisabled">
-    <value>💀Sen bu o'yinga kirdingmi?! Endi ortga yo'l yo'q...Yo g'alaba yoki o'lim...</value>
+    <value>🪦Sen bu o'yinga kirdingmi?! Endi ortga yo'l yo'q...Yo g'alaba yoki o'lim...</value>
     <value>👻Sen o'yinda umrbod tiqilib qolding. Sen o'yinni yutmaguningcha uni tark eta olmaysan!</value>
     <value>👽Sen bu o'yinga qoshilishing bilan lanatlanding! Endi bu yerlardan hech qachon keta o'lmaysan...</value>
     <value>☠️Sen bu o'yinning mahbusiga aylanding. Seni o'zingdan boshqa hech kim qutqara olmaydi...</value>

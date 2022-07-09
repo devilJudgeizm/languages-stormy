@@ -9,7 +9,7 @@
 	El Cascanueces 💂 (🎯) = Cazador = Town Hunter
 	Santa Claus 🎅🏻 (👳) = Vidente = Seer
 	Señorita Bastón de Caramelo 🍭 (🖕) = Traidor = Traitor
-	Jack Skellington 💀 (👼)= Ángel de la Guarda	= Guardian Angel
+	Jack Skellington 🪦 (👼)= Ángel de la Guarda	= Guardian Angel
   Santa  secreto 🎁 (🕵️)= Detective = Detective
 	Hombre de Nieve ☃️ (🐺) = Lobo = Wolf 
 	Presuntuoso 💧 (😾) = Maldito = Cursed
@@ -247,7 +247,7 @@
     <value>¡Eres Frank Claus 👴🏻 (🍻), el hermano de Santa que se pone un poco salvaje con el ponche! Pero sigues siendo una parte leal del Equipo Santa. Si los Hombres de Nieve intentan congelarte, el alcohol en tu sangre comenzará a derretirlos y necesitarán descansar la noche siguiente.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>Eres Jack Skellington 💀 (👼). Cada noche, eliges un jugador al que estás protegiendo contra los malvado Hombre de Nieve ☃️ (🐺) y Krampus 👹 (🔪). Sin embargo, si eliges proteger a un Hombre de Nieve ☃️ (🐺) o a Krampus 👹 (🔪), hay un 50% de probabilidad de que te congelen.</value>
+    <value>Eres Jack Skellington 🪦 (👼). Cada noche, eliges un jugador al que estás protegiendo contra los malvado Hombre de Nieve ☃️ (🐺) y Krampus 👹 (🔪). Sin embargo, si eliges proteger a un Hombre de Nieve ☃️ (🐺) o a Krampus 👹 (🔪), hay un 50% de probabilidad de que te congelen.</value>
   </string>
   <string key="RoleInfoGunner">
     <value>Eres Pedro el negro 💁🏿♂️ (🔫). Como eres el compañero de Santa, no eres amable con las personas que no les gusta la Navidad. Tienes dos oportunidades de dispararle a alguien con tu lanzallamas. Una vez que dispares, todos sabrán que estás del lado de Santa.</value>
@@ -314,7 +314,7 @@
   </string>
   <string key="GuardianEaten">
     <!-- 0 - victim name -->
-    <value>La mañana llega al Polo Norte, y para sorpresa de todos, {0} Jack Skellington 💀 (??) fue encontrado muerto de frío.</value>
+    <value>La mañana llega al Polo Norte, y para sorpresa de todos, {0} Jack Skellington 🪦 (??) fue encontrado muerto de frío.</value>
   </string>
   <string key="GunnerEaten">
     <!-- 0 - victim name -->
@@ -381,7 +381,7 @@
     <value>Fuiste a salvar a {0}, ¡pero no estaba en casa!</value>
   </string>
   <string key="GuardSavedYou">
-    <value>¡Jack Skellington 💀 (👼) te estaba vigilando anoche y luchó contra un atacante!</value>
+    <value>¡Jack Skellington 🪦 (👼) te estaba vigilando anoche y luchó contra un atacante!</value>
   </string>
   <string key="HarlotEaten">
     <!-- 0 - player name -->
@@ -519,7 +519,7 @@
     <value>Señorita Bastón de Caramelo 🍭 (🖕)</value>
   </string>
   <string key="GuardianAngel">
-    <value>Jack Skellington 💀 (👼)</value>
+    <value>Jack Skellington 🪦 (👼)</value>
   </string>
   <string key="Detective">
     <value>Santa Secreto 🎁 (🕵️)</value>
@@ -559,10 +559,10 @@
     <value>Huyó</value>
   </string>
   <string key="Dead">
-    <value>💀 Muerto</value>
+    <value>🪦 Muerto</value>
   </string>
   <string key="Alive">
-    <value>🙂 Vivo</value>
+    <value>☁ Vivo</value>
   </string>
   <string key="PlayersAlive">
     <value>Jugadores vivos</value>
@@ -588,7 +588,7 @@
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>Los Hombres de Nieve van a la casa de {0} para congelarlo, pero se encuentran con una figura alta, delgada y oscura, armado hasta los dientes. Jack Skellington 💀 (👼) lucha con todo, y regresas derrotado.</value>
+    <value>Los Hombres de Nieve van a la casa de {0} para congelarlo, pero se encuentran con una figura alta, delgada y oscura, armado hasta los dientes. Jack Skellington 🪦 (👼) lucha con todo, y regresas derrotado.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
@@ -761,7 +761,7 @@
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>¡Intentó recolectar el hígado de {0} para su colección, pero Jack Skellington 💀 (👼) lo derrotó! No hay hígado para ti esta noche...</value>
+    <value>¡Intentó recolectar el hígado de {0} para su colección, pero Jack Skellington 🪦 (👼) lo derrotó! No hay hígado para ti esta noche...</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Non-Believers name -->
@@ -779,7 +779,7 @@
   </string>
   <string key="GuardKillerPublic">
     <!-- 0 - target's name -->
-    <value>¡{0} intentó proteger a Krampus 👹 (🔪) anoche, pero debió haber pensado en protegerse a sí mismo. {0} era Jack Skellington 💀 (👼)</value>
+    <value>¡{0} intentó proteger a Krampus 👹 (🔪) anoche, pero debió haber pensado en protegerse a sí mismo. {0} era Jack Skellington 🪦 (👼)</value>
   </string>
   <string key="HarlotFuckKiller">
     <!-- 0 - target's name -->
@@ -1150,7 +1150,7 @@
     <value>Habilitar lichamiento secreto establecido en: {0}</value>
   </string>
   <string key="ThankYou">
-    <value>Gracias por usarme, pasa una buena Navidad y disfruta de tu chocolate caliente con malvaviscos 🙂</value>
+    <value>Gracias por usarme, pasa una buena Navidad y disfruta de tu chocolate caliente con malvaviscos ☁</value>
   </string>
   <string key="WhatLangGroup">
     <value>¿En qué idioma quieres buscar un grupo?</value>
@@ -1997,7 +1997,7 @@
     <value>Mientras estabas durmiendo, una corriente de viento te rodea, lo que provoca que te quedes inmóvil por el frío 🐺☃️. Parece que has pasado una fría noche.</value>
   </string>
   <string key="GuardBlockedSnowWolf">
-    <value>Fuiste a casa de {0} para conversar, pero te encontraste con una figura alta y oscura armada hasta los dientes. Jack Skellington 💀 (👼) te impide la entrada y vuelves a corriendo a las montañas.</value>
+    <value>Fuiste a casa de {0} para conversar, pero te encontraste con una figura alta y oscura armada hasta los dientes. Jack Skellington 🪦 (👼) te impide la entrada y vuelves a corriendo a las montañas.</value>
   </string>
   <string key="SuccessfulFreeze">
     <value>Te diriges a casa de {0}, para que fuera tu amigo pero solo conseguiste congelarlo parcialmente. Esta noche no será capaz de usar sus acciones.</value>
@@ -2104,7 +2104,7 @@
   </string>
   <!--{0}: victim-->
   <string key="GuardBlockedRandomKiller">
-  <value>Llegas a la casa de {0}, ¡Solo para ver a Jack Skellington 💀 bailando en frente de ella! Intentas pelear, pero no tienes oportunidad. Esta fue realmente una mala noche para ti...</value>
+  <value>Llegas a la casa de {0}, ¡Solo para ver a Jack Skellington 🪦 bailando en frente de ella! Intentas pelear, pero no tienes oportunidad. Esta fue realmente una mala noche para ti...</value>
   </string>
   <!--{0}: grave digger-->
   <string key="HunterFell">
@@ -2148,7 +2148,7 @@
   </string>
   <!--{0}: guardian angel-->
   <string key="GAFellDigger">
-  <value>En tu camino de regreso, notas restos de calabazas alrededor del piso... No tienes que buscar mucho para encontrar a {0}, Jack Skellington 💀 (👼), ¡Muerto en una de tus tumbas! A veces tus "medidas de seguridad" realmente caen en la gente equivocada.</value>
+  <value>En tu camino de regreso, notas restos de calabazas alrededor del piso... No tienes que buscar mucho para encontrar a {0}, Jack Skellington 🪦 (👼), ¡Muerto en una de tus tumbas! A veces tus "medidas de seguridad" realmente caen en la gente equivocada.</value>
   </string>
   <!--{0}: grave digger-->
   <string key="ThiefFell">
@@ -2253,7 +2253,7 @@
   <value>Has dejado tus insectos en la casa de {0}</value>
   </string>
   <string key="GuardSavedYouFromFire">
-  <value>Oh no se escucha un sonido raro, son insectos que vienen a matarte pero de la nada aparece Jack Skellington 💀 (👼), rociando insecticida por todos lados. Haz sido salvado por poco.</value>
+  <value>Oh no se escucha un sonido raro, son insectos que vienen a matarte pero de la nada aparece Jack Skellington 🪦 (👼), rociando insecticida por todos lados. Haz sido salvado por poco.</value>
   </string>
   <!--{0}: saved person-->
   <string key="GuardSavedFromFire">

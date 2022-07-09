@@ -239,7 +239,7 @@
     <value>You are Frank Claus 👴🏻 (🍻), Santa's brother who gets a little wild with the eggnog! But you're still a loyal part of Team Santa. If the Snowmen try to freeze you the alcohol in your blood will start melting them and they will need to rest the next night.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>You are Jack Skellington 💀 (👼). Each night, you choose a player who you are protecting from the evil Snowmen and Krampus. However, if you choose to protect a Snowman or Krampus himself, there is a 50% chance you will get frozen by them.</value>
+    <value>You are Jack Skellington 🪦 (👼). Each night, you choose a player who you are protecting from the evil Snowmen and Krampus. However, if you choose to protect a Snowman or Krampus himself, there is a 50% chance you will get frozen by them.</value>
   </string>
   <string key="RoleInfoGunner">
     <value>You are Black Pete 💁🏿‍♂️ (🔫). Since you are Santa's companion, you aren't kind to people who don't like Christmas. You get two chances to shoot someone with your flamethrower. Once you choose, everyone will know you are on Santa's side.</value>
@@ -309,7 +309,7 @@
   </string>
   <string key="GuardianEaten" >
     <!-- 0 - victim name -->
-    <value>Morning comes to the North Pole, and to everyone's dismay, {0} the Jack Skellington 💀 (👼) got found frozen to death.</value>
+    <value>Morning comes to the North Pole, and to everyone's dismay, {0} the Jack Skellington 🪦 (👼) got found frozen to death.</value>
   </string>
   <string key="GunnerEaten" >
     <!-- 0 - victim name -->
@@ -376,7 +376,7 @@
     <value>You went to guard {0}, but they weren't home!</value>
   </string>
   <string key="GuardSavedYou" >
-    <value>Jack Skellington 💀 (👼) was watching over you last night and fought off an attacker!</value>
+    <value>Jack Skellington 🪦 (👼) was watching over you last night and fought off an attacker!</value>
   </string>
   <string key="HarlotEaten" >
     <!-- 0 - player name -->
@@ -514,7 +514,7 @@
     <value>Miss Candy Cane 🍭 (🖕)</value>
   </string>
   <string key="GuardianAngel">
-    <value>Jack Skellington 💀 (👼)</value>
+    <value>Jack Skellington 🪦 (👼)</value>
   </string>
   <string key="Detective">
     <value>Secret Santa 🎁 (🕵️)</value>
@@ -554,10 +554,10 @@
     <value>Ran away</value>
   </string>
   <string key="Dead">
-    <value>💀 Dead</value>
+    <value>🪦 Dead</value>
   </string>
   <string key="Alive">
-    <value>🙂 Alive</value>
+    <value>☁ Alive</value>
   </string>
   <string key="PlayersAlive">
     <value>Citizens Alive</value>
@@ -583,7 +583,7 @@
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>The Snowmen head to {0}'s house to freeze them, but they are met by a tall dark figure, armed to the teeth. The Jack Skellington 💀 (👼) fights everyone off, and you head back defeated.</value>
+    <value>The Snowmen head to {0}'s house to freeze them, but they are met by a tall dark figure, armed to the teeth. The Jack Skellington 🪦 (👼) fights everyone off, and you head back defeated.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
@@ -756,7 +756,7 @@
   </string> 
  <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>You tried to collect {0}'s liver for your collection, but you were fought off by Jack Skellington 💀 (👼)! No liver for you tonight...</value>
+    <value>You tried to collect {0}'s liver for your collection, but you were fought off by Jack Skellington 🪦 (👼)! No liver for you tonight...</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
@@ -1143,7 +1143,7 @@
     <value>Enabling of secret Lynch set to: {0}</value>
   </string>
   <string key="ThankYou">
-    <value>Thank you for using me, have a good Christmas and enjoy your hot chocolate with marshmallows 🙂</value>
+    <value>Thank you for using me, have a good Christmas and enjoy your hot chocolate with marshmallows ☁</value>
   </string>
   <string key="WhatLangGroup">
     <value>What language do you want to look for a group to play in?</value>
@@ -1930,7 +1930,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <value>While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that a terrible snow storm with strong raging winds was taking place outside! Looks like Stormella was playing some magic tricks ❄️👸 (🐺☃️) on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold.</value>
   </string>
   <string key="GuardBlockedSnowWolf">
-  <value>You head to {0}'s house to cast a snow storm spell upon them, but you are met by a tall, slim and dark figure, armed to the teeth.\\nJack Skellington 💀 (👼) fights you off, and you head back defeated.</value>
+  <value>You head to {0}'s house to cast a snow storm spell upon them, but you are met by a tall, slim and dark figure, armed to the teeth.\\nJack Skellington 🪦 (👼) fights you off, and you head back defeated.</value>
   </string>
   <string key="SuccessfulFreeze">
   <value>You went to {0}'s house and casted a weather spell on them! Tonight, they won't be able to use their night actions (if any) due to the snow storm heading upon them right now.</value>
@@ -1975,7 +1975,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <value>You wanted to protect {0}, the precious person who is in charge of making toys but instead, your bone breaks into pieces when you stepped on some stray nuts and bolts. Maybe you should have consume more calcium.</value>
   </string>
   <string key="GAFellDigger">
-  <value>You had just arrived back at your workshop but was horrified to find a Christmas Lover, {0} the Jack Skellington 💀 (👼) lying in your room after they had accidentally stepped on some of your unfinished toys.</value>
+  <value>You had just arrived back at your workshop but was horrified to find a Christmas Lover, {0} the Jack Skellington 🪦 (👼) lying in your room after they had accidentally stepped on some of your unfinished toys.</value>
   </string>
   <string key="ThiefFell">
   <value>You sneak through the workshop on your way to steal {0}'s role, you stepped on fake fox trap toys and you hurt yourself.</value>
@@ -2002,7 +2002,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <value>You successfully threw coal into {0}'s house!</value>
   </string>
   <string key="GuardSavedYouFromFire">
-  <value>A fire broke out in your house, but luckily Jack Skellington 💀 (👼) was there and extinguished it right away before all your toys burned! They'd make a good firefighter, if they weren't so busy protecting Christmas...</value>
+  <value>A fire broke out in your house, but luckily Jack Skellington 🪦 (👼) was there and extinguished it right away before all your toys burned! They'd make a good firefighter, if they weren't so busy protecting Christmas...</value>
   </string>
   <string key="GuardSavedFromFire">
   <value>You didn't quite expect a fire to break out when you went to visit {0}, but you saved them nevertheless! Ain't nobody gonna call you a bad Christmas protector...</value>
@@ -2056,7 +2056,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <value>On your way to the house of {0}, a sharp pain surges through your leg. You decide to just go to the nearest house, which appears to be {1}'s, murder them and hurry home.</value>
   </string>
   <string key="GuardBlockedRandomKiller">
-  <value>You arrive at {0}'s house on a rush, just to see Jack Skellington 💀 (👼) standing in front of it! You try to fight, but you stand no chance, especially with the pain on your leg. Tonight was a really bad night for you...</value>
+  <value>You arrive at {0}'s house on a rush, just to see Jack Skellington 🪦 (👼) standing in front of it! You try to fight, but you stand no chance, especially with the pain on your leg. Tonight was a really bad night for you...</value>
   </string>
   <string key="HunterFell">
   <value>Another night without being able to stop one of those non-believers from spreading! Frustrated, you walk over to the toy factory, hoping to get some joy from watching all kinds of toys from its windows, but you didn’t notice all kinds of repair toy parts near its entrance until you step upon them. You scream and struggle, but now it happens that you stepped onto another one with your other foot. Unable to stand, you fall backwards into a fireplace that {0} lit up. You feel the terrible heat before everything goes black.</value>

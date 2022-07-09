@@ -485,10 +485,10 @@
     <value>Huido</value>
   </string>
   <string key="Dead">
-    <value>💀 Fuera</value>
+    <value>🪦 Fuera</value>
   </string>
   <string key="Alive">
-    <value>🙂 En el edificio</value>
+    <value>☁ En el edificio</value>
   </string>
   <string key="PlayersAlive">
     <value>Vecinos aún en Desengaño 21</value>

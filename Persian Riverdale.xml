@@ -195,7 +195,7 @@
     <value >تو الیزابت کوپر👱🏻‍♀ هستی هر مشکلی که تو ریوردیل پیش میاد توش سرت میکشی و با نقشه هات اطلاعات مهمی  بدست میاری.</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو یه ریوردیلی👱 هستی 🙂🙂</value>
+    <value >تو یه ریوردیلی👱 هستی ☁☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو جیسون بلاسم هستی و با مردنت همه میبازن و تو میبری!</value>
@@ -490,10 +490,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

@@ -486,10 +486,10 @@
     <value>Melarikan diri</value>
   </string>
   <string key="Dead">
-    <value>💀 mari</value>
+    <value>🪦 mari</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hidup</value>
+    <value>☁ Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain Hidup</value>
@@ -742,7 +742,7 @@
     <value>Satu-satunya otabg yamf terselamat adalah pemjuruh Bersiri! otabg psycho yelah menang!  🔪</value>
   </string>
   <string key="AskKill">
-    <value>Siapa yamf Abfa mahu bunuh melom ini? 💀</value>
+    <value>Siapa yamf Abfa mahu bunuh melom ini? 🪦</value>
   </string>
   <string key="LoverDied">
     <!-- 0 - dead's name -->
