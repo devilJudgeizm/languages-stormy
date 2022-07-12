@@ -191,7 +191,7 @@
     <value >You are the seer 👳🏻‍♂️ . Each night, you may choose a player to 'see', and reveal their role to you.</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >You are a regular citizen 👱🏻‍♂️, doomed to spend your days plowing a field and get eaten.</value>
+    <value >You are a regular citizen 👱🏻‍♂️, doomed to spend your days paying taxes and get eaten</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >You are the tanner 👺. If you get lynched, you win automatically!</value>
@@ -232,7 +232,7 @@
     <value >The citizens have cast their votes, amid doubts and suspicions. {0} is dead. {1}</value>
   </string>
   <string key="LynchTie" >
-    <value >Unable to come up with a proper decision on who to lynch, the mob returns to their homes for the night, frustrated...</value>
+    <value >Unable to come up with a proper decision on who to lynch, the citizens returns to their homes for the night, frustrated...</value>
   </string>
   <string key="NoLynchVotes" >
     <value >Something is fishy, for no one voted! No lynch mob tonight...</value>
@@ -251,7 +251,7 @@
   </string>
   <string key="SeerEaten" >
     <!-- 0 - victim name -->
-    <value >The citizens awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The Seer 👳 is dead.</value>
+    <value >The citizens awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The Seer 👳🏻‍♂️ is dead.</value>
   </string>
   <string key="DrunkEaten" >
     <!-- 0 - victim name -->
@@ -259,7 +259,7 @@
   </string>
   <string key="FoolEaten" >
     <!-- 0 - victim name -->
-    <value >As the sun rises above the village, the citizens find the corpse of {0} sitting over a Ouija board, but with a deck of... Bicycle playing cards? WHAT A FOOL!</value>
+    <value >As the sun rises above the city, the citizens find the corpse of {0} sitting over a Ouija board, but with a deck of... Bicycle playing cards? WHAT A FOOL!</value>
   </string>
   <string key="DefaultEaten" >
     <!-- 0 - victim name -->
@@ -271,7 +271,7 @@
     <value>A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!</value>
   </string>
   <string key="NoAttack" >
-    <value >The citizens gather the next morning in the village center, to sighs of relief - it appears there was no attack the previous night.</value>
+    <value >The citizens gather the next morning in the city center, to sighs of relief - it appears there was no attack the previous night.</value>
   </string>
   <string key="CursedBitten" >
     <value >You have been killed by the wolves. As you were cursed, you have now become a wolf!</value>
@@ -573,7 +573,7 @@
   </string>
   <string key="MaintBreak" deprecated="true">
     <!-- 0 - target's name -->
-    <value>Sorry, I'm about to start a short maintenance break, you can't start a game right now.\nWaiting on {0} games to end...\nGo to @greywolfdev for more information</value>
+    <value>Sorry, I'm about to start a short maintenance break, you can't start a game right now.\nWaiting on {0} games to end...\nGo to @stormynightnews for more information</value>
   </string>
   <string key="MaxGames" deprecated="true">
     <!-- 0 - target's name -->
@@ -639,7 +639,7 @@
     <value>Matchmaker's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.</value>
   </string>
   <string key="HunterLynchedChoice">
-    <value>The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!</value>
+    <value>The citizens  has chosen to hang you! This is your last chance, choose to shoot someone as you go down!</value>
   </string>
   <string key="HunterNoChoiceLynched">
     <value>{0} fumbles for their pistol as the noose tightens, but cannot get it in time, and falls to their death with a loud snap of their neck...</value>
@@ -709,16 +709,16 @@
     <value>You slip into {0}'s house, and start having a little fun. All seems great until {0} pulls out a knife and starts stabbing you, laughing like a maniac! You have died....</value>
   </string>
   <string key="HarlotFuckKillerPublic">
-    <value>The village sees {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead.</value>
+    <value>The citizens sees {0}'s body, lying dead in the public square with countless stab wounds. {0} is dead.</value>
   </string>
   <string key="DGToMason">
     <!-- 0 - target's name -->
-    <value>The doppelganger {0} has now become a mason, just like you!</value>
+    <value>The doppelganger {0} has now become a builder, just like you!</value>
   </string>
   <string key="DGTransformToMason">
     <!-- 0 - dead mason's name -->
     <!-- 1 - mason collegues's name -->
-    <value>{0} has died, and you transform into a mason. Your teammates (if any) are: {1}</value>
+    <value>{0} has died, and you transform into a builder. Your teammates (if any) are: {1}</value>
   </string>
   <string key="DGToCult">
     <!-- 0 - new cultist's name -->
@@ -792,7 +792,7 @@
   </string>
   <string key="AddedToWaitList">
     <!-- 0 - target's name -->
-    <value>You have been added to the wait list for {0}. I will PM you when the next game is starting.\nWhile waiting, why not browse the store? https://teespring.com/stores/werewolf-for-telegram</value>
+    <value>You have been added to the wait list for {0}. I will PM you when the next game is starting.</value>
   </string>
   <string key="NotifyNewGame">
     <!-- 0 - target's name -->
@@ -804,12 +804,12 @@
     <value>Morning comes, and the remaining two citizens walk out to the town square. {0} takes a look at {1}, gets a big grin on their face, pulls out a knife, and takes {1} out.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>Everyone in the village has died... there's nothing but bodies left. No one wins this round, except the vultures...</value>
+    <value>Everyone in the city has died... there's nothing but bodies left. No one wins this round, except the vultures...</value>
   </string>
   <string key="SKHunterEnd">
     <!-- 0 - SK's name -->
     <!-- 1 - Hunter's name -->
-    <value>As the sun rises, {0} and {1} walk out into the village. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the village is empty, there is no winner...</value>
+    <value>As the sun rises, {0} and {1} walk out into the city. {0} pulls out their knife, and jumps at {1}. {1} pulls out a pistol and fires a shot into {0}'s face as {0} lands, plunging the knife deep into {1}. Both are dead, the city is empty, there is no winner...</value>
   </string>
   <string key="RoleModelChosen">
     <!-- 0 - target's name -->
@@ -1126,13 +1126,13 @@
     <value>You are secretly the Prince 🤴🏻, escaping from your boring, pampered life by spending the day with these peasants. If they try to lynch you, they realize their error, and no one will be lynched.</value>
   </string>
   <string key="RoleInfoClumsyGuy">
-    <value>You are the Clumsy Guy 🤕: You’ll try to vote, but there is a 50% chance you’ll vote for someone else other than you intended instead. You’re still on the village team though.</value>
+    <value>You are the Clumsy Guy 🤕: You’ll try to vote, but there is a 50% chance you’ll vote for someone else other than you intended instead. You’re still citizens' team  though.</value>
   </string>
   <string key="RoleInfoSorcerer">
     <value>You are the Sorcerer 🔮, allying yourself with creatures of the night rather than citizens. At night you will use your power to find the wolves or the Seer. You win only if the wolves win. Enjoy helping snuff out those miserable citizens.</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>You are the Blacksmith ⚒: the metalworker of the village. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a citizen.</value>
+    <value>You are the Blacksmith ⚒: the metalworker of the city. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a citizen.</value>
   </string>
   <string key="RoleInfoAlphaWolf">
     <value>You are the Alpha Wolf ⚡️; the source of the scourge. Your bite is the cause of the curse that turns humans into werewolves. Each night, you will choose a human to attack and kill, but as long as you are alive, your victim has a 20% chance of turning into a werewolf.</value>
@@ -1141,7 +1141,7 @@
     <value>You are the Wolf Cub 🐶; adored by your wolf pack. Like other wolves, you will choose a citizen to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
   </string>
   <string key="PrinceLynched">
-    <value>As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the citizenss sheepishly retire for the night.</value>
+    <value>As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the citizens sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out what they are.  They are not a wolf or seer however...</value>
@@ -1159,7 +1159,7 @@
     <value>Would you like to spread the silver today, disabling the wolves tonight?</value>
   </string>
   <string key="BlacksmithSpreadSilver">
-    <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight.)</value>
+    <value>While the rest of the city debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the city will be safe from wolf attacks. (Wolves are disabled tonight.)</value>
   </string>
   <string key="Mayor">
     <value>the Mayor 🎖</value>
@@ -1183,7 +1183,7 @@
     <value>the Wolf Cub 🐶</value>
   </string>
   <string key="PlayerBittenWolves">
-    <value>As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf. {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection.  They will become a werewolf tomorrow night.</value>
+    <value>As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf. {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection. They will become a werewolf tomorrow night.</value>
   </string>
   <string key="PlayerBitten">
     <value>You were attacked by the wolves, but the Alpha Wolf chose you. Instead of being killed, you have been infected... and will become a wolf tomorrow night!</value>
@@ -1195,7 +1195,7 @@
     <value>As mayor, you are a regular citizen, until you reveal yourself. Then you are given twice the vote count for lynching (meaning that your vote is twice as powerful as everyone else's). Use that power wisely to help the Village Team.</value>
   </string>
   <string key="AboutPrince">
-    <value>The prince is a key role in the Village Team's strategy. Once the prince gets lynched, their role as Prince is revealed, and they survive. However, this can only happen once: if the village insists on lynching them, they will die.</value>
+    <value>The prince is a key role in the citizens' team strategy. Once the prince gets lynched, their role as Prince is revealed, and they survive. However, this can only happen once: if the citizens insists on lynching them, they will die.</value>
   </string>
   <string key="AboutSorcerer">
     <value>Do you remember the good old seer? Well now, it has its Wolf Team counterpart. The sorcerer is the Wuff's Seer. They can only see if someone is Wolf or Seer, and they win with the Wolves.</value>
@@ -1230,7 +1230,7 @@
   </string>
 
   <string key="VillageTeam" deprecated="true">
-    <value>Village Team</value>
+    <value>Citizens team</value>
   </string>
   <string key="NeutralTeam" deprecated="true">
     <value>Neutral Team</value>
@@ -1246,7 +1246,7 @@
   </string>
 
   <string key="VillageTeamEnd">
-    <value>Village Team</value>
+    <value>Citizens team</value>
   </string>
   <string key="NeutralTeamEnd">
     <value>Neutral Team</value>
@@ -1300,18 +1300,18 @@
     <value>Assassination! {0} the mayor was found pinned with a knife on the table while working overnight at the mayor office! Clearly it's the serial killer exacting revenge for the asylum robbing them of years of their life!</value>
   </string>
   <string key="PrinceKilled">
-    <value>Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose...</value>
+    <value>Bells ring across the city before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose...</value>
     <value>{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade.</value>
   </string>
   <string key="SeerKilled">
-    <value>The citizens wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was the Seer.</value>
+    <value>The citizens wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the city has lost their top brains. {0} was the Seer.</value>
   </string>
   <string key="SorcererEaten">
     <value>The sound of mournful howls can be heard across the village. A mistake has been made. The wolves have killed one of their own. The Sorcerer {0} is dead.</value>
     <value>Cries of "I'm your ally!" were heard last night. All the citizens found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship...</value>
   </string>
   <string key="WildChildEaten">
-    <value>NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The village wondered if the wolves felt any guilt tearing apart the defenceless child.</value>
+    <value>NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The city wondered if the wolves felt any guilt tearing apart the defenceless child.</value>
   </string>
   <string key="SerialKillerKilledCH">
     <!--used when CH visits SK-->
@@ -1326,11 +1326,11 @@
   <string key="CultConvertKillerPublic">
     <!--used when Cultists convert the SK-->
     <value>The cult thought they would have a new member in their ranks, but they were wrong! {0}, a cultist, was minced to pieces and placed at the town square in the morning! Strangely their "holy" book was found stabbed with a knife, as if a statement to show whose religion was triumphant.</value>
-    <value>Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs.</value>
+    <value>Last night, the cult tried to convert the one person in the city crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs.</value>
   </string>
   <string key="GAGuardedKiller">
     <!-- used when GA guards SK -->
-    <value>It was supposed to be a night where {0} would save the village from the killers, but {0}'s halo was extinguished and wings sliced by the serial killer! Left was a note, "I could protect myself better than you can."</value>
+    <value>It was supposed to be a night where {0} would save the city from the killers, but {0}'s halo was extinguished and wings sliced by the serial killer! Left was a note, "I could protect myself better than you can."</value>
   </string>
   <string key="GAGuardedWolf">
     <!-- used when GA guards a wolf -->
@@ -1350,7 +1350,7 @@
   </string>
   <string key="CHKillsCultistEnd">
     <!--{0} = last cultist's name, {1} = CH's name -->
-    <value>{1} and {0} walk out in daylight. Seeing a shimmering cross worn around {0}'s neck, the righteous {1} draws their sword for the final time, putting an end to the twisted learnings of the cult that have contaminated the village.</value>
+    <value>{1} and {0} walk out in daylight. Seeing a shimmering cross worn around {0}'s neck, the righteous {1} draws their sword for the final time, putting an end to the twisted learnings of the cult that have contaminated the city.</value>
   </string>
 
   <!-- Extend time -->
@@ -1468,16 +1468,16 @@
 
   <string key="TannerEnd">
     <!-- 0 - Tanner name -->
-    <value>As the sun starts to shine on the village, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the village, {0} sighs. Their lifelong dream of being chosen to be lynched by the citizens is as dead as the citizens are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face.</value>
-    <value>{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left.</value>
+    <value>As the sun starts to shine on the city, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the city, {0} sighs. Their lifelong dream of being chosen to be lynched by the citizens is as dead as the citizens are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face.</value>
+    <value>{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the city to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left.</value>
   </string>
   <string key="SorcererEnd">
     <!-- 0 - Sorcerer name -->
-    <value>{0} opens their eyes, but instead of hearing the usual bustle of the village, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the village. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village.</value>
+    <value>{0} opens their eyes, but instead of hearing the usual bustle of the city, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the city. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village.</value>
     <value>For all of {0}'s efforts, {0}'s wolf friends lay motionless and lifeless. Even if the wolves have been brought victory, there is no one to savour the success with, neither are there any living citizens to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new wolves, new allies, and new treachery to commit new crimes against humanity.</value>
   </string>
   <string key="WhatVariantVets">
-    <value>What Variant?\nCurrent: {0}\nAs you have played over 500 games you can also join: </value>
+    <value>What Variant?\nCurrent: {0}\nAs you've played 500 games you can consider yourself a veteran now.</value>
   </string>
   <string key="Skip">
     <value>Skip</value>
@@ -1563,23 +1563,23 @@
   </string>
 
   <string key="RoleInfoPacifist">
-    <value>You are the Pacifist ☮️. You can choose to convince everyone in your village not to lynch anyone. This can only be done once.</value>
+    <value>You are the Pacifist ☮️. You can choose to convince everyone in your city not to lynch anyone. This can only be done once.</value>
   </string>
   <string key="Pacifist">
     <value>the Pacifist ☮️</value>
   </string>
   <string key="AboutPacifist">
-    <value>The Pacifist can choose to convince everyone in your village not to lynch anyone. This can only be done once.</value>
+    <value>The Pacifist can choose to convince everyone in your city not to lynch anyone. This can only be done once.</value>
   </string>
 
   <string key="RoleInfoWiseElder">
-    <value>You are the Wise Elder 🧓🏻. You can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a normal citizen.</value>
+    <value>You are the Wise Elder 🧓🏻. You can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a regular citizen.</value>
   </string>
   <string key="WiseElder">
     <value>the Wise Elder 🧓🏻</value>
   </string>
   <string key="AboutWiseElder">
-    <value>The Wise Elder 🧓🏻 can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a normal citizen.</value>
+    <value>The Wise Elder 🧓🏻 can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a regular citizen.</value>
   </string>
 
   <string key="RoleInfoThief">
@@ -1620,7 +1620,7 @@
   <string key="GunnerShotWiseElder">
   <!-- {0} - Gunner's Name -->
   <!-- {1} - Wise Elder's Name -->
-    <value>The Gunner 🔫, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a regular citizen 👱🏻‍♂️ with a field to plow.</value>
+    <value>The Gunner 🔫, {0} shot the Wise Elder 🧓🏻, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a regular citizen 👱🏻‍♂️ doomed to spend your days paying taxes.</value>
   </string>
   
   <string key="ThiefStealFailed">
@@ -1664,7 +1664,7 @@
   </string>
   <string key="ThiefEnd">
   <!-- 0 - Thief's name -->
-    <value>As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career.</value>
+    <value>As {0} wanders around the city, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another city to restart their illustrious career.</value>
   </string>
   <string key="ThiefStealChosen">
   <!-- 0 - target's name -->
@@ -1753,10 +1753,10 @@
 	<value>the Troublemaker 🤯</value>
   </string>
   <string key="AboutTroublemaker">
-	<value>The Troublemaker is the raging teenager in town. When they start yelling, the whole village gets out of control. To gain silence, they will lynch twice that day!</value>
+	<value>The Troublemaker is the raging teenager in town. When they start yelling, the whole city gets out of control. To gain silence, they will lynch twice that day!</value>
   </string>
   <string key="RoleInfoTroublemaker">
-	<value>You are the Troublemaker 🤯. As the teenager in the village, you're on the verge of puberty. One day, when you feel especially annoyed by everything, you can cause a huge furor and the village will lynch twice that day.</value>
+	<value>You are the Troublemaker 🤯. As the teenager in the city, you're on the verge of puberty. One day, when you feel especially annoyed by everything, you can cause a huge furor and the city will lynch twice that day.</value>
   </string>
   <string key="AskTroublemaker">
 	<value>Do you want to cause trouble today?</value>
@@ -1959,10 +1959,10 @@
     <value>Player list will be shuffled every time: {0}</value>
   </string>
   <string key="AboutGraveDigger">
-	<value>You are the Grave Digger ☠️. Every night, you dig the graves for all the people who died since the last time you did (yes, even werewolves deserve a proper burial). Since you are out all night, wolves and the cult can't find you, unless you actually have nothing to do (i.e. no one died), in that case you'll just stay home. Everyone who visits you has a chance of falling into your newly dug graves, depending on how many graves you dug. Also, the chance is halved for everyone who is on the village team with you. But since you are out at night, the wolves or the serial killer might spot and kill you, and the more graves you have to dig, the more likely it is. Also, apparently the serial killer can find you whether you're at home or not, but they might at least stumble in one of your graves and hurt their leg, causing them to maybe lose control over who is their victim the next night...</value>
+	<value>You are the Grave Digger ☠️. Every night, you dig the graves for all the people who died since the last time you did (yes, even werewolves deserve a proper burial). Since you are out all night, wolves and the cult can't find you, unless you actually have nothing to do (i.e. no one died), in that case you'll just stay home. Everyone who visits you has a chance of falling into your newly dug graves, depending on how many graves you dug. Also, the chance is halved for everyone who is on the citizens' team with you. But since you are out at night, the wolves or the serial killer might spot and kill you, and the more graves you have to dig, the more likely it is. Also, apparently the serial killer can find you whether you're at home or not, but they might at least stumble in one of your graves and hurt their leg, causing them to maybe lose control over who is their victim the next night...</value>
   </string>
   <string key="RoleInfoGraveDigger">
-	<value>You are the Grave Digger ☠️. It is your responsibility to get rid of the villages' dead bodies. You dig a grave for everyone who was killed since last night. However, you usually get too tired to finish the grave, so it remains uncovered. Some visitors might fall in and die... At least, the wolves can't eat you since you are out all night.</value>
+	<value>You are the Grave Digger ☠️. It is your responsibility to get rid of the city ​​dead bodies. You dig a grave for everyone who was killed since last night. However, you usually get too tired to finish the grave, so it remains uncovered. Some visitors might fall in and die... At least, the wolves can't eat you since you are out all night.</value>
   </string>
   <string key="GraveDigger">
 	<value>the Grave Digger ☠️</value>
@@ -2161,7 +2161,7 @@
   </string>
   <!--{0}: list of people who died in the flames-->
   <string key="Burning">
-	<value>The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but you're too late to save the people whose houses were mysteriously doused in kerosene. Today you mourn the deaths of the following people:\n{0}</value>
+	<value>The city awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but you're too late to save the people whose houses were mysteriously doused in kerosene. Today you mourn the deaths of the following people:\n{0}</value>
   </string>
   <string key="ArsonistWins">
 	<value>The only one left is the arsonist, standing on a pile of ashes. The arsonist wins...</value>
@@ -2174,17 +2174,17 @@
   </string>
   <!--{0}: role that is not part of the village-->
   <string key="AugurSees">
-	<value>As you look into the skies, you see the birds form a very unusual pattern. That can only mean that {0} is not in the village.</value>
-	<value>The birds tell you that {0} is not part of the village right now.</value>
+	<value>As you look into the skies, you see the birds form a very unusual pattern. That can only mean that {0} is not in the city.</value>
+	<value>The birds tell you that {0} is not part of the city right now.</value>
   </string>
   <string key="AboutAugur">
 	<value>You are the Augur 🦅. Every morning, you watch the birds and deduce a role that certainly is not in the game right now from their flight. They also will never tell you a role twice, so be sure you make use of that information!</value>
   </string>
   <string key="RoleInfoAugur">
-	<value>You are the Augur 🦅. You have the power to see things, but quite different from the seer or the oracle. You are the only one who can see roles that are not in the village, and not even see one of them twice!</value>
+	<value>You are the Augur 🦅. You have the power to see things, but quite different from the seer or the oracle. You are the only one who can see roles that are not in the city, and not even see one of them twice!</value>
   </string>
   <string key="AugurSeesNothing">
-	<value>There are absolutely no birds in the skies today. That probably means you have seen all the roles that are not in the village already...</value>
+	<value>There are absolutely no birds in the skies today. That probably means you have seen all the roles that are not in the city already...</value>
   </string>
   <!--{0}: chosen victim, {1}: wolf who died in flames-->
   <string key="WolvesVisitBurn">
@@ -2279,7 +2279,7 @@
 		<value>You have earned {0} points! Now you have {1}.</value>
 	</string>
 	<string key="grupoban">
-		<value>Bot in this group are currently restricted, talk to a bot administrator to resolve it.(@KarelysCRP or @tmogeid)</value>
+		<value>Bot in this group are currently restricted, talk to a bot administrator to resolve it.</value>
 	</string>
 	<string key="Idle">
 		<value>AFK</value>
