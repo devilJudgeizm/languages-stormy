@@ -453,7 +453,7 @@ FIRE AND BLOOD❗️
   </string>
   <string key="CultWins">
     <value>همه ی لنیستر ها مردن و مردم هم به مردگان متحرک تبدیل شدن.
-وایت وایکر ها برنده شدن👤💀</value>
+وایت وایکر ها برنده شدن👤🪦</value>
   </string>
   <string key="HunterVisitDead">
 <!-- 0 - target name -->
@@ -465,7 +465,7 @@ FIRE AND BLOOD❗️
   </string>
   <string key="HunterFailedToFind">
 <!-- 0 - target name -->
-    <value>{0} وایت واکر نبود🙂</value>
+    <value>{0} وایت واکر نبود☁</value>
   </string>
   <string key="WildChildToWolves">
 <!-- 0 - Werechild's name -->
@@ -535,10 +535,10 @@ FIRE AND BLOOD❗️
     <value>فرار کرد</value>
   </string>
   <string key="Dead">
-    <value>💀مرده</value>
+    <value>🪦مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂زنده</value>
+    <value>☁زنده</value>
   </string>
   <string key="PlayersAlive">
 <!-- New strings 4 MAY 2016-->
@@ -909,7 +909,7 @@ HOLD THE DOOR!</value>
     <value>تو لرد بیلیش 🖕 هستی زمانی که همه لنیستر ها بمیرن اونوقت تو به گروه لنیستر ها ملحق میشی تا فرمانروایی رو به دست بیاری❗️❗️</value>
   </string>
   <string key="AboutGA">
-    <value>تو هودور👼هستی هر شب میتونی از یه نفر در برابر حمله ی لنیستر ها مراقبت کنی...اما اگه از یه لنیستری مراقبت کنی ممکنه بمیری💀</value>
+    <value>تو هودور👼هستی هر شب میتونی از یه نفر در برابر حمله ی لنیستر ها مراقبت کنی...اما اگه از یه لنیستری مراقبت کنی ممکنه بمیری🪦</value>
   </string>
   <string key="AboutDetective">
     <value>تو لرد واریس🕵 هستی هر روز میتونی از گنجشک هات نقش یه نفر رو بپرسی فقط 40% ممکنه که گنجشک ها تورو لو بدن</value>
@@ -1333,7 +1333,7 @@ HOLD THE DOOR!</value>
     <value>رمزی بولتون 🔪 چاقوشو 85 بار داخل شکم هودور(👼) فرو کرد و {0} رو کشت</value>
   </string>
   <string key="GunnerKilled">
-    <value>رمزی بولتون🔪 از خاندان استارک متنفره واسه همین آریا استارک(🔫) رو کشت و جنازه {0} جلوی دروازه وینترفل سوزوند💀</value>
+    <value>رمزی بولتون🔪 از خاندان استارک متنفره واسه همین آریا استارک(🔫) رو کشت و جنازه {0} جلوی دروازه وینترفل سوزوند🪦</value>
   </string>
   <string key="MayorKilled">
     <value>رمزی بولتون🔪 ند استارک رو به قتل رسوند.با مرگ {0} حالا وینترفل در تصاحب کامل رمزی هست!

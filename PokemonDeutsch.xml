@@ -614,10 +614,10 @@ Bevor es Zeit hat zu reagieren, setzt Team Rocket's Nidoking die Attacke Doppelk
     <value>Geflohen</value>
   </string>
   <string key="Dead">
-    <value>💀 Ohnmächtig</value>
+    <value>🪦 Ohnmächtig</value>
   </string>
   <string key="Alive">
-    <value>🙂 Kampfbereit</value>
+    <value>☁ Kampfbereit</value>
   </string>
   <string key="PlayersAlive">
     <!-- New strings 4 MAY 2016 -->

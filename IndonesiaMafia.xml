@@ -432,10 +432,10 @@
     <value>Kabur</value>
   </string>
   <string key="Dead">
-    <value>💀 Hilang</value>
+    <value>🪦 Hilang</value>
   </string>
   <string key="Alive">
-    <value>🙂 Masih ada</value>
+    <value>☁ Masih ada</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain yang masih ada</value>

@@ -633,10 +633,10 @@
 	<value>Lief davon</value>
   </string>
   <string key="Dead">
-	<value>💀 Tot</value>
+	<value>🪦 Tot</value>
   </string>
   <string key="Alive">
-	<value>🙂 Lebendig</value>
+	<value>☁ Lebendig</value>
   </string>
   
   <!-- New strings 4 MAY 2016-->
@@ -1000,8 +1000,8 @@
 	<value>Am Morgen stehen sich die beiden verbliebenen Dorfbewohner in der Mitte des Dorfes gegenüber, als {0} auf einmal anfängt, breit zu grinsen. Man sieht noch kurz die Klinge eines Messers 🔪 aufblitzen, dann bohrt sie sich jedoch bereits in das Herz von {1}.</value>
   </string>
   <string key="NoWinner" isgif="true">
-	<value>Jeder im Dorf starb... die toten Körper 💀 liegen überall herum. Niemand gewinnt die Runde...</value>
-	<value>Im Dorf kehrt absolute Stille ein - ein äußerst seltener Anblick. Überall Blut, reglose Körper 💀 und andere Spuren des Wahnsinns. Niemand gewinnt dieses Spiel.</value>
+	<value>Jeder im Dorf starb... die toten Körper 🪦 liegen überall herum. Niemand gewinnt die Runde...</value>
+	<value>Im Dorf kehrt absolute Stille ein - ein äußerst seltener Anblick. Überall Blut, reglose Körper 🪦 und andere Spuren des Wahnsinns. Niemand gewinnt dieses Spiel.</value>
   </string>
   <string key="SKHunterEnd">
 	<!-- 0 - SK's name -->

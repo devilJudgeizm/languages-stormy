@@ -489,10 +489,10 @@
 		<value>หนีไปแล้ว</value>
 	</string>
 	<string key="Dead">
-		<value>💀 ตาย</value>
+		<value>🪦 ตาย</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 มีชีวิต</value>
+		<value>☁ มีชีวิต</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>ผู้เล่นที่มีชีวิต</value>

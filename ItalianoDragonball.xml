@@ -437,10 +437,10 @@
     <value>👻 Scappato dal ring</value>
   </string>
   <string key="Dead">
-    <value>💀 Eliminato</value>
+    <value>🪦 Eliminato</value>
   </string>
   <string key="Alive">
-    <value>🙂 In vita</value>
+    <value>☁ In vita</value>
   </string>
   <string key="PlayersAlive">
   <!-- New strings 4 MAY 2016-->

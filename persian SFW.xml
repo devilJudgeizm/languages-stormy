@@ -193,7 +193,7 @@
     <value >تو پیشگو هستی. هر شب یه نفرو ازم بپرس تا بگم نقشش چیه</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو یه روستایی ساده ای🙂</value>
+    <value >تو یه روستایی ساده ای☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو منافقی! اگه اعدامت کنن تو میبری و بازی تموم میشه</value>
@@ -487,10 +487,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

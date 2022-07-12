@@ -486,10 +486,10 @@
     <value>Huyó</value>
   </string>
   <string key="Dead">
-    <value>💀 Fuera de la ciudad</value>
+    <value>🪦 Fuera de la ciudad</value>
   </string>
   <string key="Alive">
-    <value>🙂 Vive en la ciudad</value>
+    <value>☁ Vive en la ciudad</value>
   </string>
   <string key="PlayersAlive">
     <value>Jugadores que aún residen aquí</value>

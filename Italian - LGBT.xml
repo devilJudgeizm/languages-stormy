@@ -431,10 +431,10 @@
     <value>👻 Ritirato</value>
   </string>
   <string key="Dead">
-    <value>💀 Uscito</value>
+    <value>🪦 Uscito</value>
   </string>
   <string key="Alive">
-    <value>🙂 In pista</value>
+    <value>☁ In pista</value>
   </string>
   <string key="PlayersAlive">
     <value>Giocatori alla serata</value>

@@ -134,7 +134,7 @@
     <value>Se t'ha afegit a la llista d'espera de {0}. T'enviaré un missatge privat quan comenci la següent partida.\nMentre esperes, per què no visites la botiga? https://teespring.com/stores/werewolf-for-telegram</value>
   </string>
   <string key="Alive">
-    <value>🙂 viu</value>
+    <value>☁ viu</value>
   </string>
   <string key="All">
     <value>Tots</value>
@@ -568,7 +568,7 @@
     <value>Durada del dia</value>
   </string>
   <string key="Dead">
-    <value>💀 ha mort</value>
+    <value>🪦 ha mort</value>
   </string>
   <string key="DeadFlee">
     <value>No pots fugir! HAS MORT! Torna a terra... renoi!</value>
@@ -1298,7 +1298,7 @@
     <value>Ets el caçador 🎯 de la vila. No dorms bé i no te'n vas mai al llit sense l'escopeta. Si mors, pots triar matar algú altre. Si se't mengen, tens la possibilitat de matar un llop, però no podràs matar ningú més.</value>
   </string>
   <string key="RoleInfoLycan">
-    <value>Ets el licantrop 🐺🌝! Ets un llop, però la vident es confondrà i endevinarà que ets un vilatà 🙂</value>
+    <value>Ets el licantrop 🐺🌝! Ets un llop, però la vident es confondrà i endevinarà que ets un vilatà ☁</value>
   </string>
   <string key="RoleInfoMason">
     <value>Ets un maçó 👷. Si hi ha altres maçons, sabreu qui sou. Si no, ets un vilatà.</value>
@@ -1307,7 +1307,7 @@
     <value>Ets el batlle 🎖. El teu vot durant el linxament val el doble, una vegada t'hagis revelat. Ets a l'equip dels vilatans.</value>
   </string>
   <string key="RoleInfoOracle">
-    <value>Ets l'oracle 🌀. Cada nit pots triar observar algú, però només podràs veure què NO és. El rol que se't dirà pertanyerà a algú altre del joc que encara és viu, de manera que para atenció al rol, ja que vol dir que qui el tingui, encara és viu 🙂</value>
+    <value>Ets l'oracle 🌀. Cada nit pots triar observar algú, però només podràs veure què NO és. El rol que se't dirà pertanyerà a algú altre del joc que encara és viu, de manera que para atenció al rol, ja que vol dir que qui el tingui, encara és viu ☁</value>
   </string>
   <string key="RoleInfoPacifist">
     <value>Ets el pacifista ☮️. Pots triar si vols convèncer tothom de la vila perquè no es linxi ningú. Només pots fer-ho una vegada.</value>
@@ -1591,7 +1591,7 @@
     <value>Oh, no! Heu linxat el suïcida! El suïcida guanya la partida, rucs.</value>
   </string>
   <string key="ThankYou">
-    <value>Gràcies, que tinguis un bon dia 🙂</value>
+    <value>Gràcies, que tinguis un bon dia ☁</value>
   </string>
   <string key="Thief">
     <value>el lladre 😈</value>

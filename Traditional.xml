@@ -559,10 +559,10 @@
     <value>已逃跑</value>
   </string>
   <string key="Dead">
-    <value>💀死亡</value>
+    <value>🪦死亡</value>
   </string>
   <string key="Alive">
-    <value>🙂倖存</value>
+    <value>☁倖存</value>
   </string>
   <string key="PlayersAlive">
     <value>倖存者們</value>
@@ -626,7 +626,7 @@
   </string>
   <string key="IsDead">
     <!-- used when a player is killed, but not by werewolf or lynching -->
-    <value>已經死了💀</value>
+    <value>已經死了🪦</value>
   </string>
   <!-- MORE STRINGS May 16, 2016 -->
   <string key="AdminAdded">

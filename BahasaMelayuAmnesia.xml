@@ -406,10 +406,10 @@ translate to Bahasa Melayu by Skyzkillerz-->
     <value>Melarikan diri</value>
   </string>
   <string key="Dead">
-    <value>💀 Mati</value>
+    <value>🪦 Mati</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hidup</value>
+    <value>☁ Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Amnesiacs Hidup</value>

@@ -490,10 +490,10 @@
     <value>فرار کرده بید</value>
   </string>
   <string key="Dead">
-    <value>💀 نفله وشده</value>
+    <value>🪦 نفله وشده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده بید</value>
+    <value>☁ زنده بید</value>
   </string>
   <string key="PlayersAlive">
     <value>برره ای های زنده</value>

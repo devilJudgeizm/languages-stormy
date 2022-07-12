@@ -486,10 +486,10 @@
     <value>سبح هاربًا</value>
   </string>
   <string key="Dead">
-    <value>💀 محتجز داخل خزانة دايفي جونز</value>
+    <value>🪦 محتجز داخل خزانة دايفي جونز</value>
   </string>
   <string key="Alive">
-    <value>🙂 يبحر في الخط العظيم</value>
+    <value>☁ يبحر في الخط العظيم</value>
   </string>
   <string key="PlayersAlive">
     <value>اللاعبين الأحياء</value>

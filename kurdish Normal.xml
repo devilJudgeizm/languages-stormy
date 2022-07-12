@@ -318,7 +318,7 @@
     <value>تۆ غەیب بیژی.هەرشەو رولی یەکیکم لێ پرسە با پێت بڵیم.</value>
   </string>
   <string key="RoleInfoVillager">
-    <value>تۆ دیهاتیکی ئاساییت🙂.</value>
+    <value>تۆ دیهاتیکی ئاساییت☁.</value>
   </string>
   <string key="RoleInfoTanner">
     <value>تۆ مونافقی! گەر لە سێدارە بدریت دەیبەیتەوە و باقی ئەیدۆرینن</value>
@@ -828,10 +828,10 @@
     <value>ڕا کردوو </value>
   </string>
   <string key="Dead">
-    <value>💀 مردوو</value>
+    <value>🪦 مردوو</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنیدوو</value>
+    <value>☁ زنیدوو</value>
   </string>
   <string key="PlayersAlive">
 <!-- New strings 4 MAY 2016-->

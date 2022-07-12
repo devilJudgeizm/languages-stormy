@@ -403,10 +403,10 @@
     <value>🏃</value>
   </string>
   <string key="Dead">
-    <value>💀</value>
+    <value>🪦</value>
   </string>
   <string key="Alive">
-    <value>🙂</value>
+    <value>☁</value>
   </string>
   <string key="PlayersAlive">
     <value>Vivantaj ludantoj</value>

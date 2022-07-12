@@ -523,10 +523,10 @@
     <value>Menang Lari</value>
   </string>
   <string key="Dead">
-    <value>💀 Namatemo</value>
+    <value>🪦 Namatemo</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hidup</value>
+    <value>☁ Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain yang masih hidup</value>

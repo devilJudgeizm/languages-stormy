@@ -487,10 +487,10 @@
     <value>هـــرب !</value>
   </string>
   <string key="Dead">
-    <value>💀 مــــات</value>
+    <value>🪦 مــــات</value>
   </string>
   <string key="Alive">
-    <value>🙂 حــــي</value>
+    <value>☁ حــــي</value>
   </string>
   <string key="PlayersAlive">
     <value>اللاعبين الأحياء</value>

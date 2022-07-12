@@ -545,10 +545,10 @@
     <value>Lief davon</value>
   </string>
   <string key="Dead">
-    <value>💀 Tot</value>
+    <value>🪦 Tot</value>
   </string>
   <string key="Alive">
-    <value>🙂 Lebendig</value>
+    <value>☁ Lebendig</value>
   </string>
   <string key="Mason">
     <value>ein Freimaurer 👷</value>

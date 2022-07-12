@@ -403,10 +403,10 @@
 		<value>🏃 Ливнул</value>
 	</string>
 	<string key="Dead">
-		<value>💀 Мёртв</value>
+		<value>🪦 Мёртв</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Жив</value>
+		<value>☁ Жив</value>
 	</string>
 	<string key="Mason">
 		<value>Камень 👷</value>

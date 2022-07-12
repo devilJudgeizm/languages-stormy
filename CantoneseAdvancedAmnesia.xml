@@ -492,10 +492,10 @@ Best played with secret lynch and no role reveal after death. -->
     <value>🚀 移咗民</value>
   </string>
   <string key="Dead">
-    <value>💀 死嗱咗</value>
+    <value>🪦 死嗱咗</value>
   </string>
   <string key="Alive">
-    <value>🙂 生勾勾</value>
+    <value>☁ 生勾勾</value>
   </string>
   <string key="PlayersAlive">
     <value>生還者 </value>

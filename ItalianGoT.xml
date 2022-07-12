@@ -453,7 +453,7 @@ variant="Game of Thrones"/>
     <value>Varys👳🏻 - (🕵)</value>
   </string>
   <string key="Wolf">
-    <value>un Estraneo💀 - (🐺)</value>
+    <value>un Estraneo🪦 - (🐺)</value>
   </string>
   <string key="Cursed">
     <value>Benjen Stark👣 - (😾)</value>
@@ -489,10 +489,10 @@ variant="Game of Thrones"/>
     <value>👻 Fuggito</value>
   </string>
   <string key="Dead">
-    <value>💀 Morto</value>
+    <value>🪦 Morto</value>
   </string>
   <string key="Alive">
-    <value>🙂 In lizza</value>
+    <value>☁ In lizza</value>
   </string>
   <string key="PlayersAlive">
     <value>Pretendenti in vita:</value>
@@ -680,11 +680,11 @@ variant="Game of Thrones"/>
 
   <string key="HunterShotWolfMulti">
 
-    <value>Gli Estranei hanno provato ad attaccare il Mastino la scorsa notte, ma il Mastino è riuscito a portarne uno con sé nella tomba! {0} è morto (Estraneo💀 ) </value>
+    <value>Gli Estranei hanno provato ad attaccare il Mastino la scorsa notte, ma il Mastino è riuscito a portarne uno con sé nella tomba! {0} è morto (Estraneo🪦 ) </value>
   </string>
   <string key="HunterShotWolf">
 
-    <value>Gli Estranei hanno provato ad attaccare il Mastino l'ultima notte, ma il Mastino è riuscito a uccidere l'Estraneo💀 {0} con la sua ascia di Valyria!</value>
+    <value>Gli Estranei hanno provato ad attaccare il Mastino l'ultima notte, ma il Mastino è riuscito a uccidere l'Estraneo🪦 {0} con la sua ascia di Valyria!</value>
   </string>
   <string key="SerialKillerKilledWolf">
 

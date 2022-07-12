@@ -419,10 +419,10 @@
 		<value>🚀 Resigned</value>
 	</string>
 	<string key="Dead">
-		<value>💀 Fired</value>
+		<value>🪦 Fired</value>
 	</string>
 	<string key="Alive">
-		<value>🙂 Working</value>
+		<value>☁ Working</value>
 	</string>
 	<string key="PlayersAlive">
 		<value>Remaining Workers</value>
@@ -473,7 +473,7 @@
 		<value>Resignation not allowed! Said the board!</value>
 	</string>
 	<string key="IsDead"> <!-- used when gunner shoots a player -->
-		<value>is fired 💀</value>
+		<value>is fired 🪦</value>
 	</string>
 
 	<!-- MORE STRINGS May 16, 2016 -->

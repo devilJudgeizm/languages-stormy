@@ -549,7 +549,7 @@
       <value>🔥 Gefeuert</value>
     </string>
     <string key="Alive">
-      <value>🙂 Angestellt</value>
+      <value>☁ Angestellt</value>
     </string>
 
     <!-- Freimaurer oeder Eier-Freikünstler -->
@@ -923,8 +923,8 @@
       <value>Am Morgen stehen sich die beiden verbliebenen Dorfbewohner in der Mitte des Dorfes gegenüber, als {0} auf einmal anfängt, breit zu grinsen. Man sieht noch kurz die Klinge eines Messers 🔪 aufblitzen, dann bohrt sie sich jedoch bereits in das Herz von {1}.</value> -->
     </string>
     <string key="NoWinner" isgif="true">
-      <value>Alle wurden gefeuert. Nur stille Maschienen und Fließbänder 💀 stehen überall herum. Niemand gewinnt die Runde und Ostern ist auch noch dahin...</value>
-      <!--<value>Im Dorf kehrt absolute Stille ein - ein äußerst seltener Anblick. Überall Blut, reglose Körper 💀 und andere Spuren des Wahnsinns. Niemand gewinnt dieses Spiel.</value>-->
+      <value>Alle wurden gefeuert. Nur stille Maschienen und Fließbänder 🪦 stehen überall herum. Niemand gewinnt die Runde und Ostern ist auch noch dahin...</value>
+      <!--<value>Im Dorf kehrt absolute Stille ein - ein äußerst seltener Anblick. Überall Blut, reglose Körper 🪦 und andere Spuren des Wahnsinns. Niemand gewinnt dieses Spiel.</value>-->
     </string>
     <string key="SKHunterEnd">
       <!-- 0 - SK's name -->

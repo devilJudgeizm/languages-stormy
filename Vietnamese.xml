@@ -496,10 +496,10 @@ Bần nông hèn mọn, không có chức năng gì và chỉ có thể chiến 
     <value>Đã chạy mất</value>
   </string>
   <string key="Dead">
-    <value>💀 Nín thở</value>
+    <value>🪦 Nín thở</value>
   </string>
   <string key="Alive">
-    <value>🙂 Còn thở</value>
+    <value>☁ Còn thở</value>
   </string>
   <string key="PlayersAlive">
     <value>Những người chơi còn sống</value>

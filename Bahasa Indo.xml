@@ -245,8 +245,8 @@
   <!-- 0 - player name -->
     <!-- 1 - player role -->
   <value >🔥 Warga desa mengambil keputusan bulat. {0} tewas dibakar masa. {1}</value>
-  <value >🔥 Warga desa mengambil keputusan bulat. {0} digantung oleh warga dan meronta sebelum akhirnya tewas.💀 {1}</value>
-  <value >🔥 Warga desa telah memilih dan sepakat. {0} dilempari batu hingga tewas.💀 {1}</value>
+  <value >🔥 Warga desa mengambil keputusan bulat. {0} digantung oleh warga dan meronta sebelum akhirnya tewas.🪦 {1}</value>
+  <value >🔥 Warga desa telah memilih dan sepakat. {0} dilempari batu hingga tewas.🪦 {1}</value>
   <value >🔥 Warga desa telah mengambil keputusan. {0} dikutuk menjadi batu kristal.💎 {1}</value>
   <value >🔥 Warga desa telah yakin dan memutuskan {0} dikirim ke alien tapir dan tewas diperjalanan.👽 {1}</value>
   </string>
@@ -534,10 +534,10 @@
     <value>Kabur</value>
   </string>
   <string key="Dead">
-    <value>💀 Tewas</value>
+    <value>🪦 Tewas</value>
   </string>
   <string key="Alive">
-    <value>🙂 Masih Hidup</value>
+    <value>☁ Masih Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain yang Masih Hidup</value>
@@ -1552,7 +1552,7 @@
   </string>
 
   <string key="RoleInfoLycan">
-    <value>Lycan 👱🌚!  Kamu adalah Serigala, tapi seer akan kebingungan dan melihatmu sebagai warga desa 🙂</value>
+    <value>Lycan 👱🌚!  Kamu adalah Serigala, tapi seer akan kebingungan dan melihatmu sebagai warga desa ☁</value>
   </string>
   <string key="Lycan">
     <value>Lycan 🐺🌝</value>

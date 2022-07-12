@@ -435,10 +435,10 @@
     <value>逃走的廢渣</value>
   </string>
   <string key="Dead">
-    <value>💀 被撕</value>
+    <value>🪦 被撕</value>
   </string>
   <string key="Alive">
-    <value>🙂 生存</value>
+    <value>☁ 生存</value>
   </string>
   <string key="PlayersAlive">
     <value>生還者</value>
@@ -492,7 +492,7 @@
   </string>
   <string key="IsDead">
   <!-- used when gunner shoots a player -->
-    <value>已被撕卡 💀</value>
+    <value>已被撕卡 🪦</value>
   </string>
   <!-- MORE STRINGS May 16, 2016 -->
   <string key="AdminAdded">
@@ -1482,7 +1482,7 @@
 	<string key="HunterKilledWiseElder">
 		<!-- {0} - Hunter's Name -->
 		<!-- {1} - Wise Elder's Name -->
-		<value>臨死嘅男主角【{0}】一槍轟落【{1}】度，以為佢係BOSS，點知錯手殺咗【坦爺】！無盡嘅後悔，佔據佢人生最後幾秒嘅腦海，傷心到連自己係邊個都唔記得，好似一個廢村咁死去。\n【👱 村民】已死 💀。</value>
+		<value>臨死嘅男主角【{0}】一槍轟落【{1}】度，以為佢係BOSS，點知錯手殺咗【坦爺】！無盡嘅後悔，佔據佢人生最後幾秒嘅腦海，傷心到連自己係邊個都唔記得，好似一個廢村咁死去。\n【👱 村民】已死 🪦。</value>
 	</string>
 	<string key="GunnerShotWiseElder">
 		<!-- {0} - Gunner's Name -->

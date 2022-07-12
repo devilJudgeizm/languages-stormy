@@ -402,10 +402,10 @@ Melhor jogar com o reveal role after death ON, senão fica difícil demais, mas 
     <value>Fugiu</value>
   </string>
   <string key="Dead">
-    <value>💀 MORTA</value>
+    <value>🪦 MORTA</value>
   </string>
   <string key="Alive">
-    <value>🙂 Vivo(a)</value>
+    <value>☁ Vivo(a)</value>
   </string>
   <string key="PlayersAlive">
     <value>Jogadores vivos</value>

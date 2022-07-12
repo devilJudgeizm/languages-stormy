@@ -651,10 +651,10 @@
     <value>💨 草已着</value>
   </string>
   <string key="Dead">
-    <value>💀 被放逐者</value>
+    <value>🪦 被放逐者</value>
   </string>
   <string key="Alive">
-    <value>🙂 清水灣居民</value>
+    <value>☁ 清水灣居民</value>
   </string>
   <string key="PlayersAlive">
     <value>清水灣人口</value>
@@ -724,7 +724,7 @@
 	<value>你交咗Quit U表格，但ARRO仲處理緊你嘅申請。</value>
   </string>
   <string key="IsDead"> <!-- used when gunner shoots a player -->
-    <value>已被Quit U 💀</value>
+    <value>已被Quit U 🪦</value>
   </string>
   <!-- MORE STRINGS 16/05/2016 -->
   <string key="AdminAdded">

@@ -501,10 +501,10 @@
     <value>Kabur</value>
   </string>
   <string key="Dead">
-    <value>💀 Mati/Diusir</value>
+    <value>🪦 Mati/Diusir</value>
   </string>
   <string key="Alive">
-    <value>🙂 Hidup</value>
+    <value>☁ Hidup</value>
   </string>
   <string key="PlayersAlive">
     <value>Pemain yang masih hidup</value>

@@ -195,7 +195,7 @@
     <value >توهکر 👨‍💻 معروف هستی  به خدمت پلیس درومدی وبا مهارت وتجربه ی خودت به پلیس توپیدا کردن و از بین بردن قتلو و شورش کمک میکنی .</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تویه شهروند معمولی دره پیت هستی🙂</value>
+    <value >تویه شهروند معمولی دره پیت هستی☁</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو انتحاری 🧨 هستی اگه تو دادگاه بر علیه تو رای بدن و تو رو اعدام کنن تو قبل از اعدام شدن خودتو منفجر میکنی و همه رو میکشی</value>
@@ -489,10 +489,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>مسافر های زنده</value>

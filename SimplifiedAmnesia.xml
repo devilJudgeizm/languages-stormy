@@ -406,10 +406,10 @@
     <value>已逃跑</value>
   </string>
   <string key="Dead">
-    <value>💀死亡</value>
+    <value>🪦死亡</value>
   </string>
   <string key="Alive">
-    <value>🙂幸存</value>
+    <value>☁幸存</value>
   </string>
   <string key="PlayersAlive">
     <value>幸存者们</value>
@@ -461,7 +461,7 @@
     <value>抱歉，村庄大门已关闭，守门人不让你离开村庄。</value>
   </string>
   <string key="IsDead"> <!-- used when gunner shoots a player -->
-    <value>已经死了💀</value>
+    <value>已经死了🪦</value>
   </string>
 
   <!-- MORE STRINGS May 16, 2016 -->

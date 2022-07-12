@@ -200,7 +200,7 @@
     <value >تو بازپرس هستی. هر شب یه نفرو ازم بپرس تا بگم نقشش چیه</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >تو شهروند بازی هستی 🙂دقت کن تا مافیا رو پیدا کنی و ببری!</value>
+    <value >تو شهروند بازی هستی ☁دقت کن تا مافیا رو پیدا کنی و ببری!</value>
   </string>
   <string key="RoleInfoTanner" >
     <value >تو جوکری! اگه اعدامت کنن تو میبری و بازی تموم میشه</value>
@@ -498,10 +498,10 @@
     <value>فرار کرده</value>
   </string>
   <string key="Dead">
-    <value>💀 مرده</value>
+    <value>🪦 مرده</value>
   </string>
   <string key="Alive">
-    <value>🙂 زنده</value>
+    <value>☁ زنده</value>
   </string>
   <string key="PlayersAlive">
     <value>بازیکن های زنده</value>

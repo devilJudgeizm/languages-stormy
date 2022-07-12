@@ -495,10 +495,10 @@
     <value>Gevlucht</value>
   </string>
   <string key="Dead">
-    <value>💀 Dood</value>
+    <value>🪦 Dood</value>
   </string>
   <string key="Alive">
-    <value>🙂  Levend</value>
+    <value>☁  Levend</value>
   </string>
   <string key="PlayersAlive">
     <value>Levende Spelers</value>

@@ -459,10 +459,10 @@
     <value>ha fugit</value>
   </string>
   <string key="Dead">
-    <value>💀 ha sigut expulsat</value>
+    <value>🪦 ha sigut expulsat</value>
   </string>
   <string key="Alive">
-    <value>🙂 segueix aquí</value>
+    <value>☁ segueix aquí</value>
   </string>
   <string key="PlayersAlive">
     <value>Pixapins presents</value>

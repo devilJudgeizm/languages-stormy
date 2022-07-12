@@ -489,10 +489,10 @@ Last update: 26-5-2020
     <value>هرب</value>
   </string>
   <string key="Dead">
-    <value>💀 ميت</value>
+    <value>🪦 ميت</value>
   </string>
   <string key="Alive">
-    <value>🙂 حي</value>
+    <value>☁ حي</value>
   </string>
   <string key="PlayersAlive">
     <value>اللاعبين الأحياء</value>

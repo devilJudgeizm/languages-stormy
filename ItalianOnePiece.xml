@@ -157,7 +157,7 @@
     <value>Sei il miglior cyborg al mondo, Fraaaanky🚀.. Durante il giorno, puoi scegliere un giocatore su cui usare i tuoi Suuuuuuuper occhiali-spia e scoprirne il ruolo. Ad ogni modo, facendo così, il tuo ruolo sarà rivelato ai marines! (40% di probabilità)</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value>Sei Brook 💀, tu offri letteralmente il tuo cuore e la tua anima alla comunità dei pirati! (sul serio, lo sanno già tutti...)</value>
+    <value>Sei Brook 🪦, tu offri letteralmente il tuo cuore e la tua anima alla comunità dei pirati! (sul serio, lo sanno già tutti...)</value>
   </string>
   <string key="RoleInfoGuardianAngel">
     <value>Sei l'unico dottore della ciurma, Chopper 🦌. Ogni notte, puoi scegliere un giocatore da proteggere e salvare. Attenzione a non scegliere un marine, altrimenti potresti venire catturato.</value>
@@ -367,7 +367,7 @@
     <value>un Pirata 👱</value>
   </string>
   <string key="Drunk">
-    <value>Brook, The Soul King 💀</value>
+    <value>Brook, The Soul King 🪦</value>
   </string>
   <string key="Harlot">
     <value>Nami, la gatta ladra 💋</value>
@@ -421,7 +421,7 @@
     <value>😵 Fuori gioco</value>
   </string>
   <string key="Alive">
-    <value>🙂 In vita</value>
+    <value>☁ In vita</value>
   </string>
   <string key="PlayersAlive">
     <value>Giocatori in vita</value>

@@ -399,10 +399,10 @@
     <value>Сбежал</value>
   </string>
   <string key="Dead">
-    <value>💀 Мёртв</value>
+    <value>🪦 Мёртв</value>
   </string>
   <string key="Alive">
-    <value>🙂 Жив</value>
+    <value>☁ Жив</value>
   </string>
   <string key="PlayersAlive">
     <value>Игроки живы</value>

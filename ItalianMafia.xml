@@ -406,10 +406,10 @@
     <value>Scappato</value>
   </string>
   <string key="Dead">
-    <value>💀 Fuori dalla città</value>
+    <value>🪦 Fuori dalla città</value>
   </string>
   <string key="Alive">
-    <value>🙂 In città</value>
+    <value>☁ In città</value>
   </string>
   <string key="PlayersAlive">
     <value>Giocatori vivi</value>

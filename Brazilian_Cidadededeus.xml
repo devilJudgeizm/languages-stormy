@@ -400,10 +400,10 @@
     <value>Arregão</value>
   </string>
   <string key="Dead">
-    <value>💀 Morto</value>
+    <value>🪦 Morto</value>
   </string>
   <string key="Alive">
-    <value>🙂 Vivo</value>
+    <value>☁ Vivo</value>
   </string>
   <string key="PlayersAlive">
     <value>Sobreviventes</value>

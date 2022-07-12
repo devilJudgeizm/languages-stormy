@@ -483,10 +483,10 @@
     <value>Swam away</value>
   </string>
   <string key="Dead">
-    <value>💀 Locked in Davy Jones’ locker</value>
+    <value>🪦 Locked in Davy Jones’ locker</value>
   </string>
   <string key="Alive">
-    <value>🙂 Sailing through Grand line</value>
+    <value>☁ Sailing through Grand line</value>
   </string>
   <string key="PlayersAlive">
     <value>Players Alive</value>

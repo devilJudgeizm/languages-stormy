@@ -628,10 +628,10 @@
     <value>Авгур 🦅</value>
   </string>
   <string key="Alive">
-    <value>🙂 Жив</value>
+    <value>☁ Жив</value>
   </string>
   <string key="Dead">
-    <value>💀 Мёртв</value>
+    <value>🪦 Мёртв</value>
   </string>
   <string key="RanAway">
     <!-- These are for the player list -->
