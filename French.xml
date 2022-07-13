@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <strings>
-	<language name="Francais" base="Francais" variant="Normal" code="Fr" isDefault="true" owner="Coco" />
+	<language name="Français" base="Français" variant="Normal" code="Fr" isDefault="true" owner="Coco" />
 	<string key="NotInGame" deprecated="true">
     <value>Vous ne semblez être dans aucune partie en ce moment...</value>
   </string>
