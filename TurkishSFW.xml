@@ -2278,9 +2278,6 @@ olmak? Başkalarının görünümünü alma yeteneği sadece bir efsane mi? Asla
 <string key="PointsObtained">
 <value>{0} puan kazandınız! Artık {1} var.</value>
 </string>
-<string key="grupoban">
-<value>Bu gruptaki botlar şu anda kısıtlanmış durumda, sorunu çözmek için bir bot yöneticisiyle görüşün.(@KarelysCRP veya @tmogeid)</value>
-</string>
 <string key="Idle">
 <value>AFK</value>
 </string>
