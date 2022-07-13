@@ -107,16 +107,16 @@
   </string>
   <string key="BeholderSeer">
     <!-- 0 - seer name -->
-    <value>\nGözcü {0}.</value>
+    <value>\nGözcü 👳🏻‍♂️{0}.</value>
   </string>
   <string key="ApprenticeNowSeer">
     <!-- 0 - seer name -->
-    <value>{0} Gözcüydü. En sevdiği çırağı olarak, yeni Gözcü sensin.</value>
+    <value>{0} Gözcüydü. En sevdiği çırağı olarak, yeni Gözcü sensin.👳🏻‍♂️</value>
   </string>
   <string key="BeholderNewSeer">
     <!-- 0 - apprentice name -->
     <!-- 1 - seer name -->
-    <value>{0} çıraktı, şimdi ise {1}'in boşluğunu dolduracak yeni Gözcü.</value>
+    <value>{0} çıraktı, şimdi ise {1}'in boşluğunu dolduracak yeni Gözcü.👳🏻‍♂️</value>
   </string>
   <string key="SeerSees">
     <!-- 0 - player name -->
@@ -164,57 +164,57 @@
     <value> ve </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>Lanetlisin. Şu anda düz bir Vatandaşsın, fakat eğer kurtlar seni yemeye karar verirse sen de kurtadama dönüşüyorsun.</value>
+    <value>Lanetlisin.😾 Şu anda düz bir Vatandaşsın, fakat eğer kurtlar seni yemeye karar verirse sen de kurtadama dönüşüyorsun.</value>
   </string>
   <string key="RoleInfoDetective">
-    <value>Dedektifsin. Gün içinde rölünü öğrenmek için bir oyucuyu seçebilirsin. Fakat bunu yaparken kimliğin kurtlar tarafından öğrenilebilir! (%40 ihtimal)</value>
+    <value>Dedektifsin.🕵️ Gün içinde rölünü öğrenmek için bir oyucuyu seçebilirsin. Fakat bunu yaparken kimliğin kurtlar tarafından öğrenilebilir! (%40 ihtimal)</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value> Alkolik bir Vatandaşsın. Eğer kurtlar seni öldürürse, alkollü kanını içtikleri için bir sonraki öldürmeleri başarısızla sonuçlanacak.</value>
+    <value> Alkolik bir Vatandaşsın.🍻! Eğer kurtlar seni öldürürse, alkollü kanını içtikleri için bir sonraki öldürmeleri başarısızla sonuçlanacak.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>Koruyucu meleksin. Her gece bir kişiyi korumak için seçebilirsin. Fakat eğer bir kurtu seçersen, yaşama ihtimalin yüzde %50.</value>
+    <value>Koruyucu meleksin.👼 Her gece bir kişiyi korumak için seçebilirsin. Fakat eğer bir kurtu seçersen, yaşama ihtimalin yüzde %50.</value>
   </string>
   <string key="RoleInfoGunner">
-    <value>Silahşörsün. İki kurşunun var. Gün içinde bir oyuncuyu öldürebilirsin. Şehirde herkes sesi duyacak ve senin kurt değil silahşör olduğun bilinecek.</value>
+    <value>Silahşörsün.🔫 İki kurşunun var. Gün içinde bir oyuncuyu öldürebilirsin. Şehirde herkes sesi duyacak ve senin kurt değil silahşör olduğun bilinecek.</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>Yancısın! Geceleri kağıt oynamak ve bedava yemek için birine davetsiz misafir olabilirsin, bu sayede kurt olmadığını da bildirmiş oluyorsun. Fakat eğer kurtu ziyaret edersen ya da kurtun o gece saldırdığı birisini ziyaret edersen ölürsün. Birine gider sen evde değilken kurt seni öldürmeyi seçerse de kurtulmuş olursun.</value>
+    <value>Yancısın!💃🏻 Geceleri kağıt oynamak ve bedava yemek için birine davetsiz misafir olabilirsin, bu sayede kurt olmadığını da bildirmiş oluyorsun. Fakat eğer kurtu ziyaret edersen ya da kurtun o gece saldırdığı birisini ziyaret edersen ölürsün. Birine gider sen evde değilken kurt seni öldürmeyi seçerse de kurtulmuş olursun.</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>Hain! Şimdilik sadece bir vatandaşsın. Tüm kurtlar öldüğündeyse kurtadama dönüşüyorsun. Gözcü sana baktığında, kurt olduğun ortaya çıkmış da olabilir, çıkmamış da olabilir.</value>
+    <value>Hain!🖕 Şimdilik sadece bir vatandaşsın. Tüm kurtlar öldüğündeyse kurtadama dönüşüyorsun. Gözcü sana baktığında, kurt olduğun ortaya çıkmış da olabilir, çıkmamış da olabilir.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>SEN KURTSUN!! XD (hadi yine iyisin) Her gece öldürmek için birini seçebilirsin.</value>
+    <value>SEN KURTSUN!!🐺 XD (hadi yine iyisin) Her gece öldürmek için birini seçebilirsin.</value>
   </string>
   <string key="RoleInfoSeer" >
-    <value >Gözcüsün. Her gece “gözetlemek” için bir oyuncu seçebilirsin ve kimliklerini ortaya çıkarırsın.</value>
+    <value >Gözcüsün.👳🏻‍♂️ Her gece “gözetlemek” için bir oyuncu seçebilirsin ve kimliklerini ortaya çıkarırsın.</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >Sıradan bir Vatandaşsın, tarlanı ekip biçmek ve zamanı gelince ölmeye mahkumsun.</value>
+    <value >Sıradan bir Vatandaşsın 👱🏻‍♂️, tarlanı ekip biçmek ve zamanı gelince ölmeye mahkumsun.</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >İblissin. Linç olursan otomatik olarak kazanıyorsun!</value>
+    <value >İblissin.👺 Linç olursan otomatik olarak kazanıyorsun!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Yabani çocuksun! Kendine bir “rol model” seç, eğer ölürse kurtadama dönüşürsün.</value>
+    <value >Yabani çocuksun!👶 Kendine bir “rol model” seç, eğer ölürse kurtadama dönüşürsün.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Seyircisin, “gerçek” gözcünün kim olduğunu biliyorsun. Tüm olayın bu..</value>
+    <value >Seyircisin 👁, “gerçek” gözcünün kim olduğunu biliyorsun. Tüm olayın bu..</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value >Gözcü çırağısın. Eğer “gerçek” gözcü ölürse onun yerini alacaksın.</value>
+    <value >Gözcü çırağısın.🙇🏻‍♂️ Eğer “gerçek” gözcü ölürse onun yerini alacaksın.</value>
   </string>
   <string key="RoleInfoCultist" >
-    <value >Gizli tarikat üyesisin. Her gece tarikata almak için birini seçebilirsin. Tüm kalan oyuncular tarikat üyesi olduğunda kazanıyorsun.</value>
+    <value >Gizli tarikat üyesisin.👤 Her gece tarikata almak için birini seçebilirsin. Tüm kalan oyuncular tarikat üyesi olduğunda kazanıyorsun.</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value >Tarikatçı avcısısın. Tüm köyün tarikata girmesini engellemeye çalışıyorsun!  Her gece bir oyuncu seçiyorsun.  Seçtiğin kişi tarikat üyesiyse ölür. Eğer seni tarikata almaya çalışırlarsa tarikatın en yeni üyesi ölür.</value>
+    <value >Tarikatçı avcısısın.💂 Tüm köyün tarikata girmesini engellemeye çalışıyorsun!  Her gece bir oyuncu seçiyorsun.  Seçtiğin kişi tarikat üyesiyse ölür. Eğer seni tarikata almaya çalışırlarsa tarikatın en yeni üyesi ölür.</value>
   </string>
   <string key="LynchTime" >
     <!-- 0 - number of seconds -->
     <value>
-      Gecenin karanlığı çökmek üzere. Köylüler bu akşam kimi linç edeceklerine karar vermek için toplanıyorlar.
+      Gecenin karanlığı çökmek üzere. Vatandaşlar bu akşam kimi linç edeceklerine karar vermek için toplanıyorlar.
       Herkesin oy için {0} saniyesi var!
     </value>
   </string>
@@ -498,7 +498,7 @@
     <value>İnşaatçı 🧑🏻‍🔧</value>
   </string>
   <string key="RoleInfoMason">
-    <value>İnşaatçısın. Eğer başka inşaatçı varsa bunu biliyorsun, yoksa sıradan bir köylüsün.</value>
+    <value>İnşaatçısın.🧑🏻‍🔧 Eğer başka inşaatçı varsa bunu biliyorsun, yoksa sıradan bir köylüsün.</value>
   </string>
   <string key="MasonEaten">
     <!-- 0 - dead man's name -->
@@ -1123,28 +1123,28 @@
   
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
-    <value>Muhtarsın. Kendini ortaya çıkarırsan verdiğin oy 2 oy sayılacak. Vatandaş takımındasın. </value>
+    <value>Muhtarsın.🎖 Kendini ortaya çıkarırsan verdiğin oy 2 oy sayılacak. Vatandaş takımındasın. </value>
   </string>
   <string key="RoleInfoPrince">
-    <value>Sen Prens’sin ama çaktırmıyorsun. Hizmetçilerle çevrili, sıkıcı ve şımartılmış bir hayattan kaçtın. Seni linç etmeye kalkarlarsa hatalarını anlayacaklar ve kimse linç edilmeyecek. </value>
+    <value>Sen Prens’sin 🤴🏻 ama çaktırmıyorsun. Hizmetçilerle çevrili, sıkıcı ve şımartılmış bir hayattan kaçtın. Seni linç etmeye kalkarlarsa hatalarını anlayacaklar ve kimse linç edilmeyecek. </value>
   </string>
   <string key="RoleInfoClumsyGuy">
-    <value>Sen Beceriksiz’sin. Oy vermeye çalışırken %50 ihtimalle istediğinden farklı, rastgele birine oy vereceksin. Yine de Şehir Takımı’ndasın.</value>
+    <value>Sen Beceriksiz’sin.🤕 Oy vermeye çalışırken %50 ihtimalle istediğinden farklı, rastgele birine oy vereceksin. Yine de Şehir Takımı’ndasın.</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>Sen Falcı’sın. Vatandaşlarla olmaktansa gecenin yaratıklarıyla iş birliği yapıyorsun. Geceleri gücünü kurtları ve gözcüleri bulmak için kullanıyorsun. Sadece kurtlar kazanırsa kazanırsın. Sefil vatandaşların yenilmesine yardım ederken iyi eğlenceler!</value>
+    <value>Sen Falcı’sın.🔮 Vatandaşlarla olmaktansa gecenin yaratıklarıyla iş birliği yapıyorsun. Geceleri gücünü kurtları ve gözcüleri bulmak için kullanıyorsun. Sadece kurtlar kazanırsa kazanırsın. Sefil vatandaşların yenilmesine yardım ederken iyi eğlenceler!</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>Sen Demirci’sin. Şehrin demir işçisi. Az miktarda bir gümüş, vatandaşları bir geceliğine saldırıya uğramaktan koruyacak. Gündüz ortalıkta dolaşıp tozu etrafa serp. Bunun dışında sadece düz bir vatandaşsın.</value>
+    <value>Sen Demirci’sin.⚒ Şehrin demir işçisi. Az miktarda bir gümüş, vatandaşları bir geceliğine saldırıya uğramaktan koruyacak. Gündüz ortalıkta dolaşıp tozu etrafa serp. Bunun dışında sadece düz bir vatandaşsın.</value>
   </string>
   <string key="RoleInfoAlphaWolf">
-    <value>Sen Alfa Kurt’sun, belanın kaynağı. Senin ısırığın insanları Kurt Adam’a dönüştüren bir lanet taşıyor. Her gece saldırmak için birini seç ve onu öldür. Yaşadığın sürece kurbanın %20 ihtimalle Kurt Adam’a dönüşecek.</value>
+    <value>Sen Alfa Kurt’sun.⚡️, belanın kaynağı. Senin ısırığın insanları Kurt Adam’a dönüştüren bir lanet taşıyor. Her gece saldırmak için birini seç ve onu öldür. Yaşadığın sürece kurbanın %20 ihtimalle Kurt Adam’a dönüşecek.</value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>Sen sürü tarafından tatlılığıyla sevilen Yavru Kurt’sun. Her kurt gibi her gece bir köylü seç ve onu öldür. Eğer öldürülürsen kurt sürüsü ertesi gece kudurup 2 kişiye saldıracak. Sen yine de ölmüş olacaksın.</value>
+    <value>Sen sürü tarafından tatlılığıyla sevilen Yavru Kurt’sun 🐶. Her kurt gibi her gece bir köylü seç ve onu öldür. Eğer öldürülürsen kurt sürüsü ertesi gece kudurup 2 kişiye saldıracak. Sen yine de ölmüş olacaksın.</value>
   </string>
   <string key="PrinceLynched">
-    <value>Köylüler {0}’i linç etmeye başladı. "Durun! Ben Prens’im. Bu Kral’ın bana verdiği kraliyet yüzüğü ve kralın mührü bunu kanıtlıyor. Her gece etrafım hizmetçilerle sarılı. Yani ben kötü olamam." Köylüler aptal hissederek, koyun gibi gece için inzivaya çekildiler.</value>
+    <value>Vatandaşlar {0}’i linç etmeye başladı. "Durun! Ben Prens’im. Bu Kral’ın bana verdiği kraliyet yüzüğü ve kralın mührü bunu kanıtlıyor. Her gece etrafım hizmetçilerle sarılı. Yani ben kötü olamam." Vatandaşlar aptal hissederek, koyun gibi gece için inzivaya çekildiler.</value>
   </string>
   <string key="SorcererOther">
     <value>{0}’a bakmaya çalışıyorsun ama ne olduğunu çözemedin. Kurt veya gözcü değil ama...</value>
@@ -1230,7 +1230,7 @@
     <value>{0} öldü, Yavru Kurt’a dönüştün. Takım arkadaşların (varsa): {1}</value>
   </string>
   <string key="VillageTeam">
-    <value>Köylü Takımı</value>
+    <value>Vatandaş Takımı</value>
   </string>
   <string key="NeutralTeam">
     <value>Tarafsız Takım</value>
@@ -1525,7 +1525,7 @@
   </string>
 
   <string key="RoleInfoWolfMan">
-    <value> Sen Kurdumsu bir vatandaşsın!  Zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve bir kurt adam olduğunu düşünecek! Oh hayır...</value>
+    <value> 👱🌚Sen Kurdumsu bir vatandaşsın!  Zamanının çoğunu gerçek kurtların olduğu ormanda geçirdiğin için, Gözcünün kafası karışacak ve bir kurt adam olduğunu düşünecek! Oh hayır...</value>
   </string>
   <string key="WolfMan">
     <value> Kurdumsu👱🌚</value>
@@ -1535,7 +1535,7 @@
   </string>
 
   <string key="RoleInfoLycan">
-    <value>Sen Lycan’sın. Ancak Gözcü seni vatandaş olarak görecek :)</value>
+    <value>Sen Lycan’sın.🐺🌝 Ancak Gözcü seni vatandaş olarak görecek :)</value>
   </string>
   <string key="Lycan">
     <value>Lycan 🐺🌝</value>
@@ -1545,7 +1545,7 @@
   </string>
 
   <string key="RoleInfoOracle">
-    <value> Sen Kâhin'sin. Her gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin.  Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hala hayatta :)</value>
+    <value> Sen Kâhin'sin.🧿 Her gece birine bakmayı seçebilirsin, ama sadece o kişinin ne olmadığını görebileceksin.  Oyunda hala hayatta olan bir başkasının rolü sana gösterilecek, bu yüzden hangi rolün söylendiğine dikkat edin, bu demek oluyor ki o rol hala hayatta :)</value>
   </string>
   <string key="Oracle">
     <value>Kâhin 🧿</value>
@@ -1555,7 +1555,7 @@
   </string>
 
   <string key="RoleInfoSandman">
-    <value> Sen Uyutucusun. Oyun başına bir kez, sihrinizi herkesi derin bir uykuya sokmak için kullanabilirsiniz, geceleri yeteneğini kullanamazsın..</value>
+    <value> Sen Uyutucusun.💤 Oyun başına bir kez, sihrinizi herkesi derin bir uykuya sokmak için kullanabilirsiniz, geceleri yeteneğini kullanamazsın..</value>
   </string>
   <string key="Sandman">
     <value>Uyutucu 💤</value>
@@ -1566,7 +1566,7 @@
 
 <!-- NOT IMPLEMENTED YET -->
   <string key="RoleInfoPacifist">
-    <value>Sen Barışçılsın . Bir günlüğüne mahsus şehirdeki herkesi linç olmaması için ikna edebilirsin. Sadece bir kere yapılabilir.</value>
+    <value>Sen Barışçılsın .☮️ Bir günlüğüne mahsus şehirdeki herkesi linç olmaması için ikna edebilirsin. Sadece bir kere yapılabilir.</value>
   </string>
   <string key="Pacifist">
     <value>Barışçıl ☮️</value>
@@ -1576,7 +1576,7 @@
   </string>
 
   <string key="RoleInfoWiseElder">
-    <value>Sen Yaşlı Bilgesin . Bir kurt adam saldırısından bir kez kurtulabilirsin - ikinci kez seni yiyebilirler.  Silahşör ya da Avcı seni yetenekleriyle öldürürlerse, güçlerini üzüntüden kaybedecekler ve normal bir vatandaşa dönüştürülecekler. </value>
+    <value>Sen Yaşlı Bilgesin .🧓🏻 Bir kurt adam saldırısından bir kez kurtulabilirsin - ikinci kez seni yiyebilirler.  Silahşör ya da Avcı seni yetenekleriyle öldürürlerse, güçlerini üzüntüden kaybedecekler ve normal bir vatandaşa dönüştürülecekler. </value>
   </string>
   <string key="WiseElder">
     <value>Yaşlı Bilge 🧓🏻</value>
@@ -1586,10 +1586,10 @@
   </string>
 
   <string key="RoleInfoThief">
-    <value>Sen Hırsızsın ! İlk gece bir oyuncunun rolünü çalabilir ve onu normal bir köylüye dönüştürebilirsin!</value>
+    <value>Sen Hırsızsın !😈 İlk gece bir oyuncunun rolünü çalabilir ve onu normal bir köylüye dönüştürebilirsin!</value>
   </string>
   <string key="RoleInfoThiefFull">
-    <value>Sen Hırsızsın ! [Tam Hırsız] modu açık olduğundan, her gece bir oyuncunun rolünü çalma şansınız %50, eğer başarılı olursan, bu oyuncu yeni hırsız olur ve hırsızlıkla devam eder! </value>
+    <value>Sen Hırsızsın !😈 [Tam Hırsız] modu açık olduğundan, her gece bir oyuncunun rolünü çalma şansınız %50, eğer başarılı olursan, bu oyuncu yeni hırsız olur ve hırsızlıkla devam eder! </value>
   </string>
   <string key="Thief">
     <value>Hırsız 😈</value>
@@ -2272,8 +2272,8 @@ olmak? Başkalarının görünümünü alma yeteneği sadece bir efsane mi? Asla
 </string>
 <string key="PlayerStartedRankedGame">
 <!-- 0 - Oyuncu adı -->
-<value>{0} puanlar için bir oyun başlattı! Eğlenceye katılmak için düğmeye basın :P</value>
-<value>{0} yeni bir puan oyunu başlattı! Yemek için düğmeye basın!</value>
+<value>{0} puanlar için bir  sıralama oyunu başlattı! Eğlenceye katılmak için düğmeye basın :P</value>
+<value>{0} yeni bir sıralama oyunu başlattı! Eğlence için düğmeye basın!</value>
 </string>
 <string key="PointsObtained">
 <value>{0} puan kazandınız! Artık {1} var.</value>
