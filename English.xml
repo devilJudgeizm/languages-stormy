@@ -2294,7 +2294,7 @@
 		<value> points, your total points are </value>
 	</string>
 	<string key="topsmenu">
-		<value> /topscore - Top 15 global score\n /topachievements - Players with the most achievements\n /topgames‌‌ - Players with the most games played\n /toprate - Players with the best percentage of games win</value>
+		<value> /topscore - Top 15 global score\n /topachievements - Players with the most achievements\n /topgames‌‌ - Players with the most games played (only admin group)\n /toprate - Players with the best percentage of games win (only admin group)</value>
 	</string>
 
 
