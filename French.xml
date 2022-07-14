@@ -927,7 +927,7 @@
     <value>Je vous ai envoyé un DM.</value>
   </string>
   <string key="StartPM" deprecated="true">
-    <value>S'il vous plaît envoyez-moi un message privé afin que je puisse vous DM : @StormyNightBot</value>
+    <value>S'il vous plaît envoyez-moi un message privé : @StormyNightBot</value>
   </string>
   <string key="PMTrue" deprecated="true">
     <value>Merci de m'avoir démarré ! Je peux vous envoyer des DM maintenant.</value>

@@ -927,7 +927,7 @@
     <value>Te he enviado un mensaje privado.</value>
   </string>
   <string key="StartPM" deprecated="true">
-    <value>Por favor, envíame un mensaje privado para poder enviarte mensajes: @StormyNightBot</value>
+    <value>Por favor, envíame un mensaje privado: @StormyNightBot</value>
   </string>
   <string key="PMTrue" deprecated="true">
     <value>¡Gracias por iniciarme! Ahora puedo enviarte mensajes privados.</value>

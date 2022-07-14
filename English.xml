@@ -927,7 +927,7 @@
     <value>I have sent you a PM</value>
   </string>
   <string key="StartPM" deprecated="true">
-    <value>Please send me a pm so I can PM you: @StormyNightBot</value>
+    <value>Please send me a pm: @StormyNightBot</value>
   </string>
   <string key="PMTrue" deprecated="true">
     <value>Thanks for starting me! I can PM you now.</value>
@@ -2293,5 +2293,9 @@
 	<string key="ppointf">
 		<value> points, your total points are </value>
 	</string>
+	<string key="topsmenu">
+		<value> /topscore - Top 15 global score\n /topachievements - Players with the most achievements\n /topgames‌‌ - Players with the most games played\n /toprate - Players with the best percentage of games win</value>
+	</string>
+
 
 </strings>
