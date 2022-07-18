@@ -11,7 +11,7 @@
 	~ Updated for Update 4.0 release
 	-->
 <strings>
-  <language name="Taglish - SFW" base="Filipino" variant="Taglish SFW"  owner="Michelleized"/>
+  <language name="Taglish - SFW" base="Filipino" variant="Taglish SFW" code="fi" owner="Michelleized"/>
   <string key="NotInGame">
     <value>Bes, you don't appear to be kasali in any games right now...</value>
   </string>

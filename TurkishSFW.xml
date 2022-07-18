@@ -2296,4 +2296,7 @@
 	<string key="ppointf">
 		<value> puan, toplam puanınız </value>
 	</string>
+	<string key="topsmenu">
+		<value> /topscore - En iyi 15 global skor\n /topachievements - En çok başarıya sahip oyuncular\n /topgames‌‌ - En çok oyun oynayan oyuncular (yalnızca yönetici grubu)\n /toprate - En iyi oyun yüzdesine sahip oyuncular kazanır ( yalnızca yönetici grubu)</value>
+	</string>
 </strings>

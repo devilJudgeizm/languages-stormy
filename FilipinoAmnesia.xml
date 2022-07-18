@@ -4,7 +4,7 @@
 <!-- Released 09/09/16 -->
 <!-- Line 105 Detective with 2 in head AskDetect-->
 <strings>
-  <language name="Filipino (Amnesia Mode)" base="Filipino" variant="Amnesia Mode"/>
+  <language name="Filipino (Amnesia Mode)" base="Filipino" code="fi" variant="Amnesia Mode"/>
   <string key="NotInGame">
 	<value>Nakalimutan mo na agad? Hindi ka pa kasali sa laro!</value>
   </string>
