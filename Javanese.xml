@@ -1140,13 +1140,13 @@
   <string key="RoleInfoWolfCub">
     <value>Kowe dadi Anakan Serigala 🐶, arek kesayangane poro Serigala ulu ulu uluuu. Podo koyok umume Serigala, gaweanmu saben bengi mateni warga. Gandheng kowe ki kesayangan, yen kowe dipateni, Serigala liyane bakal ngamuk njuk mateni wong 2 langsung bengi sisuke. Ning yo kowe tetep mati. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Pas warga arep ngobong {0}, wonge njuk ngomong,\n"Sek, sek! Aku ki Pangeran 👑, iki lho buktine ali-ali akik kalimaya. Saben wengi aku didepi prajurit-prajurit, dadi rak enek sing iso jahap-in aku." \nGandheng warga kuwi podo micin, langsung podo kisinan lan njaluk ngapuro. Gagaso, wong ndeso!</value>
   </string>
   <string key="SorcererOther">
     <value>Kowe nyobo ndelok {0}, tur raiso mastekke de'e opo.  Pokokmen de'e kuwi udu Serigala utowo Seer.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} makbedunduk malangkerik ning plataran kantor kelurahan. Tangane gowo map batik lurik werno soklat sinambi mlintir brengos, wenehi woro-woro yen deknen kuwi Lurah 🎖.\nMulo saiki, vote si {0} diitung 2.</value>
   </string>
   <string key="AskMayor">
@@ -1496,7 +1496,7 @@
   <string key="AskSandman">
     <value>Opo kowe pengen gawe pemain tepar kabeh bengi iki?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Nalika warga ndeso podo ubet, {0} balik ning ngomahe sinambi singsot.  Bengi iki, kabeh warga podo turu tepar lan ra ono sing iso nganggo kekuatane. Dyarwe!</value>
   </string>
   <string key="SandmanNight">

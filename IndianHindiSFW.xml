@@ -350,7 +350,7 @@
     <!-- 1 - Harlot's name -->
     <value>Aisa lag raha hai ki {0} Bandookwale ne apna badla le liya. {1} mar chuki hai.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1133,13 +1133,13 @@
   <string key="RoleInfoWolfCub">
     <value>Aap bhediye ke bacche hain; apne bhediye parivaar dvaara pyaar kiya hua. Anya bhediyon ki tarah, aap har raat hamla karne aur maarne ke liye ek gav wala chunenge. Agar aap maare jaate ho, toh agli raat aapka bhediya parivaar krodh mein aake, do gav walo pe hamla karega. Aap phir bhi mar chuke honge.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Jaise hi gav wale {0} ko maarna chahte hain, woh kehte hain “Ruko! Main Rajkumaar hun. Raja ki muhar ke saath yeh shaahi angoothi, yeh saabit karti hai. Har raat main naukaron se ghira hua hoon. Toh main bura nahi ho sakta.” Moorkho ki tarah, gav wale raat ko sone chale gaye.</value>
   </string>
   <string key="SorcererOther">
     <value>Aapne {0} ko dekhne ki koshish ki, lekin woh kaun hai nahi dekh paaye. Wo ek bhediya ya paigambar(Seer) nahi hai...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} apne kadam aage badhake aur apni aadhikaarik muhar pesh karte huye, apne aap ko Mayor batate hain.  Ab se, {0}'s ke votes do baar gine jayenge maarne ke liye.</value>
   </string>
   <string key="AskMayor">

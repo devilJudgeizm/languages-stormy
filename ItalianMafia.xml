@@ -978,14 +978,14 @@
   <string key="RoleInfoWolfCub">
 	<value>Sei la Recluta 🐶. Ti sei appena diplomato all'accademia, sei audace e temerario, fiero e leale allo stesso tempo, seguirai la pattuglia ad ogni blitz fino alla fine dei tempi. Essendo l'orgoglio della pattuglia, se per caso tu divessi venire esiliato o rapito, la polizia perlustrerà la citta e farà due raid la notte successiva.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
 	<value>I voti indicano che {0} deve essere esiliato quando qualcuno interviene. Quest'uomo misterioso si avvicina al Giudice con una curiosa busta gialla, piuttosto spessa. Dopo di che il Giudice annuncia: “A causa di circostanze impreviste, il voto di oggi è annullato. Nessuno verrà esiliato!”
 	“{0} deve essere l'Erede Mafioso 👑! Chi altro potrebbe comprare il Sindaco?" mormora qualcuno dietro di te.</value>
   </string>
   <string key="SorcererOther">
 	<value>Cerchi di scoprire chi è {0} ma scopri solo che non è né un Poliziotto né il Torturatore.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
 	<value>{0} fa un passo avanti portandosi al centro della folla infila una mano nella tasca del suo completo, ne estrae un anello con sigillo da Luogotenente e lo indossa sul mignolo. “Il Luogotentente 🎖!” Da ora in poi il voto di {0} per l'esilio conterà per due.</value>
   </string>
   <string key="AskMayor">

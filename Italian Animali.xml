@@ -987,13 +987,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei il Puccioso Lupetto🐶, venerato e protetto dal tuo branco. Come gli altri lupi, sceglierai ogni notte un giocatore da attaccare e uccidere. Se vieni ucciso, i tuoi compagni si infurieranno a tal punto da attaccare due volte la notte seguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarà il linciato stasera, lui urla «Aspettate! Sono il piccolo Leone. Ho lottato a lungo insieme a Re Leone per sconfiggere l'uomo e dare piena vita agli animali,vi chiedo di risparmiarmi per sta volta.» Sentendosi sciocchi, I cagnolini si ritirano docilmente nelle proprie case.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a capire il ruolo animale di {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè il Topo nè un Lupo!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti il collo della Giraffa, dichiarandosi come tale. Da ora in poi, i voti della Giraffa {0} a causa del suo lungo collo, per il linciaggio conteranno doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1336,7 +1336,7 @@
   <string key="AskSandman">
     <value>Vorresti far dormire tutti stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio discute, {0} ritorna nella sua gabbia è inizia a ripetere una dolce ninna nanna. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
   </string>
   <string key="SandmanNight">
@@ -1436,7 +1436,7 @@
   <string key="AskPacifist">
     <value>Clicca questo bottone quando vuoi iniziare a Bubolare e ad apire le danze, fermando il linciaggio degli animali!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Il Gufo {0}, sta usando la sua magnifica voce per richiamare gli animali. Meravigliati da tale canto iniziano a ballare tutti insieme, dimenticandosi di esiliare qualcuno.</value>
   </string>
@@ -1598,7 +1598,7 @@
   <string key="AskTroublemaker">
 	<value>Vuoi cercare una compagna e dare fastidio a tutti oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>la Cicala 🤯 {0} sta combinando guai nel villaggio! Ha fatto scappare il bestiame dei contadini che hanno invaso la piazza! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
 	<value>la Cicala 🤯 {0} sta combinando guai nel villaggio! Ha bruciato tutto il fieno del bestiame! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
   </string>

@@ -1060,13 +1060,13 @@ translate to Bahasa Melayu by Skyzkillerz-->
   <string key="RoleInfoWolfCub">
     <value>Pelik.. kamu tidak ingat siapa dirimu, kamu tahu kamu perlu lakukan sesuatu pada waktu malam!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Ketika penduduk kampung mahu membunuh {0}, seseorang ternampak cincin di jari manisnya dan menjerit "BERHENTI" Orang itu dari kerabat diraja. Cincin pada jarinya" Takut akan dihukum, penduduk kampung berhenti kerja untuk membunuh pada malam itu.</value>
   </string>
   <string key="SorcererOther">
     <value>Sesuatu berlaku di rumah {0}semalam? Anda tidak ingat...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} menghela nafas, selepas mengeluarkan sesuatu daripada sakunya: penunjuk Datuk Bandar. Semua orang menyedari dia adalah ketua, undi akan dikira sebagai dua kali. </value>
   </string>
   <string key="AskMayor">

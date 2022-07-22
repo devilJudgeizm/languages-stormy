@@ -873,7 +873,7 @@
     <value>Es sheit aus, als htäte scih {0} in der Nchat bei der Hure ewtas engenfieagn! Bhemäsct kmomt er vom Darforzt zücurk und zilet in eniem ueebcnhtaoetbn Mnmoet auf {1}: der Süczthe 🔫 beakm senie Rhcae. {1} ist tot. 💋</value>
     <value>Es shiet aus, als httäe scih {0} in der Nhcat bei der Hrue ewats efngagineen! Bmehcsät kmmot er vom Drofrzat zucrük und zelit in eenim uhoecbebteantn Meomnt auf {1}: der Sztcühe 🔫 bkeam senie Rcahe. {1} ist tot. 💋</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Plötzlich hröt man eenin Shcsus. Das Drof sheit sich um und edentckt {0}, den Stcehzün 🔫, üebr dem Keröpr von {1} shteen, die Plsoite noch imemr auf den Kopf gcheetirt - {2}</value>
     <value>Plötzlich hröt man enien Suchss. Das Drof sehit scih um und entkcedt {0}, den Stzüechn 🔫, üebr dem Krpöer von {1} sethen, die Ptsoile ncoh iemmr auf den Kpof grecietht - {2}</value>
     <value>Plötzlich hröt man eeinn Shcsus. Das Drof seiht scih um und etkdcent {0}, den Setüczhn 🔫, üebr dem Kpörer von {1} sethen, die Potslie ncoh iemmr auf den Kpof geceitrht - {2}</value>
@@ -2125,7 +2125,7 @@
     <value>Du bsit der Wfwlploese 🐶; alle arednen Wflöe snid in dcih vearrrnt. Du vhleräst dcih wie ein nremalor Wlof und wälsht zuamesmn mit den arednen Mdlgirtieen des Rdlues jdee Nhcat ein Oefpr. Steollst du getteöt wreedn, vferllaen die arednen Wflöe in Rgae und geriefn in der nctäshen Nhcat zewi Pnerseon an. Das äendrt aebr tdrotzem nthcis draan, dsas du tot bsit. ¯\_(ツ)_/¯</value>
     <value>Du bsit der Wslplwefoe 🐶; alle aenerdn Wöfle snid in dcih vnrarert. Du vhsräelt dcih wie ein namerolr Wlof und wsälht zmsemuan mit den aenerdn Mditlgeiren des Rleuds jdee Nhcat ein Oefpr. Sstolelt du gteöett wreedn, verleafln die aenerdn Wöfle in Rgae und gefiren in der nesähtcn Nhcat zewi Psoneren an. Das ärednt aebr totzderm ntihcs draan, dsas du tot bsit. ¯\_(ツ)_/¯</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Kurz bover das Drof {0} lcynht, hröt man die veliuterre Pesorn rfuen: „raWett! Ich bin der Pnriz. 👑 Dseier kiihlncöge Rnig mit dem Sigeel mniees Ghceestchls bieswet es. Ich bin jdee Ncaht von Dneeirn uemgebn, fcolglih knan ich aslo nhict dem Bseön aenegörhn.“ Von der egneein Troheit ürescarhbt, zeeihn scih die Bewoenhr des Drofes kealliunt in irhe Gemäehcr züruck, onhe auf ihr Loncyefhpr zu beseehtn.</value>
     <value>Kurz bevor das Dorf {0} lhcnyt, hröt man die vretuirele Psoren ruefn: „eaWtrt! Ich bin der Prinz. 👑 Diseer kingcöilhe Rnig mit dem Sigeel minees Glhhcstcees bwiseet es. Ich bin jdee Nhcat von Dirneen umeebgn, fllogich kann ich also nciht dem Besön ahöernegn.“ Von der eeingen Trihoet üahsrrcbet, zehein sich die Bhweenor des Doerfs kenuillat in irhe Gcemäehr züucrk, onhe auf ihr Lpochnyefr zu beeshten.</value>
     <value>Kurz bevor das Drof {0} lhnyct, hröt man die verlutreie Prseon rfuen: „eWtrat! Ich bin der Pirnz. 👑 Diseer köligicnhe Rnig mit dem Sgieel meneis Glheeccsths bwseiet es. Ich bin jede Nchat von Deneirn ugemebn, fogllcih knan ich aslo nchit dem Bseön agehneörn.“ Von der egienen Thoeirt ücesahbrrt, zehein scih die Bnoweehr des Drofes kiuenallt in irhe Ghemceär züucrk, onhe auf ihr Lfhceoypnr zu beteeshn.</value>
@@ -2135,7 +2135,7 @@
     <value>Du vshucsret amhzuescaun, was {0} ist, knsnat die Poefiorssn aebr nihct eenidtiug bemetmsin. Zewi Rlleon knsnat du aebr mit Shirceheit auceißehlssn: Sheer und Wolf. Die hstäett du nälcimh ekrannt.</value>
     <value>Du vusreshct aucsahzmeun, was {0} ist, ksannt die Persosoifn aebr nihct enuieidtg bsmeeitmn. Zewi Rleoln ksannt du aebr mit Sehicehirt acsieehslußn: Sheer und Wlof. Die hsteätt du näclimh ekrnant.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Als wräe es ihm gerade esrt wdeeir elinefelagn, drnälget sich auf enmail {0} ins Ripeanhcmlt, sewcfalht eatws von Voewunrtrantg und hlät deabi idiregnnee Uuknrde in die Hhöe. Leesn knan es zawr nnmaied, aebr ihr enrknet das Sieegl dauraf: deis msus der Bsmeegiertrür 🎖 sien. Daucdrh, dsas siene Arotäiutt nun btstieägt ist, zhlät siene Stmime bei der ahdenibelcn Atinumsmbg ab jtezt dloppet.</value>
     <value>Als wräe es ihm gdeare esrt wdieer eaieelnglfn, dngäelrt scih auf eimnal {0} ins Rncahimlept, sehflcawt eawts von Vruwtreaontng und hält debai iindnegere Unrkude in die Hhöe. Lesen knan es zawr neimand, aebr ihr eeknnrt das Seiegl dauraf: deis msus der Bmeseiegrrütr 🎖 sein. Ddrucah, dsas siene Aturioätt nun bgisättet ist, zhlät siene Smitme bei der abilnedhecn Ammsuibtng ab jzett dppoelt.</value>
     <value>Als wräe es ihm gdraee esrt weider eageilenlfn, drlnegät scih auf eimanl {0} ins Rmnihlcaept, shcfalwet eawts von Vunartwneortg und hält debai iiengredne Uurndke in die Hhöe. Lseen kann es zawr nanemid, aebr ihr ennkret das Segiel draauf: deis msus der Bürrtesegimer 🎖 sien. Ddrucah, dsas siene Atuträiot nun btgesäitt ist, zläht siene Smtmie bei der aceibdnheln Ausmntmbig ab jztet dlpepot.</value>
@@ -2670,7 +2670,7 @@
     <value>Möchtest du huete deenin Sfcahsland eitezsnen?</value>
     <value>Möchtest du hteue dneien Safnshclad esienzten?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>🎶 Sananmdn, lieebr Sananmdn, es ist ncoh nicht so wiet... 🎶\nAber nacedhm {0} eatws Snad 💤 vsruteret hat, srpüt ihr sochn, wie ihr mdüe wdeert. Etecnhisdet ecuh beessr jztet sochn, für wen ihr am Anebd smetimn wllot, beovr ihr zu mdüe sied und alle die ganze Nahct dcsuahhrlfct!</value>
     <value>🎶 Snamandn, lbeier Snamandn, es ist ncoh nihct so wiet... 🎶\nAber neadchm {0} eatws Snad 💤 vrtrseuet hat, srüpt ihr sochn, wie ihr mdüe wreedt. Edtnchseiet ecuh bseesr jtezt sochn, für wen ihr am Abend sietmmn wllot, bvoer ihr zu mdüe sied und alle die gnzae Ncaht dchcsluhrfat!</value>
     <value>🎶 Smnadann, lbieer Smnadann, es ist ncoh nihct so wiet... 🎶\nAebr ncdaehm {0} eatws Snad 💤 verurtest hat, sürpt ihr sohcn, wie ihr mdüe weerdt. Eidectnshet ecuh bseser jztet sohcn, für wen ihr am Aenbd seitmmn wllot, bveor ihr zu mdüe sied und alle die gazne Ncaht dschachlruft!</value>
@@ -2849,7 +2849,7 @@
     <value>Peace! ☮️\nMhötesct Du hetue das Lencyhn vidhnreern oedr es Dir lbeier für eenin scemlimrehn Tag ahebeufn?</value>
     <value>Peace! ☮️\nMsöchtet Du hetue das Lehnycn vrirnehedn oder es Dir leiber für eenin sehlemimrcn Tag abhuefen?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <value>Der Pzasfiit ☮️, {0}, shtet lasngam auf und erhläzt in ewtas lueldlenr Smitme ewtas vom Feeidrn und wie tlol die Wlet wräe wenn es kneein Kreig mher gäbe. Für Ecuh kglnit das gnzae siinng, ihr wllot auf das Lcynehn vheeritczn! Und ewtas mdüe fühlt Ihr Ecuh acuh.</value>
     <value>Der Pifsiazt ☮️, {0}, steht lagsnam auf und elhzärt in ewtas lulnleder Smmtie ewtas vom Feidren und wie tlol die Wlet wräe wnen es kenien Keirg mher gbäe. Für Ecuh knglit das gznae sining, ihr wollt auf das Lychnen vrechezitn! Und ewtas mdüe fhlüt Ihr Ecuh acuh.</value>
     <value>Der Piszfait ☮️, {0}, sthet laangsm auf und elzrhät in eawts lluldener Stmime eawts vom Fiedern und wie tlol die Welt wäre wnen es knieen Keirg mher gbäe. Für Ecuh klngit das gznae sining, ihr wllot auf das Lhceynn vezheirctn! Und eawts mdüe flüht Ihr Ecuh auch.</value>
@@ -3114,7 +3114,7 @@
     <value>Willst du hteue für Unrhue im Drof sgeorn?</value>
     <value>Willst du hetue für Unuhre im Drof sgoern?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0} 🤯 shett auf und erzläht etaws von eenim Vinenct, der vlol süß sei. Als sie mkret, dsas es ecuh eehr nrevt, shcreit die Uherseiunrtftin 🤯 vlol los und bhipfcsmet die Eterln und alle „etaln Leute“. Ihr sied so genrevt, dsas ihr hutee Anebd vsseergt, dsas ihr nur enimal lechynn wllot und stimmt deolppt ab...</value>
     <value>{0} 🤯 sehtt auf und erläzht eatws von eienm Vecnnit, der vlol süß sei. Als sie merkt, dsas es ecuh eehr nrevt, sihrect die Uuthiienrrsfetn 🤯 vlol los und bpimechfst die Erteln und alle „laetn Lteue“. Ihr sied so genrevt, dsas ihr hutee Anbed vrsegset, dsas ihr nur enamil lychnen wllot und stmimt depplot ab...</value>
     <value>{0} 🤯 shett auf und ezrläht eatws von eeinm Veinnct, der vlol süß sei. Als sie mkret, dsas es ecuh eher nrevt, srcehit die Usnefurheittrin 🤯 vlol los und bipfhcesmt die Eeltrn und alle „aeltn Ltuee“. Ihr seid so genrevt, dsas ihr hteue Anbed veesrgst, dsas ihr nur eamnil lycnhen wlolt und smimtt doelppt ab...</value>

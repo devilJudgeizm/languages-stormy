@@ -202,7 +202,7 @@
     <value>Su investigación en la fuerza probó que {0} es {1}</value>
   </string><string key="HarlotShot">
     <value>¡Parece que {0} no le gustó ser visitado por Padme Amidala! Darth Maul no medió palabra. {1} está muerta.</value>
-  </string><string key="DefaultShot">
+  </string><string key="DefaultShot" isgif="true" >
     <value>De repente, un sable sale volando. Los padawans corrieron para ver {0} de pie sobre el cuerpo de {1}, con el sable todavia apuntando hacia la cabeza. {2}. </value>
   </string><string key="WolfWins" >
     <value>¡El Soldado Clon ha ganado!</value>
@@ -656,11 +656,11 @@
     <value>Eres Darth Nihilus, el lord sith más poderoso cuerpo a cuerpo, la pesadilla de los Jedi. Tu poder es la causa de que los midiclorianos influyan en un padawan o jedi para convertirlo al lado oscuro, conviertes a los padawans en soldados clon. Cada noche, podrás elegir un padawan para atacarlo y matarlo, pero mientras estés vivo, existe un 20% de probabilidad de que se convierta en un soldado clon.</value>
   </string><string key="RoleInfoWolfCub">
     <value>Eres Starkiller, adorado por tu maestro, Darth Vader y protegido por los soldados clon. Podrás elegir un personaje para atacar y matar todas las noches. Si te matan, tus protectores al ver tu cuerpo en el suelo, vengarán tu muerte, atacando a dos personajes la noche siguiente.</value>
-  </string><string key="PrinceLynched">
+  </string><string key="PrinceLynched" isgif="true" >
     <value>El templo Jedi se está preparando para expulsar a {0}, gritando, &quot;¡Esperen! Soy la princesa Leia Organa. Este identificador en mi mano, lo demuestra. No puedo ser expulsada del tempo.&quot; Los padawans y maestros Jedi se sienten tontos, todos en en el templo regresan a sus habitaciones.</value>
   </string><string key="SorcererOther">
     <value>Usted intenta percibir a {0}, pero no puede descifrar bien lo que es. Todo lo que sabe es que él no es el Maestro Yoda ni un soldado clon...</value>
-  </string><string key="MayorReveal">
+  </string><string key="MayorReveal" isgif="true" >
     <value>{0} da un paso adelante y muestra el sello oficial del senado, declarando que es el canciller. De ahora en adelante, los votos de {0} para expulsar a alguien del templo serán contados dos veces.</value>
   </string><string key="AskMayor">
     <value>Presione en &quot;Revelar&quot; cuando este listo para revelarse como Canciller del Senado.</value>

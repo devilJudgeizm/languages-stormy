@@ -1112,13 +1112,13 @@ variant="Fallout"/>
   <string key="RoleInfoWolfCub">
     <value>Sei il Cucciolo di Supermutante, venerato e protetto dal tuo branco. Come gli altri Supermutanti, sceglierai ogni notte un giocatore da attaccare e uccidere. Se vieni ucciso, i tuoi compagni si infurieranno a tal punto da attaccare due volte la notte seguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena i sopravvissuti hanno deciso che {0} sarà il giustiziato stasera, lui urla «Aspettate! Sono il Vice Soprintendente. Questo stemma, con il sigillo del Soprintendente, lo dimostra. Ogni notte, sono circondato dai sopravvissuti. Quindi non posso essere malvagio.» Sentendosi sciocchi, I sopravvissuti si ritirano docilmente nei dormitori.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè il Gunner Spia nè un Supermutante!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti lo stemma ufficiale del Soprintendente del vault, dichiarandosi come tale. Da ora in poi, i voti del Soprintendente {0} per le condanne conteranno doppio.</value>
   </string>
   <string key="AskMayor">

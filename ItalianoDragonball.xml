@@ -325,7 +325,7 @@
   <string key="HarlotShot">
     <value>Questa notte {0} gli aveva fatto sprecare un sacco di tempo! Hit ha avuto la sua vendetta. {1} è morto</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Improvvisamente si sente un forte urlo. Poi i guerrieri notano {0} in piedi accanto al corpo di {1}.\n{2}</value>
   </string>
   <string key="WolfWins">
@@ -999,7 +999,7 @@
   <string key="RoleInfoWolfCub">
     <value>Sei il seguace più malvagio di tutti, e per questo sei il preferito di F, quindi se vieni ucciso, i tuoi compagni si infurieranno a tal punto da attaccare due volte la notte seguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>I guerrieri avevano deciso di eliminare {0}, ma mentre lo cercavano per finirlo, lo vedono partire sulla sua macchina del tempo. Trunks è fuggito. Probabilmente tornerà a breve, ed almeno sapete che non è cattivo</value>
     <value>I guerrieri avevano deciso di eliminare {0}, ma mentre erano sul punto di finirlo, vengono tutti spazzati via da un potente Final Flash. E' evidente che qualcuno non vuole che Trunks venga eliminato.</value>
     <value>I guerrieri avevano deciso di eliminare {0}, ma proprio quando pensavano che si fosse rassegnato, lui tira fuori una potente spada, e respinge tutti gli altri guerrieri, che dopo un po' rinunciano. E' evidente che Trunks non fa parte del Team F</value>
@@ -1007,7 +1007,7 @@
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè il Supremo, nè un tuo alleato!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e tutti la riconoscono! E' proprio lei: Bulma. I Saiyan decidono che le sarà concesso il privilegio di votare doppio durante la fase dell'eliminazione.</value>
   </string>
   <string key="AskMayor">

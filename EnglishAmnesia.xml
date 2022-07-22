@@ -1058,13 +1058,13 @@ Last update: 04/03/2021 -->
   <string key="RoleInfoWolfCub">
     <value>That's strange... you can't seem to remember who you are, only that you should do something during the night!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the village begins to lynch {0}, someone sees a ring in their finger, and screams for the village to stop. "STOP! That person is from the royal family! The royal ring is in his finger!" Fearful of being punished for hurting royalty, the village stops the lynching and retires for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>Did something happen at {0}'s house last night? You can't seem to remember...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} suddenly gasps, after taking something out of their pocket: the official seal of the Mayor. Everyone realizes he is the village's ruler, and, from now on, will count his vote twice when lynching.</value>
   </string>
   <string key="AskMayor">
@@ -1405,7 +1405,7 @@ Last update: 04/03/2021 -->
   <string key="AskSandman">
     <value>You know you should be doing something, but does it need to be today?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>As the town talks, {0} goes back to their house and begins humming a soft melody.  Tonight, everyone will sleep very deeply, and no one will be able to use their night actions</value>
   </string>
   <string key="SandmanNight">
@@ -1507,7 +1507,7 @@ Last update: 04/03/2021 -->
   <string key="AskPacifist">
     <value>You know you should be doing something, but does it need to be today?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!</value>
   </string>
@@ -1665,7 +1665,7 @@ Last update: 04/03/2021 -->
   <string key="AskTroublemaker">
 	<value>You know you should be doing something, but does it need to be today?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, the troublemaker 🤯 is making trouble! Run around and scream for satisfaction! You will lynch twice today!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

@@ -207,7 +207,7 @@
   <string key="RoleInfoClumsyGuy">
     <value>Eres el tontito: No sabes que hacer con tu vida y te has metido en esta casa con todos estos maricones, sinceramente no sabes que haces ahí, tienes un 50% de probabilidad de votar a quien no deseas, sinceramente, te da igual.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} Se levanta del cómodo sofá rosa fuxia y se baja su pantalón revelando un hermoso tanga leopardo, declarandose como divaza. A partir de ahora los votos de {0} contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -249,7 +249,7 @@
   <string key="SorcererOther">
     <value>Intentas oir los gemidos de {0}, pero son muy endebles, o la puta pared muy gorda. De cualquier modo, no es ni un actor porno ni el de Grinder</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Tan pronto como las putis deciden echar a {0}, el se levanta y dice "Osea que os lo habeis creido, mis super followrs de Twitter, estaban ahí cada noche conmigo, osea no puedo ser yo, mirad mi cuenta" tras enseñarsela, las zorris se relajan y se van "Osea soy el princeso, que te esperabas, guarri" .</value>
   </string>
   <string key="NightTime">
@@ -351,7 +351,7 @@
   <string key="HarlotShot">
     <value>Parece que {1} le estuvo dando la brasa anoche a {0} con su rollo de heteros y tal. Y el empotrador no aguanta que le mareen, así que hoy ha cogido al pobre hetero por banda en los pasillos, le ha bajado los pantalones y lo ha empotrado contra la pared a la vista de todos. *{1}* ya no tiene ninguna duda y ha decidido abandonar la casa para explorar el fantástico mundo de ser sodomizado en público. [{0} es el empotrador (justiciero) y ha eliminado a {1}].</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Mientras desayunáis echáis en falta la presencia de *{0}* y *{1}*. En un momento de silencio, oís unos jadeos, cada vez más altos. Seguís el sonido hasta la cocina y ahí os encontráis a *{0}* metiéndole un rabaco enorme a *{1}* mientras este yace con el culo en pompa en la encimera. Después de semejante experiencia *{1}* ya no tiene motivos para seguir en la casa, *{2}*. *{0}* insiste en que él sí, que para los heteros cualquier agujero es trinchera. [{0} es el empotrador (justiciero) y ha eliminado a {1}].</value>
   </string>
   <string key="WolfWins">

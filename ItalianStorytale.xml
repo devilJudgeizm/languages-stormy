@@ -1044,13 +1044,13 @@ Che sfiga essere te..</value>
   <string key="RoleInfoWolfCub">
     <value>Sei il Cucciolo di Lupo, il piccoletto coccolato e viziato da mamma lupa. Anche tu, sceglierai ogni notte uno sfigato da attaccare e mangiare con salsa barbecue. Se vieni ucciso, il tuo branco peloso si arrabbierà così tanto da sbranare, non una, ma ben due persone.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarebbe stato linciato senza pietà, lui, tirando fuori un anello da non si sa dove, urla: «Fermi tutti! Sono il Principe. Questo anello, anche se un po' sporco, ha sopra il sigillo reale. Ho le mani senza calli e la pelle candida, come posso esser cattivo? » Davanti a tanta superficiliatà, i contadini decidono di lasciarlo in vita ma tra la folla si sente qualcuno che dice "Io lo avrei ucciso ugualmente, l'ho visto rubare le mie barbabietole!".</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma tutto quell'incenso che hai attorno non ti fa capire cos'è... Sei però sicuro che non sia nè il Veggente nè un Lupo! Sei sicuro che sia incenso?</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti lo stemma ufficiale del Sindaco urlando: "Sono il vostro sindaco, sfioratemi e farò in modo che anche da morto le vostre tasse aumentino!" Da ora in poi, i voti del Sindaco {0} per i linciaggio conteranno doppio. Speriamo che all'ultimo Bunga Bunga non abbia tirato di colla e scelga bene!</value>
   </string>
   <string key="AskMayor">

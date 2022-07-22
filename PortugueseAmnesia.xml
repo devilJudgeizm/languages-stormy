@@ -992,13 +992,13 @@ Melhor jogar com o reveal role after death ON, senão fica difícil demais, mas 
   <string key="RoleInfoWolfCub">
     <value>Que estranho... você não consegue lembrar quem você é, só que era pra você fazer alguma coisa de noite!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>A aldeia se prepara para enforcar {0}, mas de repente, alguém grita, "PAREM! Ele tem um anel da família real!" Com medo de serem punidos por machucar alguém da realeza, os aldeões vão para suas casas dormir com o rabo entre as pernas.</value>
   </string>
   <string key="SorcererOther">
     <value>Alguma coisa aconteceu na casa de {0} ontem à noite? Você não consegue lembrar...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>De repente, {0} se sobressalta, olhando para algo que tinha acabado de tirar do bolso: O selo oficial do Prefeito! A aldeia percebe que ele é seu líder, e, de agora em diante, seus votos para enforcar alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

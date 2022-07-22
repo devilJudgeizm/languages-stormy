@@ -1370,7 +1370,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Tu sei Draco Malfoy🐶. I Mangiamorte ti vedono come un "cucciolo" e cercano di proteggerti. Se muori, saranno così arrabbiati che la notte dopo due maghi cadranno vittima del loro Avada Kedavra.</value>
 </string>
 
-<string key="PrinceLynched">
+<string key="PrinceLynched" isgif="true" >
 <value>Poco prima che {0} venga baciato dai Dissennatori, Gilderoy Allock👑 inizia a dire un sacco di bugie raccontando come abbia salvato Hogwarts svariate volte. Storditi, i maghi ritirarono il loro verdetto e nessuno venne inviato ad Azkaban quel giorno.</value>
 </string>
 
@@ -1378,7 +1378,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia né il Professore di Divinazione né un Mangiamorte!</value>
 </string>
 
-<string key="MayorReveal">
+<string key="MayorReveal" isgif="true" >
 <value>{0} fa un passo avanti e mostra a tutti il sigillo ufficiale del Ministro della Magia, dichiarandosi come tale. Da ora in poi, i voti del Ministro {0} per spedire ad Azkaban conteranno doppio.</value>
 </string>
 
@@ -1804,7 +1804,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Vorresti addormentare tutti stanotte?</value>
 </string>
 
-<string key="SandmanSleepAll">
+<string key="SandmanSleepAll" isgif="true" >
 <value>Mentre Hogwarts discute, {0} ritorna nella sua aula e inizia a cantare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
 </string>
 
@@ -1929,7 +1929,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Premi questo pulsante quando vuoi usufruire della tua autorità e fermare le votazioni su chi spedire ad Azkaban!</value>
 </string>
 
-<string key="PacifistNoLynch">
+<string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
 <value>Albus Silente☮️, {0}, fa un discorso davanti a tutta Hogwarts. Mossi dalle sue parole gli studenti decidono che nessuno verrà spedito ad Azkaban oggi!</value>
 </string>
@@ -2117,7 +2117,7 @@ Se il Professore di Divinazione o Fiorenzo ti guarda, puoi o meno essere identif
 <value>Vuoi fare scherzi oggi?</value>
 </string>
 
-<string key="TroublemakerDoubleLynch">
+<string key="TroublemakerDoubleLynch" isgif="true" >
 <value>{0}, Pix 🤯 sta facendo scherzi a tutti ad Hogwarts! Ha scelto però il giorno sbagliato, facendo infuriare l'intera Hogwarts, facendo mandare due persone ad Azkaban!</value>
 </string>
 

@@ -322,7 +322,7 @@
 	<string key="HarlotShot">
 		<value>{0} 和 {1} 昨晚在一间屋子，不过枪手还是把 {1} 射死了。</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>📰新闻：我市发生一起枪击案，{0} 将 {1} 射杀，原因不明，目前 {0} 行踪不明，请有线索者联系警方\n{2}。</value>
 	</string>
 	<string key="WolfWins">
@@ -1292,13 +1292,13 @@
     <value>🐶幼狼，和🐺狼人一样，你会每晚攻击一个村民，但是如果你死了，出于悲愤，那晚其它狼会再攻击一个人。</value>
   </string>
    
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>当村民开始处决{0}时, {0}却说:“我是👑公主！” ，并亮出她的皇家戒指和国王颁发的证书（雾）。于是村民们放过了她。</value>
   </string>
   <string key="SorcererOther">
     <value>你尝试试探{0}，可惜，{0} 并不是狼或👳先知。</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 走上前，亮出了他的市长证，从此，{0}的投票将以两票计算。</value>
   </string>
   <string key="AskMayor">
@@ -1583,7 +1583,7 @@
   <string key="AskSandman">
     <value>打算让所有人安睡了吗?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
         <value>只见💤睡神{0}的手轻轻一挥，不久，星月立即升上了小镇的夜空，灯也熄灭了，所有人都该入睡了。</value>
         <value>只见💤睡神{0}的手轻轻一挥，不久，夜色瞬间笼罩了小镇，所有人都该入睡了，今晚没有人再会活动。</value>
         <value>只见💤睡神{0}走上了神坛，不久，夜幕瞬间笼罩了小镇，所有人都该入睡了，今晚没有人再会活动。</value>
@@ -1730,7 +1730,7 @@
 <string key="AskPacifist">
   <value>点击这里，开始你的关于和平与爱的演讲，以停止今天的投票处决</value>
 </string>
-<string key="PacifistNoLynch">
+<string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
   <value>☮️和平演讲家 {0}, 开始了他关于和平、爱、友谊和原谅的演讲，残暴的村民们感动得洗心革面。不再杀戮，不再杀戮，世界和平！于是乎，今天没有人会被处决！</value>
 </string>
@@ -1778,7 +1778,7 @@
   <string key="AskTroublemaker">
 	<value>要去小镇里搞事情吗？</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>👲捣乱者{0},开始在镇上闹事...因此今天将投票处决两次！</value>
   </string>
   <string key="TroubleDoubleLynchNow">

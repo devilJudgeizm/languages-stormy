@@ -351,7 +351,7 @@
     <!-- 1 - Harlot's name -->
     <value>이런! {0}님이 어젯밤에 창녀랑 즐기다가 병에 걸렸네요! 병사는 분노를 참지 못해 {1}님을 총으로 쏩니다</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1140,13 +1140,13 @@
   <string key="RoleInfoWolfCub">
     <value>당신은 늑대들의 새끼입니다 🐶. 다른 늑대처럼 매 밤마다, 플레이어를 선택하여, 그(녀)를 잡아 먹습니다. 만약에 당신이 죽으면, 늑대들은 분노에 인해, 다음 밤에 두명을 잡아먹습니다.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>{0}님을 투표해 마을 사람들은 그(녀)를 죽이려고 하는데, 그(녀)가 갑자기 “기다려! 난 왕자다!👑”라고 말하면서, 마을 사람들에게 왕족 가문의 도장을 보여준다. 마을 사람들은 그(녀)를 알아보며, 사과를 드리고, 벌벌 떨면서 집으로 돌아간다.</value>
   </string>
   <string key="SorcererOther">
     <value>{0}님이 무슨 역할을 갖고 있는지 마법으로 보려고 했지만, 정확하게 보이지 않았다. 허나 그(녀)는 늑대 혹은 예언자가 아니라는 걸 알아챘다.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0}님은 주머니에서 문서를 꺼내고, 사람들에게 보여준다. 그(녀)는 시장이다 🎖! 지금부터 {0}님의 투표의 가치는 2배입니다</value>
   </string>
   <string key="AskMayor">

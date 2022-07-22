@@ -531,7 +531,7 @@
   <string key="HarlotShot">
     <value>Sem中嘅一個晚上，舍監【{0}】知道Hell雞【{1}】搵過佢做愛。於是佢唯有快刀斬亂麻，踢人滅口，趕【{1}】出科大。\n【Hell雞 🐥】已被Quit U。</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Sem中嘅一個深夜，舍監【{0}】話要打蛇，打到蛇主【{1}】，佢仲咁啱同hell雞做緊Study Partner，佢要執嘢Quit hall，仲要Quit埋U㖭。\n【{2}】。</value>
     <value>Sem中嘅一個深夜，舍監【{0}】話要打蛇，打到蛇主【{1}】，佢仲咁啱喺度溫緊人類生育學，佢要執嘢Quit hall，仲要Quit埋U㖭。\n【{2}】。</value>
     <value>Sem中嘅一個深夜，舍監【{0}】話要打蛇，打到蛇主【{1}】竟然一次過收十八條蛇，要佢執嘢 Quit hall，仲要Quit埋U㖭。\n【{2}】。</value>
@@ -1247,13 +1247,13 @@
   <string key="RoleInfoWolfCub">
     <value>你係女神 👱‍♀️。作爲女生，你係科大嘅稀有動物，使學霸們都狗衝邀你入隊。由於女神你實在太迷人啦，如果你Quit咗U嘅話，冇女的學霸會更專心讀書，下一個Sem嘅考試可以一次過擾敵淘汰兩個人。（註：你係學霸陣營。）</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>當ARRO表示要踢【{0}】走嘅時候，全校學生突然收到佢Send嚟嘅Massmail，寫住：「如果平時唔係我舐Professor拎Tips，你地F咗好耐啦！」學渣一睇到呢句說話，即刻向ARRO求情，挽留Sources王。</value>
   </string>
   <string key="SorcererOther">
     <value>你嘗試去打聽下【{0}】嘅身份，你發覺佢原來又唔係學霸，又唔係chief組爸，咁就浪費咗一個Sem㖭……</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>【{0}】突然行出嚟多謝大家支持佢地內閣，原來今年學生會選舉又唔聲唔聲完咗。【{0}】而家有特權，佢每個Sem做嘅Evaluation都當兩份。</value>
   </string>
   <string key="AskMayor">
@@ -1610,7 +1610,7 @@
   <string key="AskSandman">
     <value>你今個Sem想唔想出Massmail，令到全科大人喺今個Sem嘅考試周無法book房呢？</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>正當班莘莘學子預備緊考Midterm嘅時候，學務長【{0}】宣布禁止你地喺今個Sem考試周book房。打壓學生活動可恥！</value>
   </string>
   <string key="SandmanNight">
@@ -1713,7 +1713,7 @@
   <string key="AskPacifist">
     <value>你今個Sem想唔想念經，令到全科大人喺今個Sem無法E人呢？</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>正當班莘莘學子預備緊考Midterm嘅時候，佛系青年【{0}】喺度念緊大悲咒，佢慈祥嘅聲線令你地喺今個Sem暫時放下屠刀。</value>
   </string>
@@ -1882,7 +1882,7 @@
   <string key="AskTroublemaker">
 	<value>你今個Sem想唔想喺FYS洗版，煩死d人呢？</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>正當班莘莘學子預備緊考Midterm嘅時候，五毛【{0}】喺度洗版，搞到FYS烏煙瘴氣，人人都頂唔順想快D quit多個人。</value>
   </string>
   <string key="TroubleDoubleLynchNow">

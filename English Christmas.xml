@@ -1195,13 +1195,13 @@
   <string key="RoleInfoWolfCub">
     <value>Awwww you are Frosty the Snowman ❄️ (🐶)! You are the cutest, coldest little Snowman in the WHOLE North Pole with a cute button nose. You get to choose a player to freeze every night. If anyone tries to kill you, your team will get 2 kills. But you will still be dead. :(</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the town begins to burn {0}, they realize that they tried to burn Grýla, the reason for the season! How dare they! Feeling silly, the people of the North Pole all head back home.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look through your snow globe at {0}, but can't quite make out what they are through the blizzard. But you know it was not a Snowman or Santa Claus…</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} cries aloud, and the citizens of the North Pole seeing Rudolph 🦌 (🎖) in the manger. Rudolph is the reason for the season so {0}'s votes for banishing will count twice.</value>
   </string>
   <string key="AskMayor">
@@ -1594,7 +1594,7 @@
   	<value>🎵</value>
   	<value>🎼</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} starts singing and suddenly everyone feels so sleepy. Elves stop working in the shops, Santa's eyes feel so heavy, even Snowmen stop their ice for a good night of sleep.</value>
   </string>
   <string key="SandmanNight">
@@ -1691,7 +1691,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <string key="AskPacifist">
     <value>Hit this button if you want to show your tree to the whole village and let its beauty stop the burning.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <value>The Christmas Tree Decorator 🧙🏻‍♀️/🧙🏻‍♂️(☮️), {0}, points towards the christmas tree in the middle of the village and as you see its glory, no one can burn anyone today.</value>
     <value>As the Christmas Tree is finished, huge thanks to the Christmas Tree Decorator 🧙🏻‍♀️/🧙🏻‍♂️(☮️), {0}, everyone dances in great joy around the tree and decided not to burn anyone today.</value>
     <value>As the Christmas Tree is put up by the Christmas Tree Decorator 🧙🏻‍♀️/🧙🏻‍♂️(☮️), {0}, everyone gathers inside host's house, they are overwhelmed by hype of the party and forget about burning anyone today.</value>
@@ -1851,7 +1851,7 @@ If the Black Pete or the Nutcracker kills you, they will cry in great grief and 
   <string key="AskTroublemaker">
   <value>Do you want to speed the Christmas preparation process today?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
   <value>{0}, the young reindeer 🦌💥 (🤯) is making everyone speed up their assigned jobs! Run around and work ASAP! You will burn twice today!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

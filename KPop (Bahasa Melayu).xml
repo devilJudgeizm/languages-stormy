@@ -355,7 +355,7 @@ Pemain {0},{1} telah dibunuh kerana tidak mengundi 2 kali dalam 24 jam yang lalu
 		<!-- 1 - Harlot's name -->
 		<value>Nampaknya {0} tidak berpuas hati dengan Ahli kumpulan Twice yang selalu menjual album rosak kepada penduduk kpop World. Admin Allkpop berjaya menulis artikel tentang perangai buruk kumpulan Twice. {1} telah dimalukan dan melarikan diri ke negara jiran.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<!-- 0 - Gunner's name -->
 		<!-- 1 - target name -->
 		<!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1134,13 +1134,13 @@ Nota: Para adalah pembuat bot ini.</value>
 	<string key="RoleInfoWolfCub">
 		<value>Anda merupakan Ahli Exo-K :dog: yang amat disayang oleh ahli Exo yang lain. Anda juga sama seperti Exo yang lain, cuma bila anda dipecat, Exo yang lain akan menjadi amat marah lalu mereka akan membalas dendam atas pemecatan anda dengan memarahi 2 orang penduduk kpop..</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Semasa penduduk kpop mahu menghalau  {0} , mereka berkata ”Tunggu sekejap ! Aku seorang pelakon bukan penyanyi. Trofi ini sebagai bukti aku pelakon pilihan. Aku merupakan idola kepada  kamu semua! jadi aku tak mungkin jahat.” Terasa diperlekehkan, penduduk dunia kpop membatalkan undian pada malam itu... </value>
 	</string>
 	<string key="SorcererOther">
 		<value>Anda cuba stalk {0}, tetapi peranti anda tidak dapat menyelongkar banyak tentang {0}. Mereka bukan Ahli kumpulan Exo ataupun CEO SM Entertainment...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} maju ke tengah pentas untuk menerima kejutan yang dibuat oleh pihak Golden Disk Award. Pihak Golden Disk Award memberikan kot khas  kepada ahli kumpulan Big Bang🎖 tanda sebagai juri dan  pengiktirafan kepadanya. Bermula dari sekarang, setiap undian 2 dikira dua kali.</value>
 	</string>
 	<string key="AskMayor">

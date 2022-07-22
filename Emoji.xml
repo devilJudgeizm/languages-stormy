@@ -290,7 +290,7 @@
   <string key="HarlotShot">
     <value>{0} 🔫💋❗️ {1} 🪦❗️</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>{0} 👉 {1} 🔫❗️ {2}</value>
   </string>
   <string key="WolfWins">
@@ -983,13 +983,13 @@
   <string key="RoleInfoWolfCub">
     <value>👇🐶❕ 🐺🐺😍🐶. 🐺🐶🐺 ☠👱. 👇🪦➡🐺🐺😬☠☠</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>🙋🙋🙋✊?? {0}, {0} 💬⚠👆👑❕ ☠⛔❕ 👱❔❔👱😅🔜😴.</value>
   </string>
   <string key="SorcererOther">
     <value>👇🔮 {0}, ⚠ 💭❔❔, 🚫👳🐺.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 👱💬👆🎖.  {0}🙋🔜🙋🙋❌2⃣</value>
   </string>
   <string key="AskMayor">

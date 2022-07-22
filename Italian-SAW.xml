@@ -1110,13 +1110,13 @@ variant="SAW MODE"/>
   <string key="RoleInfoWolfCub">
     <value>Sei il Burattino di SAW... Jigsaw ti manovra attraverso un computer remoto, e dai consigli all'Equipaggio SPEG su chi uccidere, senza rivelarti... Quei ragazzi non sono ancora esperti del gioco alla pari di te, e hanno bisogno di una guida che li controlli da fuori...</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena sui monitor appare il nome di {0}, ognuno si copre le orecchie per evitare di udire le urla, ma niente accade, e la folla sbigottita deglutisce in attesa che la Roulette giri di nuovo... {0} sorride beffardo, ma sa che la prossima volta non si salverà la pelle allo stesso modo...</value>
   </string>
   <string key="SorcererOther">
     <value>Facendo la guardia alla cella di {0}, non hai rilevato alcuna attività sospetta...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Una voce si leva sopra le altre. È quella di {0} che, eccitato dichiara di essere riuscito ad hackerare il sistema informatico che gestisce le votazioni. Ora i suoi voti varranno il doppio, e magari i Giocatori avranno una speranza in più...</value>
   </string>
   <string key="AskMayor">

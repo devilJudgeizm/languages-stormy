@@ -306,7 +306,7 @@
   <string key="HarlotShot">
     <value>Sembra che {0}  non abbia gradito la visita di Rattata, stanotte! Cubone ha avuto la sua vendetta. {1} è fuori gioco.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Improvvisamente si sente un sibillio, qualcosa si muove nell'aria. Si vede {0} in piedi, l'osso di nuovo in mano, più in là il corpo di {1} disteso a terra, con un bernoccolo sulla testa.\n{2}</value>
   </string>
   <string key="WolfWins">
@@ -950,13 +950,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei il Persian del capo, Giovanni ti adora. Potresti essere mandato in missione da solo. Nel caso in cui fossi in missione con altri e fossi battuto. La notte successiva il Team Rocket catturerà ben due Pokémon.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Gli allenatori hanno attaccato {0} perché pensano possa essere un membro del Team Rocket, ma il suo essere vago è misterioso non è dovuto a qualcosa di losco. Lancia la pokéball e fa la sua apparizzione Zapdos, ebbene sì, hanno appena attaccato l'allenatore di Zapdos. Mortificati, se ne tornano tutti a casa, scusandosi.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai tenuto {0} sotto controllo tutta la notte, ma non vedi nulla di interessante in lui... Non è nè un Pokémon psichico nè un membro del Team Rocket!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} lancia la sua pokéball, Moltres fa la sua apparizzione ad ali spiegate. Non vederlo è quasi impossibile. D'ora in poi, gli attacchi di {0}, l'allenatore di Moltres, varranno il doppio rispetto agli altri.</value>
   </string>
   <string key="AskMayor">
@@ -1289,7 +1289,7 @@
   <string key="AskSandman">
     <value>Vuoi che Jigglypuff canti una canzone alla fine del crepuscolo?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre tutti si interrogano sul da farsi, {0} lancia la sua pokéball. Subito dopo il crepuscolo, il suo Jigglypuff si esibirà in concerto!</value>
   </string>
   <string key="SandmanNight">
@@ -1387,7 +1387,7 @@
   <string key="AskPacifist">
     <value>Lancia la pokéball quando pensi sia il momento giusto, per raffreddare gli animi e salvare placare lo scontro.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
     <value>{0} lancia la pokéball, la temperatura cambia dastricamente ogni volta che Articuno sbatte le ali. La sua allenatrice gli fa segno di usare Geloraggio e il Pokémon esegue, i Pokémon sono costretti a fermare lo scontro!</value>
   </string>
@@ -1538,7 +1538,7 @@
   <string key="AskTroublemaker">
     <value>Vuoi liberare la mandria?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0} ha liberato i suoi Tauros 🐃! La mandria ha invaso la città, oggi saranno attaccati ben due sospettati!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

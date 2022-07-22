@@ -1132,13 +1132,13 @@
   <string key="RoleInfoWolfCub">
     <value>Eres el cachorro de lobo; adorado por tu manada. Como el resto de hombres lobo, elegirás atacar a un aldeano y matarlo cada noche. Si mueres, tu manada entrará en cólera y atacará a dos aldeanos la próxima noche. Por desgracia, seguirás muerto.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Mientras el pueblo empieza a linchar a {0}, de repente dice: "¡Esperen, soy el príncipe! Este anillo real, junto con el sello del rey lo demuestran. ¡Mis sirvientes me acompañan día y noche, por lo que no puedo ser malo!". Avergonzados, los aldeanos se marchan a sus casas.</value>
   </string>
   <string key="SorcererOther">
     <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es hombre lobo ni vidente.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} da un paso al frente y muestra su placa de la alcaldía, que demuestra que es el alcalde del pueblo. Desde ahora, los votos de {0} a la hora de linchar contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -1484,7 +1484,7 @@
   <string key="AskSandman">
     <value>¿Quieres dormir a toda la aldea esta noche?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mientras la aldea discute, {0} vuelve a su casa y comienza a esparcir una arena mágica adormecedora. Esta noche, todos caerán en un sueño profundo, y nadie podrá realizar acciones nocturnas.</value>
   </string>
   <string key="SandmanNight">
@@ -1587,7 +1587,7 @@
   <string key="AskPacifist">
     <value>¿Quieres evitar que se linche esta noche?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>El pacifista ☮️, {0}, está dando un emotivo discurso de paz, amor y amistad en la plaza del pueblo. Conmovido por su retórica, el pueblo decide no linchar a nadie esta noche.</value>
   </string>
@@ -1748,7 +1748,7 @@
   <string key="AskTroublemaker">
 	<value>¿Quieres liarla hoy?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, el buscapleitos 🤯, está armando un escándalo tremendo. ¡Corre por ahí y grita de satisfacción! Hoy lincharás 2 veces.</value>
   </string>
   <string key="TroubleDoubleLynchNow">

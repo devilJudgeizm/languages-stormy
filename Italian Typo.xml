@@ -332,7 +332,7 @@
   <string key="HarlotShot">
     <value>Semgrz che unx motrs cpn la ptkxtitura abnia giovatp a {0}! K'atgitllwfe ja avhto la suz vrgdetfa. {1} e joeto</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Imltocvlzamenre zi zsnre umo cpafo. I fipljsi escobo dalif leoldle cwse oee dovoierd {0} in pievi wccajfo ap xorol xi {1}, vpn o'agma anxida pimtaga alla zya feqgq.\n{2}</value>
   </string>
   <string key="WolfWins">
@@ -1011,13 +1011,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei ii Vucxioli ru Milo, vebrdagk e odotetto dxl huo branco. Vple glk xprrj lupj, scegliegqi ofmi nogts ub goocatpdw da qhrafvarw e udcidere. Se biegi kccieo, j ruoi domlagni xj onfjfistamho a hak ljbto fw athaxvare did dilhf la nogts xeguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Aplshw ip villagbio ha drxiso dye {0} swfa il lojcuato wyaxera, iki uria &lt;&lt;Aspefgags! Eono im Lgimdipr. Quextp anfllo teale, dim ik suglllo sel Gw, oo dimkctea. Pgni gothe, slnp cigsondafl dai wervi. Auindi noh locco rsxeee hapvafii.&gt;&gt; Senyendosj zcuovchi, I cpgtxdinu zi ritirano dociohenge mekoe ogolfud case.</value>
   </string>
   <string key="SorcererOther">
     <value>Bai lgovato a sxejtaef {0}, ma mog ruexsk a fapifr fix'e... Sfi pero skchro che nkh zia me im Bdhgente ne hn Luoo!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fq yn pqwzo afwnri e nostfa a guhti io srekma ufficiwle dei Sihwaco, dicjiaeahdpzi coje txpe. Dx orw ib poj, i boto xei Simfaco {0} odr il mijfiqbgjk comteranno siplio.</value>
   </string>
   <string key="AskMayor">
@@ -1360,7 +1360,7 @@
   <string key="AskSandman">
     <value>Dldfrsgl addofmsbfage tuttk ctanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Nehrrw il viklxtgil diecuye, {0} eitodna jelia xua vzsa r imizia a tisfykettzre kha domxe leloeiz. Queqra bofte, tutro dormldanho un sonnl ckxi profihdo che mib pofdahno zfolgefe ke loro asiohi nohtirns!</value>
   </string>
   <string key="SandmanNight">
@@ -1460,7 +1460,7 @@
   <string key="AskPacifist">
     <value>Ckivva qjewro nottphe quahdo gkoi fare ik fuo fomlpvegtf disvorzo r derkare ptossiko limcianfio del pooklo!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 
     <value>Li Lavifiqfa [?], {0}, sta facrbsl ug pgovondl eiedofso eiguarep l'amicksia e la disyciz ib fronfe al dipoahtio. Conmosci dzlpe sje parkle, neqsuho verfa lunciayl ofru!</value>
   </string>
@@ -1623,7 +1623,7 @@
   <string key="AskTroublemaker">
 	<value>Duli cauzzee buai ogri?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>io ruaqtafeste  {0} sya xomgkgahdo giai jel bimpafhjo! Hq fahto sxaopxrf il vrsfiqje dwj cogtadiji fhr janno inbaeo oz oiwzza! Yli infuroati abitanti fel vkllagnjo kijcerxnjl due vipye ig oreda ailz rzhblq!</value>
 	<value>jl guacgafesge  {0} sha xonvijanek guaj nel vlklagyil! Hw hruciatp tutfo il cifno del bdstiane! Gli infuriahi ahitanfi ffl dimlantio mlnsffzjno wue glite in peeda aloq tabbia!</value>
   </string>

@@ -1137,14 +1137,14 @@
   <string key="RoleInfoWolfCub">
     <value>تو پاتریکی. عشق باب اسفنجی و دار و دستش. اگ بمیری، به یاد بود کارهای مفیدی که برای گروه انجام‌دادی فردا شب 2 نفرو دیوونه میکنن</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>مردم خواستن {0} رو اعدام کنن ولی نپتون اومد و گفت : این پسر منه، دوسش دارم خیلی زیاد. اونو نکشید ترخدا. 
 پس از اتمام کسشعرای نپتون، ماهی ها از دور پسر نپتون دور مسشن</value>
   </string>
   <string key="SorcererOther">
     <value>{0} نه دیوونس و مرمیت من</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>ماهی ها دارن با دقت به سخنان یکی گوش میکنن که داره میگه من نپتونم! شاه شاهان. پس تموم‌شدن حرفا ماهی ها بش اجازه میدن {0} دوتا رای بده</value>
   </string>
   <string key="AskMayor">

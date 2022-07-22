@@ -1133,13 +1133,13 @@
   <string key="RoleInfoWolfCub">
     <value>Eres Snake 🐶 ¡¡Tus aliados te aprecian!! Como el resto de aliados del Sr.Burns, elegirás a un ciudadano para expulsarlo cada noche. Si eres expulsado, tus aliados entrarán en cólera y expulsaran a dos aldeanos la próxima noche. Por desgracia, no cambiara tu expulsion.</value>
   </string>
-   <string key="PrinceLynched">
+   <string key="PrinceLynched" isgif="true" >
     <value>Mientras el pueblo empieza a planear expulsar a {0}, de repente dice: «¡Esperad, soy Marge Simpson! Este anillo real, junto con el sello de Springfield lo demuestran.». Avergonzados, los ciudadanos se marchan a sus casas.</value>
   </string>
   <string key="SorcererOther">
     <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es un aliado del Sr.Burns ni Lisa simpson.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} da un paso al frente y muestra su placa de la alcaldía, que demuestra que es el alcalde del pueblo. Desde ahora, los votos de {0} a la hora de linchar contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -1483,7 +1483,7 @@
   <string key="AskSandman">
     <value>¿Quieres dormir a todo Springfield con tus historias esta noche?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mientras Springfield discute, {0} toma el control de la junta y comienza a proyectar fotos de sus vacaciones. Esta noche, todos caerán en un sueño profundo, y nadie podrá realizar acciones nocturnas.</value>
   </string>
   <string key="SandmanNight">
@@ -1586,7 +1586,7 @@
   <string key="AskPacifist">
     <value>¿Quieres evitar que se eche a alguien de Springfield?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Maggie Simpson ☮, {0}, se ha puesto el traje princesa y esta siendo la sensacion entre los vecinos, Springfield olvida votar y no se echa a nadie este dia.</value>
   </string>

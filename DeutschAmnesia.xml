@@ -422,7 +422,7 @@
     <value>Plötzlich hört man einen Schuss. Das Dorf sieht sich um und entdeckt {0}, den Schützen 🔫, über dem Körper von {1} stehen, die Pistole noch immer auf den Kopf gerichtet. {1} war die Hure 💋</value>
     <value>Ein lauter Knall schallt durch das Dorf. Ihr entdeckt {0}, den Schützen 🔫, wie er neben dem toten Körper von {1}, der Hure 💋 kniet... War das eine Rache für eine nicht zufriedenstellende Nacht, oder wollte {0} nur nicht bezahlen?</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Plötzlich hört man einen Schuss. Das Dorf sieht sich um und entdeckt {0}, den Schützen 🔫, über dem Körper von {1} stehen, die Pistole noch immer auf den Kopf gerichtet. {2}</value>
     <value>Ein lauter Knall schallt durch das Dorf. Nach einiger Suche findet ihr {0}, der sich verzweifelt hinter einem Baum zu verstecken versucht, neben der Leiche von {1}... Der Schütze 🔫 scheint seine Aufgabe nicht vergessen zu haben! {2}</value>
   </string>
@@ -1230,7 +1230,7 @@
     <value>Du scheinst eine Schlafstörung zu haben... oder warum brennt um kurz nach Mitternacht noch Licht in deinem Haus? Und was viel wichtiger ist, was zur Hölle treibst du da?</value>
     <value>Tagsüber wirkst du auf deine Mitmenschen wie ein ganz normaler Dorfbewohner, doch nur des Nachts entpuppt sich deine wahre Gestalt! Leider klingt das sehr viel weniger gruselig, wenn du vergessen hast, worin deine Macht besteht...</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Kurz bevor das Dorf {0} lyncht, hört man die verurteile Person rufen: "Wartet! Ich bin der Prinz 👑. Dieser königliche Ring mit dem Siegel meines Geschlechts beweist es. Ich bin jede Nacht von Dienern umgeben, folglich kann ich also nicht dem Bösen angehören." Von der eigenen Torheit überrascht, ziehen sich die Bewohner des Dorfes kleinlaut in ihre Gemächer zurück, ohne auf ihr Lynchopfer zu bestehen. Niemand denkt auch nur im Entferntesten darüber nach, wieso {0} sich überhaupt an seine königliche Abstammung erinnern konnte...</value>
     <value>Eine wundervolle Musik ertönt und {0} erstrahlt in allen Farben des Regenbogens. Mit dröhnender Stimme ruft der Prinz 👑: "Haltet ein, ihr Narren! Ihr begeht einen großen Fehler!" Nach diesem Auftritt traut sich keiner mehr, ihm die Schlinge um den Hals zu legen, und eingeschüchtert begibt sich das Dorf ins Bett.</value>
     <value>Als ihr {0} gerade von der Klippe stoßen wollt, schreit plötzlich einer von euch auf: "Halt! Dieser Ring!" An der Hand des Prinzen 👑 entdeckt ihr, wovon der Dorfbewohner gesprochen hat: Ein goldenes Schmuckstück, mit einem eingravierten geflügelten Kreis und darunter drei Dreiecken. Das Wappen des Königs! Beschämt zieht das Dorf sich zurück und verzichtet darauf, den Prinzen zu lynchen.</value>
@@ -1239,7 +1239,7 @@
     <value>Irgendetwas geschah bei {0}s Haus letzte Nacht. Leider kannst du dich nicht mehr daran erinnern ...</value>
     <value>Was ist nur in der letzten Nacht bei {0}s Haus passiert? Bist du etwa verkatert, oder warum kannst du dich partout nicht daran erinnern?</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} erschrickt, nachdem er etwas aus seiner Tasche gezogen hat: Die offizielle Plakette des Bürgermeisters 🎖. Jeder kapiert, dass er der Boss ist, und seine Stimme wird von nun an auf der allabendlichen Versammlung doppelt gezählt.</value>
     <value>{0} zieht etwas aus der Tasche und will es gerade wegwerfen, da erkennt man die Plakette des Bürgermeisters 🎖. Alle schnappen nach Luft, als ihnen klar wird, wer hier das Sagen hat, und sprechen der Stimme des Bürgermeisters doppelten Wert zu.</value>
   </string>
@@ -1566,7 +1566,7 @@
     <value>Komisch... worüber denkst du gerade nach?</value>
     <value>Oha! Du kannst etwas machen! Wie cool ist das denn? Frage ist nur: heute oder nicht heute?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Während die Dorfbewohner verwirrt auf dem Dorfplatz herumstehen, sehen sie auf einmal {0} zwischen den Häusern herumschleichen und Sand 💤 aus einem roten Samtbeutel verstreuen. Einen Moment lang schauen sie verwundert zu, dann wenden sie sich wieder wichtigeren Dingen zu und haben den kleinen Zwischenfall nur Momente später bereits vergessen.</value>
   </string>
   <string key="SandmanNight">
@@ -1653,7 +1653,7 @@
   	<value>Du weißt, dass du etwas tun solltest, aber muss es heute sein?</value>
     <value>Komisch... worüber denkst du gerade nach?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   	<!-- {0} - Name des Pazifisten -->
   	<value>"Friede ☮️ sei mit euch" sprach {0}. Ihr steht auf und fangt an zu tanzen. Es wird ein Lagerfeuer entzündet. Jetzt vergesst bloß nicht zu lynchen!</value>
   </string>
@@ -1869,7 +1869,7 @@
   	<value>Du weißt, dass du etwas tun solltest, aber muss es heute sein?</value>
     <value>Komisch... worüber denkst du gerade nach?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0} 🤯 steht auf und erzählt etwas von einem Vincent, der voll süß sei. Als sie merkt, dass es euch eher nervt, schreit die Unruhestifterin 🤯 voll los und beschimpft die Eltern und alle "alten Leute". Ihr seid so genervt, dass ihr heute Abend vergesst, dass ihr nur einmal lynchen wollt und stimmt doppelt ab...</value>
 	<value>Was ist das denn für ein Chaos hier? Und wieso hängt überall die Wäsche auf der Leine? Scheinbar putzt heute {0} 🤯 wieder das ganze Dorf und sorgt für mächtig Unruhe. Nach eurem ersten Lynch seid ihr euch unsicher, ob ihr bereits gelyncht habt und werden zur Sicherheit noch einen zweiten Lynch anhängen.</value>
   </string>

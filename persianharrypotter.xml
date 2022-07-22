@@ -1143,13 +1143,13 @@
   <string key="RoleInfoWolfCub">
     <value>بلاتریکس لسترنج .. هاهااااا ... لرد ولدومورت بازگشته و بالاخره عشق بدون حد و مرز تو را خواهد دید . بلی ... در آخر لرد برای توست ، تنها تو ... حال دیگر این فقط یک عشق یک طرفه نیست . در قطار تو هم به همراه مرگخواران برای پیروزی لرد میجنگی ولی اگر به هر دلیلی کشته شوی ، مرگخواران حمام خون به راه میاندازند . باید هم اینگونه شود ، تو دیگر بانوی آنان به حساب می آیی . آنان در روز بعد به دو کوپه حمله خواهند کرد</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>مسافرای قطار میخواستن فلور دلاکور رو از قطار بیرون کنن ولی اون یه چشمه از قدرتهای پریزادی خودش رو به نمایش گذاشت و همه مجذوب زیبایی اون شدن و از بیرون کردنش منصرف شدن . {0} توی قطار باقی موند</value>
   </string>
   <string key="SorcererOther">
     <value>خوب {0} مرگ خوار نیست . پسر برگزیده هم نیست ... پس چی میتونه باشه !؟هممم</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>جرج بازم یه شوخی جدید درست کرده ولی این یکی یخورده فرق داره . {0} یه کاری کرده که از این به بعد رای هاش دو تا حساب بشن</value>
   </string>
   <string key="AskMayor">
@@ -1494,7 +1494,7 @@
   <string key="AskSandman">
     <value>آیا دوست دارید که تمام بازیکن ها رو امشب به خواب فرو ببرید؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>وقتی همه در سالن در حال صحبت بودند{0} به کوپه خود رفت و با صدای فوپر خود همه رو به خواب عمیقی فرو برد.امشب هیچ کس توانایی استفاده از نقش خود را ندارد</value>
   </string>
   <string key="SandmanNight">
@@ -1596,7 +1596,7 @@
   <string key="AskPacifist">
     <value>این دکمه رو فشار بده هر وقت که خواستی اعلامیت رو پخش کنی و مردم رای ندن</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>ریتا اسکیتر ، {0} امروز اعلامیه ای پخش کرد و باعث شد که مردم امروز نخوان که رای بگیرن</value>
   </string>
@@ -1759,7 +1759,7 @@
   <string key="AskTroublemaker">
 	<value>میخواهید امروز دردسر ایجاد کنید </value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>بدعنق {0} امروز کلی دردسر درست کرد و باعث عصبانی شدن مسافر ها شد امروز دو بار رای گیری انجام میشود </value>
   </string>
   <string key="TroubleDoubleLynchNow">

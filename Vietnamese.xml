@@ -1200,13 +1200,13 @@ Bạn là Sói Đầu Đàn ,kẻ bị nguyền đầu tiên, khởi nguyên c�
     <value>WOLF CUB/Sói con 🐶; What a cuuuute little wuff. tickles tickles -cough cough- As i was saying, you are the Wolf Cub and you drops the mic -I just can't resist that. I think if anyone killed you, I'd give the wuffs two victims. You're too cute to die. I wouldn't be able to tickle you anymore-
 Sói con nhỏ nhắn siêu dễ thương,gruh gruh…..Bạn là sói con và là tình yêu của bầy sói vì bạn quá dễ thương, nếu bạn chết bầy sói sẽ giận giữ và trả thù bằng cách giết 2 người đêm đó.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Khi dân làng chuẩn bị xiên {0}, y kêu lên “Lạy các bố!! Em bên Hoàng Gia đây ạ.Đây,nhẫn hoàng tộc đây, hàng auth đấy. Đêm nào tôi cũng ở trong nhà cùng với tùy tùng thì theo phe ác làm sao được.” Dân làng rỉ tai nhau cởi trói thả vị vương tử ra vì chẳng ai muốn trải nghiệm quả combo tru di cửu tộc.</value>
   </string>
   <string key="SorcererOther">
     <value>Bạn cố soi {0}, nhưng không thể nhận ra đó là ai.  Đó không phải là sói hay tiên tri, nhưng mà...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} Bước dõng dạc ra giữa đám đông, chìa sổ hộ nghèo... à không, chìa huy hiệu thị trưởng ra và để mọi người biết thân phận của mình, vote của {0} giờ có giá trị gấp đôi.</value>
   </string>
   <string key="AskMayor">
@@ -1566,7 +1566,7 @@ Sói con nhỏ nhắn siêu dễ thương,gruh gruh…..Bạn là sói con và l
   <string key="AskSandman">
     <value>Bạn có muốn bỏ thuốc ngủ cả làng đêm nay?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Trong khi dân làng vẫn bàn luận sôi nổi, {0} rón rén đi đến giếng làng cùng với gói thuốc ngủ. Đêm nay, sẽ không có ai thức nổi để thực hiện chức năng</value>
   </string>
   <string key="SandmanNight">
@@ -1668,7 +1668,7 @@ Sói con nhỏ nhắn siêu dễ thương,gruh gruh…..Bạn là sói con và l
   <string key="AskPacifist">
     <value>Bấm nút để trì hoãn việc sát sinh của cả làng!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Người Thuyết Giáo ☮️, {0}, đang có một bài diễn thuyết đầy xúc động về tình bạn và lòng tin trước sự lắng nghe của cả làng. Bị lay động bởi bài thuyết giảng, dân làng sẽ không xiên ai tối nay!</value>
   </string>
@@ -1832,7 +1832,7 @@ Kẻ gây rối đang dậy thì nên rất bất ổn và khó chịu, chức n
   <string key="AskTroublemaker">
 	<value>Nay bạn có muốn gây rối không?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, Kẻ Gây Rối 🤯 lại chạy rông và la hét nữa rồi! Bữa nay vote 2 lần đó!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

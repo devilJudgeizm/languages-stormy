@@ -585,7 +585,7 @@
   <string key="DefaultKilled">
     <value>Semblava una nit prou tranquil·la per a {0}, però s'equivocava de ple. Els vilatans es troben al matí i descobreixen el cos de {0} partit de cap a peus... Estranyament, no poden trobar-ne el fetge enlloc... L'assassí en sèrie ha tornat a actuar! {1}</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>De sobte, se sent un tret. Els vilatans es giren i veuen {0} sobre el cos de {1}, amb la pistola encara apuntant al cap. {2}</value>
   </string>
   <string key="DefaultVisitBurn">
@@ -1048,7 +1048,7 @@
   <string key="MayorKilled">
     <value>Hi ha hagut un assassinat! Han trobat {0}, el batlle, clavat a la taula amb un ganivet, mentre treballava a l'ajuntament a altes hores de la matinada! És evident que és l'assassí en sèrie, que cercava venjança per tots els anys de vida que li va prendre el manicomi!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un pas endavant i mostra el segell oficial de batlle, declarant-se com a tal. A partir d'ara, els vots de {0} a l'hora de linxar valdran el doble.</value>
   </string>
   <string key="Mechanics">
@@ -1141,7 +1141,7 @@
   <string key="Pacifist">
     <value>el pacifista ☮️</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <value>El pacifista, {0}, fa una profunda xerrada sobre l'amistat i la confiança davant de tota la vila. Emocionats per la seva xerrada, decideixen que avui no linxaran ningú!</value>
   </string>
   <string key="PacifistNoLynchNow">
@@ -1204,7 +1204,7 @@
     <value>Sonen campanes per tota la vila abans de la sortida del sol, mentre els guàrdies armats inunden els carrers investigant la desaparició del príncep, {0}. No n'han trobat cap pista, però se sospita que hi ha un assassí en sèrie...</value>
     <value>Aquesta nit passada, els guàrdies de {0} dormien. Han trobat les restes reials de {0}, penjades en diverses parts del palau, víctimes dels ganivets. La sang reial no esquiva la dedicació de l'assassí en sèrie.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Quan els vilatans comencen a linxar {0}, diu: “Espereu! Sóc el príncep. Aquest anell reial, amb el segell del rei, n'és una prova. Cada nit em rodejo de servents. Per tant, no puc ser malvat.” Sentint-se inútils, els vilatans es retiren a casa seva.</value>
   </string>
   <string key="RanAway">
@@ -1372,7 +1372,7 @@
   <string key="SandmanNight">
     <value>Tothom se'n va cap a casa, però estan tan exhaustos que tot just poden arribar al llit. S'adormen tan profundament, que ni tan sols recorden haver anat a dormir...</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre els vilatans parlen, {0} se'n torna a casa seva i comença a entonar una suau melodia. Aquesta nit, tothom dormirà molt profundament, i ningú no podrà realitzar les seves accions nocturnes.</value>
   </string>
   <string key="SecondsAdded">
@@ -1677,7 +1677,7 @@
   <string key="Troublemaker">
     <value>el cerca-raons 🤯</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0}, el cerca-raons 🤯, està causant xivarri! Correu i xiscleu de satisfacció! Avui linxareu dues vegades!</value>
   </string>
   <string key="UnableToGetList">

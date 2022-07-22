@@ -1051,13 +1051,13 @@ Tsunade Bêbada da Aldeia: Parabéns, você é a Tsunade Bêbada da Aldeia! Voc�
  <string key="RoleInfoWolfCub">
     <value>Você é Yahiko : Fundador e Adorado pelos Akatsuki. Como outros Akatsuki, você vai escolher um ninja para atacar e matar todas as batalhas que aparecer. Se acontecer de você ser morto, a Akatuski verá seu corpo no chão, com grande rancor, vingará sua morte, os mesmo vai atacar dois ninjas na rodade seguinte.</value>
   </string>
- <string key="PrinceLynched">
+ <string key="PrinceLynched" isgif="true" >
     <value>A aldeia se prepara para matar {0}, que grita, "Esperem! Eu sou o Tobirama. A marca Senju prova isso.  então não posso ser um inimigo. ao ver que estão errados os ninjas se junta a Tobirama</value>
   </string>
  <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é Hokage nem Akatsuki...</value>
   </string>
- <string key="MayorReveal">
+ <string key="MayorReveal" isgif="true" >
     <value>{0} toma a frente da batalha e mostra ser o Hashirama, declarando quem ele é. De agora em diante, {0} poderá atacar duas vezes alguém que deseja matar .</value>
   </string>
  <string key="AskMayor">

@@ -956,13 +956,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei Taro Kagami! Nonostante tu sia solo un bambino, sei piuttosto sveglio e condividi gli ideali di Kira, quindi collabori con lui per creare il nuovo mondo che tanto desideri. Ma se per qualche motivo la tua vita giungesse al termine Kira e i suoi alleati non esiteranno a scrivere ben 2 nomi sul Death Note... dopotutto sei solo un bambino..</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Quando {0} sta per essere catturato dalla polizia per venir giustiziato si avvicina il sovrintendente Yagami che, parlando con chi è di mestiere, ferma l'esecuzione salvando così la figlia. Oggi non verrà giustiziato nessuno...</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè L nè un Kira!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>In TV è appena comparso {0} cioè il signor Demegawa, dichiarandosi ufficialmente contro l'ideale del nuovo mondo di Kira, il voto di {0} per scegliere colui chi verrà giustiziato sarà doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1296,7 +1296,7 @@
   <string key="AskSandman">
     <value>Vorresti addormentare tutti stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
   </string>
   <string key="SandmanNight">
@@ -1396,7 +1396,7 @@
   <string key="AskPacifist">
     <value>Hit this button when you want to make your heartfelt speech and stop the village from lynching the next time!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!</value>
   </string>

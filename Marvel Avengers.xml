@@ -793,7 +793,7 @@
 <!-- 1 - Harlot's name -->
     <value>Looks like {0} got a little overexcited after cuddling with Black Widow! Iron Man’s defence mechanisms were activated prematurely. {1} is dead. </value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -2523,13 +2523,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are Proxima Midnight 🐶 of the Black Order; Important ally to Thanos. You will choose a player to attack and kill every night. If you happen to be killed, Thanos will fly into a rage and order his Henchmen to attack two people the next night. You’ll still be dead though. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the Avengers get ready to eliminate {0}, the Black Panther says “Wait! I am the T’Challa, King of Wakanda. This royal ring proves it. I advise that you all stand down.” Not wanting to cause an international incident, the Avengers retire for the night. </value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out what they are.  They are not of importance...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward, declaring themselves as the Leader. From now on, {0}'s influence in elimination would be doubled. </value>
   </string>
   <string key="AskMayor">
@@ -3109,7 +3109,7 @@
   <string key="AskSandman">
     <value>Would you like to hypnotize all players tonight? </value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>As the town talks, {0} goes back to their house and begins reciting a spell.  Tonight, everyone will sleep very deeply, and no one will be able to use their night actions thanks to the Scarlet Witch. </value>
   </string>
   <string key="SandmanNight">
@@ -3210,7 +3210,7 @@
   <string key="AskPacifist">
     <value>Hit this button when you feel like nagging the Avengers to stop the senseless violence! </value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->
@@ -3458,7 +3458,7 @@
   <string key="AskTroublemaker">
     <value>Do you want to cause trouble today?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0} 🤯, the destroyer is going on a rampage! He demands that there be two eliminations today! </value>
   </string>
   <string key="TroubleDoubleLynchNow">

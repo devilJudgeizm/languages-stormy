@@ -1051,13 +1051,13 @@ However, if you protect a Death Eater, you may have a fate worse than death.</va
   <string key="RoleInfoWolfCub">
     <value>You are Lucius Malfoy 🐶, the youngest Death Eater (and very favored by the Dark Lord too). You have unaccountable power, and without that the Death Eaters would be nothing. If you die, Voldemort and his army would rage and cast the Killing Curse to two Wizards.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
      <value>The wizards pointed their wands at one person, but then trembled in fear. {0} claimed that he is the Half-Blood Prince 👑. Instantly, everyone started to pack their things and rush their way to their next class, knowing that there will be dire consequences for them if they don't.</value>
   </string>
   <string key="SorcererOther">
     <value>Raising your wand to look at {0}, you conjure ropes from your wand, but they hit you with a Silencing Charm! You can't do nothing but escape, with no information... But they aren't Death Eaters or Sybill for sure!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward, grabs his shiny Silver Pocket Watch and points his wand at his neck while muttering Sonorus. "He's back!", {0} declares, fiddling a little with his bowler hat, signalling that danger is coming. From now on, {0}' s votes for sending an Accused to Azkaban will count twice.</value>
   </string>
   <string key="AskMayor">
@@ -1383,7 +1383,7 @@ However, if you protect a Death Eater, you may have a fate worse than death.</va
   <string key="AskSandman">
     <value>Would you like to put all players to sleep tonight?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>As the wizards and witches at town talks, {0} goes back to their house to get a harp and enchants it with a spell to put everyone to sleep.  Just tonight, everyone will sleep very deeply, and none of the night wizards will be able to use their night actions~</value>
   </string>
   <string key="SandmanNight">
@@ -1463,7 +1463,7 @@ However, if you protect a Death Eater, you may have a fate worse than death.</va
   <string key="AskPacifist">
     <value>Hit this button to take out your stinky sock to distract everyone from arguing and sending anyone to Azkaban.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Dobby ☮️, {0}, pulls out his stinky sock. Everyone covers their nose and runs back into their rooms to get a breath of fresh air! Seems like no one will be sent to Azkaban tonight.</value>
   </string>

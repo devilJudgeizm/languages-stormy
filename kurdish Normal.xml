@@ -606,7 +606,7 @@
 <!-- 1 - Harlot's name -->
     <value>وا دیارە هەرزە کار دویشەو میوانی {0} بوە .   چەکدار تۆلە ی هەرچی کاری لە هەرجزە کار کردەوە و بە فیشە کیک {1} مرد</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1800,13 +1800,13 @@
   <string key="RoleInfoWolfCub">
     <value>تۆ گورگی بێچوو 🐶يت؛ خۆشەویستی لە لايەن گورگەکانەوە . وەك ديكە گورگ، تۆێك دێهاتى هەڵ دەبژێريت بۆ هێرش و هەر شەو دەكوژيت. ئەگەر تۆ بمریت ،گوورگە کانی هاوریت  تووڕە دە بن و هێرش بۆ دوو كەسە ئەبن شەو.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>خەلک ویستیان  {0} لە سیدارە بەن "لە چرکە ی ئاخرا وتی! من شازادەم !. ئەمە ئەنگووستیلە ی شاهانە ی منە کە لە لایان پالشاوە بە دیاری پی داوم  ! کە واتە ناتوانم کەسیکی خراپ بم "و دۆای کۆتایی قسە کانی خەڵک شازادە یان ویل کرد و چوونە وە بۆ مالی خۆیان!</value>
   </string>
   <string key="SorcererOther">
     <value>دەی {0} نه گوورگە نه غەیب بێژ! زیاتر بگەرێ!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>ئاگاداری! {0} کوێخایە! {0} مۆرەکەی دەر ەیناو بە خەلکی نیشان دا ! لەمەو دوا ئەو دەنگانەی کە مۆری کویخای لەژیرا یە  2 دەنگ دیتە ئەژمار!</value>
   </string>
   <string key="AskMayor">
@@ -2275,7 +2275,7 @@
   <string key="AskSandman">
     <value>دەتەویت ئەمشەو حەموو بخەوینیت؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>بەخؤیندنی ئەم نووشتە ی {0} ,خەکل حەموو دەچنە ماڵی خۆیان و ئیدی کەس ناتوانێت لە توانایی کانی کەلک وەر گرێت</value>
   </string>
   <string key="SandmanNight">
@@ -2382,7 +2382,7 @@
   <string key="AskPacifist">
     <value>بەم دووگمە بریار بە لە بواری مافی مرۆڤ و قیزەونی لە سیدارە دان قسە بکە تا بۆ یەکشەویش بوە کەس لە سیدارە نەدریت 😐</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->
@@ -2669,7 +2669,7 @@
   <string key="AskTroublemaker">
     <value> دەتەویت ئەمرۆ کیشە ساز کەیت؟ </value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value> کیشە درووست کەر {0} 🤯 بوەتە هۆی نارەحتی ئیزعاجی خەلکی گووند هەر کەسی و بە لاییکا را ئەکات. کەواتە ئەمرۆ دوو جار دەنگ ئەیەن! </value>
   </string>
   <string key="TroubleDoubleLynchNow">

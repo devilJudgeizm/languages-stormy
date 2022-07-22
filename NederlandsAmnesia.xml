@@ -392,7 +392,7 @@
     <!-- 1 - Harlot's name -->
     <value>Plotseling schalt er een schot. Iedereen haast zich naar het geluid toe... en ziet {0} staan met een geweer gericht op de schedel van {1}, de loop nog trillend. {1} was de Hoer 💋</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 	<!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1106,7 +1106,7 @@
   <string key="Ping2">
     <value>Tijd om ping bericht te versturen: {0}</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} snakt naar adem nadat hij iets uit zijn zak heeft gehaald: de ambtsketting van de Burgemeester. Iedereen beseft zich dat hij de leider van het dorp is en vanaf nu telt zijn stem bij het lynchen dubbel.</value>
   </string>
   <string key="AskMayor">
@@ -1169,7 +1169,7 @@
   </string>
   
   <!-- Update 1 -->
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Terwijl het dorp {0} probeert op te hangen, ziet iemand een ring om {0} zijn vinger, en begint te schreeuwen dat het dorp moet stoppen. "STOP! Deze persoon komt uit de koninklijke familie! De koninklijke ring zit om zijn vinger!" Bang om gestraft te worden, stopt iedereen met het lynchen en verdwijnen een voor een naar hun bed.</value>
   </string>
   <string key="SorcererOther">
@@ -1401,7 +1401,7 @@
   <string key="AskSandman">
     <value>Je weet dat je iets moet doen, maar moest dat vandaag?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Terwijl iedereen praat, staat {0} zacht te neuriën. Vannacht zal iedereen slapen en zal niemand een nacht taak kunnen uitvoeren!</value>
   </string>
   <string key="SandmanNight">
@@ -1517,7 +1517,7 @@
   <string key="AskPacifist">
     <value>Er lijkt iets in je zak te zitten...</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 	<!-- {0} - Pacifist's name -->
     <value>De Hippie ☮️, {0}, maakt een gepassioneerde speech over vriendschap en vertrouwen. Alle inwoners van het dorp staan te luisteren en hier en daar valt een traan. Vandaag word er dan ook niemand gehangen!</value>
   </string>
@@ -1673,7 +1673,7 @@
   <string key="AskTroublemaker">
 	<value>Je weet dat je iets moet doen, maar moest dat vandaag?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, de herrieschopper 🤯 is herrie aan het schoppen! Ren rond en scheeuw omdat het leuk is (probeer het maar eens!)! Jullie kunnen twee keer lynchen vandaag!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

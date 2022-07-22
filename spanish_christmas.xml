@@ -425,7 +425,7 @@
     <!-- 1 - Harlot's name -->
     <value>¡Parece que {0} no le gustó el chocolate caliente con malvaviscos de Mary Claus!. Pedro el Negro se vengó. {1} murio.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name (Target was a role) -->
@@ -1202,13 +1202,13 @@
   <string key="RoleInfoWolfCub">
     <value>¡Awwww eres Frosty el Hombre de Nieve ❄️ (🐶)! Eres el pequeño Hombre de Nieve más lindo y más frío del todo el Polo Norte con una linda nariz de botón. Puedes elegir un jugador para congelar todas las noches. Si alguien intenta matarte, tu equipo obtendrá 2 muertes. Pero todavía estarás muerto. :(</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Cuando la ciudad comienza a arder, se dan cuenta de que intentaron quemar a Grýla {0}, Eres la razón de la temporada. ¡Cómo se atreven, estúpidos! Sintiéndose tontos, la gente del Polo Norte vuelve a casa.</value>
   </string>
   <string key="SorcererOther">
     <value>Intenta mirar a través de su bola de nieve en {0}, pero no puede distinguir qué es a través de la ventisca. Pero sabes que no era un Hombre de Nieve o Santa Claus...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} grita a todo pulmón, y los elfos del Polo Norte ven a Rodolfo 🦌 (🎖) en el pesebre. Rodolfo es quien dirige el trineo de Santa, por lo que los votos de {0} contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -1600,7 +1600,7 @@
     <value>🎵</value>
     <value>🎼</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} comienza a cantar y de repente todos se sienten tan adormecidos. Los elfos dejan de trabajar en las tiendas, los ojos de Santa Claus se sienten tan pesados,  incluso los hombres de nieve detienen su hielo para tomar una buena noche de sueño.</value>
   </string>
   <string key="SandmanNight">
@@ -1697,7 +1697,7 @@
   <string key="AskPacifist">
     <value>Pulsa este botón si quieres mostrar tu árbol a todo el pueblo y deja que su belleza detenga la quema.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <value>El decorador de árboles de Navidad 🧙🏻‍♀️ / 🧙🏻‍♂️ (☮️), {0}, apunta hacia el árbol de navidad en el centro del pueblo para que vean la belleza que ha creado, como ves su gloria, nadie puede quemar a nadie hoy.</value>
     <value>Cuando el árbol de Navidad está terminado, muchas gracias al decorador de árboles de Navidad 🧙🏻‍♀️ / 🧙🏻‍♂️ (☮️), {0}, todos bailan con gran alegría alrededor del árbol y decidieron no quemar a nadie hoy.</value>
     <value>Cuando el Árbol de Navidad es presentado por el Decorador de Árboles de Navidad 🧙🏻‍♀️ / 🧙🏻‍♂️ (☮️), {0}, todos se reúnen dentro de la casa del anfitrión, se sienten abrumados por la exageración de la fiesta y se olvidan de quemarse nadie hoy.</value>
@@ -1865,7 +1865,7 @@
   <string key="AskTroublemaker">
   <value>¿Quieres enojarte hoy?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
   <value>{0}, Vixen 🥰 (🤯), está armando un escándalo tremendo. ¡Corre por ahí y grita de rabia! Hoy quemarán 2 veces.</value>
   </string>
   <string key="TroubleDoubleLynchNow">

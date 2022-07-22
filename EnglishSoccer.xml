@@ -348,7 +348,7 @@
 <!-- 1 - Harlot's name -->
     <value>The captain didn't like the middle fielders decisions on who to support. {0} kicks {1} out of the team.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1119,13 +1119,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are the Youngster (🐶). You are talented but quick-tempered. The other offenders love you for your spirit and technic. If you get red a red card, they will be enraged and foul two people next game.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the football community tries to vote {0}, he says loud and clear "MY FATHER WILL HEAR FROM IT!!". Everyone realized their error and no one wants to be on {0}'s fathers bad side, so they over think their decision.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to report on {0}, but he is really boring... He isn't the other reporter or an offender. :(</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} shows everyone his business card. Everyone sees he's the FIFA manager, so they bow before their mighty money giver. From now on, {0}'s votes for lynching will count twice.</value>
   </string>
   <string key="AskMayor">
@@ -1459,7 +1459,7 @@
   <string key="AskSandman">
     <value>Would you like to make a run for it now?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
 	<value>As the community discusses who to give a red card to, the streaker takes off all clothes and runs through the stadium. The security has a hard time catching {0} while everyone covers their eyes. No one can play after this traumatic experience, too shocked from the display. 😱</value>
   </string>
   <string key="SandmanNight">

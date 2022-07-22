@@ -1133,13 +1133,13 @@
   <string key="RoleInfoWolfCub">
     <value>Jij bent het Welpje 🐶. De andere wolven houden van je en proberen je te beschermen. Ook al zie je er wollig en knuffelbaar uit, je bent net zo gevaarlijk als je familie! 's Nachts doe je net zo hard mee met de roedel. Als je overdag gelyncht wordt, worden de andere wolven razend en nemen ze wraak door de nacht erop TWEE mensen aan te vallen! Niet dat dat jou iets helpt... Je bent dan nog steeds dood. Ahhhh....</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Het dorp maakt zich klaar om {0} te lynchen, maar hij roept uit: "Stop! Ik ben de Prins 👑! Aanschouw het koninklijke zegel op mijn ring! Lynch mij, en mijn vader, de koning, zal jullie straffen door het hele dorp plat te branden!" De Burgers kijken een beetje schaapachtig in het rond en besluiten dan maar terug naar huis te gaan.</value>
   </string>
   <string key="SorcererOther">
     <value>Je bekijkt de levenskracht van {0}, maar het beeld is troebel.... Je kunt niet zien wat ze precies zijn, maar zeker is, dat het geen Wolf 🐺 of Ziener 👳 is.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} doet een stap naar voren en doet zijn Ambtsketting om. {0} is de Burgemeester 🎖. Vanaf nu telt zijn stem bij het lynchen dubbel. Sja... als je een beetje opgelet had bij de lokale verkiezingen, dan had je dit kunnen weten, natuurlijk...</value>
   </string>
   <string key="AskMayor">
@@ -1478,7 +1478,7 @@
     <value> Wil je alle dorpelingen laten slapen vannacht?</value>
     <value> Wil je met zand strooien, iedereen zal dan slapen vannacht?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Terwijl iedereen praat, staat {0} zacht te neuriën. Vannacht zal iedereen slapen en zal niemand een nacht taak kunnen uitvoeren!</value>
   </string>
   <string key="SandmanNight">
@@ -1573,7 +1573,7 @@
     <value>Voel je je vrede lievend vandaag? Deze knop geeft iedereen een extra kruidig baksel waardoor ze zullen besluiten niemand de executeren vandaag!</value>
 	<value>Heb je zin om je mening te verkondigen? Het lukt je vast om iedereen te overtuigen dat iedereen nog een dagje mag blijven leven!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 	<!-- {0} - Pacifist's name -->
     <value>De Hippie ☮️, {0}, heeft een prachtig verhaal over vriendschap, vertrouwen en naastenliefde! En bonus, er is super lekkere cake voor iedereen! Of het nou door het verhaal of de cake komt weten we niet, maar vanavond zal er geen executie plaats vinden!</value>
   </string>
@@ -1729,7 +1729,7 @@
   <string key="AskTroublemaker">
 	<value>Wil je vandaag wat herrie schoppen?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, de Herrieschopper 🤯 is herrie aan het schoppen! Ren rond en scheeuw omdat het leuk is (probeer het maar eens!)! Jullie kunnen twee keer lynchen vandaag!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

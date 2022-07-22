@@ -264,7 +264,7 @@
   <string key="HarlotShot">
     <value>Os Rookies escutam um splash d'água vindo do centro do prédio da SM. {0}, Sooyoung, atingiu {1} com um balão d'água, fazendo com que pegasse um resfriado. {1} era Vitória  💋.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Os Rookies escutam um splash d'água vindo do centro do prédio da SM. {0}, Sooyoung, atingiu {1} com um balão d'água, fazendo com que pegasse um resfriado. {2}.</value>
   </string>
   <string key="WolfWins">
@@ -919,13 +919,13 @@ Atual: {0}</value>
   <string key="RoleInfoWolfCub">
     <value>Você é Krystal 🐶, adorada por seu bonde. Como as outras sapatonas, você irá escolher alguém para sabotar e destruir a carreira todas as noites. Se alguém te boicotar antes, seu bonde verá seu fracasso, e, com raiva, vingará sua voz, atacando duas vezes na noite seguinte. Saiba mais: /aboutWolfCub</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Os Rookies se preparam para boicotar {0}, que grita, "Esperem! Esperem! Eu sou dona da SM! Este crachá, com o selo do SooMan, prova isso. Funcionários me rodeiam toda noite, então eu não posso ser um inimigo." Se sentindo tolos, os rookies vão para seus quartos dormir com o rabo entre as pernas.</value>
   </string>
   <string key="SorcererOther">
     <value>Você procura por {0} no mundo dos gendefluids, mas sua presença lá é muito menor do que a de uma Luna ou de Yuri seria.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e apresenta seu namorado, Taeyoung. De agora em diante, os votos de {0} para boicotar alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

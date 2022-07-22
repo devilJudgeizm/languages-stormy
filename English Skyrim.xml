@@ -668,7 +668,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
         </value>
 		<value>The Dragonborn does not want to visit any art gallery! {0} shouts at {1}, sending the Messenger flying away.</value>
     </string>
-    <string key="DefaultShot">
+    <string key="DefaultShot" isgif="true" >
         <!-- 0 - Gunner's name -->
         <!-- 1 - target name -->
         <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1647,7 +1647,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
         <value>You are the Baby Dragon (Wolf Cub), that is still being properly raised. You are a miracle, not even Alduin himself believed that dragon eggs could still exist. For this reason, you are protected, but if you die, the dragons will fly into a rage and attack two people the next night. You’ll still be dead though.
         </value>
     </string>
-    <string key="PrinceLynched">
+    <string key="PrinceLynched" isgif="true" >
         <value>As the village begins to lynch {0}, but Serana protests: “Wait! I am Serana. You all know I was a threat before, but I am not fully healed yet, so I couldn't even hur a fly if I wanted to.” The peasants consider Serana's words, and it is clear that she's talking the truth. The night comes with no corpses on the aisle.
         </value>
     </string>
@@ -1655,7 +1655,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
         <value>You try to look at {0}, but can't quite make out what they are. You could if you wanted to, but since they are nor Dragon or Greybeard, you have no interest in them.
         </value>
     </string>
-    <string key="MayorReveal">
+    <string key="MayorReveal" isgif="true" >
         <value>General Tulius, AKA {0}, summons every single living soul on the main square. As said so by the Emperor, {0}'s votes for lynching will count twice from now on.
         </value>
     </string>
@@ -2061,7 +2061,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
     <value>Would you like to put all players to sleep tonight?</value>
     <value>You are Azura. You command light and Darkness. Do you want them all to be trapped in their sleep?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} suddenly starts to shine. As they true nature as Azura are revealed, {0} sends a powerful spell that forms a mist all around you. You head to your homes, because the night will be too dark, even for the dragons. Tonight, no one will be able to use their night actions. No one dars to question a Daedric Prince as powerful as Azura.</value>
   </string>
   <string key="SandmanNight">
@@ -2196,7 +2196,7 @@ HELP US STOPPING THE VAMPIRE THREAT."</value>
     <value>Hit the button below to earn all the village's gold!</value>
     <value>You still have things in stock, want to have that sale?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Kajiit ☮️ {0}, is making a heartfelt speech of... What is that? He is actually making a huge sale! Everybody runs out to the kajiit's store; and the lynching? Well, there's tomorrow for that.</value>
   </string>

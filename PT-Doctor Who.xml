@@ -259,7 +259,7 @@
   <string key="HarlotShot">
     <value>Todos escutam um tiro vindo do centro da praça. {0}, River Song, matou {1} com um tiro bem no meio da testa, parece que {0} não gosta de relações casuais! {1} era o Jack. Que desperdício! 💋.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>De repente, um tiro é disparado.  Todos se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça. {2} Foi morto.</value>
   </string>
   <string key="WolfWins">
@@ -903,13 +903,13 @@ Atual: {0}</value>
   <string key="RoleInfoWolfCub">
     <value>Você é um Dalek do Culto de Scaro, respeitado por seu time. Como os outros Daleks, você irá escolher alguém para atacar e matar todas as noites. Se alguém te matar, sua familía verá seus restos no chão, e, com raiva, vingará sua morte, atacando duas vezes na noite seguinte. Saiba mais: /aboutWolfCub</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>A cidade se prepara para lançar {0}, que grita, "Esperem! Esperem! Eu sou o Brigadeiro! Este selo... este selo prova, prova isso. Camêras me rodeiam toda noite, então eu não posso ser um inimigo." Se sentindo plenamente idiotas, os moradores vão para suas casas dormir morrendo de vergonha.</value>
   </string>
   <string key="SorcererOther">
     <value>Você procura por {0} como uma serpente, você só constata que ele não é um Dalek nem a Sarah Jane.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo e cancela o filtro de percepção, revelando-se como Juddon. De agora em diante, os votos de {0} para alguém ser lançado no vórtice serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

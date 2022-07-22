@@ -206,7 +206,7 @@ Sin embargo, si intentas encantar a un Mortífago, o alguien que está siendo at
     <value>Su investigación probó que {0} es {1}</value>
   </string><string key="HarlotShot">
     <value>¡Parece que {0} no le gustó ser visitado por Cho Chang! Sirius Black se volvió loco y se vengó. {1} está muerta.</value>
-  </string><string key="DefaultShot">
+  </string><string key="DefaultShot" isgif="true" >
     <value>De repente, un hechizo es disparado. Los alumnos se vieron para ver {0} de pie sobre el cuerpo de {1}, con la varita todavía apuntada hacia la cabeza. {2}. </value>
   </string><string key="WolfWins" isgif="true">
     <value>¡El Mortífago ha ganado!</value>
@@ -664,11 +664,11 @@ Sin embargo, si intentas encantar a un Mortífago, o alguien que está siendo at
     <value>Usted es Lord Voldemort, el origen de todo mal. Su carisma y su poder provoca que los magos deseen pasarse al lado oscuro y ser Mortífagos. Cada noche, usted elegirá a un mago para atacar y matar, pero mientras usted está vivo, su víctima tiene una probabilidad del 20% de que se convierta en un Mortífago.</value>
   </string><string key="RoleInfoWolfCub">
     <value>Usted es Nagini, adorada por su maestro y protegida por los Mortífagos. Usted podrá elegir un Mago para atacar y matar todas las noches. Si te matan, tus protectores al ver tu cuerpo en el suelo, vengarán tu muerte, atacando a dos Magos la noche siguiente.</value>
-  </string><string key="PrinceLynched">
+  </string><string key="PrinceLynched" isgif="true" >
     <value>Hogwarts se está preparando para enviar a {0} a Azkabán, gritando, &quot;¡Esperen! Soy Ginny Weasley. Este vociferador en mi mano, lo demuestra. No puedo ser enviada a Azkabán.&quot; Los alumnos y profesores se sienten tontos, todos en Hogwarts regresan a sus habitaciones.</value>
   </string><string key="SorcererOther">
     <value>Usted intenta mirar a {0}, pero no puede descifrar bien lo que es. Todo lo que sabe es que él no es el Profesor de Adivinación ni un Mortífago...</value>
-  </string><string key="MayorReveal">
+  </string><string key="MayorReveal" isgif="true" >
     <value>{0} da un paso adelante y muestra el sello oficial de Dumbledore, declarando que es él. De ahora en adelante, los votos de {0} para enviar a alguien a Azkabán serán contados dos veces.</value>
   </string><string key="AskMayor">
     <value>Presione en &quot;Revelar&quot; cuando este listo para revelarse como Dumbledore.</value>

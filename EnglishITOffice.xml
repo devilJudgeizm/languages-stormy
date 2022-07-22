@@ -305,7 +305,7 @@
 	<string key="HarlotShot">
 		<value>{1} was stalking {0} and {0} do not like it. So he reported {1}'s disgusting action to the board and have him fired.\nThe Stalker 💋 is fired.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>{0} has been hating {1} since they met. Today, {0} was annoyed by {1} again, and he wanted to put a stop on that. So {0} make the board have him fired.\n{2}</value>
 	</string>
 	<string key="WolfWins" isgif="true">
@@ -1005,13 +1005,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>You are the Senior Associate 🐶. You helped the Seniors a lot. They will revenge for you when you are gone.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Although {0} is indeed shit at coding, the board decided not to fire him. They offered {0} one more chance as he is the Son of the BOSS.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>{0} is not Seniors nor Department Manager.</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>"Everybody should listen to me" said the Silver Tongue {0} "There is only one truth, and that is..." From now on, {0}'s votes will count twice.</value>
 	</string>
 	<string key="AskMayor">
@@ -1350,7 +1350,7 @@
   <string key="AskSandman">
     <value>Would you like to "accidentally" mess up the power supply?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Just before lunch, our electrician {0} messed up our power supply. With no lights, everyone spend their lunch time outside the office. Except {0} needs to stay here to fix the circuit.</value>
   </string>
   <string key="SandmanNight">

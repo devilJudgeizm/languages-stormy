@@ -983,13 +983,13 @@
   <string key="RoleInfoWolfCub">
     <value>Che strano.. Non riesci a ricordare cosa sei, ricordi soltanto che dovresti fare qualcosa la notte!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio si appresta a linciare {0}, qualcuno nota un anello nel suo dito, e urla al villaggio di smettere. «FERMI! Quella persona è della famiglia reale! Porta l'anello reale nel dito!». Preoccupati di una punizione per ferire la nobiltà, il villaggio ferma il linciaggio e fugge nelle proprie case, per la notte...</value>
   </string>
   <string key="SorcererOther">
     <value>Sarà successo qualcosa a casa di {0}? Non ne sei neanche sicuro...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} sussulta all'improvviso, dopo aver tirato fuori qualcosa dalla sua tasca: lo stemma ufficiale del Sindaco. Tutto il villaggio si rende conto che lui è il capo del villaggio, e dato ciò, che il suo voto per il linciaggio vale doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1326,7 +1326,7 @@
   <string key="AskSandman">
     <value>Sai che dovresti fare qualcosa, ma vuoi farlo oggi?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
   </string>
   <string key="SandmanNight">
@@ -1419,7 +1419,7 @@
   <string key="AskPacifist">
     <value>Sai che dovresti fare qualcosa, ma vuoi farlo oggi?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Nome del pacifista -->
     <value>Il Pacifista ☮️, {0}, sta facendo un profondo discorso riguardo l'amicizia e la fiducia in fronte al villaggio. Commossi dalle sue parole, nessuno verrà linciato oggi!</value>
   </string>
@@ -1580,7 +1580,7 @@
   <string key="AskTroublemaker">
 	<value>Sai che dovresti fare qualcosa, ma vuoi farlo oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>il guastafeste 🤯 {0} sta combinando guai nel villaggio! Ha fatto scappare il bestiame dei contadini che hanno invaso la piazza! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
 	<value>il guastafeste 🤯 {0} sta combinando guai nel villaggio! Ha bruciato tutto il fieno del bestiame! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
   </string>

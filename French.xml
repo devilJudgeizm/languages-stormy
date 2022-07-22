@@ -1140,13 +1140,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Vous êtes le louveteau 🐶 ; adoré par votre meute de loups. Comme les autres loups, vous choisirez chaque nuit un citoyen à attaquer et à tuer. Si par malheur vous êtes tué, votre meute entrera dans une colère noire et attaquera deux personnes la nuit suivante. Mais vous serez toujours mort.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Alors que la ville commence à lyncher {0}, il dit "Attendez ! Je suis le Prince. Cette bague royale, avec le sceau du roi, le prouve. Chaque nuit, je suis entouré de serviteurs. Je ne peux donc pas être mauvais." Se sentant ridicules, les citoyens se retirent pour la nuit.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Vous essayez d'observer {0}, mais vous n'arrivez pas à voir ce qu'il est.  Toutefois, ce n'est ni un loup ni la voyante...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} s'avance et présente le sceau officiel du Maire, se déclarant comme tel. A partir de maintenant, les votes de {0} pour le lynchage compteront double.</value>
 	</string>
 	<string key="AskMayor">
@@ -1496,7 +1496,7 @@
 	<string key="AskSandman">
 		<value>Voulez-vous endormir tous les joueurs ce soir ?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>Pendant que les citoyens discutent, {0} retourne dans sa maison et commence à fredonner une douce mélodie. Ce soir, tout le monde dormira très profondément, et personne ne pourra utiliser ses actions de nuit.</value>
 	</string>
 	<string key="SandmanNight">
@@ -1598,7 +1598,7 @@
 	<string key="AskPacifist">
 		<value>Appuyez sur ce bouton quand vous voulez faire votre discours chaleureux et empêcher la ville de lyncher la prochaine fois !</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>Le Pacifiste ☮️, {0}, fait un discours sincère d'amitié et de confiance devant la ville. Touchés par ce discours, il n'y aura pas de lynchage aujourd'hui !</value>
 	</string>
@@ -1761,7 +1761,7 @@
 	<string key="AskTroublemaker">
 		<value>Voulez-vous causer des ennuis aujourd'hui ?</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>{0}, le trouble-fête 🤯 fait du grabuge ! Cours partout et crie de satisfaction ! Vous allez lyncher deux fois aujourd'hui !</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">

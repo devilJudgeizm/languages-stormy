@@ -1333,13 +1333,13 @@
   <string key="RoleInfoWolfCub">
 	<value>Du bist der Wolfswelpe 🐶; alle anderen Wölfe sind in dich vernarrt. Du verhälst dich wie ein normaler Wolf und wählst zusammen mit den anderen Mitgliedern des Rudels jede Nacht ein Opfer. Solltest du getötet werden, verfallen die anderen Wölfe in Rage und greifen in der nächsten Nacht zwei Personen an. Das ändert aber trotzdem nichts daran, dass du tot bist. ¯\_(ツ)_/¯</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
 	<value>Kurz bevor das Dorf {0} lyncht, hört man die verurteile Person rufen: „Wartet! Ich bin der Prinz. 👑 Dieser königliche Ring mit dem Siegel meines Geschlechts beweist es. Ich bin jede Nacht von Dienern umgeben, folglich kann ich also nicht dem Bösen angehören.“ Von der eigenen Torheit überrascht, ziehen sich die Bewohner des Dorfes kleinlaut in ihre Gemächer zurück, ohne auf ihr Lynchopfer zu bestehen.</value>
   </string>
   <string key="SorcererOther">
 	<value>Du versuchst auszumachen, was {0} ist, kannst die Profession aber nicht eindeutig bestimmen. Zwei Rollen kannst du aber mit Sicherheit ausschließen: Seher und Wolf. Die hättest du nämlich erkannt.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
 	<!-- und ihr euch von seinen guten Absichten überzeugen konntet, -->
 	<value>Als wäre es ihm gerade erst wieder eingefallen, drängelt sich auf einmal {0} ins Rampenlicht, schwafelt etwas von Verantwortung und hält dabei irgendeine Urkunde in die Höhe. Lesen kann es zwar niemand, aber ihr erkennt das Siegel darauf: dies muss der Bürgermeister 🎖 sein. Dadurch, dass seine Autorität nun bestätigt ist, zählt seine Stimme bei der abendlichen Abstimmung ab jetzt doppelt.</value>
 	<value>Na, das ist ja mal 'ne Überraschung. Die Bürokratie ist doch nicht tot? Scheint so. {0} tritt vor, bricht eine Rede über den maroden Zustand des örtlichen Tierheims vom Zaun und... irgendwann wird euch klar, dass das euer Bürgermeister 🎖 sein muss.</value>
@@ -1684,7 +1684,7 @@
 	<value>Du hast es in der Hand: Möchtest du heute für eine ruhige Nacht sorgen?</value>
 	<value>Möchtest du heute deinen Schlafsand einsetzen?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
 	<value>🎶 Sandmann, lieber Sandmann, es ist noch nicht so weit... 🎶\nAber nachdem {0} etwas Sand 💤 verstreut hat, spürt ihr schon, wie ihr müde werdet. Entscheidet euch besser jetzt schon, für wen ihr am Abend stimmen wollt, bevor ihr zu müde seid und alle die ganze Nacht durchschlaft!</value>
 	<!-- <val>As the town talks, {0} goes back to their house and begins humming a soft melody. Tonight, everyone will sleep very deeply, and no one will be able to use their night actions</val> -->
   </string>
@@ -1806,7 +1806,7 @@
   <string key="AskPacifist">
 	<value>Peace! ☮️\nMöchtest Du heute das Lynchen verhindern oder es Dir lieber für einen schlimmeren Tag aufheben?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 	<!-- {0} - Name des Pazifisten -->
 	<value>Der Pazifist ☮️, {0}, steht langsam auf und erzählt in etwas lullender Stimme etwas vom Frieden und wie toll die Welt wäre wenn es keinen Krieg mehr gäbe. Für Euch klingt das ganze sinnig, ihr wollt auf das Lynchen verzichten! Und etwas müde fühlt Ihr Euch auch.</value>
 	<value>Inmitten eurer Diskussionen meldet sich eine Stimme aus dem Pulk, die ihr zuerst nicht zuordnen könnt.\n„Also, ihr wisst ja alle, dass Krieg schlimm ist. Daher bin ich dafür, dass es in diesem Dorf von nun an nur noch friedlich zugeht. Lasst uns deswegen heute Abend niemanden töten, sondern einfach friedfertig ins Bett gehen.“\nNormalerweise würdet ihr auf so einen Schmuh natürlich keinen Fliegenschiss geben. Aber heute... irgendwie hat das was, was {0} ☮️ so sagt! Ihr nickt euch zu: So soll es sein. Heute wird niemand sein Leben lassen müssen.</value>
@@ -1987,7 +1987,7 @@
 	<value>Soll heute dein großer (Putz-)Tag sein?</value>
 	<value>Willst du heute für Unruhe im Dorf sorgen?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0} 🤯 steht auf und erzählt etwas von einem Vincent, der voll süß sei. Als sie merkt, dass es euch eher nervt, schreit die Unruhestifterin 🤯 voll los und beschimpft die Eltern und alle „alten Leute“. Ihr seid so genervt, dass ihr heute Abend vergesst, dass ihr nur einmal lynchen wollt und stimmt doppelt ab...</value>
 	<value>Was ist das denn für ein Chaos hier? Und wieso hängt überall die Wäsche auf der Leine? Scheinbar putzt heute {0} 🤯 wieder das ganze Dorf und sorgt für mächtig Unruhe. Nach eurem ersten Lynch seid ihr euch daher unsicher, ob ihr bereits gelyncht habt und werdet zur Sicherheit noch einen zweiten bewohner um die Ecke bringen.</value>
   </string>

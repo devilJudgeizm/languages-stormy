@@ -992,13 +992,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei Il Piccolo Omofobo 😠🍼 (🐶)! Sei l'incarnazione di tutto ciò a cui gli omofobi tengono di più e che i gay non sono degni di avere: un bambino. Purtroppo sei stato cresciuto a pane e ignoranza, per cui durante le serate sei un omofobo a tutti gli effetti. Se però i gay dovessero linciarti, gli omofobi indinniati avranno la possibilità di colpire due volte la notte successiva.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena la maggioranza ha deciso che {0} deve andarsene, lui urla «CATTIVEH! Sono La Drag Queen 👸 (👑)! Ecco le mie scarpe, il mio boa e la mia parrucca. E questa è la mia borsa che non è Carpisa. Non posso essere malvagiah!» Sentendosi sciocchi, i gay tornano a ballare portando la Drag in trionfo.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a rivelare l'identità di {0}, ma non riesci a capire... Sei però sicuro che non sia né La Gaysha 🧞 (👳) né un Omofobo!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti la pagina Instagram della Divah 🔝 (🎖), dichiarandosi come esperta di tendenze. Da ora in poi, i voti della Divah 🔝 (🎖) {0} per i linciaggio conteranno doppio, e gli altri MUTI.</value>
   </string>
   <string key="AskMayor">
@@ -1331,7 +1331,7 @@
   <string key="AskSandman">
     <value>Vuoi chiedere un drink a qualcuno?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre i gay ballano, {0} inizia a chiedere un drink in giro, bloccando completamente la pista. Nessuno potrà svolgere le sue azioni nel prossimo momento di ballo!</value>
   </string>
   <string key="SandmanNight">
@@ -1431,7 +1431,7 @@
   <string key="AskPacifist">
     <value>Clicca questo bottone quando vuoi fare il tuo commovente discorso e fermare i gay dal cacciare qualcuno dal locale!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>la Lesbica Hippy ✌️ (☮️), {0}, sta facendo un profondo discorso riguardo l'amicizia e la fiducia in fronte alla disco. Commossi dalle sue parole, nessuno verrà cacciato!</value>
   </string>
@@ -1594,7 +1594,7 @@
   <string key="AskTroublemaker">
 	<value>Vuoi fare gossip ora?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>l'Amante del Gossip 💬 (🤯) {0} sta diffondendo voci per il locale! Ha fatto volare la parrucca della Drag! I gay sono furiosi e cacceranno due persone dal locale!</value>
 	<value>l'Amante del Gossip 💬 (🤯) {0} sta diffondendo voci per il locale! Tutti si insultano, tanto che nella confusione il barista è scivolato rovesciando i drink! I gay sono furiosi e cacceranno due persone dal locale!</value>
   </string>

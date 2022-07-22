@@ -434,7 +434,7 @@
   <string key="HarlotShot">
     <value>{0} yaxshi kayfiyatda yengiltak bilan o'tgan tundan keyin uyiga keldi! Ovchi qasdini oldi. {1} - o'ldi!</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Bir vaqt, hamma o'qning ovozidan uyg'onib ketdi!  Hamma aholi yig'ilishsa, {0} ning {1} ga, qurolini o'qtalib turganini ko'rishdi.  {2} o'ldi!</value>
   </string>
   <string key="WolfWins">
@@ -1182,13 +1182,13 @@ Agar qotildan kimdir habar olsa so'zsiz o'ladi)</value>
   <string key="RoleInfoWolfCub">
     <value>Siz Bo'ribolasiz; Sizning to'dangizni sevimli farzandi. Boshqa bo'rilar kabi, siz bir odamni hujum uchun tanlashingiz mumkin. Agar sizni o'ldirishsa sizning to'dangiz jaxl ustida ikkita odamni o'ldirishadi. Lekin siz baribir o'lgan holizcha qolaverasiz.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Endigina aholi {0} ni osmoqchi bo'lishganda, u baqirib yubordi “To'xtanglar! Men Shahzodaman! Bu qirollar uzugi, bu qirol muxri hammasini tasdiqlaydi!Har tunda men hizmatkorlar bilan o'ralib turaman. Shuning uchun men yovuz bo'lishim mumkin emas!” O'zlarini ahmoqday his qilgan aholi uyalib tarqab ketdi.</value>
   </string>
   <string key="SorcererOther">
     <value>Sen {0} ni kuzatishga harakat qilayabsan, lekin uni kimligini tushunmayabsan.  Lekin u aniq bo'ri ham bashoratchi ham emas...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} oldinga qadam tashladi va o'zini rasmiy muxrini ko'rsatdi. Endilikda, {0} bergan ovoz ikkita qilib hisoblanadi</value>
   </string>
   <string key="AskMayor">
@@ -1509,7 +1509,7 @@ Agar qotildan kimdir habar olsa so'zsiz o'ladi)</value>
   <string key="AskSandman">
     <value>Bu tunda hammani uxlab qolishini hohlaysanmi?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Qishloqda hayot qaynayotgan bir damda, {0} ning uyidan mojaz sehrli kuy taralib boshladi. Hammani ko'zlari yumilib qattiq uyquga ketishdi (Bu tunda hech kim o'z qobiliyatini ishlata olmaydi)</value>
   </string>
   <string key="SandmanNight">
@@ -1613,7 +1613,7 @@ Agar qotildan kimdir habar olsa so'zsiz o'ladi)</value>
   <string key="AskPacifist">
     <value>Nutq so'zlash uchun ushbu knopkani bosing va barchani bu tunda osmaslikka undang!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Pasifist ☮️ - {0}, dunyodagi tinchlik haqidagi nutqini so'zladi va barcha uni dildan aytilgan so'zlariga quloq soldi! Bu tunda hech kim osilmaydi</value>
     <value>Pasifist ☮️ - {0}, tinchlik haqidagi nutqini so'zladi va barcha so'zlariga barchani diliga kirib bordi! Bu tunda hech kim osilmaydi</value>

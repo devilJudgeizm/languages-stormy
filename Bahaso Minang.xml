@@ -1176,7 +1176,7 @@ LALOK 😌</value>
   <string key="RoleInfoWolfCub">
     <value>Pamenan Serigala 🐶 adolah kesayangan Serigala, kama pai Serigala sanak dibaok taruih, sanak pun bisa makan jo Serigala. Kok sanak mati Serigala akan berang, malam salanjuiknyo Serigala akan makan duo urang.  </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Awalnyo masyarakaik nagari alah maambiak kaputusan bulek nio mambaka {0}, dek {0} adolah Anak Rangkayo ditraktirlah sadoalah Masyarakaik makan nasi jo teh taluah di "Ampera Bukan Dia". Masyarakaik dak jadi mambaka {0} 🙈🙈 </value>
     <value>{0} ko anak urang kayo, salasai main ko sado masyarakaik ditraktir makan Soerabi di ENHAII  dakek GOR Agus Salim. Masyarakaik pun indak jadi ma eksekusi {0}.
     </value>
@@ -1185,7 +1185,7 @@ LALOK 😌</value>
   <string key="SorcererOther">
     <value>Sanak mancaliak {0} indak Serigala indak juo Dukun do.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} naik ka ateh mimbar, inyo maumuman kalau inyo adolah Pamangku Adaik. Jadi, dek {0} disagani dek masyarakaik, mako suaronyo diituang ganda.</value>
   </string>
   <string key="AskMayor">
@@ -1535,7 +1535,7 @@ LALOK 😌</value>
   <string key="AskSandman">
     <value>Sanak nio mambuek sado pamain lalok malam ko?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Sarupo biaso, {0} baliak ka rumahnyo sambia badendang-dendang di jalan.  Malam ko, sado urang akan lalok mati, indak ado nan tajago sampai pagi.</value>
   </string>
   <string key="SandmanNight">
@@ -1638,7 +1638,7 @@ LALOK 😌</value>
   <string key="AskPacifist">
     <value>Takan tombol ko katiko sanak nio mambuek pidato nan sangaik manyantuah hati sahinggo masyarakaik indak akan mambaka sia pun patang barikuiknyo!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Pacifist ☮️, {0}, bapidato nan manyantuah hati tantang hiduik badunsanak dan saliang pacayo dimuko para masyarakaik. Tergerak dek pidato tu, masyarakaik indak ka mambaka sia pun hari ko!</value>
   </string>

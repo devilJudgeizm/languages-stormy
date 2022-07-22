@@ -783,7 +783,7 @@
 	<string key="HarlotShot">
 		<value>Sem 中嘅一個晚上，層導師【{0}】形跡可疑，舍監發現佢同Hell雞【{1}】喺度做愛。【{0}】唯有快刀斬亂麻，踢人滅口，趕【{1}】出中大。\n【Hell雞 🐥】已被 Quit U 。</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>Sem 中嘅一個深夜，層導師【{0}】話要打蛇，打到蛇主【{1}】，佢仲收埋個焗爐喺床下底焗麵包，佢要執嘢 Quit 宿，仲要 Quit 埋 U 。\n【{2}】。</value>
 		<value>Sem 中嘅一個深夜，層導師【{0}】話要打蛇，打到蛇主【{1}】，佢仲收埋一副麻雀，佢要執嘢 Quit 宿，仲要 Quit 埋 U 。\n【{2}】。</value>
 		<value>Sem 中嘅一個深夜，層導師【{0}】話要打蛇，打到蛇主【{1}】收埋條女喺床下底，要佢執嘢 Quit 宿，仲要 Quit 埋 U 。\n【{2}】。</value>
@@ -1575,13 +1575,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>你係女神 👱‍♀️，因為學霸支援嘅你係學霸嘅一員。\n因為女神你實在太迷人喇，如果你 Quit 咗 U 嘅話，冇女的學霸會更專心讀書，下一個 Sem 嘅考試可以一次過擾敵淘汰兩個人。（註：你係學霸陣營。）</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>當 RGS 表示要踢【{0}】走嘅時候，全校學生突然收到佢 Send 嚟嘅 Massmail ，寫住：「如果平時唔係我奶 Professor 拎 Tips ，你哋 F 咗好耐喇！」學渣一睇到呢句說話，即刻向 RGS 求情，挽留Carrier。</value>
 	</string>
 	<string key="SorcererOther">
 		<value>你嘗試去打聽下【{0}】嘅身份，你發覺佢原來又唔係學霸，又唔係大組長，咁就浪費咗一個 Sem ……</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>【{0}】突然行出嚟多謝大家支持佢哋內閣，原來今年學生會選舉又唔聲唔聲完咗。【{0}】而家有特權，佢每個 Sem 做嘅 Evaluation 都當兩份。</value>
 	</string>
 	<string key="AskMayor">
@@ -1957,7 +1957,7 @@
 	<string key="AskSandman">
 		<value>你想唔想喺民主女神像高唱綠袖子，令所有人喺下個 Sem 都專心考試呢？</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>喺某個星期五下午，【{0}】指揮着整隊合唱團喺民主女神像高唱綠袖子，催眠山城居民令所有人對考試專一，心無別戀。</value>
 	</string>
 	<string key="SandmanNight">

@@ -295,7 +295,7 @@
 	<string key="HarlotShot">
 		<value>Parece que {0} não gostou da noite com a Cortesã! A Atiradora ficou louca e se vingou. {1} está morta.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>De repente, um tiro é disparado.  Os aldeões se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
 	</string>
 	<string key="WolfWins" isgif="true">
@@ -966,13 +966,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Que fofinho! Você é o Filhote de Lobo, adorado por sua matilha. Como outros lobos, você vai escolher um aldeão para atacar e matar todas as noites. Se acontecer de você ser morto, sua matilha verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>A aldeia se prepara para linchar {0}, que grita, "Esperem! Eu sou o Príncipe. Esse anel real, com o selo do rei, prova isso. Toda noite eu estou rodeado de criados, então não posso ser um inimigo." Se sentindo tolos, os aldeões vão para suas casas dormir com o rabo entre as pernas.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Você tenta ver {0}, mas tudo o que consegue enxergar é que ele(a) não é a Vidente nem um Lobo...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} dá um passo à frente e mostra o selo oficial do Prefeito, declarando que é ele. De agora em diante, os votos de {0} para linchar alguém serão contados duas vezes.</value>
 	</string>
 	<string key="AskMayor">
@@ -1287,7 +1287,7 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	<string key="AskSandman">
 		<value>Você quer dar uma longa palestra esta noite?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>Tentando ajudar com seu conhecimento, {0} decide dar uma palestra em que toda a vila está presente, tentando durante horas fingir interesse em milhares de textões contendo séculos de informações inúteis sobre lobos e lendas. Até que todos os espectadores acabam pegando no sono. Eles dormirão a noite inteira, e ninguém será capaz de realizar ações noturnas.</value>
 	</string>
 	<string key="SandmanNight">
@@ -1380,7 +1380,7 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	<string key="AskPacifist">
 		<value>Aperte este botão quando você quiser fazer um discurso sincero e impedir a aldeia de linchar alguém na próxima rodada!</value>
 	</string>
-	<string key="PacifistNoLynch"><!-- {0} - Pacifist's name -->
+	<string key="PacifistNoLynch" isgif="true" ><!-- {0} - Pacifist's name -->
 		<value>O Pacifista, {0}, fez um discurso super sincero sobre a paz mundial e o amor fraternal na frente da aldeia. Claro que ninguém liga, mas só pra deixar o Pacifista feliz, ninguém será linchado.</value>
 	</string>
 	<string key="PacifistNoLynchNow">
@@ -1504,7 +1504,7 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	<string key="AskTroublemaker">
 		<value>Você quer surtar hoje?</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>{0}, o Barraqueiro, surtou, que agora está berrando e arranjando problemas! Só tem um jeito de calar a boca desse idiota... Vocês lincharão duas vezes hoje!</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">

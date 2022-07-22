@@ -975,13 +975,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei il Giovane cacciatore, se dovessi morire i cacciatori si incazzerebbero a tal punto da ammazzare 2 volte in una singola notte!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarà il linciato stasera,lui urla "Aspettate, io sono Milionario e perciò ho abbastanza soldi da pagare tutti voi, un cacciatore o Jason non sarebbero di certo in grado di farlo!". E i sopravissuti un po sorpresi e con il portafoglio pieno se ne tornano nei loro rifugi.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a vedere {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè un Cacciatore nè un Agente della scientifica</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti i suoi denti d'oro e grida: "Io sono negro Swag". Da ora in poi i suoi voti contano doppio.</value>
   </string>
   <string key="AskMayor">

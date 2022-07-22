@@ -441,7 +441,7 @@
         <value>Looks like {0} didn't like the night! {0} shoots {1}, claiming to be sexually harassed. {1} is dead.
         </value>
     </string>
-    <string key="DefaultShot">
+    <string key="DefaultShot" isgif="true" >
         <!-- 0 - Gunner's name -->
         <!-- 1 - target name -->
         <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1307,13 +1307,13 @@
         <value>You are the Winter Lantern (🐶), and brings nothing less than **TOTAL FRENZY**. Like other beasts, you will choose a villager to attack and kill every night. If you happen to be killed, a mass frenzy will begin, and the beasts will be able to kill two hunters the next night. You’ll still be dead though.
         </value>
     </string>
-    <string key="PrinceLynched">
+    <string key="PrinceLynched" isgif="true" >
         <value>As the hunters head to hunt {0}, they say "Stop now! Bow before your queen".\nAnnalise shows her true nature, and you can't help but feel a deep respect for the ancient Vilebloods. You shall not hunt tonight.</value>
 	</string>
     <string key="SorcererOther">
         <value>You visit {0}'s brain and mind. They can't remember what happened, but you made a quite good snack (of course, you didn't kill anyone, just took their sanity). They are not a beast or the Plain Doll however...</value>
     </string>
-    <string key="MayorReveal">
+    <string key="MayorReveal" isgif="true" >
         <value>{0}, the Old Hunter steps forward and gathers all the other hunters arounf them.\n{0} explains old combat strategies and techniques, and as his respect and reputation among the hunters increases, {0}'s votes for hunting will count twice from now on.</value>
     </string>
     <string key="AskMayor">

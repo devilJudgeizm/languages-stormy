@@ -978,13 +978,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o Terrorista Jr. Adorado por todos, você é muito prestativo para o caos. Se você morrer, os terroristas vão se enfurecer e haverá dois ataques de uma só vez.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Os soldados votaram. O Coronel então anuncia um nome. "{0}, se levante!". Antes que pudessem reagir, {0} caiu em parantos, e todos ficaram comovidos com isso. Um dos soldados avisa então que {0} não oferece riscos ao exército, acompanhado de provas. Então o Coronel, encarando-o, decide encerrar a votação.</value>
   </string>
   <string key="SorcererOther">
     <value>Você acessa uma base de dados adquirida na Deep Web para ver o que {0} é, mas lá não consta nada sobre {0}. Ele provavelmente não é um terrorista ou vidente.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Todos os soldados estavam descançando, quando de repente o Marechal {0} vai ao pátio; o silêncio ficou. Então, ele foi andando na direção do Coronel, que após algumas falas avisa "De agora em diante, os votos do Marechal {0} valerão por dois"</value>
   </string>
   <string key="AskMayor">

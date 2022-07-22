@@ -288,7 +288,7 @@
   <string key="HarlotShot">
     <value>Parece que {0} não curtiu tanto o jeito que Bené chegou! {1} tá morto.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Barulho de tiro! Os moradores correm e vêem {0} em pé com uma arma na mão na frente do corpo de {1}, que tem um buraco na testa. {2}</value>
   </string>
   <string key="WolfWins">
@@ -954,13 +954,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o filho do dono da boca, adorado por sua boca. Como outros traficantes, você vai escolher um morador para cobrar e matar todas as noites. Se acontecer de você ser morto, sua boca verá seu corpo no chão, e, ensandecida, vingará sua morte, cobrando duas pessoas na noite seguinte. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>A comunidade se prepara para passar {0}, que grita, "Esperem! Eu sou o Mauricinho de Copacabana. Esse rolex prova isso. Toda noite eu estou rodeado de empregados, então não posso ser um inimigo." Se sentindo tolos, os moradores vão para suas casas dormir pensando na merda que fizeram.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é Paraiba nem traficante...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e mostra o selo oficial de Presidente da Associação de Moradores, declarando que é ele. De agora em diante, os votos de {0} para passar alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

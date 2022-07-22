@@ -909,13 +909,13 @@
   <string key="RoleInfoWolfCub">
     <value>YwYowouwu awarewe thewe Wowolf Cuwub; awadoworewed bywy ywyowouwur wowolf pawack. Liwikewe owothewer wowolvewes, ywyowouwu wiwill chowoowosewe awa viwillawagewer towo awattawack awand kiwill ewevewerywy niwight. IwIf ywyowouwu hawappewen towo bewe kiwillewed, ywyowouwur wowolf pawack wiwill flywy iwintowo awa rawagewe awand awattawack twowo peweowoplewe thewe newext niwight. YwYowouwu’ll stiwill bewe deweawad thowouwugh.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>AwAs thewe viwillawagewe bewegiwins towo lywynch {0}, theweywy sawaywy “Wawaiwit! IwI awam thewe Priwincewe. Thiwis rowoywyawal riwing, wiwith thewe seweawal owof thewe kiwing prowovewes iwit. EwEvewerywy niwight IwI awam suwurrowouwundewed bywy sewervawants. Sowo IwI cawannowot bewe eweviwil.” Feweeweliwing fowoowoliwish, thewe viwillawagewers sheweewepiwishlywy rewetiwirewe fowor thewe niwight.</value>
   </string>
   <string key="SorcererOther">
     <value>YwYowouwu trywy towo lowoowok awat {0}, buwut cawan't quwuiwitewe mawakewe owouwut whawat theweywy awarewe.  Theweywy awarewe nowot awa wowolf owor seweewer howowewevewer...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steweps foworwaward awand prewesewents thewe owoffiwiciwiawal seweawal owof thewe Mawaywyowor, deweclawariwing thewemsewelvewes awas suwuch. Frowom nowow owon, {0}'s vowotewes fowor lywynchiwing wiwill cowouwunt twiwicewe.</value>
   </string>
   <string key="AskMayor">
@@ -1247,7 +1247,7 @@
   <string key="AskSandman">
     <value>Wowouwuld ywyowouwu liwikewe towo puwut awall plawaywyewers towo sleweewep towoniwight?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>AwAs thewe towown tawalks, {0} gowoewes bawack towo theweiwir howouwusewe awand bewegiwins huwummiwing awa sowoft mewelowodywy. Towoniwight, ewevewerywyowonewe wiwill sleweewep vewerywy deweeweplywy, awand nowo owonewe wiwill bewe awablewe towo uwusewe theweiwir niwight awactiwiowons</value>
   </string>
   <string key="SandmanNight">
@@ -1350,7 +1350,7 @@
   <string key="AskPacifist">
     <value>Hiwit thiwis buwuttowon whewen ywyowouwu wawant towo mawakewe ywyowouwur heweawartfewelt speweewech awand stowop thewe viwillawagewe frowom lywynchiwing thewe newext tiwimewe!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Thewe Pawaciwifiwist ☮️, {0}, iwis mawakiwing awa heweawartfewelt speweewech owof friwiewendshiwip awand truwust iwin frowont owof thewe viwillawagewe. Mowovewed bywy theweiwir speweewech, thewerewe wiwill bewe nowo lywynchiwing towodawaywy!</value>
   </string>
@@ -1505,7 +1505,7 @@
   <string key="AskTroublemaker">
 	<value>Dowo ywyowouwu wawant towo cawauwusewe trowouwublewe towodawaywy?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, thewe trowouwublewemawakewer 🤯 iwis mawakiwing trowouwublewe! Ruwun awarowouwund awand screweawam fowor sawatiwisfawactiwiowon! YwYowouwu wiwill lywynch twiwicewe towodawaywy!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

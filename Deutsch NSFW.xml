@@ -428,7 +428,7 @@
     <value>Vom Markt hört man lautes Geschrei, es streiten sich {0} und {1}. Die herbei eilenden Dorfbewohner bekommen noch Gesprächsfetzen mit, es geht um nicht erbrachte Dienstleistungen und Vertragsbruch. Anscheinend möchte {1} auch heute nicht anal entjungfert werden. Plötzlich zieht {0} 🔫 eine Pistole und erschießt {1}. Schade um den Hintern, die Hure 💋 ist tot.</value>
 	<value>Um die Mittagsstunde hört man im Dorf plötzlich einen hallenden Schuss. Die ersten herbei eilenden Bewohner entdecken {0}, den Schützen 🔫, über der Leiche der Hure {1} 💋. Er murmelt unzusammenhängend etwas von Treue und Liebe und verschwindet kurze Zeit später im Gedränge der Schaulustigen.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Plötzlich bemerkte man einen Schuss 🔫. Das Dorf sah sich um, um {0} über {1}s Körper stehen zu sehen, die rauchende Kanone immer noch in der Hand. {2}</value>
   </string>
   <string key="WolfWins" isgif="true" >
@@ -1107,13 +1107,13 @@
   <string key="RoleInfoWolfCub">
     <value>Du bist der Wolfswelpe 🐶\nDu bist der süßeste aller Wölfe und solltest du sterben, werden die anderen Wölfe aus Zorn in der nächsten Nacht zwei mal angreifen.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Als der Mob beschließt {0} zu hängen, ruft dieser “Stop! Ich bin euer Prinz 👑 und solltet ihr mich hängen, wird mein Vater dieses jämmerliche Dorf niederbrennen lassen.” Aus Angst vor den Konsequenzen besteht das Dorf dann doch lieber nicht auf sein Opfer.</value>
   </string>
   <string key="SorcererOther">
     <value>Du siehst nach {0}. Deine Magie ist jedoch nicht stark genug um die Rolle zu erkennen. Also wohl doch kein Wolf oder Seher...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} zeigt plötzlich eine Bürgermeisterurkunde 🎖 und erwartet, dass andere Leute auf ihn hören. Damit er sich nicht gleich vor Verzweiflung umbringt, beschließt das Dorf {0}s Stimme wenigstens doppelt zählen zu lassen.</value>
   </string>
   <string key="AskMayor">
@@ -1416,7 +1416,7 @@
   <string key="AskSandman">
     <value>Möchtest du alle Spieler diese Nacht tief und fest schlafen lassen?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Während das Dorf noch mit erhitztem Gemüt die Geschehnisse der vergangenen Nacht diskutiert, geht {0} zurück ins Haus und beginnt, eine sanfte Melodie zu summen 💤. Diese Nacht werden alle tief schlafen und morgen früh vollkommen ausgeruht erwachen. Kein Spieler kann Nachtaktionen durchführen.</value>
   </string>
   <string key="SandmanNight">
@@ -1518,7 +1518,7 @@
   <string key="AskPacifist">
     <value>Möchtest du heute die Abstimmung des Lynchmobs verhindern?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Name des Pazifisten -->
     <value>Der Pazifist ☮️, {0}, hält vor dem versammelten Dorf eine schwülstige Rede über Freundschaft und Vertrauen. Ergriffen von dieser Rede entscheidet das Dorf, heute niemanden zu töten!</value>
   </string>
@@ -1693,7 +1693,7 @@
   <string key="AskTroublemaker">
 	<value>Möchtest du heute Chaos verursachen?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, die Unruhestifterin 🤯 macht Ärger! Das Dorf verfällt in Panik, alle schreien durcheinander und verlangen Vergeltung. Heute wird zwei Mal gelyncht!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

@@ -1142,13 +1142,13 @@
   <string key="RoleInfoWolfCub">
     <value>Anda adalah Penanggal 🐶 yang disanjung Orang Minyak. Sama seperti Orang Minyak, anda boleh memilih seorang untuk diganggu pada setiap malam. Jika anda hilang, rakan-rakan anda mengganas dan mencari dua mangsa untuk diganggu pada malam berikutnya.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Penduduk Kampung Misteri bersetuju untuk menghumban {0} ke telaga misteri, tetapi dia mempertahankan diri dan berkata, "Tak, saya lah VVIP yang dijemput untuk membantu kampung ni. Tak kan saya nak buat benda-benda yang tak masuk akal!!". Akhirnya, penduduk kampung bersetuju tiada siapa yang dihukum pada waktu itu.</value>
   </string>
   <string key="SorcererOther">
     <value>Anda melihat pada {0}, tetapi tidak tahu siapakah dia.. Dia bukanlah Orang Minyak dan bukan juga Wartawan.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} maju ke hadapan dan membuka janggut serta rambut palsunya. Rupanya dia adalah Tok Ketua. \n Mulai sekarang, undian {0} dikira sebanyak dua kali.</value>
   </string>
   <string key="AskMayor">
@@ -1497,7 +1497,7 @@
   <string key="AskSandman">
     <value>Adakah anda ingin mengajak penduduk kampung berqiamulail?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Terasa akan ancaman makhluk yang tidak boleh dilihat dengan mata kasar, {0} memanggil penduduk Kampung Misteri ke surau untuk melakukan qiamulail. Penduduk Kampung Misteri menyambut seruan itu dengan ikhlas hati.</value>
   </string>
   <string key="SandmanNight">
@@ -1600,7 +1600,7 @@
   <string key="AskPacifist">
     <value>Tekan butang ini untuk semua pemain tidak mengundi!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Sebagai Pesara Tentera ☮️, {0}, memberikan kata-kata semangat, pengalaman dan memberikan keyakinan terhadap kepercayaan orang kampung. Kesan daripada pengalamannya, tiada yang diundi menerima hukuman!</value>
   </string>

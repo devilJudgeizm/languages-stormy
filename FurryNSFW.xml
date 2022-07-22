@@ -986,7 +986,7 @@
     <!-- 1 - Harlot's name -->-->
     <value>Looks like {0} came back positive after a night with the Fox! The Dragon got revenge. {1} is dead.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->-->
     <!-- 1 - target name -->-->
     <!-- 2 - Target's revealed name ( Target was a role) -->-->
@@ -2852,13 +2852,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are the Pack Bitch; Slut of the wolf pack. Like other wolves, you will choose a villager to attack and kill every night. If you happen to be killed, your wolf pack will fly into a fuck-frenzy and fuck two people the next night. You’ll still be out of the game though.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the village begins to lynch {0}, they say “Wait! I am the Prince!" and for proof they reveal both their (growing) mane, and the royal buttplug. "So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out what they are.  They are not a wolf or Owl however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and lifts their hat revealing their antlers revealing they're the deer, and declaring as such.  From now on, {0}'s votes for lynching will count twice.</value>
   </string>
   <string key="AskMayor">

@@ -288,7 +288,7 @@
 	<string key="HarlotShot">
 		<value>Охотник {0} пристрелил члп {1}.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>Охотник {0} пристрелил {1} - {2}.</value>
 	</string>
 	<string key="WolfWins">
@@ -981,13 +981,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Ты волчонок.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>{0} - принц. Линч отмёнён.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>{0} не волк и не пров.</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} - мэр.</value>
 	</string>
 	<string key="AskMayor">
@@ -1322,7 +1322,7 @@
 	<string key="AskSandman">
 		<value>Пруфаемся?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>{0} - морф.</value>
 	</string>
 	<string key="SandmanNight">
@@ -1413,7 +1413,7 @@
 	<string key="AskPacifist">
 		<value>Пруфаемся?</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<value>{0} - пац.</value>
 	</string>
 	<string key="PacifistNoLynchNow">
@@ -1549,7 +1549,7 @@
 	<string key="AskTroublemaker">
 		<value>Пруфнуться</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>{0} - паникёр.</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">

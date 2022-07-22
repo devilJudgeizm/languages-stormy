@@ -2224,13 +2224,13 @@
  <value>Sei il pacifista. Puoi scegliere di convincere tutti nel tuo villaggio a non linciare nessuno. Questo può essere fatto solo una volta. </value>
  <value>Sei il Vecchio Saggio. Puoi sopravvivere a un attacco dei lupi una volta, la seconda volta possono mangiarti. Se il Cacciatore o l'Artigliere ti sparano, perderanno i loro poteri e dal dispiacere torneranno ad essere normale abitanti del villaggio.</value>
  </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarà il linciato stasera, lui urla «Aspettate! Sono il Principe. Questo anello reale, con il sigillo del Re, lo dimostra. Ogni notte, sono circondato dai servi. Quindi non posso essere malvagio.» Sentendosi sciocchi, I contadini si ritirano docilmente nelle proprie case.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè il Veggente nè un Lupo!</value>
   </string>
-    <string key="MayorReveal">
+    <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti lo stemma ufficiale del Sindaco, dichiarandosi come tale. Da ora in poi, i voti del Sindaco {0} per i linciaggio conteranno doppio.</value>
 	<value>Mentre il villaggio si infuria per decidere chi linciare, si accorgono che {0} vaga per la città spargendo l'argento per terra. Per ora, o almeno, per stanotte, il villaggio sarà al sicuro dagli attacchi dei lupi.</value>
 	<value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
@@ -2605,7 +2605,7 @@
 	<value>Clicca "Rivelati" appena ti senti pronto di rivelarti pubblicamente come il Sindaco</value>
 	 <value>Vorresti addormentare tutti stanotte?</value>
 	 </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti lo stemma ufficiale del Sindaco, dichiarandosi come tale. Da ora in poi, i voti del Sindaco {0} per i linciaggio conteranno doppio.</value>
 	<value>Mentre il villaggio si infuria per decidere chi linciare, si accorgono che {0} vaga per la città spargendo l'argento per terra. Per ora, o almeno, per stanotte, il villaggio sarà al sicuro dagli attacchi dei lupi.</value>
 	<value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
@@ -2925,7 +2925,7 @@
  <value>Carichi la tua arma. A chi sparare? Ti rimangono solo 8000 proiettili.</value>
   <value>Premi questo pulsante quando vuoi fare il tuo discorso e fermare il villaggio dal linciaggio la prossima volta!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!</value>
   </string>

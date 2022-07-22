@@ -1235,13 +1235,13 @@ start impressing the Great Leader for the next fast-track upgrade, so the Kaijin
 
 prove themselves!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the cast debates getting rid of {0}, they are reminded of his temporal existence and inability to influence any other plot besides that weird episode, and leave Kamen Rider G to his alcoholic tendencies.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to be an asshole to {0}, but {0} doesn’t react and reveal his true intentions and feelings and whatever else the plot demands. But you’re sure he’s not a Kaijin or Cafe Owner.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and does an iconic henshin (ignore the dated CGI, please), and his aura of power as Kamen Rider Ichigo leaves many mouths agape. Sempai has noticed you all!
 
 From now on, {0}'s votes for Rider Kicking people will count twice.</value>

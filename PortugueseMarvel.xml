@@ -928,13 +928,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o Gênesis. Adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Os heróis estavam prontos para executar {0}, que grita, "Esperem! Eu sou Namor, príncipe de Atlântida! Como vocês ousam atacar o futuro rei?." Envergonhados, os heróis voltam para seus QG's para re-pensar seus atos.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é o Telepata nem Cavaleiro do Apocalipse...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Com um estrondo vindo dos céus, Odin revela sua autoridade. Com sua força superior, os ataques de {0} serão duplamente mais efetivos contra o inimigo!</value>
   </string>
   <string key="AskMayor">

@@ -1271,14 +1271,14 @@
     <string key="RoleInfoWolfCub">
       <value>Hey, du bist der depressive Neuling (aka Wolfswelpe 🐶).\nUnd du bist depressiv, so depressiv, dass du Dich direkt den Schwarzmalern zugehörig fühlst und mit Ihnen alles schwarz anmelen willst.\nSolltest du das Unternehmen verlassen werden die anderen Schwarzmaler 🐺 zwei Angestellten schwarze Eier unterjubeln!</value>
   	</string>
-    <string key="PrinceLynched">
+    <string key="PrinceLynched" isgif="true" >
       <value>Ihr habt also entschieden, {0} soll das Unternehmen noch heute verlassen. Dass Ihr da den Vize-Chef 👑 rausschmeißt, habt Ihr aber bedacht? Dieser lässt sich nicht von Euch armseligen Gurken feuern und entkommt nochmal knapp. Solltet Ihr ihn aber nochmal rauswählen, wird er die Firma für immer verlassen!</value>
       <!--> <value>Kurz bevor das Dorf {0} lyncht, hört man die verurteile Person rufen: "Wartet! Ich bin der Prinz 👑. Dieser königliche Ring mit dem Siegel meines Geschlechts beweist es. Ich bin jede Nacht von Dienern umgeben, folglich kann ich also nicht dem Bösen angehören." Von der eigenen Torheit überrascht, ziehen sich die Bewohner des Dorfes kleinlaut in ihre Gemächer zurück, ohne auf ihr Lynchopfer zu bestehen.</value> -->
     </string>
     <string key="SorcererOther">
       <value>	Du stalkst zu {0} herüber. Sofort bist du dir sicher: er ist kein Wachmann oder Schwarzmaler. Die hättest du nämlich erkannt.</value> <!-- Ich weiß 🙄, aber ich will auch mal zum Ende kommen --> 
     </string>
-    <string key="MayorReveal">
+    <string key="MayorReveal" isgif="true" >
       <!-- und ihr euch von seinen guten Absichten überzeugen konntet, -->
       <value>Auf einmal zeigt Euch {0} eine Bescheinigung 🎖 {0} ist wohl der Abteilungsleiter und darf nun mit doppelter Macht über Kündigungen mitentscheiden. Mit {0} würde ich es mir ja jetzt nicht mehr verscherzen...</value>
       <!--<value>Als wäre es ihm gerade erst wieder eingefallen, drängelt sich auf einmal {0} ins Rampenlicht, schwafelt etwas von Verantwortung und hält dabei irgendeine Urkunde in die Höhe. Lesen kann es zwar niemand, aber ihr erkennt das Siegel darauf: dies muss der Bürgermeister 🎖 sein. Dadurch, dass seine Autorität nun bestätigt ist, zählt seine Stimme bei der abendlichen Abstimmung ab jetzt doppelt.</value>
@@ -1636,7 +1636,7 @@
 	<value>Möchtest du nun einen Ruhetag für morgen durchsetzen?</value>
 	<value>Du kannst etwas, was die Bundesregierung nie schaffen wird: sehr kurzfristig einen Ruhetag durchsetzen. Und zwar bereits für morgen. Willst du das direkt mal versuchen?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
 	<value>+++EILMELDUNG+++\nDer Betriebstrat 💤 {0} hat für euch einen Feiertag erwirkt, ihr habt alle morgen frei! Macht was Schönes mit der Familie oder so, aber Eier bemalen müsst ihr nicht!\n+++EILMELDUNG+++\n(Zur Erinnerung: Tag und Nacht sind bei Ostern vertauscht. Also Rollen wie Schwarzmaler, Wachmann, (Schutz-)Hase werden inaktiv)</value>
 	<value>+++EILMELDUNG+++\nDie Bundesregierung 🇩🇪 - oh! Entschuldigung! Das haben die nicht hinbekommen. Das war der Betriebsrat, also: Der Betriebsrat 💤 {0} hat einen Ruhetag für morgen erwirkt. Ihr müsst morgen nicht zur Arbeit erscheinen und könnt zu Hause die Eier ausblasen oder was anderes blasen, zum Beispiel Pusteblümchen. Genießt es!\n+++EILMELDUNG+++\n(Zur Erinnerung: Tag und Nacht sind bei Ostern vertauscht. Also Rollen wie Schwarzmaler, Wachmann, (Schutz-)Hase werden inaktiv)</value>
   </string>
@@ -1685,7 +1685,7 @@
   <string key="AskPacifist">
 	<value>PARTY TIME! ☮️\nMöchtest Du heute Nacht eine Party machen? Dann wird am Morgen niemand gefeuert. Oder möchtest du noch Musik raussuchen und später die Party des Jahres machen? Ja, Nein, Jein? Aber warte nicht bis 2096.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 	<!-- {0} - Name des Pazifisten -->
 	<value>Ihr bekommt eine Nachricht: der DJ ☮️, {0}, legt heute Abend auf und das soll die Party des Jahrhunderts werden! Na da darf auf jeden Fall niemand fehlen. Denkt nur dran, vorher noch die Abstimmung zu machen, wer das Unternehmen verlassen soll.</value>
   </string>
@@ -1797,7 +1797,7 @@
   <string key="AskTroublemaker">
 	<value>Willst du heute Nacht durch die Fabrik laufen? Denk daran, dass du mit deiner netten und fröhlichen Art auch etwas sehr nerven kannst!</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0} 🤯 geht durch die Fabrik. Eigentlich ist {0} ja echt nett und lebensoffen! Aber euch nervt es, weil so kaum Eier bemalt werden. Mein Tipp: Tasse in die Küche tragen, heiße Schokolade holen, Sahne drauf machen, weiter arbeiten, die Ostertage planen, Geschenke für Tante Hedwig auszusuchen und daran denken, nur einen Arbeiter zu feuern!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

@@ -994,13 +994,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é a Talia al Ghul. Admirada por todos da Liga das Sombras. Como todos os outros, você vai escolher um cidadão para atacar e matar todas as noites. Se acontecer de você ser morto, sua liga verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Gotham se prepara para prender {0}, que grita, "Esperem! Eu sou o Aquaman. Esse tridente, com o simbolo do reino dos mares, comprova isso. Toda noite eu estou rodeado de criados, então não posso ser um inimigo." Se sentindo tolos, os cidadãos vão para suas casas dormir com o rabo entre as pernas.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é a Oraculo nem um membro da Liga das Sombras...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e mostra o selo oficial de superintendencia da policia de Gotham, declarando que é ele o Comissario Gordon. De agora em diante, os votos de {0} para prender alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

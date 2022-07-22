@@ -294,7 +294,7 @@
 	<string key="HarlotShot">
 		<value>Todos escutam um tiro vindo do centro da Aldeia. {0}, Vigilante, matou {1} com um tiro bem no meio da cara, parece que {0} não gosta de fazer amor! {1} era Amante 💋.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>De repente, um tiro é disparado.  Os aldeões se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
 	</string>
 	<string key="WolfWins" isgif="true">
@@ -963,13 +963,13 @@ Atual: {0}</value>
 	<string key="RoleInfoWolfCub">
 		<value>Você é Filhote de Lobisomem 🐶, adorado por sua matilha. Como os outros Lobisomens, você irá escolher alguém para atacar e matar todas as noites. Se alguém te matar, sua matilha verá seu corpo no chão, e, com raiva, vingará sua morte, atacando duas vezes na noite seguinte. Saiba mais: /aboutWolfCub</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>A aldeia se prepara para enforcar {0}, que grita, "Esperem! Esperem! Eu sou da Realeza! Este anel real, com o selo do rei, prova isso. Criados me rodeiam toda noite, então eu não posso ser um inimigo." Se sentindo tolos, os aldeões vão para suas casas dormir com o rabo entre as pernas.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Você procura por {0} no mundo dos espíritos, mas sua presença lá é muito menor do que a de um Vidente ou Lobisomem seria.</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} dá um passo à frente e mostra seu distintivo de Xerife. De agora em diante, os votos de {0} para enforcar alguém serão contados duas vezes.</value>
 	</string>
 	<string key="AskMayor">
@@ -1259,7 +1259,7 @@ Atual: {1}</value>
   <string key="AskSandman">
     <value>Você quer adormecer os jogadores hoje?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Enquanto os aldeões conversam entre si, {0} sai andando para sua casa e começa a cantar uma melodia bem tranquila. Hoje à noite, todos irão ter um sono bem pesado e ninguém poderá usar suas ações noturnas</value>
   </string>
   <string key="SandmanNight">
@@ -1361,7 +1361,7 @@ Atual: {1}</value>
 	<string key="AskPacifist">
     <value>Aperte este botão quando você quiser fazer seu discurso sincero e impedir a Aldeia de enforcar alguém da próxima vez</value>
   </string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>O Pacifista ☮️, {0}, está fazendo um discurso sincero sobre amizade e confiança na frente da Aldeia. Graças ao seu discurso, não haverá enforcamento hoje!</value>
   </string>
@@ -1517,7 +1517,7 @@ Atual: {1}</value>
   <string key="AskTroublemaker">
 	<value>Você quer causar problemas hoje?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, O Agitador 🤯, está causando! Corra por aí e grite de satisfação! Haverão dois enforcamentos hoje!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

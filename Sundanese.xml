@@ -404,7 +404,7 @@ Nu "handap" jadi baseuh, pek teh Ublag💋 keur beraksi ngajak maneh "cinta satu
     <!-- 1 - Harlot's name -->-->
     <value>Tukang Bedil🔫 ngewa kacida ka tukang jinah, akhirna si {0} ngarahkeun bedilna kana sirah si {1}. DOR! Ublag paeh dibedil🔫</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->-->
     <!-- 1 - target name -->-->
     <!-- 2 - Target's revealed name ( Target was a role) -->-->
@@ -1253,13 +1253,13 @@ Mun kultus nyobaan ngahasut maneh, manehna boga 50% bakal gagal. Mun maneh na ga
   <string key="RoleInfoWolfCub">
     <value> Maneh jadi Anak Ajag 🐶, unggal peuting maneh bisa neangan mangsa sarua jiga Ajag nu sejen. Lamun maneh nepikeun ka paeh pasukan Ajag nu lain bakal edan, ngamuk ku sabab anakna dipaehan.  Peuting berikutna, Ajag bisa maehan 2 jelema sakaligus. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value> Kabeh warga geus satuju jang ngaduruk si {0}, teu lila manehna nembongkeun Ali karajaan "Ke heula! Kuring Raden 👑.  Pelong ali ieu, euweuh deui nu boga salian jalma jalma karajaan!” Ngarasa era ku Raden, kabeh warga balik ka imah na masing-masing, euweuh nu diduruk poe ieu.</value>
   </string>
   <string key="SorcererOther">
     <value> Maneh nyobaan merhatikeun si {0}, tapi maneh teu bisa nangtukeun saha sebenerna si {0}.  Manehna lain Ajag, lain oge Dukun Sakti ...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value> Kadenge pengumuman, yen si {0} 🎖 nya eta Lurah di desa ieu. Ti mimiti ayeuna, unggal {0} milih jang ngaduruk pilihanna bakal ka itung dua!</value>
   </string>
   <string key="AskMayor">
@@ -1622,7 +1622,7 @@ Mun kultus nyobaan ngahasut maneh, manehna boga 50% bakal gagal. Mun maneh na ga
   <string key="AskSandman">
     <value>Maneh rek nyieun warga sarare?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Siga di dongeng, {0} balik kaimahna bari nembang lagu Bambung Hideung.  Peuting ieu, eweuh nu bisa hudang, sarare kabeh!</value>
   </string>
   <string key="SandmanNight">

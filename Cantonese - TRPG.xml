@@ -318,7 +318,7 @@
   <string key="HarlotShot">
     <value>【{0}】 搞完淫魔【{1}】，仲殺埋佢，以後無得同淫魔玩喇..</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>突然間 【{0}】全身發出強烈既光芒，一拳打落 【{1}】 嗰頭度。\n【{2}】。</value>
 	<value>【{0}】 大叫一聲「小左賜我力量」， 然後 【{1}】 嗰頭就被佢打爆左。\n【{2}】。</value>
 	<value>【{0}】 吻左一下小右， 然後佢就打爆左【{1}】 嗰頭。\n【{2}】。</value>
@@ -1016,13 +1016,13 @@
   <string key="RoleInfoWolfCub">
     <value>你係【BOSS嗰仔】。因為情節需求，如果你死左既話，BOSS會爆發悲傷之力，下一晚可以一次過殺兩個人。(註：你係BOSS陣營。)</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>正當全村都想投死【{0}】既時候，佢突然企出黎大叫：「刀下留人！其實我係【亞俠】！」並且主動除晒衫除晒褲，比大家由內到外，再由外到番內咁檢查佢。大家見到咁既情況，村民即刻驚到收番埋張票，唔敢投死亞俠。</value>
   </string>
   <string key="SorcererOther">
     <value>你嘗試去check下【{0}】既身份，你發覺佢原來又唔係BOSS，又唔係超遊者，咁就浪費左一晚添...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>【{0}】突然走出黎show出佢張【作者證】！由今日起，【{0}】每次投既票都一張當兩張票計！</value>
   </string>
   <string key="AskMayor">
@@ -1360,7 +1360,7 @@
 	<string key="AskSandman">
 		<value>你要唔要搵全村人通宵跑團？</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>夜幕低垂，【{0}】突然叫晒所有人一齊跑團，呢個GM次次導入每人兩小時，睇嚟今晚大家無得訓，無得做野。</value>
 	</string>
 	<string key="SandmanNight">
@@ -1464,7 +1464,7 @@
 		<value>你想唔想今晚搞個和理非非集會，等村民暫時忘記萬惡嘅投死人制度，把握時間好好討論一吓，到底點樣先可以解決村民離奇死亡嘅問題？</value>
 		<value>你想唔想今晚搞個活動，叫大家唔會玩咩投票，把握時間夜晚打一場，解決條村幾方互鬥既嘅問題？</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>【裁定者 - {0}】企咗喺個台到喊晒口咁講，話唔希望大家投票殺人，應該用實力來決生死，所以想取消今日嘅投票大會。</value>
 	</string>

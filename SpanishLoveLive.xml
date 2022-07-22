@@ -347,7 +347,7 @@
         <!-- 1 - Harlot's name -->
         <value>Parece que Umi cogió un catarro después de pasar una bonita y húmeda noche con Kanan, parece que metió los dedos en el sitio equivocado. {0} se ha tomado la venganza por su mano y le ha dado una bofetada a {1}. [{0} ha abofeteado a {1} y se ha ido del campamento].</value>
     </string>
-    <string key="DefaultShot">
+    <string key="DefaultShot" isgif="true" >
         <!-- 0 - Gunner's name -->
         <!-- 1 - target name -->
         <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1124,13 +1124,13 @@
     <string key="RoleInfoWolfCub">
         <value>Eres la alpaca blanquita. Todas las demás alpacas te adoran, ¡incluso a las campistas les pareces adorable! Pero eso no impedirá que escupas a todas. Si dejas el campamento tu rebaño enfurecerá y atacará a dos campistas esa noche. (Eres el lobezno).</value>
     </string>
-    <string key="PrinceLynched">
+    <string key="PrinceLynched" isgif="true" >
         <value>Mientras el pueblo intenta linchar a la chica del pelo tomate {0}, de repente dice: «¡Esperad, que soy la niña rica, yo solo vine para comer tomates!». Las demás chicas, avergonzadas por lo que estaban por hacer, le pidieron perdón a Maki y le dieron una caja de tomates en compensación.</value>
     </string>
     <string key="SorcererOther">
         <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo algo te dice que no es ni Nozomi ni una de tus alpacas.</value>
     </string>
-    <string key="MayorReveal">
+    <string key="MayorReveal" isgif="true" >
         <value>{0} da un paso al frente y muestra su título de presidenta del consejo. Desde ahora, los votos de {0} a la hora de echar a alguna de las chicas valen el doble.</value>
     </string>
     <string key="AskMayor">

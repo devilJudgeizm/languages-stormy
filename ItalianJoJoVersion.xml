@@ -970,13 +970,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei un piccolo servitore di Dio, venerato e protetto dalla tua famiglia. Come gli altri servitori di Dio, sceglierai ogni notte un giocatore da attaccare e uccidere. Se vieni ucciso, i tuoi compagni si infurieranno a tal punto da attaccare due volte la notte seguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena viene deciso di uccidere {0}, sentendosi minacciato sfodera la sua vera personalità ovvero Diavolo, avete deciso di linciare Doppio, tutti si ritirano senza uccidere nessuno, a Diavolo non interessa di uccidere gli avventurieri, ma i servitori di Dio che gli rovinano il business.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è. Sei però sicuro che non sia nè Joseph nè un servitore di Dio!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti Golden Experience, dichiarandosi come Giorno Giovanna. Da ora in poi, i voti di Giorno {0} per i linciaggio conteranno doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1307,7 +1307,7 @@
   <string key="AskSandman">
     <value>Vorresti addormentare tutti stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre tutti discutono, {0}, ovvero Death 13, fa addormentare tutti talmente profondamente che nessuno può esercitare i propri ruoli durante la notte!</value>
   </string>
   <string key="SandmanNight">
@@ -1405,7 +1405,7 @@
     <string key="AskPacifist">
     <value>Clicca qui per utilizzare Echoes e i suoi suoni rilassanti per mettere a freno i bollenti spiriti e non far linciare nessuno!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Koichi ☮️, {0}, sta usando i suoni rilassanti di Echoes, tutti a un tratto vi calmate e capite che dovete mantenere nervi saldi, per oggi non muore nessuno!</value>
   </string>
@@ -1563,7 +1563,7 @@
   <string key="AskTroublemaker">
 	<value>Vuoi allontanarti oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>la bambina invisibile 🤯 {0} si è allontanata da Joseph! Ha fatto ! Gli abitanti del villaggio linceranno due volte!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

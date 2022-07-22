@@ -1049,13 +1049,13 @@
 <string key="RoleInfoWolfCub">
   <value>Eres el Cachorro de Lobo; ¡adorado por tu jauria! Como otros lobos, podrás seleccionar un aldeano para atacar y asesinar cada noche. Si mueres, tu jauria entrara en furia y atacara dos aldeanos la proxima noche. Seguirás muerto de todas formas.</value>
 </string>
-<string key="PrinceLynched">
+<string key="PrinceLynched" isgif="true" >
   <value>Mientras los aldeanos se preparan para linchar a {0}, él dice "Esperen! soy El Príncipe. Este anillo real, con el sello del rey lo prueba. Toda las noches estoy rodeado por sirvientes, así que no puedo ser malvado!" Sintiéndose tontos, los aldeanos se retiran como ovejas a sus casas.</value>
 </string>
 <string key="SorcererOther">
   <value>Intentas ver a {0}, pero no puedes comprender qué es. Sin embargo sabes que no es lobo ni vidente...</value>
 </string>
-<string key="MayorReveal">
+<string key="MayorReveal" isgif="true" >
   <value>{0} da un paso al frente y presenta el sello oficial del Alcalde, declarandose asimismo como tal. A partir de ahora, los votos de {0} contaran como dos.</value>
 </string>
 <string key="AskMayor">

@@ -402,7 +402,7 @@
 		<value>【{0}】尋晚同隻公廁雞玩咗好耐，咩花款都玩過晒，但玩到最後竟然唔肯比錢，仲殺埋隻雞，\n【{1}】皮已收。</value>
 		<value>隻雞尋晚諗住同【{0}】共渡春宵啦，點知搞極都冇反應，仲要一啲啲起色都見唔到！佢怕件事傳出去會被人笑，竟然仲劏雞滅口！\n【{1}】皮已收。</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>突然傳來一響槍聲。村民發現【{0}】企咗喺【{1}】條屍隔離，槍口仲篤住佢個頭。\n【{2}】</value>
 	</string>
 	<string key="WolfWins" isgif="true">
@@ -1108,14 +1108,14 @@
 	<string key="RoleInfoWolfCub">
 		<value>你係小櫻嘅朋友，小狼 🐶。\n你係一隻可愛嘅吉祥物，受到狼群嘅疼愛同保護。一旦你死咗，憤怒嘅狼群係下一晚將會咬兩條友嚟祭旗。雖則你未夠秤，但係同其他狼一樣，你每晚都可以揀一個人嚟殺。</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>正當冚村都想投死【{0} 👑】既時候，佢突然舉高佢隻右手，亮出佢超級無敵實在非常閃嘅黃金戒指，原來佢係皇帝親生嘅太子爺。雖然佢平時好撚乞人憎，你哋好想照推佢上死刑台，但係你哋又搵唔到其他理由判佢死刑。迫於無奈之下，你哋決定放佢一條生路。</value>
 		<value>正當冚村都想送【{0} 👑】上斷頭台嗰陣，佢突然大叫「我爸是洋蔥圈！」，同時舉高佢隻右手，亮出佢超級無敵實在非常閃嘅黃金戒指，原來佢係皇帝親生嘅太子爺。雖然佢平時好撚乞人憎，你哋好想照推佢上死刑台，但係你哋又搵唔到其他理由判佢死刑。迫於無奈之下，你哋決定放佢一條生路。</value>
 	</string>
 	<string key="SorcererOther">
 		<value>【{0}】並唔係狼，又唔係先知，我都唔知你測佢個命盤嚟做乜，咁就白白浪費咗一晚。</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>【{0} 🎖】突然大嗌︰「我已經手揸七百七十七票！以後就靠你哋幫我買廁紙！」，轉個頭拎咗委任證出黎，由今晚起林太就母儀天下，每一票都當兩票計。</value>
 	</string>
 	<string key="AskMayor">
@@ -1519,7 +1519,7 @@
 	<string key="AskSandman">
 		<value>你要唔要令全世界都陷入沉睡？</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>夜幕低垂，【{0}】突然奏起令人昏昏欲睡嘅綠袖子，搞到全村人都好撚眼瞓，睇嚟今晚大家都會訓得好冧。</value>
 	</string>
 	<string key="SandmanNight">
@@ -1621,7 +1621,7 @@
 	<string key="AskPacifist">
 		<value>你想唔想今晚搞個和理非非集會，等村民暫時忘記萬惡嘅投死人制度，把握時間好好討論一吓，到底點樣先可以解決村民離奇死亡嘅問題？</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>和事佬【{0}】企咗喺個台到喊撚晒咁講，話唔希望大家喺未有充足嘅討論之前亂閪咁投票，傷害無辜，想取消今晚嘅投票大會。</value>
 	</string>
@@ -1796,7 +1796,7 @@
 		<value>要唔要鼓勵大家投死多個人？</value>
 		<value>要唔要鼓勵大家投死多件？</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>花生友【{0}】話︰「每次剩係可以投一個人，幾時先捉得晒啲狼啊？不如試吓一次投死兩條友啦！」大家聽完覺得不無道理，於是決定試一次一日投死兩個人。</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">

@@ -322,7 +322,7 @@
 		<value>【{0}bbg】琴晚同隻公廁奚隹挽左好耐,,咩花款刀挽過晒,,但挽到最後竟然吾肯比錢,,仲杀殳埋隻奚隹,,【{1}】歹匕左 T_T.</value>
 		<value>隻奚隹琴晚諗住同【sIu{0}】共渡春宵拉,,點知搞極刀矛反應,,仲要一dddd起色刀見吾到．.*]]佢怕件事傳出去會被人笑,,竟然仲劏奚隹滅口．.*]]【{1}】歹匕左 T_T.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<value>突然傳來一響槍聲.村man發現【魂初. {0}弒】企左系【不要哭. ＿. {1}】條屍隔尼,,槍口仲篤住佢個頭.\n【{2}】</value>
 	</string>
 	<string key="WolfWins" isgif="true">
@@ -1027,13 +1027,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>尔系小櫻既朋友,,小犭良,,一隻可愛既吉祥物,,受到犭良群既疼愛同亻呆言蒦.一旦尒歹匕左,,憤怒既犭良群系下一晚將會咬兩條友離祭旗.雖則尒未夠秤,,但系同其他犭良一樣,,尒每晚刀可以揀一个人離杀殳.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>正當冚村刀想投歹匕【{0}】既時候,,佢突然舉高佢隻右手,,亮出佢超級無敵實在非常閃既黃金戒指,,原來佢系皇帝親生既太子爺.雖然佢平時好撚乞人憎,,尒地好想照推佢上歹匕刑台,,但系尒地又搵吾到其他理由判佢歹匕刑.迫於無奈之下,,尒地決定放佢一條生路.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>【{0}】並吾系犭良,,又吾系先G,,莪刀吾知尒測佢個命盤離做乜,,咁就白白浪費左一晚.</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>【{0}】突然大嗌︰「莪已經手揸七百七十七票．.*]]以後就靠尒地幫莪買廁紙．.*]]」,,轉個頭拎左委任證出離,,由今晚起林太就母儀天下,,每一票刀當兩票計.</value>
 	</string>
 	<string key="AskMayor">
@@ -1430,7 +1430,7 @@
 	<string key="AskSandman">
 		<value>伱要吾要令全世界都陷入沉睡？</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>夜幕低垂，【{0}】突然奏起令人昏昏欲睡ge綠袖子，搞到全村人都好撚眼瞓，睇泥今晚大家都會訓得好冧。</value>
 	</string>
 	<string key="SandmanNight">
@@ -1532,7 +1532,7 @@
 	<string key="AskPacifist">
 		<value>你想唔想今晚搞個和理非非集會，等村民暫時忘記萬惡ge投死人制度，把握時間好好討論一吓，到底點樣先可以解決村民離奇死亡ge問題？</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>和事亻老【{0}】企左喺個台到喊晒口咁講，話唔希望大家喺未有充足ge討論之前亂咁投票，傷害無辜，想取消今晚ge投票大會。</value>
 	</string>

@@ -1150,13 +1150,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o funcionário da Rocket Game Corner e tem um Porygon🐶!(no valor de 9999C) Se seu Pokémon morrer ou ser liberto, a Equipe Rocket ficará furiosa e arrumará alguma encrenca com 2 treinadores na noite seguinte!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Como a cidade começa a libertar {0}, ele grita “ESPEREM! Eu tenho o Ninetails Real que está protegendo a Cidade Pokémon!” Os Treinadores lamentam sua decisão e deixam Ninetails com seu treinador.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue ver qual Pokémon ele(a) tem. Eles não são da Equipe Rocket ou Alakazam...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e mostra seu pequeno e fofo Bulbasaur, declarando que é o Prefeito da Cidade Pokémon. De agora em diante, os votos de {0} contaram como dois.</value>
   </string>
   <string key="AskMayor">

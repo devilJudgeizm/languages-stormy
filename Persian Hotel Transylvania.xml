@@ -984,7 +984,7 @@
 <!-- 1 - Harlot's name -->
     <value>سایرن دیشب میخواست {0} گول بزنه ولی شکارچی بود و چند تاگلوله چوبی حرومش کرد سایرن یعنی {1} کشته شد</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -2824,13 +2824,13 @@
   <string key="RoleInfoWolfCub">
     <value>تو فاحشه🐶هستی یه آدم ناز و خوشگل که گروهی ازش استفاده میکنن!اگه هیولا ها بکشنت آدما عصبی میشن و روز بعد دوبار حمله میکنن </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>آدما خواستن {0} رو بسوزونن !ولی چون از شن درست شده بود هیچیش نشد!یاه یاه یاه</value>
   </string>
   <string key="SorcererOther">
     <value>خب {0} نه آدمه  نه طالع بین! بیشتر بگرد!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>توجه! {0} بزرگ خاندان دراکولاست! چون باید بهش خیلی احترام گذاشت هر رای که بده دو تا محسوب میشه</value>
   </string>
   <string key="AskMayor">
@@ -3501,7 +3501,7 @@
   <string key="AskSandman">
     <value>میخوای همه رو بخوابونی؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>با خوندن این ورد توسط {0} ,هیولاها به خانه خود می روند و با یک ملودی زیبا به خواب عمیقی فرو می روند و هیچکس قادر به استفاده از توانایی هایش نیست</value>
   </string>
   <string key="SandmanNight">
@@ -3610,7 +3610,7 @@
   <string key="AskPacifist">
     <value>این دکمه رو فشار بده ویه سخنرانی در مورد حقوق هیولاها بکن، یادت باشه وقتی این کار رو بکنی جلوی رای دادن هیولاها رو میگیری و کسی سوزونده نمیشه</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->
 <!-- {0} - Pacifist's name -->

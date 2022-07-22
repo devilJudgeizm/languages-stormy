@@ -1146,13 +1146,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Isa kang Batang Lobo, paborito sa Pamilya ng Lobo. Tulad ng ibang mga lobo, makakapili ka din ng isang mamamayan para kainin tuwing gabi. Pag namatay ka, maghihiganti lahat ng lobo at kakain sila ng dalawang mamamayan na mapusuan nila sa susunod na gabi.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Naghahanda na ang lungsod para bitayin si {0} nang biglang sumigaw ito at sinabing, "TEKA! Ako ang Prinsipe! Ito ang singsing na may Tatak ng Hari bilang patunay. May nakapaligid saking mga alila 24/7, imposible na ako ang masamang mamamayan na hinahanap niyo mga HUNGHANG !". Nang malaman ng mga taga lungsod ito, umuwi nalang sila at natulog.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Sinubukan mong tignan si {0}, pero hinda ka sigurado kung ano siya. Hindi siya Lobo o si Madam Auring yun ang sigurado ka...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>Biglang nag bida-bida si {0} habang pinapakita ang Opisyal na tatak ng opisina ng isang Isko Moreno na nasakanya. Mula ngayon, dalawa ang bilang ng boto ni {0} sa mga lynch.</value>
 	</string>
 	<string key="AskMayor">
@@ -1497,7 +1497,7 @@
 	<string key="AskSandman">
 		<value>Gusto mo bang patulugin ang lahat ng manlalaro ngayong gabi?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>Habang nag-uusap ang mga taga lungsod, bumalik si {0} sa kaniyang bahay at nagsimulang mag-lalala ng isang marahan na himig. Ngayong gabi, ang lahat ay matutulog nang mahimbing, at walang sinuman ang makakagamit ng kanilang mga aksyon sa gabi.</value>
 	</string>
 	<string key="SandmanNight">
@@ -1599,7 +1599,7 @@
 	<string key="AskPacifist">
 		<value>Pindutin ang buton na ito kapag gusto mong gawin ang iyong taos-pusong pananalita at pigilan ang nayon sa pag-bitay sa susunod na pagkakataon!</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>Ang Pasipista ☮️, {0}, ay gumagawa ng taos-pusong pananalita tungkol sa pagkakaibigan at pagtitiwala sa harap ng mga taga lungsod. Naantig sila sa kaniyang pananalita, walang bitay ngayon!</value>
 	</string>
@@ -1762,7 +1762,7 @@
 	<string key="AskTroublemaker">
 		<value>Gusto mo bang gumawa ng kaguluhan ngayong araw?</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>Si {0}, ang Pepe Smith 🤯 ay  nanggugulo! Tumatakbo sa paligid at sumisigaw nang walang humpay! Dalawang beses ang pagbitay ngayon!</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">

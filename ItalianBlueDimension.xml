@@ -1013,13 +1013,13 @@ Odi aspettare e sapere di essere una semplice ruota di scorta ti manda su tutte 
   <string key="RoleInfoWolfCub">
     <value>I tuoi ricordi sono confusi, eri entrato in quel portale poi.. stanze grigie, lettini metallici, luci, luci potenti, strani esseri… Sei il Rigonfio, un demone enorme creato in laboratorio. Come gli altri demoni, sceglierai ogni notte un giocatore da attaccare e uccidere. Ma se per caso verrai ucciso, esploderai, spargendo per tutta l’area circostante una sostanza che aumenta la potenza dei tuoi compagni che diventando più potenti riusciranno ad eliminare due umani al posto di uno. Sei pericoloso eh!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena gli umani ha nno deciso che {0} sarà il consegnato stasera, lui sorride «Provateci, non importa, ho due vite .» Gli umani consegnano perciò il Berserkr che non muore e che in segno di scusa riceve dai farfalloni il privilegio di avere voto doppio.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè illuminato nè un demone!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} attraverso un farfallone messaggero speciale che diffonde audio inizia a parlare della sua vita e di quello che ha fatto su questo mondo, quindi si rivela dicendo di possedere le chiavi della città più importante della blue dimension. {0} D’ora in poi sarà considerato  superiore a voi e il suo voto varrà doppio.</value>
   </string>
   <string key="AskMayor">

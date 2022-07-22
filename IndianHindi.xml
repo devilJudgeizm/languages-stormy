@@ -351,7 +351,7 @@
     <!-- 1 - Harlot's name -->
     <value>Aisa lag rha hai ki {0} HIV positive ho gaya randi chodne ke baad! Bandookwale ne apna badla le liya. {1} mar chuke hai.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->

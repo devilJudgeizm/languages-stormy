@@ -1141,13 +1141,13 @@
   <string key="RoleInfoWolfCub">
     <value>Anda ialah Junior Kaki Buli🐶 di Sekolah. Seperti Pembuli lain,anda berpeluang untuk membuli murid-murid lain pada setiap malam. Jika anda dibuang sekolah,geng anda akan mengamuk untuk membalas dendam diatas pemergian anda.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Semasa pihak sekolah sepakat untuk mengundi {0}, dia berkata "Tunggu sekejap! Aku ni kan Pengetua. Surat kuasa Kementerian Pendidikan ni sebagai bukti. Aku merupakan Pengetua kamu semua! jadi tak mungkin aku akan dibuang sekolah." Terasa malu dengan tindakan tersebut, pihak sekolah berhenti dan berehat pada malam itu.</value>
   </string>
   <string key="SorcererOther">
     <value>Anda cuba untuk mengintip {0} tetapi anda percaya yang dia bukan la Pengerusi mahupun Pembuli.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} maju ke hadapan kelas untuk menerima jawatan ketua Kelas yang telah dipersetujui ramai. Cikgu Jebat telah memberikan watikah pelantikan🎖 dan tali leher Ketua Kelas kepadanya. Bermula dari sekarang, setiap undian {0} dikira dua kali</value>
   </string>
   <string key="AskMayor">

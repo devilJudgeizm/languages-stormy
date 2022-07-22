@@ -1026,13 +1026,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei il Cucciolo di Lupo🐶, venerato e protetto dal tuo branco. Come gli altri lupi, sceglierai ogni notte un giocatore da attaccare e uccidere. Se vieni ucciso, i tuoi compagni si infurieranno a tal punto da attaccare due volte la notte seguente.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarà il linciato stasera, lui urla «Aspettate! Sono il Principe. Questo anello reale, con il sigillo del Re, lo dimostra. Ogni notte, sono circondato dai servi. Quindi non posso essere malvagio.» Sentendosi sciocchi, I contadini si ritirano docilmente nelle proprie case.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè il Veggente nè un Lupo!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti lo stemma ufficiale del Sindaco, dichiarandosi come tale. Da ora in poi, i voti del Sindaco {0} per il linciaggio conteranno doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1367,7 +1367,7 @@
   <string key="AskSandman">
     <value>Vorresti addormentare tutti stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte, tutti dormiranno un sonno così profondo che non potranno svolgere le loro azioni notturne!</value>
   </string>
   <string key="SandmanNight">
@@ -1460,7 +1460,7 @@
   <string key="AskPacifist">
     <value>Clicca questo bottone quando vuoi fare il tuo commovente discorso e fermare il prossimo linciaggio del popolo!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Nome del pacifista -->
     <value>Il Pacifista ☮️, {0}, sta facendo un profondo discorso riguardo l'amicizia e la fiducia in fronte al villaggio. Commossi dalle sue parole, nessuno verrà linciato oggi!</value>
   </string>
@@ -1621,7 +1621,7 @@
   <string key="AskTroublemaker">
 	<value>Vuoi causare guai oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>il guastafeste 🤯 {0} sta combinando guai nel villaggio! Ha fatto scappare il bestiame dei contadini che hanno invaso la piazza! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
 	<value>il guastafeste 🤯 {0} sta combinando guai nel villaggio! Ha bruciato tutto il fieno del bestiame! Gli infuriati abitanti del villaggio linceranno due volte in preda alla rabbia!</value>
   </string>

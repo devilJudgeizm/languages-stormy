@@ -348,7 +348,7 @@
 <!-- 1 - Harlot's name -->
     <value>.daed si {1} .egnever tog rennug ehT !tolraH eht htiw thgin a retfa evitisop kcab emac {0} ekil skooL</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1132,13 +1132,13 @@
   <string key="RoleInfoWolfCub">
     <value>.hguoht daed eb llits ll’uoY .thgin txen eht elpoep owt kcatta dna egar a otni ylf lliw kcap flow ruoy ,dellik eb ot neppah uoy fI .thgin yreve llik dna kcatta ot regalliv a esoohc lliw uoy ,sevlow rehto ekiL .kcap flow ruoy yb deroda ;buC floW eht era uoY</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>.thgin eht rof eriter ylhsipeehs sregalliv eht ,hsiloof gnileeF ”.live eb tonnac I oS .stnavres yb dednuorrus ma I thgin yrevE .ti sevorp gnik eht fo laes eht htiw ,gnir layor sihT .ecnirP eht ma I !tiaW“ yas yeht ,{0} hcnyl ot snigeb egalliv eht sA</value>
   </string>
   <string key="SorcererOther">
     <value>...revewoh rees ro flow a ton era yehT  .era yeht tahw tuo ekam etiuq t'nac tub ,{0} ta kool ot yrt uoY</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>.eciwt tnuoc lliw gnihcnyl rof setov s'{0} ,no won morF .hcus sa sevlesmeht gniralced ,royaM eht fo laes laiciffo eht tneserp dna drawrof spets {0}</value>
   </string>
   <string key="AskMayor">
@@ -1470,7 +1470,7 @@
   <string key="AskSandman">
     <value>?thginot peels ot sreyalp lla tup ot ekil uoy dluoW</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>snoitca thgin rieht esu ot elba eb lliw eno on dna ,ylpeed yrev peels lliw enoyreve ,thginoT  .ydolem tfos a gnimmuh snigeb dna esuoh rieht ot kcab seog {0} ,sklat nwot eht sA</value>
   </string>
   <string key="SandmanNight">
@@ -1573,7 +1573,7 @@
   <string key="AskPacifist">
     <value>!emit txen eht gnihcnyl morf egalliv eht pots dna hceeps tleftraeh ruoy ekam ot tnaw uoy nehw nottub siht tiH</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>!yadot gnihcnyl on eb lliw ereht ,hceeps rieht yb devoM .egalliv eht fo tnorf ni tsurt dna pihsdneirf fo hceeps tleftraeh a gnikam si ,{0} ,☮tsificaP ehT</value>
   </string>
@@ -1736,7 +1736,7 @@
   <string key="AskTroublemaker">
 	<value>?yadot elbuort esuac ot tnaw uoy oD</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>!yadot eciwt hcnyl lliw uoY !noitcafsitas rof maercs dna dnuora nuR !elbuort gnikam si 🤯 rekamelbuort eht ,{0} </value>
   </string>
   <string key="TroubleDoubleLynchNow">

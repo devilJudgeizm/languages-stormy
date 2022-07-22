@@ -1009,13 +1009,13 @@
   <string key="RoleInfoWolfCub">
 	<value>Kamu adalah sang Kabareskrim (WolfCub), orang yang memimpin unit pembrantas mafia. Seperti polisi lainnya, setiap malam kamu dapat memilih dan menyerbu seorang warga mafia. Namun jika suatu saat kamu hilang dari kota ini. Polisi akan menggerakan seluruh pasukannya untuk mencarimu dan akan melakukan dua penyerbuan pada malam berikutnya. Namun kamu tetap hilang dari kota ini.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
 	<value>Seketika para warga mencoba mengusir {0}, dia berkata "Eits, tunggu dulu. Sebelum kamu mencoba mengusir aku, mungkin kamu perlu tahu siapa aku sebenarnya."  {0} melepaskan kumis serta janggut palsu, lalu mengganti topi fedora murahnya. Terkejut melihat sang Anak Godfather (Prince), para warga kembali kerumah mereka masing-masing dengan malu. </value>
   </string>
   <string key="SorcererOther">
 	<value>Kamu mencoba mencari tahu identitas {0}, tetapi kamu tidak mengetahui siapa dia sebenarnya, hanya dia bukanlah Polisi (Werewolf) atau si Penyiksa (Seer).</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
 	<value>{0} mengambil cincin dari dalam saku jasnya. Cincin tersebut merupakan lambang dari seorang Bawahan Boss (Mayor). Karenanya, vote {0} akan bernilai dua.</value>
   </string>
   <string key="AskMayor">

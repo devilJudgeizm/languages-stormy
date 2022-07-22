@@ -342,7 +342,7 @@ Hai tradito il Villaggio e sei appena diventato un Nukenin, pronto a scatenare l
   <string key="HarlotShot">
     <value>Sembra che la visita di Mei abbia dato una nuova motivazione a {0}! Kakashi rifiuta la proposta di matrimonio della donna e trova il coraggio di attaccare e uccidere {1} con il suo Raikiri!</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Poco lontano dall'ufficio dell'Hokage si sente un forte suono, simile a quello di uno stormo di falchi. Gli Shinobi rimasti nel villaggio accorrono subito sul luogo. Vedono {0} in piedi accanto al corpo di {1}, con il braccio ancora nel petto della vittima. Kakashi è entrato in azione con il suo Raikiri! \n{2}</value>
   </string>
   <string key="WolfWins">
@@ -1023,13 +1023,13 @@ Hai tradito il Villaggio e sei appena diventato un Nukenin, pronto a scatenare l
   <string key="RoleInfoWolfCub">
     <value>Sei Obito 🐶! Sei stato salvato dai Nukenin dopo aver rischiato di morire. Ogni notte potrai uccidere tutti coloro che ti hanno causato dolore. Se vieni ucciso, però, il giorno seguente i tuoi alleati attaccheranno due volte per vendicarti!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena gli Shinobi e il Consiglio di Konoha hanno deciso che {0} verrà linciato stasera, lui si toglie il cappuccio e rivela il suo volto: «Aspettate! Sono io, Minato!. Ho dovuto nascondere la mia identità per una missione molto importante. Il Villaggio della Foglia è la mia casa, lo proteggo dai Nukenin agendo in incognito, sono stato il Quarto Hokage... sono dalla vostra parte!». Sentendosi in colpa, tutti si ritirano docilmente nelle proprie case. Che figuraccia!</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè Shikamaru nè un Nukenin!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e decide di rivelare la sua identità: è Hashirama, il Primo Hokage nonché fondatore di Konoha! Ammirati e riconoscenti verso l'uomo, gli Shinobi decidono che per {0}, grazie alla sua importanza, i voti per il linciaggio conteranno doppio!</value>
   </string>
   <string key="AskMayor">
@@ -1371,7 +1371,7 @@ Hai tradito il Villaggio e sei appena diventato un Nukenin, pronto a scatenare l
   <string key="AskSandman">
     <value>Vorresti addormentare tutti con il tuo ramen questa notte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre i Ninja e il Consiglio di Konoha battibeccano su chi linciare, {0} apre il suo ristorante e annuncia che questa sera offrirà gratuitamente del ramen a tutti! Gli Shinobi accorrono affamati e ingurgitano tutto il ramen che riescono a contenere i loro stomaci. Sulla via di casa, si sentono talmente pieni e insonnoliti che rinunciano a votare e si ritirano stanchi ma sazi nei loro caldi letti. Il ramen di Teuchi è davvero il migliore di tutta Konoha!</value>
   </string>
   <string key="SandmanNight">
@@ -1464,7 +1464,7 @@ Hai tradito il Villaggio e sei appena diventato un Nukenin, pronto a scatenare l
   <string key="AskPacifist">
     <value>Clicca questo bottone quando vuoi fare il tuo commovente discorso e convincere tutti a non linciare!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <!-- {0} - Pacifist's name -->
     <value>Gli Shinobi stanno nuovamente discutendo su chi dovrà essere linciato. Un pugno si alza nel cielo e una voce squillante sovrasta le altre: «Mi chiamo Naruto Uzumaki ☮️, DATTEBAYO!» {0} sale sul tavolo, facendo cadere alcune cianfrusaglie. Prende un profondo respiro e ricomincia a parlare: «Ascoltate! Io sarò il futuro Hokage, perciò vi dico che nessuno di voi può pensare di linciare qualcuno, è chiaro?! Konoha è la nostra casa e dobbiamo proteggerla senza uccidere nessuno! Siamo Shinobi, DATTEBAYO! Dobbiamo restare uniti e combattere con tutte le nostre forze! Perciò ora finitela di discutere e prepariamoci a difendere il Villaggio! Io dico le cose così come stanno e non cambio idea! Anche questo fa parte del mio credo Ninja!» Tutti gli Shinobi, attorno a lui, erano ammutoliti. Colpiti nel profondo dalle sue parole, decidono che per oggi nessuno verrà linciato.
 </value>
@@ -1620,7 +1620,7 @@ Hai tradito il Villaggio e sei appena diventato un Nukenin, pronto a scatenare l
   <string key="AskTroublemaker">
     <value>Tu ed Akamaru volete seminare il caos oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>Kiba 🤯 e Akamaru stanno combinando guai a Konoha! Akamaru ha visto un gatto e l'ha rincorso ovunque, seguito da {0} che ha lasciato dietro di sé una scia di aiuole distrutte, piatti rovesciati e vetri infranti. Tutti iniziano a imprecare e ben presto si ritrovano a battibeccare tra di loro, seminando Konoha nel caos! L'Hokage è riuscito a ripristinare la calma, anche se non completamente. Gli Shinobi, infatti, sono talmente infuriati che hanno deciso di linciare due Shinobi anziché uno solo!
 </value>
     <value>Kiba 🤯 e Akamaru hanno inavvertitamente iniziato a creare il caos a Konoha! {0} mentre si allenava con foga insieme ad Akamaru, non si è accorto di essere finito nell'ufficio dell'Hokage... Ora è tutto a soqquadro, ci vorranno giorni per rimettere in ordine quelle carte! Indignati, gli anziani del Consiglio di Konoha e gli Shinobi questa sera linceranno due volte in preda alla rabbia!</value>

@@ -1133,13 +1133,13 @@
   <string key="RoleInfoWolfCub">
     <value>تو کورتز هستی یکی از اعضای گارگویل ها وقتی کشته بشی دستت حسابی عصبی میشن و فردا شب دو نفرو جای یه نفر قربانی میکنن.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>شما خواستید {0} رو اعدام کنید اما سر و صدای حاصل اجازه نداد این اتفاق بیفته اینطور که مشخصه {0} تونی و هیچکس اجازه نمیده اتفاقی براش بیفته</value>
   </string>
   <string key="SorcererOther">
     <value>خب {0} بتی نیست.!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>فرداندروز {0} کارت شناساییشو نشون میده از این به بعد رای های فرد عزیزمون دوبرابر حساب میشه.</value>
   </string>
   <string key="AskMayor">
@@ -1477,7 +1477,7 @@
   <string key="AskSandman">
     <value>میخوای امشب کنسرت بزاری؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>جوسی {0} شروع میکنه به پخش کردن اعلامیه ها مثل این که امشب یه کنسرت داره.</value>
   </string>
   <string key="SandmanNight">
@@ -1583,7 +1583,7 @@
    <string key="AskPacifist">
       <value>با فشار دادن این دکمه سخنرانیت رو شروع کن تا کسی امروز رای نده.</value>
     </string>
-    <string key="PacifistNoLynch">
+    <string key="PacifistNoLynch" isgif="true" >
     <!-- {0} - Pacifist's name -->
       <value>مردم ریوردیل تحت تاثیر سخنرانی وکیل مک کوی {0} امشب پای صندوق های رای نمیرن</value>
     </string>
@@ -1749,7 +1749,7 @@
   <string key="AskTroublemaker">
 	<value> میخوای امشب بری به جنگل فاکس؟ </value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value> مثل این که امشب جلی بین {0} به جنگل رفته و گم شده مردم که بخاطر این اتفاقات شاکین امشب میخوان دوبار رای بدن تا شاید آروم بشن.</value>
   </string>
   <string key="TroubleDoubleLynchNow">

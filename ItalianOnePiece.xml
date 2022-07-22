@@ -974,13 +974,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei Tashigi, protetta di Smoker. Come gli altri marine, sceglierai ogni notte un giocatore da catturare. Se vieni ucciso, Smoker si infurierà a tal punto da far compiere due catture alla Marina la notte successiva.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena il villaggio ha deciso che {0} sarà giustiziato stasera, lui si chiude dentro la sua barriera rivendicando la sue identità di pirata. I pirati se ne convincono e lo lasciano stare.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia nè Nico Robin nè un Marine!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e rivela a tutti la sua identità, si tratta di Shanks, è chiaro il perchè non ha paura. Da ora in poi, i voti di {0} conteranno doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1293,7 +1293,7 @@
   <string key="AskSandman">
     <value>Vorresti pietrificare tutti stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio discute, {0} ritorna nella sua casa e inizia a fischiettare una dolce melodia. Questa notte i giocatori non potranno svolgere le loro azioni notturne!</value>
   </string>
   <string key="SandmanNight">
@@ -1395,7 +1395,7 @@
   <string key="AskPacifist">
     <value>Premi qua quando vuoi fare il tuo discorso per convincere gli altri pirati a non giustiziare nessuno!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <value>Jinbe ☮️, {0}, sta facendo un discorso spezzacuori su amicizia e fedeltà davanti a tutti i pirati. Commossi dalle sue parole decidono di non buttare nessuno in fondo al mare questa volta!</value>
   </string>
   <string key="PacifistNoLynchNow">

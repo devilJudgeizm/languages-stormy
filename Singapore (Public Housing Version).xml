@@ -1166,13 +1166,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are the HDB Scholar (Wolf Cub 🐶). You are high-flying, and so others are both envious and jealous of you. If you leave your job or lose your flat, the rest of the HDB agents will suddenly work doubly hard, knowing they may have hope to be promoted finally!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the village begins to chase {0} out of his house, they realise the immense difficulty of moving someone with a BMI of nearly 35 out. Instead, the residents kindly give him the namecard to Raffles Hospital, suggesting he needs it dearly.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to speculate on {0}'s identity, but can't quite guess who {0} is. However, that's not the HDB agent or hacktivist.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and present his Coursera Certificate, declaring himself as a certified "lawyer". From now on, {0}'s votes for chasing people out will count twice.</value>
     <value>{0} quickly brandishes his recent Coursera Certificate on "Estate Law". From now on, {0}'s votes for chasing people out will count twice.</value>
   </string>

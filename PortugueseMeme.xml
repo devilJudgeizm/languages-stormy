@@ -999,13 +999,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o bichinho de estimação dos bichos piruleta. Você pode atacar junto com eles. Mas se você for desconectado eles ficam putos e matam duas pessoas pra equilibrar.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>A aldeia se prepara pra desligar {0}, mas antes ele diz: "sou eeeuuu, o Tiririca. Eu peguei vocês, enganei vocês, vocês pensavam que era outra pessoooaaaa. Todos se sentem trolados e vão dormir irritados...</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver o perfil de {0} na Deep Web, mas não acha o link. Tudo o que sabe é que ele não é Cartomante nem Bicho Piruleta...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} vai em casa e pega seus troféus de copa do mundo, provando que ele é o rei, Pelé. Agora os votos dele valem por dois.</value>
   </string>
   <string key="AskMayor">

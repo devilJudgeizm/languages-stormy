@@ -348,7 +348,7 @@
 <!-- 1 - Harlot's name -->
     <value>;کاپیتان {0} از دخالت های {1} خوشش نیومد و اون رو اخراج کرد.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1120,13 +1120,13 @@
   <string key="RoleInfoWolfCub">
     <value>تو خاطی با استعداد هستی (🐶) خاطی ها عاشق کارهای تو هستن برای همین اگه تو رو از دست بدن از شدت تنفر توی بازی بعد روی دو نفر خطا میکنند</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>بازیکنان خواست به {0} کارت قرمز بدن اما اون گفت: پدر من اینجاست!!! برای همین بهش یه فرصت دیگه دادند تا خودش رو ثابت کنه، بهرحال اون ژن برتر ماست!</value>
   </string>
   <string key="SorcererOther">
     <value>تو داشتی فوضولی {0} رو میکردی اما اون نه خبرنگار بود نه خاطی.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>ما الان {0} یعنی رئیس فیفا رو بین خودمون داریم پس از این به بعد رای هاش دو تا حساب میشه.</value>
   </string>
   <string key="AskMayor">
@@ -1454,7 +1454,7 @@
   <string key="AskSandman">
     <value>میخوای همه رو مسموم کنی؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
 	<value>اوه اوه! همه مسموم شدن کسی نمیتونه بازی کنه، معلوم نیست {0} چی به خوردشون داده. 😱</value>
   </string>
   <string key="SandmanNight">

@@ -494,7 +494,7 @@
     <!-- 1 - Harlot's name -->
     <value>Sieht so aus, wie wenn sich {0} bei dr Hure äbbes gholt hätt! Mo er vom Dorfarzt zrickkommt, schämt r sich ganz schee ond zielt emma obeachteta Moment auf {1}: dr Schütze 🔫 hot sae Rache. {1} isch dod 💋.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name (Target was a role) -->
@@ -1309,13 +1309,13 @@
   <string key="RoleInfoWolfCub">
     <value>Du bisch dr Wolfswelpe 🐶; älle andre Wölfe liebad di. Du bisch aegendlich an Wolf wie älle andere ond machsch ao ganz normal mit, wenn eier Rudel s Opfer von dr Nachd wähla duad. Fr da Fall dass du ombrochd wirsch, regad sich älle andere Wölfe saumäßig auf ond reißad en dr nächschda Nachd glei zwoe Opfer schdadd bloß oem. Du bisch no aber nadierlich oenaweg dod. ¯\_(ツ)_/¯</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Kurz bevor dr Henker sae Beil gega {0} hochhebt, schreit die Person: "Uffbassa! I ben dr Prinz 👑. Der Ring dohanna mit am Siegel vom König beweist des. Äll Nachd werd i von maene Dienr beschützd, i ko also ganz sicher koen Werwolf no nie ed gwesa sae!" S ganze Dorf vrschrickd dodal ond gohd wordlos zrück hoem, ohne dass se ebber töta dend.</value>
   </string>
   <string key="SorcererOther">
     <value>Du vrsuachsch rauszomfenda, wa {0} fr a Rolle hot, koschs abr ed ganz genao seha. Zwoe Sacha kosch aber ausschließa: Seher ond Wolf. Die hättsch nämlich genao erkannd.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Wie wenn er bis jetzt gar ed drodachd hätt, drängelt sich uff oemol {0} ens Zentrum, schwätzt irgend an Käs von Vrandwordung ond häld dabei a vom Rega durchnässda Urkunde noch oba. Lesen kos zwar koner meh, abr ihr erkennad des Siegel dodrauf: des muss eier Bürgermeister 🎖 sae. Weil eich älle sae Autorität jetz klar isch, zähld ab soford sae Schdimme bei dr Abschdimmung obends dobbeld.</value>
     <value>Ha, des geits jo gar ed! D Bürokratie isch doch ed dod? Siehd so aus. {0} gohd verre, fängd mit arra Rede o, wobei er eich davo übrzeuga will, dass Äpfelschorle vill besser schmeckd als Grapefruitsaft... irgendwann hot no ao dr letschde blickd, dass des eier Bürgermeister 🎖 sei muss.</value>
   </string>
@@ -1650,7 +1650,7 @@
   <string key="AskSandman">
     <value>Willsch du älle Schbieler heit Nachd schlofa lassa?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Während s Dorf sich ogregt onderhält, goht {0} zu saem Haus zruck ond fängt o a scheena ruhiga Melodie zum summa. Heit Nacht werdad älle ganz fescht schlofa ond niemand wird irgendwas do kenna. 💤</value>
   </string>
   <string key="SandmanNight">
@@ -1752,7 +1752,7 @@
   <string key="AskPacifist">
     <value>Drugg do druff wenn du s Dorf dazu brenga willsch, neamerd zom lyncha.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Dr Paifist ☮️, {0}, schdelld sich auf ond fängt irgenda Geschwafel o, von Liebe ond Freundschaft ond so Zuigs. Wirklich interessiera duads koen, abr Lyncha wellad er heid ao nemme.</value>
   </string>

@@ -916,13 +916,13 @@
   <string key="RoleInfoWolfCub">
     <value>你係幼狼🐶 /aboutWolfCub</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>{0} 係 王子👑 唔駛死(住)</value>
   </string>
   <string key="SorcererOther">
     <value>{0} 唔係 狼 唔係 先知</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 係 村長🎖 有兩票</value>
   </string>
   <string key="AskMayor">

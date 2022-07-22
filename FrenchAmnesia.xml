@@ -986,13 +986,13 @@
   <string key="RoleInfoWolfCub">
     <value>C'est étrange... Vous ne semblez pas vous souvenir qui vous êtes, seulement que vous devez faire quelque chose durant la nuit !</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Alors que les villageois se décident à lyncher {0}, celui-ci les stoppe. "Hé non ! Je suis le prince, regardez, cet anneau avec le sceau du roi le prouve ! Toutes les nuits, je suis surveillé par mes serviteurs, alors si j'étais un monstre nocturne, ça se saurait !". Les villageois, se sentant un peu idiots, libèrent le prince et rentrent chez eux penauds.</value>
   </string>
   <string key="SorcererOther">
     <value>Est-ce qu'il s'est passé quelque chose à la maison de {0} la nuit dernière ? Vous ne semblez pas vous souvenir...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} s'avance au milieu des villageois, et sortant de sa poche le décret municipal pour preuve, se présente comme étant le maire de la ville. A partir de maintenant, les votes de {0} lors du lynchage comptent double.</value>
   </string>
   <string key="AskMayor">

@@ -1163,13 +1163,13 @@ I will now assign your roles.</value>
   <string key="RoleInfoWolfCub">
     <value>You are Grand Moff Tarkin 🐶, commander of the Death Star and beloved by your Imperial troops. If you happen to be killed, your Stormtroopers will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>The cantina has made their accusation, and starts to remove {0}.  But rather than being taken out back (and killed), everyone is stopped when {0} announces “Wait! I am Princess Leia Organa!  I don't know who you are or where you came from, but from now on you'll do as I tell you, okay?"  Realizing their mistake, the cantina patrons return to their tables and drinks, and the band begins to play again.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out who they are.  They are not a stormtrooper or droid however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and declares he is Luke Skywalker 🎖, and will lead the fight against the Empire. From now on, {0}'s votes will count twice.</value>
   </string>
   <string key="AskMayor">
@@ -1501,7 +1501,7 @@ I will now assign your roles.</value>
   <string key="AskSandman">
     <value>Would you like to perform tonight, distracting everyone for one round?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} grabs a microphone, and announces a special performance coming up from Figran D'an and the cantina band.  During the performance, any actions would be too distruptive 💤.  Not wanting to blow their cover, everyone decides against using their night actions.</value>
   </string>
   <string key="SandmanNight">
@@ -1604,7 +1604,7 @@ I will now assign your roles.</value>
   <string key="AskPacifist">
     <value>Hit this button when you want to make your heartfelt speech and stop the cantina from lynching the next time!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Chirrut Imwe ☮️, {0}, is making a heartfelt speech of value of life, how everyone is connected through the force.  Moved by {0}'s speech, there will be no one eliminated today!</value>
   </string>

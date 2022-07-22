@@ -1014,13 +1014,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é o Aprendiz de Sith. Por ser muito novo e extremamente talentoso, o Mestre Sith tem um certo apreço por você. Se você morrer, os Sith vão se enfurecer e haverá dois ataques de uma só vez.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Os membros votaram e o Conselho contabilizou os votos. O Chanceler então anuncia um nome. "{0}, se levante!". Antes que pudessem reagir, {0} removeu o capuz e saiu do lado de seus guardas, ordenando que seu sósia se sentasse. Um dos Senadores reconhece {0} anulando a votação.</value>
   </string>
   <string key="SorcererOther">
     <value>Você acessa uma base de dados para ver o que {0} é, mas lá não consta nada sobre {0}. Ele provavelmente não é um Sith ou R2.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Todo o Senado estava em berros, quando de repente o Chanceler se levanta e vai até o púlpito para discursar. {0} inicia suas falas e o silêncio se instaura. Então, ele pede por poderes emergenciais, e declara "De agora em diante, esta República dará início a um Império Galático!". Os votos de {0} valerão por dois.</value>
   </string>
   <string key="AskMayor">

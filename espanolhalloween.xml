@@ -1208,13 +1208,13 @@
   <string key="RoleInfoWolfCub">
     <value>Eres el telefonista de los caza fantasmas. ¡¡Tus jefes te adoran!! Con tu magnífico humor y arrebatador aspecto aportas vitalidad a todas sus jornadas laborales. Como tus superiores, puedes elegir a un monstruo para atacar cada noche. Si mueres, los caza fantasmas enfurecerán y a causa de su cólera en la siguiente noche atacarán a dos criaturas y PARA enseñarles una lección, lamentablemente esto no te va a resucitar.[Eres el lobezno 🐶] Dale a /AboutWolfCub para saber más sobre el telefonista</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Cuando el pueblo enciende la hoguera para {0}, observan que las llamas no le hacen nada. Y él dice: «¡Vaya pueblo de tontos! Intentando quemar a un fantasma. Como podéis comprobar no soy humano». Avergonzados, los monstruos se marchan a sus casas.</value>
   </string>
   <string key="SorcererOther">
     <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es humano ni bruja.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} se corta la cabeza y en vez de morir le crecen dos. Ahora su voto cuenta doble.</value>
   </string>
   <string key="AskMayor">

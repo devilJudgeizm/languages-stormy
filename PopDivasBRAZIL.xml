@@ -365,7 +365,7 @@
     <!-- 1 - Harlot's name -->-->
     <value>Parece que {0} não gosta de safadeza! A Lady Gaga ficou louca e se vingou. {1}, que era a Taylor Swift, está morta.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->-->
     <!-- 1 - target name -->-->
     <!-- 2 - Target's revealed name ( Target was a role) -->-->
@@ -1155,13 +1155,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é a Ariana Grande, adorada pelas sedentas. Como outras sedentas, você vai escolher uma diva para atacar e fracassar todas as noites. Se acontecer de você ser morta, suas colaborações verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>A Billboard se prepara para fracassar {0}, que grita, "OOPS! I DID IT AGAIN!" e começa a performar no meio da votação. Se sentindo inutéis por votarem na Princesinha do Pop, as divas vão para seus estúdios gravar música com o rabo entre as pernas.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é a Rihanna, nem sedenta...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e mostra os vídeos da Aphrodite Les Folies, declarando o comeback com o próximo álbum. De agora em diante, os votos de {0} para enforcar alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

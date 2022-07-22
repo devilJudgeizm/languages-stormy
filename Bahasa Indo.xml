@@ -1175,13 +1175,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sebagai Anak Serigala; kamu sangat disayang oleh tim serigalamu. Setiap malam, kamu ikut bersama mereka, untuk mencari mangsa. Kamu terlalu imut untuk mati. Jika itu sampai terjadi, serigala lain akan membalas dendam dengan membunuh 2 orang esok malam! </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Karena warga desa sudah memulai untuk mengeksekusi {0}, dia akhirnya menunjukkan cincin kristal kerajaannya kepada warga! "Lihatlah! Aku ini seorang pangeran!" Merasa dibodohi, akhirnya warga tertunduk malu dan menunduk kepada pangeran.</value>
   </string>
   <string key="SorcererOther">
     <value>Kamu mencoba untuk melihat {0}, tapi kamu tak bisa mencari tahu siapa mereka.  Seenggaknya, mereka bukan penerawang atau serigala.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} melangkah di teras balai desa. Dengan secarik kertas dan map folio batik di tangan, dia telah siap menyatakan dirinya seorang Kepala Desa. Jadi, warga desa micin, mulai sekarang ini pilihan {0} akan dihitung ganda saat eksekusi.</value>
   </string>
   <string key="AskMayor">
@@ -1515,7 +1515,7 @@
   <string key="AskSandman">
     <value>Apakah kamu akan membuat seluruh warga desa tertidur lelap malam ini?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Saat warga sedang sibuk, {0} pulang ke rumah sambil bersenandung lagu merdu. 💤 Malam ini seluruh warga desa terlelap dan tidak melakukan aktifitas apa pun.</value>
   </string>
   <string key="SandmanNight">
@@ -1618,7 +1618,7 @@
   <string key="AskPacifist">
     <value>Tekan tombol ini ketika kamu ingin menyampaikan pidato perdamaian dan menghentikan warga desa melakukan eksekusi mati di waktu berikutnya!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Pacifist ☮️, {0}, sedang berpidato tentang persahabatan dan kepercayaan di depan desa. Karena warga desa terharu dengan pidatonya, tidak akan ada hukuman mati hari ini!</value>
   </string>
@@ -1781,7 +1781,7 @@
   <string key="AskTroublemaker">
   <value>Apakah kamu sudah merasa muak dengan kekacauan desa dan ingin memprovokasi penduduk untuk melakukan 2 kali pengeksekusian hari ini?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
   <value>{0}, seorang troublemaker 🤯 yang terlalu muak dengan semua kekacauan di desa, hari ini memprovokasi penduduk desa untuk melakukan 2 kali pengeksekusian. \n\nHeyy warga desa micin.. kalian akan memilih 2 orang untuk dieksekusi hari ini!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

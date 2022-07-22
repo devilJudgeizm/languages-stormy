@@ -1643,13 +1643,13 @@
     <!-- 0 - Tanner name -->
     <value>{0} wakes up at dawn, alone. {0} sees how abject a failure they have been, not being able to annoy Halloween Town enough in order to get them to satisfy their very own masochistic desires of being lynched to death. {0} grabs a rope for the second time and hangs himself, realising no one can accomplish their dream anymore, since there is no one left.</value>
   </string>
-    <string key="PrinceLynched">
+    <string key="PrinceLynched" isgif="true" >
     <value>As Halloween Town begins to lynch {0}, the fading light of the sun setting into the horizon lands on {0}’s face, revealing one of the most fearsome and spooky facies anyone has ever seen. Feeling terrified, the monsters of Halloween Town sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>You use your forbidden and powerful dark magic spell try to look at {0}’s soul, but can't quite make out what they are. They are not a wolf or witch however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and presents all their heads to Halloween Town, declaring themselves as the most knowledgeable monster there is. From now on, {0}'s votes for lynching will count twice.</value>
   </string>
   <string key="BlacksmithSpreadSilver">
@@ -1693,7 +1693,7 @@
     <string key="BeholderSeerStolen">
 	<value>The Goblin has taken the witch's identity! {0} is now the witch, and {1} no longer has seeing powers!</value>
   </string>
-    <string key="TroublemakerDoubleLynch">
+    <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, the Prankster 🤯 is messing around with the decorations the town has put up for Halloween! To stop him from playing around and to regain peace in within this chaotic festivity, you will lynch twice today! </value>
   </string>
     <string key="TroubleDoubleLynchNow">
@@ -2023,7 +2023,7 @@
     <string key="SandmanNight">
     <value>As every monster heads home, they barely make it to their beds from exhaustion. They all fall asleep so strongly, they don't even remember going to sleep...</value>
   </string>
-    <string key="PacifistNoLynch">
+    <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Spirit ☮️, {0}, used their powers to persuade everyone that allowing another monster to die isn't just. All the monsters in Halloween Town suddenly felt the same for no reason at all, but they were satisfied 😌. There will be no lynching today!</value>
   </string>
@@ -2034,7 +2034,7 @@
     <string key="WolvesAteWiseElderPM">
     <value>The wolves tried to eat you, but you didn't become the Phoenix 📚 to be easily killed by an intruder! You successfully thwart the attack, but unfortunately you didn't recognize any attackers.</value>
   </string>
-    <string key="SandmanSleepAll">
+    <string key="SandmanSleepAll" isgif="true" >
     <value>As the town talks, {0} goes back to their house and begins humming a soft melody. Tonight, everyone will sleep very deeply, and no one will be able to use their night actions</value>
   </string>
     <string key="HunterKilledWiseElder">

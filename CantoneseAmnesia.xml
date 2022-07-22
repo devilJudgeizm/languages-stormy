@@ -1089,13 +1089,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>好奇怪，你竟然醒唔起自己係邊個，不過你記得你應該係夜晚有啲野搞嘅。</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>正當冚村都想投死【{0}】既時候，佢突然舉高佢隻右手，亮出佢超級無敵實在非常閃嘅黃金戒指，原來佢係皇帝親生嘅太子爺。雖然佢平時好撚乞人憎，你哋好想照推佢上死刑台，但係你哋又搵唔到其他理由判佢死刑。迫於無奈之下，你哋決定放佢一條生路。</value>
 	</string>
 	<string key="SorcererOther">
 		<value>雖然你唔知自己係乜水，但至少你知道【{0}】唔係狼，又唔係先知。</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>【{0}】突然大嗌︰「叫我梁大人！」，仲披露佢張紅當蕩嘅委任證，由今日起，梁生就會執行佢嘅特權，每次投票都當兩張計！</value>
 	</string>
 	<string key="AskMayor">
@@ -1494,7 +1494,7 @@
 	<string key="AskSandman">
 		<value>當你想撳制，就撳下面嗰兩個啦。</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>夜幕低垂，【{0}】突然奏起令人昏昏欲睡嘅綠袖子，搞到全村人都好撚眼瞓，睇嚟今晚大家都會訓得好冧。</value>
 	</string>
 	<string key="SandmanNight">
@@ -1596,7 +1596,7 @@
 	<string key="AskPacifist">
 		<value>當你想撳制，就撳【謎之按鍵】啦。</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>和事佬【{0}】企咗喺個台到喊晒口咁講，話唔希望大家喺未有充足嘅討論之前亂咁投票，傷害無辜，想取消今晚嘅投票大會。</value>
 	</string>

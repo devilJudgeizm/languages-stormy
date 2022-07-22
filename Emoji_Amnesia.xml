@@ -984,13 +984,13 @@
   <string key="RoleInfoWolfCub">
     <value>👇😀❗ 🌙</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>🙋🙋🙋✊?? {0}, {0} 💬⚠️️👆👑❕ ☠⛔❕ 👱❔❔👱😅🔜😴.</value>
   </string>
   <string key="SorcererOther">
     <value>🤔 {0}❗</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 👱💬👆🎖.  {0}🙋🔜🙋🙋❌2⃣</value>
   </string>
   <string key="AskMayor">
@@ -1311,7 +1311,7 @@
   <string key="AskSandman">
     <value>👇🙋‍♂❓</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>👱💭👱💬👱, {0} 🎶🎶🚶🎶🎶. 🌃, 👱👱🐺🐺🔪🔜💤💤💤💤💤</value>
   </string>
   <string key="SandmanNight">
@@ -1413,7 +1413,7 @@
   <string key="AskPacifist">
     <value>👇🙋‍♂❓</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>👱💭👱💬👱, {0} 🗣🗣🗣☮️. 👱😄👱❌🖐</value>
   </string>
@@ -1575,7 +1575,7 @@
   <string key="AskTroublemaker">
 	<value>👇🙋‍♂❓</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0} 🤯💥❗ ✊2️⃣ ✖️❗</value>
   </string>
   <string key="TroubleDoubleLynchNow">

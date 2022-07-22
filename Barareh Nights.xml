@@ -1138,13 +1138,13 @@
   <string key="RoleInfoWolfCub">
     <value>🐶 تو کیوون(کیوان) بیدی بچه دردونه سردار خان.اگه پایین برره ایا تو رو نفله وکنن شب به دستور سردارخان دو نفرشون رو نفله وکنن</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>برره ایا خواستن {0} رو وندازن تو دره نشیمن گز ها اما {0} شالشو دراورد و شروع کرد به گریه کردن {0} وگفت من شاگرد قهوه چی بیدم همیشه بهتون چای نخود ودم چرا وخوایید من بدبخت رو وندازید تو دره؟ برره ایا دلشون میسوزه ولش وکنن</value>
   </string>
   <string key="SorcererOther">
     <value>ها {0} این نه سالار خان بید نه بالابررره ای</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>😐اهای اهالی برره {0} بلقیس پارچه فروش بید. به همه اتون پارچه نسیه وداده حالا دلش وخواد دوتا رای وده از این به بعد رای هاش 2تا حساب وشه😑</value>
   </string>
   <string key="AskMayor">
@@ -1481,7 +1481,7 @@
        <string key="AskSandman">
          <value>وخوای امشب فلفل ودی همه اشون خواب به خواب ورن جیگر؟</value>
        </string>
-       <string key="SandmanSleepAll">
+       <string key="SandmanSleepAll" isgif="true" >
          <value>ای شومپت کته کله{0} از این فلفلایی که از مکزیک اورده بید وریخته تو چایی نخود شما این فلفلاش خواب اور بید همه اتون خواب به خواب ورید😁مکزیکی جیب همه اتونو وزنه😱😂</value>
        </string>
        <string key="SandmanNight">
@@ -1598,7 +1598,7 @@
            <string key="AskPacifist">
               <value>ها این دکمه رو وَزَن و یه سخنرانی در مورد حقوق بشر از خودت در وَکُن .اما یاد باشه وقتی این کارو وَکنی جلوی رای دادن روستا رو وَگیری جیگر در نتیجه کسی اعدام نَوَشه😐</value>
             </string>
-            <string key="PacifistNoLynch">
+            <string key="PacifistNoLynch" isgif="true" >
             <!-- {0} - Pacifist's name -->
               <value>جان فدای ☮️ عزیز ،{0} یه سخن رانی جان سوز در مورد دوستی ها در برره و اتحاد برره بالا و برره پایین از خودش در وکنه.ها خوب کسی امشب نفله نوَشه😕 </value>
             </string>

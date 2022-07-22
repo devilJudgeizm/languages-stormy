@@ -352,7 +352,7 @@
     <!-- 1 - Harlot's name -->
     <value>Nampaknya {0} tidak berpuas hati dengan Pedagang yang selalu menipu ramai penduduk kampung.Penembak berjaya membalas dendam. {1} telah mati.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1131,13 +1131,13 @@ Nota: Para adalah pembuat bot ini.</value>
   <string key="RoleInfoWolfCub">
     <value>Anda adalah Anak Serigala,(Wolf Cub)🐶 menjadi idola serigala. Seperti serigala lain, anda berpeluang memilih penduduk kampung untuk diserang dan dibunuh setiap malam. Jika anda dibunuh, puak serigala akan mengamuk dan menyerang dua orang kampung. Anda tetap mati.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Semasa penduduk kampung mahu singkirkan {0}, mereka berkata ”Tunggu sekejap! Beta seorang Putera. Cincin ini sebagai bukti. Beta merupakan anak kepada raja kamu semua! jadi Beta tak mungkin jahat.” Terasa diperbodohkan, penduduk kampung berhenti pada malam itu. </value>
   </string>
   <string key="SorcererOther">
     <value>Anda cuba melihat kepada {0}, tetapi anda tidak dapat meneka. Mereka bukan serigala ataupun Seer...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} maju kehadapan dan tunjukkan simbol Datuk Bandar sambil mengisytiharkan diri. Bermula dari sekarang, {0} setiap undian dikira dua kali!</value>
   </string>
   <string key="AskMayor">
@@ -1481,7 +1481,7 @@ Nota: Para adalah pembuat bot ini.</value>
   <string key="AskSandman">
     <value>Anda mahu menidurkan semua pemain pada malam ini?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Semasa penduduk kampung sedang bersembang kencang, {0} pulang ke rumah dan membaca jampi serapah yang mendayu-dayu.  Malam ini, semua akan tidur dengan nyenyak. Tiada sesiapa yang dapat melakukan peranan mereka pada malam ini</value>
   </string>
   <string key="SandmanNight">
@@ -1583,7 +1583,7 @@ Nota: Para adalah pembuat bot ini.</value>
    <string key="AskPacifist">
     <value>Tekan punat ini jika anda ingin memberikan ucapan yang menyayat hati dan menghalang penduduk kampung untuk mengundi malam ini!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Pengaman ☮️, {0}, berucap dengan penuh sendu sehingga menyebabkan penduduk kampung tidak sanggup untuk mengundi pada malam ini.!</value>
   </string>
@@ -1747,7 +1747,7 @@ Nota: Para adalah pembuat bot ini.</value>
   <string key="AskTroublemaker">
   <value>Adakah anda mahu buat kecoh dalam kampung hari ini..?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
   <value>Oleh kerana melayan Si Kepala Angin {0}, seluruh kampung perlu mengundi dua kali hari ini. Harap - harap dia ok la esoknya...</value>
   </string>
   <string key="TroubleDoubleLynchNow">

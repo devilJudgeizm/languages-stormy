@@ -350,7 +350,7 @@
   <string key="HarlotShot">
     <value>Глядите, {0} пришёл в хорошем настроении после ночи с Шалунишкой! Облачко получило возмедие. {1} - мёртв!</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Метеорологи негодуют! Сегодня ведро с радугой было пролито {0} на {1}. {2} задушен!</value>
   </string>
   <string key="WolfWins">
@@ -1042,13 +1042,13 @@
   <string key="RoleInfoWolfCub">
     <value>Вы куколка - подрастающая бабочка. Если вас уничтожат, то бабочки берут все свои запасы пыльцы и опыляют сразу по две цели следующей ночью</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Как только селяне приступили к трапезе поедания {0}, он оказался ужасно невкусным. Его просто выплюнули. Фу! Мерзость</value>
   </string>
   <string key="SorcererOther">
     <value>Вы пытаетесь вглянуть на {0}, но не можете разобрать, кто он. Но между тем, это ни бабочка, ни всевидящее око...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} вышел из тени, и все увидели ЧЕЛОВЕКА! Он черезвычайно сильно голоден, поэтому его предпочтения вдвойне сильнее</value>
   </string>
   <string key="AskMayor">

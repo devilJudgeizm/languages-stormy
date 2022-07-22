@@ -422,7 +422,7 @@
 <!-- 1 - Harlot's name -->
     <value>Het lijkt erop dat {0} een soa overgehouden heeft aan diens nacht met de Hoer! De Konstabel heeft wraak genomen. {1} is dood.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1251,13 +1251,13 @@ Notitie: Als de Wolven aanvallen heb de Jager bij 1 Wolf 30% kans dat hij/zij de
   <string key="RoleInfoWolfCub">
     <value>Jij bent het Welpje; geadoreerd door de hele roedel. Net als andere Wolven, kies jij iedere nacht een burger om aan te vallen. Mocht jij onverhoopt sterven, dan zal je roedel stevig wraak nemen door niet 1 maar 2 burgers aan te vallen de volgende nacht. Je bent dan wel nog steeds dood.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Wanneer de inwoners van Wakkerdam de strop om de nek van {0} willen knopen, zegt deze: “Wacht! Ik ben de Prins(es). Deze ring met het koninklijk zegel bewijst het. Dus ik kan niet slecht zijn.” Ze voelen zich een beetje dwaas, de inwoners van Wakkerdam, maar ze gaan toch braaf naar huis zonder iemand op te knopen.</value>
   </string>
   <string key="SorcererOther">
     <value>Je probeert het beroep van {0} te bekijken, maar het is te troebel om te zien wat deze is. De levenskrachten van Wolven en Zieners zijn sterker en duidelijker, dus dat zal {0} niet zijn...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} stapt naar voren en presenteert de officiele Burgemeesterszegel, nu weet iedereen weer wat het beroep van {0} is. Want ja, de inwoners van Wakkerdam waren vergeten voor wie ze gestemd hadden... Maar nu weten ze het weer, dus vanaf nu zal de stem van {0} dan ook dubbel tellen!</value>
   </string>
   <string key="AskMayor">
@@ -1628,7 +1628,7 @@ Notitie: Als de Wolven aanvallen heb de Jager bij 1 Wolf 30% kans dat hij/zij de
   <string key="AskSandman">
     <value>Wil je vannacht alle inwoners van Wakkerdam laten slapen met je slaapzand?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Wanneer de inwoners van Wakkerdam praten, gaat {0} terug naar huis en begint zacht een slaapliedje te hummen. Vanacht zal iedereen slapen, heel diep. Het slaapzand van Klaas Vaak kan niemand uit zijn ogen wrijven en dus zal niemand ook maar enige nacht taak of actie uit kunnen voeren.</value>
   </string>
   <string key="SandmanNight">
@@ -1724,7 +1724,7 @@ Notitie: Als de Wolven aanvallen heb de Jager bij 1 Wolf 30% kans dat hij/zij de
     <value>Wil je er voor zorgen dat er vanavond niemand opgehangen word?</value>
     <value>Wil je de speech die je al jaren klaar hebt liggen vandaag gepassioneerd voordragen zodat men vanavond niemand ophangt?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
     <value>De Hippie ☮️, {0}, maakt een gepassioneerde speech over vriendschap en vertrouwen. Alle inwoners van Wakkerdam staan te luisteren en hier en daar valt een traan. Vandaag word er dan ook niemand gehangen!</value>
   </string>
@@ -1885,7 +1885,7 @@ Notitie: Als de Wolven aanvallen heb de Jager bij 1 Wolf 30% kans dat hij/zij de
   <string key="AskTroublemaker">
     <value>Wil je vandaag herrieschoppen?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0}, de Herrieschopper 🤯 word helemaal gek! Schreeuwen, rennen, schoppen. Jullie verstaan maar flarden van wat er geschreeuwt wordt: 'Geloven me ook nooit!' en 'Ik ben wel volwassen!' Wat iedereen wel duidelijk hoort is: 'Als we twee mensen ophangen beloof ik me vanaf nu rustig te gedragen!' Het lijkt helaas de enige optie om de hoofdpijn die op komt zetten te stoppen...</value>
   </string>
   <string key="TroubleDoubleLynchNow">

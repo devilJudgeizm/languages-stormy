@@ -1081,13 +1081,13 @@ Best played with secret lynch and no role reveal after death. -->
   <string key="RoleInfoWolfCub">
     <value>好奇怪，你竟然醒唔起自己係邊個，不過你記得你應該係夜晚有啲野搞嘅。</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value> {0} 佢出咗嚟做一啲野, 不過冇人記得係咩。</value>
   </string>
   <string key="SorcererOther">
     <value>到底你做咗啲咩呢? {0} 唔係一個重要嘅人。</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value> {0} 佢出咗嚟做一啲野, 不過冇人記得係咩。</value>
   </string>
   <string key="AskMayor">

@@ -1132,13 +1132,13 @@ Nota: Los enamorados se conocen entre sí, pero no saben sus roles. Si estos son
   <string key="RoleInfoWolfCub">
     <value>Eres El Matonsisimo Kid 🐶. ¡Eres un peligroso pistolero! Como el resto de los secuaces de El Shory, elegirás atacar a un Vecino y matarlo cada noche. Si mueres, tu banda entrará en cólera y atacará a dos Vecinos la próxima noche. Por desgracia, seguirás muerto.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Mientras todos empiezan a linchar a {0}, de repente haciendo ojitos dice: «¡Esperen, soy Patty!». Avergonzados por querer linchar a una niña inocente, todos se marchan a sus casas.</value>
   </string>
   <string key="SorcererOther">
     <value>Intentas mirar a {0}, pero no puedes distinguir qué es. Sin embargo, sabes que no es Secuaz de El Shory ni Doña Florinda.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} da un paso al frente y muestra su placa de la comandancía de la policia, que demuestra que es El Licenciado Morales. Desde ahora, los votos de {0} a la hora de linchar contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -1482,7 +1482,7 @@ Nota: Los enamorados se conocen entre sí, pero no saben sus roles. Si estos son
   <string key="AskSandman">
     <value>¿Quieres paralizar a toda la aldea esta noche?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mientras todos discuten, {0} empieza a llorar y hablar ininteligiblemente . Esta noche, todos quedarán paralizados como si les hubiese dado la Garrotera, y nadie podrá realizar acciones nocturnas.</value>
   </string>
   <string key="SandmanNight">
@@ -1585,7 +1585,7 @@ Nota: Los enamorados se conocen entre sí, pero no saben sus roles. Si estos son
   <string key="AskPacifist">
     <value>¿Quieres evitar la fatiga de tus vecinos y que no se linche esta noche?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>A causa de las historias de Tangamandapio su pueblo natal, {0} Jaimito el Cartero entretiene a todos y para evitar la fatiga, no habrá linchamientos hoy.</value>
   </string>

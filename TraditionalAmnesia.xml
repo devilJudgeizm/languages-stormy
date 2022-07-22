@@ -1024,13 +1024,13 @@ GuardEmptyHouse*
   <string key="RoleInfoWolfCub">
     <value>糟糕! 你竟然忘記自己的身份! 但你想起晚上有些事情要處理. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>就當村民要處決 {0} 時, 赫然發現他手上的皇家戒指, 這是大家才發現他是王子! 可憐的王子患上失憶症後, 也忘卻自己的身份. 身為貴族的他, 大家都深信他不可能是邪惡的一方. 最後, 村民在羞愧中草草度過了這個愚蠢的夜晚.</value>
   </string>
   <string key="SorcererOther">
     <value>你昨晚在 {0} 的家做了甚麼呢? 看來你自己也忘了. </value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 走出眾人之間, 出示了來自官方的證明文件證明了他是這個村莊的村長. 從現在該開始, {0} 的票將被視為兩票.</value>
   </string>
   <string key="AskMayor">

@@ -289,7 +289,7 @@
   <string key="HarlotShot">
     <value>Ŝajnas, ke {0} plifortiĝis post nokto kun maldeculo! La pafisto venĝis. 💋 {1} mortis.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Subite, aŭdeblas pafo. La vilaĝanoj turniĝas kaj vidas {0} 🔫 apud la kadavro de {1}, kun la pafilo ankoraŭ celumita. {2}</value>
   </string>
   <string key="WolfWins">
@@ -864,13 +864,13 @@
   <string key="RoleInfoWolfCub">
     <value>🐶Vi estas la lupido, kaj la tuta luparo adoras vin. Vi estas normala lupo, sed se vi mortos, la aliaj lupoj koleriĝos kaj povos manĝi du vilaĝanojn je la sekva nokto.\n\nPliaj informoj: /aboutWolfCub (se tio ne aperas esperante, klaku /setlang kaj agordu esperanton)</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Dum la vilaĝanoj pretigas la pendumejon, {0} diras "Hej! Mi estas la Princo! Se vi ne fidas min, rigardu ĉi tiun ringon kun la reĝa sigelo. Ĉiunokte miaj sklavoj estas kun mi. Mi ne estas malbonulo."\nLa vilaĝanoj, sin sentante malsaĝe, reiras hejmen por la nokto.</value>
   </string>
   <string key="SorcererOther">
     <value>Vi provas rigardi, sed vi ne bone certas pri kio {0} estas. Tamen, ne temas pri lupo, nek divenisto...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} elpaŝas kaj montras la oficialan sigelon de la vilaĝestro. {0} nun estas la vilaĝestro kaj havos duoblan linĉan voĉon.</value>
   </string>
   <string key="AskMayor">

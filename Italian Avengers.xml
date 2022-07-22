@@ -331,7 +331,7 @@
   <string key="HarlotShot">
     <value>Sembra che {0}  non abbia gradito la visita di Quicksilver, stanotte! Occhio di falco ha avuto la sua vendetta. {1} è morto</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>Improvvisamente si sente scoccare una freccia. Si vede {0} in piedi, l'arco in mano,  più in là il corpo di {1}, con una freccia nel cuore.\n{2}</value>
   </string>
   <string key="WolfWins">
@@ -1006,13 +1006,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei Kasius, Kree di famiglia nobile. Come gli altri invasori, sceglierai ogni notte un terrestre da attaccare e uccidere. Se vieni ucciso, i tuoi compagni si infurieranno a tal punto da uccidere due umani la notte successiva.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>I terrestri sospettano che {0} sia un invasore, lei un pò seccata, mostra il distintivo dello S.H.I.E.L.D., sopra si legge "Agente dello S.H.I.E.L.D. Natasha Romanoff" «Complimenti, avete appena fatto saltare la mia copertura.» Sentendosi stupidi, i terrestri si dileguno. </value>
   </string>
   <string key="SorcererOther">
     <value>Hai usato i tuoi poteri su {0}, ma non vedi nulla di interessante in lui... Non è nè il Direttore dello S.H.I.E.L..D. nè un Invasore!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa il saluto militare e mostra a tutti le sue innumerevoli medaglie, c'è un solo militare al mondo così decorato,  il Generale. Da ora in poi, le decisioni del Generale {0} varranno doppio, dopotutto è uno stimato stratega.</value>
   </string>
   <string key="AskMayor">
@@ -1346,7 +1346,7 @@
   <string key="AskSandman">
     <value>Vuoi liberare Goose stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre tutti si interrogano sul da farsi, {0} torna in casa sua e prende il trasportino di Goose. Avverte tutti che stanotte una Flerken girerà liberà in città. Per evitare di fare una brutta fine, conviene a tutti restare a casa!</value>
   </string>
   <string key="SandmanNight">
@@ -1438,7 +1438,7 @@ L'ex mago, non può rivelare l'identità del nuovo mago.</value>
   <string key="AskPacifist">
     <value>Accendi il microfono quando pensi sia il momento giusto, per raffreddare gli animi e salvare qualcuno dalla prigione.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
 <!-- {0} - Pacifist's name -->
     <value>Star-Lord 🚀, {0}, sta facendo un discorso riguardo l'amicizia fra umani ed alieni. Oggi nessuno finirà in una prigione dello S.H.I.E.L.D.!</value>
   </string>
@@ -1593,7 +1593,7 @@ L'ex mago, non può rivelare l'identità del nuovo mago.</value>
   <string key="AskTroublemaker">
     <value>Vuoi distruggere qualcosa oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>{0}, Hulk 🦠 sta provocando confusione! Salta da un palazzo all'altro distruggendo cose! Oggi lo S.H.I.E.L.D. eseguirà due arresti!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

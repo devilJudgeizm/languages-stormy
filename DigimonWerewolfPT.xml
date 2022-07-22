@@ -995,13 +995,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Você é Cutemon 🐶, e foi adotado pelos digimaus devido a sua tamanha fofura. _cuti cuti_ Se você morrer, os Weregarurumons entrarão em fúria, e darão duas vitimas no time da Vila. E sempre que você estiver sozinho, você irá digievoluir para Gazimon, e continuará o serviço! Você é do time dos Weregarurumons.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>A Vila se prepara para reiniciar {0}, que grita, "Esperem! Eu sou PrinceMamemon, príncipe do reino que há tantos anos deu suporte a essa vila e jamais pedi algo em troca. Esse anel real, com o selo do rei, prova isso. Toda noite eu estou rodeado de criados, então não posso ser um digimau." Se sentindo tolos, os digimons vão para suas casas. Ninguém será reiniciado hoje.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Você tenta 'estudar' {0}, mas não consegue entender direito o que ele é. Tudo o que você sabe é que ele não é Wisemon, nem Weregarurumon...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>Baromon 🎖, {0}, dá um passo à frente e mostra o selo oficial de prefeito da Vila. De agora em diante, os votos de {0} para reiniciar alguém serão contados duas vezes.</value>
 	</string>
 	<string key="AskMayor">

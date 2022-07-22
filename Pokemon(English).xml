@@ -1147,13 +1147,13 @@ Everyone now has {0} seconds to vote!
   <string key="RoleInfoWolfCub">
     <value>You are the staff of Rocket Game Corner and you own a Porygon🐶!(Worth 9999C) If your Pokémon got defeated or release, Team Rocket will get furious and attack 2 trainers the next night!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the town begins to release {0}, they say “Wait! I have the royal Ninetails that is protecting the Pokémon Town!” Trainers regreted their decision and leave Ninetails with his trainer.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out what Pokémon they are holding.  They are not Team Rocket or Alakazam however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and show his kawaii little Bulbasaur, declaring himself as the Mayor of Pokémon Town.  From now on, {0}'s votes will count twice.</value>
   </string>
   <string key="AskMayor">

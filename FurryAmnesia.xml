@@ -1055,13 +1055,13 @@ Last update: 24/03/2017 by @CrapKnight -->
   <string key="RoleInfoWolfCub">
     <value>That's strange... you can't seem to remember what you are, only that you should do something during the night!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the village begins to lynch {0}, they say “Wait! I am the Prince!" and for proof they reveal their (growing) mane. "So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>Did something happen at {0}'s house last night? You can't seem to remember...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and lifts their hat revealing their antlers revealing they're the deer, and declaring as such.  From now on, {0}'s votes for lynching will count twice.</value>
   </string>
   <string key="AskMayor">

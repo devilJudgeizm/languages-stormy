@@ -1066,13 +1066,13 @@
 	<string key="RoleInfoWolfCub">
 	<value>Sei il Cucciolotto, il lupo più piccolo e tenero del branco. Sei pucciosissimo e tutti i lupi ti amano! Se tu dovessi morire la notte successiva i lupi onoreranno la tua morte uccidendo ben due persone in tua memoria.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 	<value>Mentre il villaggio inizia ad preparare la forca per {0} lui dice “Oh, ma che fate! Io sono il Principe! E ve lo dimostrerò! Ho la voglia a forma di corona sulla chiappa destra, come tutti nella mia dinastia!” si gira e abbassa i pantaloni e sì, eccola lì, alla luce delle torce la voglia a forma di corona… la folla trovandosi il regal sedere in faccia scoppia a ridere e se ne torna a casa, ma non senza aver scattato qualche foto ricordo.</value>
 	</string>
 	<string key="SorcererOther">
 	<value>Sbirci dalla finestra di {0} ma non riesci a capire che cosa sta facendo esattamente. Comunque non è né lupo né veggente… niente di interessante… </value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 	<value>{0} sale su una panchina, si schiarisce la voce ed estrae una copia di Novella 2000 con la sua faccia in copertina! “IO” grida, “SONO UN VIP”!\nEffettivamente è una Very Important Person e ora il suo voto vale doppio.</value>
 	</string>
 	<string key="AskMayor">
@@ -1412,7 +1412,7 @@
   <string key="AskSandman">
     <value>Vuoi mettere a nanna tutti i giocatori stanotte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre la città discute, {0} decide di farsi un giro: sale sul suo elicottero monoposto e prende il volo. Così facendo alza un polverone incredibile. Pare che sia finita sabbia negli occhi di tutti, stasera saranno tutti troppo impegnati a lavarsela via dagli occhi per poter fare altro. </value>
   </string>
   <string key="SandmanNight">
@@ -1514,7 +1514,7 @@
   <string key="AskPacifist">
     <value>Vuoi sfoderare la tua compagna di tanti sit in di protesta stasera alla riunione?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Mentre la città discute {0} si fa avanti: imbracciando la sua vecchia chitarra, fedele compagna di molti sit-in di protesta per salvare le balene l'Hippie ☮️ inizia ad intonare una canzone di pace. Dalle ultime file spunta un tamburello ed in breve la folla si trova a cantare in coro “ALLL WEEE ARE SAAAAYING IS GIVE PEACE A CHANCEEEEEE”…
 	Sono tutti molto presi a cantare e complice qualche cannetta stasera saranno tutti troppi Peace&amp;Love per poter votare!</value>
@@ -1690,7 +1690,7 @@ Si eliminano due sospettati in un solo colpo senza alcuna vittima nella notte su
   <string key="AskTroublemaker">
 	<value>Rompiamo le palle? Rompiamo le palle?? Rompiamo le palle???</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, il Cagacazzi 🤯, sta rompendo le palle! Gironzola urlando, manco fosse la sagra della porchetta… 
 Per farlo stare zitto lincerete due volte oggi!</value>
 <value>{0}, il Cagacazzi 🤯, sta rompendo le palle! Gironzola urlando, manco fosse la sagra della salsiccia… 

@@ -1141,13 +1141,13 @@
   <string key="RoleInfoWolfCub">
     <value>Sei Biscottino 🐶, la dolcissima volpina amica fidata dei Mugsy. Siete sempre insieme e passate giornate intere a scorrazzare nelle bacheche dei quarantenni. Se verrai ucciso i Mugsy si arrabbieranno a tal punto che la notte successiva uccideranno due quarantenni! Poveri stolti, come si può vivere senza di te?</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Appena scende la sera il villaggio di Quarantenni ha deciso che {0} sarà linciato stasera, lui urla «Aspettate! Sono Laureata al Classico. Sono superiore a tutti voi, poveri stolti!» Sentendosi sciocchi i Quarantenni la guardano allontanarsi con la sua Borsa di Livorno e tornano sconsolati nelle loro case.</value>
   </string>
   <string key="SorcererOther">
     <value>Hai provato a scrutare {0}, ma non riesci a capire cos'è... Sei però sicuro che non sia né quello schifosissimo Kaffeh👳 né un dolcissimo Mugsy Mannaro 🐺</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} fa un passo avanti e mostra a tutti il suo logo con i suoi quattro inconfondibili colori. Da ora in poi, i voti di Google🎖 aka {0} per il linciaggio conteranno doppio.</value>
   </string>
   <string key="AskMayor">
@@ -1478,7 +1478,7 @@
   <string key="AskSandman">
     <value>Vorresti scrivere un articolo noiosissimo e addormentare tutti 'sta notte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Mentre il villaggio di Qarantenni discute su chi siano le perzoneh più falzeh {0} inizia a scrivere un articolo lunghissimo sul fatto che il 5G non faccia male e le scie chimiche non esistono... Vi sentite tutti particolarmente assonati da tutte quelle menzogne e cadete in un profondo sonno! Tutti i ruoli della notte non agiranno la prossima notte! </value>
   </string>
   <string key="SandmanNight">
@@ -1571,7 +1571,7 @@
   <string key="AskPacifist">
     <value>Clicca questo bottone quando vuoi tirare fuori il nuovo DPCM e far entrare il villaggio in lockdown per fermare il prossimo linciaggio del popolo!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Nome del pacifista -->
     <value>Conte ha Pubblicato il suo nuovo DPCM ☮️: {0}. Si ritorna in lockdown per le prossima 24 ore. Nessun linciato oggi! Andrà tutto bene!</value>
   </string>
@@ -1730,7 +1730,7 @@
   <string key="AskTroublemaker">
 	<value>Vuoi urlare: RIPORTATECI A CASA!?1?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>Uno dei Marò 🤯 {0} vi informa che sono ancora detenuti ingiustamente in India! RIPORTATECI A CASAAAAAAA urlano, il villaggio di Quarantenni si infuria talmente tanto che lincerete due volte!</value>
 	<value>Uno dei Marò 🤯 {0} vi informa che sono ancora detenuti ingiustamente in India! RIPORTATECI A CASAAAAAAA urlano, il villaggio di Quarantenni si infuria talmente tanto che lincerete due volte!</value>
   </string>

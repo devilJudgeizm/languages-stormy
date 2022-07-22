@@ -1013,13 +1013,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é Jaime Lannister, adorado por seu pai. Como ele, você vai escolher alguém para seu exército atacar e matar todas as noites. Se acontecer de você ser morto, seu pai ficará enfurecido e vingará sua morte, atacando duas pessoas na noite seguinte. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>O povo se prepara para linchar {0}, até que 3 enormes criaturas levantam voo pelo céu. "Eu sou Daenerys Targaryen, Filha da Tormenta, a Não Queimada, Mãe de Dragões, Rainha de Mereen, Rainha dos Ândalos e dos Primeiros Homens, Senhora dos Sete Reinos, Khaleesi dos Dothraki, a Primeira de Seu Nome". Amedrontados, todos vão para suas casas dormir com o rabo entre as pernas.</value>
   </string>
   <string key="SorcererOther">
     <value>Você encontra {0}, mas tudo o que consegue enxergar é que ele não é Ned Stark nem um aliado de seu pai...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Davos Seaworth dá um passo à frente anunciando {0}. Ele saca a Luminífera, mostrando ser Stannis Baratheon, o rei por direito. De agora em diante, os votos de {0} para linchar alguém serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">
@@ -1345,7 +1345,7 @@
   <string key="AskSandman">
     <value>Você quer dar leite de papoula esta noite?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Com seu conhecimento, {0} decide dar leite de papoula para seu povo e fazendo-os pegarem no sono. Eles dormirão a noite inteira, e ninguém será capaz de realizar ações noturnas.</value>
   </string>
   <string key="SandmanNight">

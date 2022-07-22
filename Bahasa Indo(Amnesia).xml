@@ -1200,13 +1200,13 @@
 		<value>Ingatan tentang dirimu mulai melemah akibat teralalu banyak mengkonsumsi micin. Mungkinkah dirimu seorang Anak Serigala 🐶?</value>
 		<value>Ingatan tentang dirimu mulai melemah akibat teralalu banyak mengkonsumsi micin. Mungkinkah dirimu seorang Serigala 🐺?</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Karena warga desa sudah memulai untuk mengeksekusi {0}, dia akhirnya menunjukkan cincin kristal kerajaannya kepada warga! "Lihatlah! Aku ini seorang pangeran!" Merasa dibodohi, akhirnya warga tertunduk malu dan menunduk kepada pangeran.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Apa yang terjadi di rumah {0} tadi malam? Sepertinya kamu tidak ingat apapun...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} melangkah di teras balai desa. Dengan secarik kertas dan map folio batik di tangan, dia telah siap menyatakan dirinya seorang Kepala Desa. Jadi, warga desa micin, mulai sekarang ini pilihan {0} akan dihitung ganda saat eksekusi.</value>
 	</string>
 	<string key="AskMayor">
@@ -1545,7 +1545,7 @@
 	<string key="AskSandman">
 		<value>Apakah kamu mau melakukan sesuatu siang ini?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>Seiringan dengan hiruk pikuk desa, {0} kembali ke rumahnya dan mulai menggumamkan melodi yg lembut. Malam ini, semua akan tidur lelap, dan tidak ada seorangpun yg dapat melakukan aktivitas.</value>
 		<value>Di tengah-tengah warga desa yang sedang berunding tentang teror yang mungkin akan terjadi, akhirnya mereka melihat si Pandai Besi(blacksmith) ⚒ {0}, menyebar bubuk-bubuk besi, di desa. Ajaib! Untuk sementara ini, warga desa selamat dari serangan serigala. Serigala digendam sehari. </value>
 		<value>Pacifist ☮️, {0}, berpidato tentang pertemanan dan perdamaian di depan warga. Karena tersentuh, tidak ada voting hari ini!</value>
@@ -1667,7 +1667,7 @@
 	<string key="AskPacifist">
 		<value>Apakah kamu mau melakukan sesuatu siang ini?</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>Seiringan dengan hiruk pikuk desa, {0} kembali ke rumahnya dan mulai menggumamkan melodi yg lembut. Malam ini, semua akan tidur lelap, dan tidak ada seorangpun yg dapat melakukan aktivitas.</value>
 		<value>Di tengah-tengah warga desa yang sedang berunding tentang teror yang mungkin akan terjadi, akhirnya mereka melihat si Pandai Besi(blacksmith) ⚒ {0}, menyebar bubuk-bubuk besi, di desa. Ajaib! Untuk sementara ini, warga desa selamat dari serangan serigala. Serigala digendam sehari. </value>

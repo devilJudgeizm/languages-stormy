@@ -1138,13 +1138,13 @@
   <string key="RoleInfoWolfCub">
     <value>Eres Josemi, el pequeño cabrón al que en el fondo todos adoran, sobre todo tu familia. Si te echan del edificio, los Cuesta se enfadarán tanto que sacarán a dos personas más.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>La comunidad empieza a sacar a la puerta a {0}, pero de pronto exclama: "Eh, hacemos una cosa: os pago 100€ a cada uno y en paz". Hoy no echáis a nadie.</value>
   </string>
   <string key="SorcererOther">
     <value>Le tiraste pinzas a la ventana a {0}, pero no te queda muy claro de qué va. No es ni Vicenta ni nadie de tu familia, eso sí.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} pega un golpe en la mesa en plena junta y todos los vecinos se callan. "Según los estatutos, mi voto como presidente cuenta el doble. Hale". A partir de ahota los votos de {0} valen el doble.</value>
   </string>
   <string key="AskMayor">

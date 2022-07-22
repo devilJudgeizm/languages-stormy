@@ -1147,13 +1147,13 @@
   <string key="RoleInfoWolfCub">
     <value>تو رئا هستی زن کرونوس. اگه به تارتاروس انداخته بشی کرونوس عصبانی خواهد شد و برای یک شب به دو نفر حمله خواهد کرد.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>دیوان المپ تصمیم به پودر کردن پرسی جکسون یعنی {0}  گرفت که پوسایدون بلند شد و از همه برای پسرش درخواست دادن فرصتی دوباره کرد و اون رو از مرگ نجات داد.</value>
   </string>
   <string key="SorcererOther">
     <value>خب {0} نه تیتانه و نه پیشگو.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>توجه {0} زئوس هستش و هر رای اش دوبرابر حساب میشه.</value>
   </string>
   <string key="AskMayor">

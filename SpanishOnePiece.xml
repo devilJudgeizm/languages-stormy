@@ -1120,13 +1120,13 @@
   <string key="RoleInfoWolfCub">
     <value>Eres Laffite 🐶 ¡¡Tus aliados te aprecian!! Como el resto de los piratas de Kurohige, elegirás a un pirata para atacarlo cada noche. Si eres derrotado, tus aliados entrarán en cólera y atacarán a dos piratas la próxima noche.</value>
   </string>
-   <string key="PrinceLynched">
+   <string key="PrinceLynched" isgif="true" >
     <value>Mientras todos en Raftel comienzan a atacar a {0}, de repente dice: «¡Esperen, soy la princesa Nefertari Vivi de Arabasta! Este anillo real, junto con el sello del gobierno mundial que lo demuestran.». Avergonzados, los piratas se marchan a sus campamentos.</value>
   </string>
   <string key="SorcererOther">
     <value>Intentas espiar a {0}, pero no puedes distinguir bien que hace. Sin embargo, sabes que no es un pirata de Kurohige ni usuario de la Clairvoyance.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} da un paso al frente y muestra su placa de la alcaldía, que demuestra que es el alcalde de Water 7. Desde ahora, los ataques de {0} a la hora de la batalla contarán el doble.</value>
   </string>
   <string key="AskMayor">
@@ -1470,7 +1470,7 @@
   <string key="AskSandman">
     <value>¿Quieres lanzar la arena por toda la isla para que nadie pueda hacer nada durante la noche?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0} comienza a generar arena por obra de la Suna Suna no mi dejando toda la isla cubierta, solo por hoy nadie puede salir de noche.</value>
   </string>
   <string key="SandmanNight">
@@ -1573,7 +1573,7 @@
   <string key="AskPacifist">
     <value>¿Quieres detener la batalla?</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>Px-0 ☮, {0} ha empezado a disparar lasers a toda la zona de batalla, solo por hoy nadie peleara.</value>
   </string>

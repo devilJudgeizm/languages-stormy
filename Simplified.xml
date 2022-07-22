@@ -1006,13 +1006,13 @@
   <string key="RoleInfoWolfCub">
     <value>你是幼狼，狼群里备受呵护的下一代，就像早上七八点钟的太阳。如果你死了的话，愤怒的狼群下一晚会咬死两个人，用来祭奠你。虽然你还 Too young too simple，但是也已经身经百战，同样拥有每晚选择一位村民咬死的能力。</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>绞刑架前， {0} 被五花大绑准备上刑。人群中突然有人喊道：“这不是我朝天子爷家的儿子吗？你们居然把要他处决了，还想不想活了？“吓得人们立刻给他松绑，以礼相待。</value>
   </string>
   <string key="SorcererOther">
     <value> {0} 又不是狼，又不是先知，乃是你法力无法企及的迷雾。</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value> {0} 突然拿出了一张红头文件，上面赫然写着“村长委任证”。从此以后，村子就要在他的领导之下驱邪除秽啦！</value>
   </string>
   <string key="AskMayor">
@@ -1578,7 +1578,7 @@
   <string key="AskSandman">
     <value>打算让所有人安睡了吗?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
         <value>只见睡神{0}的手轻轻一挥，不久，星月立即升上了小镇的夜空，灯也熄灭了，所有人都该入睡了。</value>
         <value>只见睡神{0}的手轻轻一挥，不久，夜色瞬间笼罩了小镇，所有人都该入睡了，今晚没有人再会活动。</value>
         <value>只见睡神{0}走上了神坛，不久，夜幕瞬间笼罩了小镇，所有人都该入睡了，今晚没有人再会活动。</value>
@@ -1723,7 +1723,7 @@
 <string key="AskPacifist">
   <value>点击这里，开始你的关于和平与爱的演讲，以停止今天的投票处决</value>
 </string>
-<string key="PacifistNoLynch">
+<string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
   <value>和平演讲家 {0}, 开始了他关于和平、爱、友谊和原谅的演讲，村民们感动得洗心革面。不再杀戮，不再杀戮，世界和平！于是乎，今天没有人会被处决！</value>
 </string>
@@ -1771,7 +1771,7 @@
   <string key="AskTroublemaker">
 	<value>要去小镇里搞事情吗？</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>👲捣乱者{0},开始在镇上闹事...因此今天将投票处决两次！</value>
   </string>
   <string key="TroubleDoubleLynchNow">

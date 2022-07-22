@@ -1140,13 +1140,13 @@
   <string key="RoleInfoWolfCub">
     <value>Kamu adalah staf Rocket Game Corner dan kamu memiliki Porygon 🐶!(Bernilai 9999C) Jika Pokémonmu kalah atau dilepas, Team Rocket akan sangat marah dan menyerang 2 trainer malam selanjutnya!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>1 kota mulai untuk melepaskan {0}, mereka berkata “Tunggu! Saya memiliki royal Ninetails yang melindungi kota Pokémon!” Trainer menyesal dengan keputusannya dan meninggalkan Ninetails dengan trainernya.</value>
   </string>
   <string key="SorcererOther">
     <value>Kamu mencoba untuk melihat {0}, tetapi kamu tidak dapat mengetahui Pokémon apa yang dia miliki.  Yang jelas dia bukan Team Rocket atau Alakazam...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} berjalan dan memperlihatkan Bulbasaur yang kecil dan kawaii, menyatakan dirinya walikota kota Pokémon.  Mulai sekarang, setiap {0} memilih akan terhitung 2.</value>
   </string>
   <string key="AskMayor">

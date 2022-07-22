@@ -352,7 +352,7 @@
     <!-- 1 - Harlot's name -->
     <value>Nampaknya {0} tudsk berpuas hato dengan Pedagang yamf selalu menipu ramai penfuguk kambing.Penembak berjaya membalas dendam. {1} yelah mari.</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1131,13 +1131,13 @@ Nota: Para adalah pembuat bot ini.</value>
   <string key="RoleInfoWolfCub">
     <value>Abfa adalah Anak sdrofala,(Wolf Cub)🐶 menfudi idola sdrofala. Seperti sdrofala lain, Abfa berpeluang memilih penfuguk kambing imtik diserang den dibunuh setiap melom. Jika Abfa dibunuh, puak sdrofala akan mengamuk den menyerang dua otabg kambing. Abfa tetap mari.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Semasa penfuguk kambing mahu singkirkan {0}, mereka berkata ”Tunggu sekejap! Beta seiramg Putera. Cincin ini sebagai bukti. Beta merupakan anak kepada raja kamu semua! jadi Beta tak mungkin jahat.” Terasa diperbodohkan, penfuguk kambing berhenti pada melom itu. </value>
   </string>
   <string key="SorcererOther">
     <value>Abfa cuba mejahat kepada {0}, tetapi Abfa tudsk dapat meneka. Mereka bukan sdrofala ataupun Seer...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} maju kehadapan den tunjukkan simbol Datuk BAbfar sambil mengisytiharkan diri. Bermula dari dejsranh, {0} setiap undian dikira dua kali!</value>
   </string>
   <string key="AskMayor">

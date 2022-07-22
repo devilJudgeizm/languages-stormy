@@ -1001,13 +1001,13 @@
   <string key="RoleInfoWolfCub">
     <value>Você é a Nagini, adorada por seu mestre e protegida pelos Comensais. Você vai poder escolher um Bruxo para atacar e matar todas as noites. Se acontecer de você ser morta, seus protetores ao verem seu corpo no chão, vingarão sua morte, atacando dois Bruxos na noite seguinte. </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Hogwarts se prepara para mandar {0} à Azkaban, que grita, "Esperem! Eu sou o Harry Potter. Essa cicatriz, na minha testa, prova isso. Eu sou o garoto que sobreviveu à Voldemort uma vez, não posso ser enviado à Azkaban". Se sentindo tolos, todos em Hogwarts voltam para seus quartos.</value>
   </string>
   <string key="SorcererOther">
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é Professor de Adivinhação nem Comensal da Morte...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dá um passo à frente e mostra o selo oficial de Dumbledore, declarando que é ele. De agora em diante, os votos de {0} para enviar alguém à Azkaban serão contados duas vezes.</value>
   </string>
   <string key="AskMayor">

@@ -457,7 +457,7 @@ Bevor es Zeit hat zu reagieren, setzt Team Rocket's Nidoking die Attacke Doppelk
     <value>Auf einmal hört man ein lautes Plätschern. Alle fahren herum und sehen {0}'s Turtok 🔫 an der Tür zu {1}'s Haus stehen. Sekunden später wird Piepi 💋 aus der Tür geschwemmt, es wurde durch Turtoks Hydropumpe besiegt.
         </value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
         <!-- 0 - Gunner's name -->
         <!-- 1 - target name -->
         <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1389,7 +1389,7 @@ Allerdings dauert dieser Rekrutierungsvorgang einen ganzen Tag und ihr könnt eu
     <value>Du bist ein Rocket Rüpel, der die ehrenvolle Aufgabe hat, dem sprechenden Mauzi 🐶 als persönlicher Assistent zur Seite zu stehen.
 Solltest du versagen und Mauzi wird besiegt oder freigelassen, wird das gesamte Team Rocket über den Verlust ihres geliebten Maskottchen in Rage versetzt. In ihrer Wut werden sie in der nächsten Nacht gleich zwei Ziele angreifen.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Als das Dorf {0} zwingen will, sein Pokémon freizulassen, präsentiert dieser dem Dorf stolz sein Vulnona 👑 und dieses begeistert alle mit seiner atemberaubenden Schönheit, sodass jeder vergisst, dass man dieses Pokémon freilassen wollte und nach Hause geht.
         </value>
   </string>
@@ -1397,7 +1397,7 @@ Solltest du versagen und Mauzi wird besiegt oder freigelassen, wird das gesamte 
     <value>Dein Porygon versucht herauszufinden, was {0} für ein Pokémon besitzt, scheitert jedoch kläglich. Alles was es sagen kann, ist, dass es weder zu Team Rocket gehört noch ein Simsala ist.
         </value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} tritt vor und zeigt allen sein Pokémon. Das ganze Dorf erkennt, dass er das einzigartige rote Garados 🎖 besitzt und deswegen gilt fortan bei jeder Wahl seine Stimme doppelt.
         </value>
   </string>
@@ -1790,7 +1790,7 @@ Ein verrücktes Lachen klang {0} in den Ohren als sein Mewtu 👤 durch die Wuch
   <string key="AskSandman">
     <value>Möchtest du deinem Sandan befehlen, heute Nacht die Attacke Sandsturm einzusetzen?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Während sich alle Trainer unterhalten, sehen sie auf einmal, wie {0} sein Sandan 💤 aus dem Pokéball lässt und ihm etwas zuflüstert. Obwohl sie die Worte auf die Distanz nicht ausmachen können, wird allen klar, dass es diese Nacht einen heftigen Sandsturm geben wird und sie in ihren Kellern Schutz suchen sollten.</value>
   </string>
   <string key="SandmanNight">
@@ -1892,7 +1892,7 @@ Ein verrücktes Lachen klang {0} in den Ohren als sein Mewtu 👤 durch die Wuch
   <string key="AskPacifist">
     <value>Möchtest du deinem Relaxo befehlen Rückentzug einzusetzen und damit das heutige freilassen zu verhindern.</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value> Da der Trainer des Relaxos Pokémon so sehr liebt befiehlt er seinem Relaxo die Attacke Rückentzug einzusetzen. Deshalb sieht das ganze Dorf wie das Relaxo ☮️ von {0} zu jedem anderen Trainer geht und dort eine Attacke einsetzt. Danach ist es den Trainer nichtmehr möglich eines der Pokémon freizulassen. Daraufhin beschließen die Trainer die heutige Versammlung ausfallen zu lassen.</value>
   </string>
@@ -2054,7 +2054,7 @@ Ein verrücktes Lachen klang {0} in den Ohren als sein Mewtu 👤 durch die Wuch
   <string key="AskTroublemaker">
 	<value>Möchtest du die Attacke Aufruhr einsetzen?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>Durch einen Befehl von Trainer {0} versetzt dessen Krakeelo 🤯 alle Trainer in Aufruhr. Diese können deswegen nicht nach dem ersten Freilassen einschlafen und überbrücken die Zeit durch ein erneutes Freilassen.</value>
   </string>
   <string key="TroubleDoubleLynchNow">

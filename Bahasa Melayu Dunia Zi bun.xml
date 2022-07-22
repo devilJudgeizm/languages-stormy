@@ -716,10 +716,10 @@ Deprecated strings (only there so your file will pass through validation with no
 		<!-- 0 - hunter's name -->
 		<value>Pemburu 🎯 terdesak, keliru, tertekan. {0} pasrah, tangannya basah oleh peluh, tidak sanggup untuk membawa kawan-kawannya mati bersama-sama beliau, Pemburu hanya meninggalkan amanah agar masyarakat negeri menjaga kedamaian negeri.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Semasa masyarakat negeri ingin menghukum {0}, pengawal beliau datang dan berkata "Tunggu sebentar, beliau ialah Tengku Muda" sambil menunjukkan cincin tanda kerabat diraja.</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} mengangkat tangan, melangkahkan kaki kehadapan dan bersuara "Aku Ialah Menteri Kalian" sambil menunjukkan surat kuasa beliau. \nMulai saat ini, setiap undian {0} dikira dua kali untuk setiap undi beliau.</value>
 	</string>
 	<string key="BlacksmithSpreadSilver">
@@ -936,7 +936,7 @@ Deprecated strings (only there so your file will pass through validation with no
 		<!-- 1 - Harlot's name -->
 		<value>Setelah ditipu disuatu ketika dahulu, bilamana si penembak jatuh hati terhadap seorang mak nyah yang disangka perempuan,{0} menyimpan dendam terhadap golongan Mak Nyah!💋 \nBAMM!! {1} meninggal ditembak tepat pada dadanya.</value>
 	</string>
-	<string key="DefaultShot">
+	<string key="DefaultShot" isgif="true" >
 		<!-- 0 - Gunner's name -->
 		<!-- 1 - target name -->
 		<!-- 2 - Target's revealed name ( Target was a role) -->

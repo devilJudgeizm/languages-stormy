@@ -1144,13 +1144,13 @@ Himtwr 🎯\n
   <string key="RoleInfoWolfCub">
     <value>Yiu sre the Qilg Xin; sditwd vy rhe epld osxk. Kukr irjer qilbes, yuu qull xhppse s bullshef ti sttaxj smf jull wbwtu mifjt. Ud tou jsoown ti ne jillwd, yiue qild oaxk qull dku umri s rshe sbd ayysxl tqi oeipke rjw mwct mufhy. Yiukk drull nw fras rgiufh.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Ss rje bikkshe nwfuns ti lubcg {0}, yjeu dat "Qsur! U sn rhe Orunxr. Rhud eouak tunf, qurh tje deal id tjw jung oribws ur. Wbery mufht I sn dyeeomfed ny derbamys. Si U vabbit ne wbul." Deekumg giikush, rhe vullshwts djeeoushky teyore gir tje nofht.</value>
   </string>
   <string key="SorcererOther">
     <value>Yiu tru ro kook st {0}, vyt vabt wuoye naje iur ejst rhwy ste. Rjeu aee boy a qild ir deer joqeber...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} dteos dirwsts sbd ptedemts rjw idduxoal srsk id rje Ksyie, fexkarunf rhendekbes as dyxh. Grim biw im, {0}'a biyes dir lunching qull xoumt teuce.</value>
   </string>
   <string key="AskMayor">

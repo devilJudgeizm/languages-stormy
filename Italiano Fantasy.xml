@@ -355,7 +355,7 @@ Ognuno ha {0} secondi per votare!
     <!-- 1 - Harlot's name -->
     <value>Sembra che {0}, dopo una nottata di divertimenti, si sia risvegliato dall'incanto della Sirena. Non ha gradito la sorpresa, a quanto pare... {1} è morta!</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1120,14 +1120,14 @@ Ad ogni modo con te è meglio fare attenzione: sei pur sempre un Drago!</value>
   <string key="RoleInfoWolfCub">
     <value>Sei un Goblin 👺 (🐶)... che dire di te? Basso, brutto e maligno... ovviamente stai dalla parte degli Orchi! Proprio come loro anche tu, ogni notte, dovrai scegliere un giocatore da attaccare e uccidere. Se tu dovessi morire, i tuoi compagni di team, per vendicarsi, la notte successiva attaccheranno due volte! All'attacco!</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Non appena le creature magiche si recano alla Grande Quercia per linciare {0}, essa si libera e grida con tutto il fiato che ha in corpo: “Un momento! Sono io, la Regina delle Fate! Governo sul Piccolo Popolo e mi assicuro che tutti, nella Foresta Incantata, vivano in pace e armonia! Le altre Fate possono confermarlo!”
 Dopo essersi accertate della veridicità del suo racconto, le creature magiche la lasciano libera e si scusano con lei per l'errore commesso. Nessuno verrà linciato! Per ora...</value>
   </string>
   <string key="SorcererOther">
     <value>Ti concentri sulla tua sfera di cristallo e scruti {0}, tuttavia la visione non è nitida, non riesci a capire chi è.  Non è il Vecchio Mago o un tuo alleato, di questo sei sicuro!</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>Che cos'è questa melodia? Le Sirene stanno cantando e annunciano l'arrivo del Re Tritone! Tutte le creature magiche accorrono al Lago Luccichio e vedono la possente figura di {0} emergere parzialmente dall'acqua. Il suo tridente luccica e la sua coda è talmente bella e colorata che tutti si inchinano e lo ringraziano per essersi rivelato. Grazie alla maestosità del re dei mari e delle Sirene le creature magiche decidono che, d'ora in poi, i voti di linciaggio per il Re Tritone varranno doppio!</value>
   </string>
   <string key="AskMayor">
@@ -1449,7 +1449,7 @@ Dopo essersi accertate della veridicità del suo racconto, le creature magiche l
   <string key="AskSandman">
     <value>Vuoi usare la tua polvere fatata e addormentare tutti, questa notte?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>Che cos'è quella creaturina luminosa che sta volando per tutta la Foresta Incantata? Una Fata della Notte, naturalmente! Mentre le creature magiche erano radunate a discutere, {0} ha iniziato a volteggiare spargendo dalle ali la sua polvere soporifera! Grazie alla Fata, questa notte, tutte le creature magiche cadranno in un sonno profondo e non potranno svolgere nessuna azione notturna! </value>
   </string>
   <string key="SandmanNight">
@@ -1542,7 +1542,7 @@ Dopo essersi accertate della veridicità del suo racconto, le creature magiche l
   <string key="AskPacifist">
     <value>Clicca questo bottone quando sei pronto a rivelare il tuo ruolo e convincere tutti a non linciare!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
     <!-- {0} - Pacifist's name -->
     <value>Le creature magiche sono elettrizzate: il Leprecauno {0} è apparso davanti a tutti e ha deciso di rivelare dove ha nascosto la sua pentola piena di monete d'oro! /n"Peccato, però, che siete tutti impegnati a decidere chi linciare...", afferma in modo convincente, "è proprio un bel bottino. Non c'è proprio nessuno che vuole dare un'occhiata?" /nCome un fulmine, tutte le creature magiche si fiondano nella direzione suggerita dal Leprecauno. Quello che non sanno, però, è che le informazioni date sono completamente false! L'unica certezza è che, grazie alle frenetiche ricerche, nessuno oggi verrà linciato!</value>
   </string>
@@ -1695,7 +1695,7 @@ Dopo essersi accertate della veridicità del suo racconto, le creature magiche l
   <string key="AskTroublemaker">
     <value>Vuoi scatenare il caos nella Foresta Incantata, oggi?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
     <value>Oh no! Qualcuno prenda quel folletto! {0}, un Pixie 🥳 (🤯), si sta divertendo un mondo! Ha annodato le code degli Unicorni e dei Centauri, ha legato fra loro le barbe degli Gnomi, ha strappato i petali dei fiori delle Fate, decorato le chiome degli alberi con i vestiti degli Elfi e colorato di arancione l'acqua del Lago Luccichio... tutte le creature magiche sono furiose! Mentre il Pixie corre di qua e di là ridendo e urlando dalla gioia, tutte le altre creature decidono che oggi si lincerà due volte!</value>
   </string>
   <string key="TroubleDoubleLynchNow">

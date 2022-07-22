@@ -1120,13 +1120,13 @@
   <string key="RoleInfoWolfCub">
     <value>Wolf Cub; Anak kongkong ni parakai sigang werewolf. Amminawangko mange ammuno tau punna bangngi. Punna mateko anjo werewolf maraenga kodi pa'kasia'na nampa sanna' larrona jari bangngi ammukona rua tau na lollong.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Tawwa ngaseng eroki na tunu {0}, mingka na kana "Tayangi rong !!! Nakke anak karaeng". Na pacinikangi cincing battu ri sombaya, tappa' ngasengmi tawwa nampa appala' popporo' mange ri ia.</value>
   </string>
   <string key="SorcererOther">
     <value>Le'ba'ko ciniki {0}, mingka ta nu issengai angkana ia apa. Teai wolf iareka sanro.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} mangei ri balla' lompoa, nampa na pau mae ri tawwa ngaseng angkana la a'jari kepala desa. Battu ri kamma-kammaya anne, {0} ni rekeng rua sa'rana.</value>
   </string>
   <string key="AskMayor">

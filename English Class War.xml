@@ -1140,13 +1140,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are the most popular guy in class; adored by your class and your tutor's lackeys too... That's right you are the tutor's lackey! You are a fantastic gentleman, causing everyone to swoon over you. However at the end of the day sadly, you are still a tutor's lackey. The teacher has secretlt offered you some benefits and you had instantly been bought over by him! Like other tutor's lackeys, you will choose a student to attack and kill every night. If you happen to be killed, your tutor's lackey pack will fly into a rage and attack two people the next night. You’ll still be dead though. 🐶 </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>As the class begins to chase {0} out of the school, they say “Wait! I am the richest in class! These wads of cash and my 20 different houses prove it. Every night my Bailey is always with me. So I cannot be evil.” Feeling foolish, the class sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite judge their true role.  They are not the tutor's lackey or the all seeing eye however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and presents the official seal of the class CT, declaring themselves as such. From now on, {0}'s votes for expelling will count twice.</value>
   </string>
   <string key="AskMayor">

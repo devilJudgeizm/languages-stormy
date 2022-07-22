@@ -1292,13 +1292,13 @@ Serial Killer Beraksi!! 🔪
   <string key="RoleInfoWolfCub">
     <value> Kau adalah Anak Serigala (Wolf Cub). Tim Serigala sayang nian dengan kau. Tiap malem, kau melok i mereka nyari mangso. Kau tu terlalu imut untuk mati. Jadi men sampek ado yang matike kau, serigala lain bakal bales dendam dengan ngebunuh 2 wong besok malemnyo! </value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>Karno Wargo Desa la ampir bae ngeksekusi {0}, {0} akhirnyo nunjukke cicin kristal kerajaannyo ke wong-wong. "Nyingok nah! Aku ni Pangeran. Kamu nak ngapoi aku?!". Wargo desa akhirnyo cumo biso diem dan menunduk saking malunyo samo Pangeran.</value>
   </string>
   <string key="SorcererOther">
     <value>Kau nyubo untuk nyingok {0}, sayangnyo kau dak pacak nyari tau siapo dio. Seidaknyo kau tau dio bukan Seer atau Serigala.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} bejalan di teras Balai Desa, sambil megang kertas dan map folio batik di tangannyo. Dio sekarang lah siap ngenjuk tau wong-wong kalu dio Kepala Desa. Nah wargo desa yang kebanya'an makan micin, mulai sekarang pilian {0} di itung 2 waktu voting eksekusi.</value>
   </string>
   <string key="AskMayor">

@@ -1005,13 +1005,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>你係幼狼。因為狼bb你實在太可愛啦，如果你死咗既話，狼人下一晚可以一次過殺兩個人。（註：你係狼人陣營。）</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>正當全村都想投死【{0}】既時候，佢突然企出黎大叫：「刀下留人！其實我係王子！你地班蠢村唔好再投我喇！」一聽到呢番說話，村民即刻驚到收番埋張票，唔敢投死王子。</value>
 	</string>
 	<string key="SorcererOther">
 		<value>你嘗試去check下【{0}】既身份，你發覺佢原來又唔係狼，又唔係先知，咁就浪費咗一晚添……</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>【{0}】突然走出黎show出佢張村長證！由今日起，【{0}】每次投既票都一張當兩張票計！</value>
 	</string>
 	<string key="AskMayor">
@@ -1347,7 +1347,7 @@
 	<string key="AskSandman">
 		<value>你要唔要令全世界都陷入沉睡？</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value>夜幕低垂，【{0}】突然奏起令人昏昏欲睡嘅綠袖子，搞到全村人都好撚眼瞓，睇嚟今晚大家都會訓得好冧。</value>
 	</string>
 	<string key="SandmanNight">
@@ -1449,7 +1449,7 @@
 	<string key="AskPacifist">
 		<value>你想唔想今晚搞個和理非非集會，等村民暫時忘記萬惡嘅投死人制度，把握時間好好討論一吓，到底點樣先可以解決村民離奇死亡嘅問題？</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>和事佬【{0}】企咗喺個台到喊晒口咁講，話唔希望大家喺未有充足嘅討論之前亂咁投票，傷害無辜，想取消今晚嘅投票大會。</value>
 	</string>

@@ -1230,13 +1230,13 @@
   <string key="RoleInfoWolfCub">
     <value>你是個幼狼, 狼群中人人疼愛的狼崽子. 就跟其他狼一樣, 每晚你可以選擇一個村民對象來獵殺, 但如果你被殺了, 那麼狼群會群情激憤在隔夜一次攻擊兩個村民對象. 不過這改不了你已經死去的事實.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>就當村民要處決 {0} 時, 他大喊 "等等! 我是王子, 這是證明我身份的皇家戒指, 上面還有國王的皇室印記, 每晚我都是被我的僕人環繞與侍奉著, 所以我不可能是邪惡的一方", 村民在羞愧中草草度過了這個愚蠢的夜晚. </value>
   </string>
   <string key="SorcererOther">
     <value>你試著看穿 {0}, 但卻無法肯定他是什麼, 他不是狼人也不是先知, 但...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} 走出眾人之間, 出示了來自官方的證明文件證明了他是這個村莊的村長. 從現在該開始, {0} 的票將被視為兩票.</value>
   </string>
   <string key="AskMayor">
@@ -1579,7 +1579,7 @@
   <string key="AskSandman">
     <value>你今晚想讓對村子施展催眠術嗎?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>當鎮上議論紛紛之時, {0} 回到家中哼起了一個輕柔但有著魔性旋律. 看來今晚大家都會睡得很沉, 沒有人在晚上還能做點什麽了.</value>
   </string>
   <string key="SandmanNight">
@@ -1754,7 +1754,7 @@
 <string key="AskPacifist">
     <value>點擊這裡，開始你的關於和平與愛的演講，以停止公投</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>和事佬 {0}, 開始了他關於和平、愛、友誼和原諒的演講，殘暴的村民們感動得洗心革面。不再殺戮，不再殺戮，世界和平！於是乎，今天沒有人會被處決！ </value>
    </string>
@@ -1925,7 +1925,7 @@
   <string key="AskTroublemaker">
 <value>要去小鎮裡鬧事嗎？ </value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 <value>搗亂者🤯{0},開始在鎮上鬧事...因此今天將公投兩次！ </value>
   </string>
   <string key="TroubleDoubleLynchNow">

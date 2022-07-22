@@ -391,7 +391,7 @@ HODOR
 <!-- 1 - Harlot's name -->
     <value>آریا استارک {0} دیشب از خدای چند چهره خواست که {1} رو بکشه.اما مشخص شد که {1} رز💋بوده اما دیگه دیر شده بود❗️  </value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
 <!-- 0 - Gunner's name -->
 <!-- 1 - target name -->
 <!-- 2 - Target's revealed name ( Target was a role) -->
@@ -1187,13 +1187,13 @@ HOLD THE DOOR!</value>
   <string key="RoleInfoWolfCub">
     <value>تو جافری🐶با بقیه ی گرگ ها هر شب یه نفر رو میکشی اما اگه تو بمیری گرگا شب بعدش میتونن دو نفر رو بکشن❗️❗️</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>مردم میخواست {0} رو به آتیش بکشن اما {0} قضاوت با مبارزه رو انتخاب میکنه.بران برای تیریون لنیستر👑 میجنگه و در جنگ پیروز میشه و {0} از کشته شدن فرار میکنه. </value>
   </string>
   <string key="SorcererOther">
     <value>خب {0} نه لنیستر هست و نه کلاغ سه چشم.</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>خب {0} ند استارک🎖هست پس از حالا به بعد رایش دو برابر حساب میشه.</value>
   </string>
   <string key="AskMayor">
@@ -1525,7 +1525,7 @@ THE NORTH REMEMBERS!</value>
   <string key="AskSandman">
     <value>میخوای امشب همه رو به خواب ببری؟</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>با خوندن این ورد توسط {0} ,مردم به خانه خود می روند و با یک ملودی زیبا به خواب عمیقی فرو می روند و هیچکس قادر به استفاده از توانایی هایش نیست.</value>
   </string>
   <string key="SandmanNight">

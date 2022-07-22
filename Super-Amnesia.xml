@@ -301,7 +301,7 @@
     <value>{0}\n{1}</value>
     <value>{1}\n{0}</value>
   </string>
-  <string key="DefaultShot">
+  <string key="DefaultShot" isgif="true" >
     <value>{0}\n{1}\n{2}</value>
     <value>{1}\n{0}\n{2}</value>
   </string>
@@ -997,13 +997,13 @@
   <string key="RoleInfoWolfCub">
     <value>⁣</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>{0}</value>
   </string>
   <string key="SorcererOther">
     <value>{0}</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0}</value>
   </string>
   <string key="AskMayor">
@@ -1351,7 +1351,7 @@
   <string key="AskSandman">
     <value></value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>{0}</value>
   </string>
   <string key="SandmanNight">
@@ -1454,7 +1454,7 @@
   <string key="AskPacifist">
     <value></value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>{0}</value>
   </string>
