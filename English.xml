@@ -1140,13 +1140,13 @@
   <string key="RoleInfoWolfCub">
     <value>You are the Wolf Cub 🐶; adored by your wolf pack. Like other wolves, you will choose a citizen to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
   </string>
-  <string key="PrinceLynched">
+  <string key="PrinceLynched" isgif="true" >
     <value>when the citizens begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the citizens sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
     <value>You try to look at {0}, but can't quite make out what they are.  They are not a wolf or seer however...</value>
   </string>
-  <string key="MayorReveal">
+  <string key="MayorReveal" isgif="true" >
     <value>{0} steps forward and presents the official seal of the Mayor, declaring themselves as such. From now on, {0}'s votes for lynching will count twice.</value>
   </string>
   <string key="AskMayor">
@@ -1496,7 +1496,7 @@
   <string key="AskSandman">
     <value>Would you like to put all players to sleep tonight?</value>
   </string>
-  <string key="SandmanSleepAll">
+  <string key="SandmanSleepAll" isgif="true" >
     <value>As the town talks, {0} goes back to their house and begins humming a soft melody. Tonight, everyone will sleep very deeply, and no one will be able to use their night actions</value>
   </string>
   <string key="SandmanNight">
@@ -1598,7 +1598,7 @@
   <string key="AskPacifist">
     <value>Hit this button when you want to make your heartfelt speech and stop the city from lynching the next time!</value>
   </string>
-  <string key="PacifistNoLynch">
+  <string key="PacifistNoLynch" isgif="true" >
   <!-- {0} - Pacifist's name -->
     <value>The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the city. Moved by their speech, there will be no lynching today!</value>
   </string>
@@ -1761,7 +1761,7 @@
   <string key="AskTroublemaker">
 	<value>Do you want to cause trouble today?</value>
   </string>
-  <string key="TroublemakerDoubleLynch">
+  <string key="TroublemakerDoubleLynch" isgif="true" >
 	<value>{0}, the troublemaker 🤯 is making trouble! Run around and scream for satisfaction! You will lynch twice today!</value>
   </string>
   <string key="TroubleDoubleLynchNow">
@@ -2297,7 +2297,7 @@
                  <value> /topscore - Top 15 global score\n /topachievements - Players with the most achievements\n /topgames‌‌ - Players with the most games played (only admin group)\n /toprate - Players with the best percentage of games win (only admin group)</value> 
          </string> 
   
-<string key="cultvisitch">
+<string key="cultvisitch" isgif="true" >
     <!-- 0 - target's name -->
     <value>The citizens discovered the remains of {0} in the middle of the church hall. It looks like the cultists tried to convert the Cultist Hunter but failed.</value>
   </string>
@@ -2313,4 +2313,23 @@
     <!-- 0 - target's name -->
     <value>The citizens wake up in the morning and see the remains of {0}, a cultist... Apparently the cult tried to get into trouble with a wolf that stayed at home. The wolf ate the cultists and what was left was just their bones.</value>
   </string>
+
+	<string key="gifnotext">
+		<value> </value>
+	</string>
+
+	<string key="chhuntcult" isgif="true" >
+		<!-- 0 - target's name -->
+		<value>One cultist went to the market, another cultist went to church, and another cultist WAS HUNTED! {0} was found dead in his house with an ax blow to his chest, not even his prayers could save them from the Cultist Hunter.</value>
+		<value>This morning in the city everything seemed calm, a citizen noticed that his neighbor did not leave the house since they went out every morning to have their coffee with their neighbor in the coffee shop on the corner, he noticed a strange smell coming from inside his house, when out of curiosity they entered to find out what was happening, he was found dead with a strange tunic as the only garment on his body and an arrow in his head, {0} the cultist died at the hands of the Cultist Hunter.</value>
+	</string>
+	<string key="deadxlinch" isgif="true" >
+		<value>The city decided you're better dead than alive. So stay dead until the game ends.</value>
+		<value>In this game you have no choice but to die lynched, the citizens  has decided and there is nothing you can do.‌‌</value>
+	</string>
+	<string key="mutexdead">
+		<value>Have you been muted in the group? No 😂, the dead don't speak.</value>
+		<value>I muted you. Why talk if you die?</value>
+	</string>
+	
  </strings>
