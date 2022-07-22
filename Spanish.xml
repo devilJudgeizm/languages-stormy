@@ -2299,13 +2299,14 @@
     <value>/topscore - Los 15 jugadores con más puntos\n /topdelogros - Los jugadores que tienen más logros.\n /topgames‌‌ - Muestra a los jugadores con más partidas jugadas. (Solo los administradores pueden usarlo)\n /toprate - Muestra a los jugadores con el mejor porcentaje de supervivencia. (Solo los administradores pueden usarlo)</value>
   </string>
 
+
 <string key="cultvisitch" isgif="true" >
     <!-- 0 - target's name -->
     <value>Los ciudadanos se encuentran con los restos de {0} en el centro de la ciudad. Al parecer intentó convertir a la cazadora de cultos.</value>
   </string>
   <string key="cultvisithunter">
     <!-- 0 - target's name -->
-    <value>¡PIU! ¡PIU! ¡PIU! Toda la ciudad parece desconcertada por los disparos. Decubrieron que {0}, un cultista, intentó convertir al cazador.</value>
+    <value>¡PIUM! ¡PIUM! ¡PIUM! Toda la ciudad parece desconcertada por los disparos. Decubrieron que {0}, un cultista, intentó convertir al cazador.</value>
   </string>
   <string key="cultvisitsk">
     <!-- 0 - target's name -->
@@ -2315,5 +2316,23 @@
     <!-- 0 - target's name -->
     <value>Los ciudadanos se despiertan a la mañana siguiente y encuentran los restos de {0}, un cultista... Al parecer, el culto retó a un lobo que se quedó en casa. El lobo lo atacó y solo quedaron los huesos.</value>
   </string>
+  
+  <string key="gifnotext">
+    <value> </value>
+  </string>
 
-	</strings>
+  <string key="chhuntcult" isgif="true" >
+    <!-- 0 - target's name -->
+    <value>Cuando los cultistas salieron, uno de ellos fue al mercado, otro se fue a la iglesia y otro cultista ¡FUE CAZADO! {0} apareció muerto en su casa con una herida de espaada en su pecho, ni sus oraciones pudieron salvarlo de la cazadora de culto.</value>
+    <value>Esta mañana en la cuidad todo parecía tranquilo, un ciudadano notó que su vecino no salía de casa cuando era costumbre que todas las mañanas, saliera a tomar café con él en la cafetería de la esquina, sus fosas nasales detectaron un extraño olor proveniente de su casa, entra a su casa por curiosidad y lo encontró muerto con una extraña túnica como única prenda de ropa en su cuerpo y una herida en su cabeza, {0} el cultista murió a manos de la cazadora de culto.</value>
+  </string>
+  <string key="deadxlinch" isgif="true" >
+    <value>La ciudad tomó la desición de eres más util muerto que vivo.</value>
+    <value>No tienes más remedio que aceptar tu muerte linchado por la ciudad. Ya no hay nada que puedas hacer.‌‌</value>
+  </string>
+  <string key="mutexdead">
+    <value>¡Los muertos no hablan!</value>
+    <value>¡Has muerto! Te silenciaré y te mantendré así, hasta que termine la partida.</value>
+  </string>
+	
+</strings>
