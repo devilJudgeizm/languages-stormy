@@ -1140,13 +1140,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Sen sürü tarafından tatlılığıyla sevilen Yavru Kurt’sun 🐶. Her kurt gibi her gece bir köylü seç ve onu öldür. Eğer öldürülürsen kurt sürüsü ertesi gece kudurup 2 kişiye saldıracak. Sen yine de ölmüş olacaksın.</value>
 	</string>
-	<string key="PrinceLynched">
+	<string key="PrinceLynched" isgif="true" >
 		<value>Vatandaşlar {0}’i linç etmeye başladı. "Durun! Ben Prens’im. Bu Kral’ın bana verdiği kraliyet yüzüğü ve kralın mührü bunu kanıtlıyor. Her gece etrafım hizmetçilerle sarılı. Yani ben kötü olamam." Vatandaşlar aptal hissederek, koyun gibi gece için inzivaya çekildiler.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>{0}’a bakmaya çalışıyorsun ama ne olduğunu çözemedin. Kurt veya gözcü değil ama...</value>
 	</string>
-	<string key="MayorReveal">
+	<string key="MayorReveal" isgif="true" >
 		<value>{0} öne çıktı ve resmi Muhtarlık mührünü gösterdi. Şimdi, {0}’in linç ederken kullandığı oylar 2 oy sayılacak.</value>
 	</string>
 	<string key="AskMayor">
@@ -1497,7 +1497,7 @@
 	<string key="AskSandman">
 		<value> Tüm oyuncuları bu gece uyutmak ister misin?</value>
 	</string>
-	<string key="SandmanSleepAll">
+	<string key="SandmanSleepAll" isgif="true" >
 		<value> Kasaba konuşurken, {0} evine geri döner ve yumuşak bir melodiyi mırıldanmaya başlar (Dandini dandini dastanaa). Bu gece, herkes çok derinden uyuyacak ve kimse gece yeteneklerini kullanamayacak </value>
 	</string>
 	<string key="SandmanNight">
@@ -1600,7 +1600,7 @@
 	<string key="AskPacifist">
 		<value> Yürekten konuşmak ve bir sonraki sefere köyün linç etmesini durdurmak için bu düğmeye bas!</value>
 	</string>
-	<string key="PacifistNoLynch">
+	<string key="PacifistNoLynch" isgif="true" >
 		<!-- {0} - Pacifist's name -->
 		<value>Barışçıl ☮️ {0}, şehrin önünde yürekten, dostluk ve barış konuşması yapıyor (Eyyy şehir halkı! Ne gerek var böyle şeylere yahu). Konuşmaları işe yaradı, bugün linç olmayacak!</value>
 	</string>
@@ -1763,7 +1763,7 @@
 	<string key="AskTroublemaker">
 		<value> Bugün bela çıkarmak ister misin?</value>
 	</string>
-	<string key="TroublemakerDoubleLynch">
+	<string key="TroublemakerDoubleLynch" isgif="true" >
 		<value>Baş Belası {0} 🤯 çok kızdı! Bugün 2 kere linç gerçekleşecek!</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">
@@ -2299,4 +2299,36 @@
 	<string key="topsmenu">
 		<value> /topscore - En iyi 15 global skor\n /topachievements - En çok başarıya sahip oyuncular\n /topgames‌‌ - En çok oyun oynayan oyuncular (yalnızca yönetici grubu)\n /toprate - En iyi oyun yüzdesine sahip oyuncular kazanır ( yalnızca yönetici grubu)</value>
 	</string>
+	<string key="cultvisitch" isgif="true">
+    <!-- 0 - hedefin adı -->
+    <value>Vatandaşlar, kilise salonunun ortasında {0} kalıntılarını keşfettiler. Tarikatçılar, Tarikatçı Avcı'yı dönüştürmeye çalışmış ancak başarısız olmuş gibi görünüyor.</value>
+  </string>
+  <string key="cultvisithunter">
+    <!-- 0 - hedefin adı -->
+    <value>BANG! BANG! BANG! Şehir meydanından gelen silah sesleriyle şaşkına döndü. Bir tarikatçı olan {0}'in,  Avcıya gizlice yaklaşmaya ve onu dönüştürmeye çalışmak büyük hataydı.</value>
+  </string>
+  <string key="cultvisitsk">
+    <!-- 0 - hedefin adı -->
+    <value>Vatandaşlar sabah uyandıklarında {0}'in cesedini ve bolca kan döküldüğünü gördüler. Tarikat, karşılaşabilecekleri en çılgın insanı dönüştürmeye çalıştı... Seri katil onlara neden yapması gerektiğini gösterdi' ziyaret edilmeyecek.</value>
+  </string>
+  <string key="cultvisitwolf">
+    <!-- 0 - hedefin adı -->
+    <value>Vatandaşlar sabah uyandıklarında bir tarikatçı olan {0}'in kalıntılarını görürler... Görünüşe göre tarikat evde kalan bir kurtla başını belaya sokmaya çalışmış. Kurt, tarikatçıları yedi ve geriye sadece kemikleri kaldı.</value>
+  </string>
+  <string key="gifnotext">
+    <value> </value>
+  </string>
+  <string key="chhuntcult" isgif="true">
+    <!-- 0 - hedefin adı -->
+    <value>Bir tarikatçı pazara gitti, başka bir tarikatçı kiliseye gitti ve başka bir tarikatçı AVLANILDI! {0} göğsüne balta darbesi ile evinde ölü bulundu, duaları bile onları Tarikat Avcısı'ndan kurtaramadı.</value>
+    <value>Bu sabah şehirde her şey sakin görünüyordu, bir vatandaş her sabah köşedeki kafede komşusuyla kahve içmek için dışarı çıktıklarından komşusunun evden çıkmadığını fark etti, garip bir koku geldiğini fark etti evinin içinden, meraktan ne olduğunu öğrenmek için içeri girdiklerinde, vücudundaki tek giysi olan garip bir tunik ve kafasında bir okla ölü bulundu, {0} tarikatçı, onun ellerinde öldü. Tarikat Avcısı.</value>
+  </string>
+  <string key="deadxlinch" isgif="true">
+    <value>Şehir, diri olmaktansa ölü olmanızın daha iyi olduğuna karar verdi. Bu yüzden oyun bitene kadar ölü kalın.</value>
+    <value>Bu oyunda linç edilerek ölmekten başka seçeneğiniz yok, vatandaşlar karar verdi ve yapabileceğiniz hiçbir şey yok.‌‌</value>
+  </string>
+  <string key="mutexdead">
+    <value>Grupta sessize alındınız mı? Hayır 😂, ölüler konuşmaz.</value>
+    <value>Seni susturdum. Öleceksen neden konuşuyorsun?</value>
+  </string>
 </strings>
