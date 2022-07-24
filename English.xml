@@ -561,7 +561,7 @@
   </string>
   <string key="AlreadyInGame">
     <!-- 0 - target's name -->
-    <value>You are already in a game! ({0})</value>
+    <value>You are already in a game in other group!</value>
   </string>
   <string key="MultipleGames" deprecated="true">
     <value>Your group has managed to start multiple games... Killing extras.</value>
@@ -2321,7 +2321,7 @@
 	<string key="chhuntcult" isgif="true" >
 		<!-- 0 - target's name -->
 		<value>One cultist went to the market, another cultist went to church, and another cultist WAS HUNTED! {0} was found dead in his house with an ax blow to his chest, not even his prayers could save them from the Cultist Hunter.</value>
-		<value>This morning in the city everything seemed calm, a citizen noticed that his neighbor did not leave the house since they went out every morning to have their coffee with their neighbor in the coffee shop on the corner, he noticed a strange smell coming from inside his house, when out of curiosity they entered to find out what was happening, he was found dead with a strange tunic as the only garment on his body and an arrow in his head, {0} the cultist died at the hands of the Cultist Hunter.</value>
+		<value>{0} did not show up for his date with a friend in the cafeteria, when they went to look for them they found them dead with an arrow to the head, {0} the cultist was killed by the Cultist Hunter. </value>
 	</string>
 	<string key="deadxlinch" isgif="true" >
 		<value>The city decided you're better dead than alive. So stay dead until the game ends.</value>

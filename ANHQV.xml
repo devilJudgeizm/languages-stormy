@@ -561,7 +561,7 @@
   </string>
   <string key="AlreadyInGame">
     <!-- 0 - target's name -->
-    <value>¡Ya estás jugando! ({0})</value>
+    <value>¡Ya estás jugando! </value>
   </string>
   <string key="MultipleGames">
     <value>Tu grupo ha conseguido darle comienzo a varias partidas a la vez...  Vaya exceso.</value>

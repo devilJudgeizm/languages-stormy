@@ -563,7 +563,7 @@
   </string>
   <string key="AlreadyInGame">
     <!-- 0 - target's name -->
-    <value>أنت بالفعل منضمٌ في لعبة! ({0})</value>
+    <value>أنت بالفعل منضمٌ في لعبة! </value>
   </string>
   <string key="MultipleGames">
     <value>Your group has managed to start multiple games...  Killing extras.</value>

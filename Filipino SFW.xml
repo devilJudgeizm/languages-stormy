@@ -561,7 +561,7 @@
 	</string>
 	<string key="AlreadyInGame">
 		<!-- 0 - target's name -->
-		<value>Kasali ka na sa laro! ({0})</value>
+		<value>Kasali ka na sa laro!</value>
 	</string>
 	<string key="MultipleGames">
 		<value>Ang iyong grupo ay nakapagsimula ng maraming laro... Aalisin ang mga sobra...</value>
@@ -1146,13 +1146,13 @@
 	<string key="RoleInfoWolfCub">
 		<value>Isa kang Batang Lobo, paborito sa Pamilya ng Lobo. Tulad ng ibang mga lobo, makakapili ka din ng isang mamamayan para kainin tuwing gabi. Pag namatay ka, maghihiganti lahat ng lobo at kakain sila ng dalawang mamamayan na mapusuan nila sa susunod na gabi.</value>
 	</string>
-	<string key="PrinceLynched" isgif="true" >
+	<string key="PrinceLynched">
 		<value>Naghahanda na ang lungsod para bitayin si {0} nang biglang sumigaw ito at sinabing, "TEKA! Ako ang Prinsipe! Ito ang singsing na may Tatak ng Hari bilang patunay. May nakapaligid saking mga alila 24/7, imposible na ako ang masamang mamamayan na hinahanap niyo mga HUNGHANG !". Nang malaman ng mga taga lungsod ito, umuwi nalang sila at natulog.</value>
 	</string>
 	<string key="SorcererOther">
 		<value>Sinubukan mong tignan si {0}, pero hinda ka sigurado kung ano siya. Hindi siya Lobo o si Madam Auring yun ang sigurado ka...</value>
 	</string>
-	<string key="MayorReveal" isgif="true" >
+	<string key="MayorReveal">
 		<value>Biglang nag bida-bida si {0} habang pinapakita ang Opisyal na tatak ng opisina ng isang Isko Moreno na nasakanya. Mula ngayon, dalawa ang bilang ng boto ni {0} sa mga lynch.</value>
 	</string>
 	<string key="AskMayor">
@@ -1497,7 +1497,7 @@
 	<string key="AskSandman">
 		<value>Gusto mo bang patulugin ang lahat ng manlalaro ngayong gabi?</value>
 	</string>
-	<string key="SandmanSleepAll" isgif="true" >
+	<string key="SandmanSleepAll">
 		<value>Habang nag-uusap ang mga taga lungsod, bumalik si {0} sa kaniyang bahay at nagsimulang mag-lalala ng isang marahan na himig. Ngayong gabi, ang lahat ay matutulog nang mahimbing, at walang sinuman ang makakagamit ng kanilang mga aksyon sa gabi.</value>
 	</string>
 	<string key="SandmanNight">
@@ -1599,7 +1599,7 @@
 	<string key="AskPacifist">
 		<value>Pindutin ang buton na ito kapag gusto mong gawin ang iyong taos-pusong pananalita at pigilan ang nayon sa pag-bitay sa susunod na pagkakataon!</value>
 	</string>
-	<string key="PacifistNoLynch" isgif="true" >
+	<string key="PacifistNoLynch">
 		<!-- {0} - Pacifist's name -->
 		<value>Ang Pasipista ☮️, {0}, ay gumagawa ng taos-pusong pananalita tungkol sa pagkakaibigan at pagtitiwala sa harap ng mga taga lungsod. Naantig sila sa kaniyang pananalita, walang bitay ngayon!</value>
 	</string>
@@ -1762,7 +1762,7 @@
 	<string key="AskTroublemaker">
 		<value>Gusto mo bang gumawa ng kaguluhan ngayong araw?</value>
 	</string>
-	<string key="TroublemakerDoubleLynch" isgif="true" >
+	<string key="TroublemakerDoubleLynch">
 		<value>Si {0}, ang Pepe Smith 🤯 ay  nanggugulo! Tumatakbo sa paligid at sumisigaw nang walang humpay! Dalawang beses ang pagbitay ngayon!</value>
 	</string>
 	<string key="TroubleDoubleLynchNow">
@@ -2294,4 +2294,37 @@
 	<string key="ppointf">
 		<value> puntos, ang iyong kabuoang puntos ay </value>
 	</string>
+
+	<string key="topsmenu">
+		<value> /topscore - Nangungunang 15 sa pandaigdigang puntos\n /topachievements - Mga manlalaro na may pinakamaraming nakamit na tagumpay\n /topgames‌‌ - Mga manlalarong may pinakamaraming nilaro (admin ng grupo lang)\n /toprate - Mga manlalaro na may pinakamataas na porsyento sa mga larong naipanalo (admin ng grupo lang)</value>
+	</string>
+
+	<string key="cultvisitch" isgif="true" >
+		<!-- 0 - target's name -->
+		<value>Natuklasan ng mga mamamayan ang mga labi ni {0} sa gitna ng bulwagan ng simbahan. Mukhang sinubukan ng mga chismosa na i-sama sa asosasyon ng mga chismosa ang Kapitan ng barangay ngunit nabigo.</value>
+	</string>
+	<string key="cultvisithunter">
+		<!-- 0 - target's name -->
+		<value>BANG! BANG! BANG! Ang mga mamamayan ay gumising sa umaga upang makita ang katawan ni {0} na may kasamang maraming dugo. Sinubukan ng kulto na i-convert ang pinakamabaliw na tao na maaari nilang makilala... Ipinakita sa kanila ng Mananaksak kung bakit hindi siya dapat bisitahin</value>
+		<value>Ang mga mamamayan ay gumising sa umaga at nakita ang mga labi ni {0}, isang chismosa... Tila sinubukan ng chismosa na makipag-away sa isang lobo na nanatili sa bahay. Kinain ng lobo ang mga chismosa at ang natira ay buto na lang nila.</value>
+	</string>
+
+	<string key="gifnotext">
+		<value> </value>
+	</string>
+
+	<string key="chhuntcult" isgif="true" >
+		<!-- 0 - target's name -->
+		<value>Isang chismosa ang pumunta sa palengke, ang isa namang chismosa ay pumunta sa simbahan, at ang isa pang chismosa ay NAWAWALA! {0} ay natagpuang patay sa loob ng kanyang bahay na may nakatusok na espada sa kanyang dibdib, maski ang kanyang dasal ay hindi siya maililigtas nito sa isang Kapitan ng Barangay.</value>
+		<value>Nitong umaga sa lungsod ay mapayapa ang lahat, isang mamamayan ang nakapansin na ang kanyang kapitbahay ay hindi pa lumalabas sa kanyang bahay simula nung tuwing umaga naman ay palagi silang sabay magkape sa isang kapehan sa tabi, napansin niya ang isang nakakasulasok na amoy na nanggagaling sa bahay nito, dahil sa nagtataka na ito kung ano ang meron ay pumasok ito sa loob ng bahay upang alamin ang nangyari, natagpuan siyang patay na may naiwang isang damit pang kulto na may tama ng mga palaso at sa kanyang ulo, {0} namatay ang chismosa sa kamay ng Kapitan ng Barangay.</value>
+	</string>
+	<string key="deadxlinch" isgif="true" >
+		<value>Nagpasya ang lungsod na maiging mamatay ka na kaysa buhay. Kaya manatiling patay hanggang matapos ang laro.</value>
+		<value>Sa larong ito wala kang pagpipilian kundi mamatay sa bitay, ang mga mamamayan ay nagpasya at wala ka nang magagawa pa.‌‌</value>
+	</string>
+	<string key="mutexdead">
+		<value>Natahimik ka sa grupo? Hindi 😂, hindi nagsasalita ang patay.</value>
+		<value>Pinatahimik kita, bakit nagsasalita e patay ka na?</value>
+	</string>
+
 </strings>

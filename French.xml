@@ -561,7 +561,7 @@
 	</string>
 	<string key="AlreadyInGame">
 		<!-- 0 - target's name -->
-		<value>Vous êtes déjà dans une partie ! ({0})</value>
+		<value>Vous êtes déjà dans une partie ! </value>
 	</string>
 	<string key="MultipleGames" deprecated="true">
 		<value>Votre groupe a réussi à démarrer plusieurs parties... Suppression des autres parties.</value>

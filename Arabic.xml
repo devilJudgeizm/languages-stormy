@@ -564,7 +564,7 @@ Last update: 26-5-2020
   </string>
   <string key="AlreadyInGame">
     <!-- 0 - target's name -->
-    <value>أنت ضمن لعبة بالفعل! ({0})</value>
+    <value>أنت ضمن لعبة بالفعل! </value>
   </string>
   <string key="MultipleGames" deprecated="true">
     <value>Your group has managed to start multiple games... Killing extras.</value>

@@ -561,7 +561,7 @@
 	</string>
 	<string key="AlreadyInGame">
 		<!-- 0 - target's name -->
-		<value>Zaten oyundasın koçum! ({0})</value>
+		<value>Zaten oyundasın koçum!</value>
 	</string>
 	<string key="MultipleGames" deprecated="true">
 		<value>Grubun çoklu oyun başlatma hakkı kazandı...</value>

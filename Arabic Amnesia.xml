@@ -473,7 +473,7 @@
     <value>{0} added to admin list. Use /config to change group settings.</value>
   </string>
   <string key="AlreadyInGame">
-    <value>Have you forgotten? You're already in a game! ({0})</value>
+    <value>Have you forgotten? You're already in a game! </value>
   </string>
   <string key="MultipleGames">
     <value>Your group has managed to start multiple games... Killing extras.</value>
