@@ -22,7 +22,7 @@
     <Content Include="$(MSBuildThisFileDirectory)Bahasa Melayu Kampung Misteri.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Bahasa Melayu Typos.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Bahasa Palu.xml" />
-    <Content Include="$(MSBuildThisFileDirectory)BahasaMelayuAmnesia.xml" />	
+    <Content Include="$(MSBuildThisFileDirectory)BahasaMelayuAmnesia.xml" />
     <Content Include="$(MSBuildThisFileDirectory)BahasaMelayuNSFW.xml" />
     <Content Include="$(MSBuildThisFileDirectory)BahasaMelayuSekolah.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Bahaso Minang.xml" />
@@ -213,6 +213,7 @@
     <Content Include="$(MSBuildThisFileDirectory)Traditional.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TraditionalAmnesia.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TurkishSFW.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)Umbrella Academy.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Uzbek Zavqli.xml" />
     <Content Include="$(MSBuildThisFileDirectory)Vietnamese.xml" />
     <Content Include="$(MSBuildThisFileDirectory)WWDCComicsPortuguese.xml" />
