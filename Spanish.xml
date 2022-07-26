@@ -2276,9 +2276,9 @@
 		<value>¡{0} ha empezado una nueva partida por puntos! Pulsa el botón o utiliza el comando /join para unirte a la diversión.</value>
 		<value>¡{0} ha empezado una nueva partida por puntos! ¡Presiona el botón o utiliza el comando /join para ser comido!</value>
 	</string>
-	<string key="PointsObtained">
-		<value>¡Has ganado la partida y terminaste con {0} puntos! Ahora tienes {1}.</value>
-	</string>
+  <string key="PointsObtained">
+    <value>¡Has obtenido {0} puntos! Ahora tienes {1}.</value>
+  </string>
 	<string key="grupoban">
 		<value>Los bots de este grupo están actualmente restringidos, hable con un administrador para resolverlo.</value>
 	</string>
