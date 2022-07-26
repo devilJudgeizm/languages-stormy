@@ -21,7 +21,7 @@
 		<value>Chill! Nakasali ka na!</value>
 	</string>
 	<string key="MinuteLeftToJoin">
-		<value>{0} minuto nalang para sumali.</value>
+		<value>Isang minuto nalang para sumali.</value>
 	</string>
 	<string key="SecondsLeftToJoin">
 		<!-- 0 - remaining seconds (number) -->
@@ -107,11 +107,11 @@
 	</string>
 	<string key="BeholderSeer">
 		<!-- 0 - seer name -->
-		<value>\nThe seer 👳🏻‍♂️ is {0}.</value>
+		<value>\nAng Madam Auring 👳🏻‍♂️ ay si {0}.</value>
 	</string>
 	<string key="ApprenticeNowSeer">
 		<!-- 0 - seer name -->
-		<value>Si {0} ang dating Madam Auring.was the seer. At bilang OJT niya, ikaw ang pumalit na bagong Madam Auring 👳🏻‍♂️ .</value>
+		<value>Si {0} ang dating Madam Auring. At bilang OJT niya, ikaw ang pumalit na bagong Madam Auring 👳🏻‍♂️ .</value>
 	</string>
 	<string key="BeholderNewSeer">
 		<!-- 0 - apprentice name -->
@@ -179,7 +179,7 @@
 		<value>Ikaw si Cardo Dalisay 🔫. May dalawa kang bala. Sa araw, pwede ka pumili ng manlalaro na babarilin. Maririnig ng lahat ang putok ng baril mo at malalaman na ikaw si Cardo Dalisay (at hindi ang mga lobo).</value>
 	</string>
 	<string key="RoleInfoHarlot">
-		<value>Salahula ka! Isa kang Pokpok. Tuwing gabi, pwede ka pumili ng bibisitahing player para malaman kung hindi sila lobo. PERO, kung ang binisita mo ay lobo, o kaya binisita mo ang kakainin ng lobo, patay ka din. Kung may binisita ka at sinubukan kang kainin ng lobo o irecruit ng chismosa sa bahay mo, mabubuhay ka o di marerecruit. (Gala pa more)</value>
+		<value>Salahula ka! Isa kang Pokpok 💃🏻. Tuwing gabi, pwede ka pumili ng bibisitahing player para malaman kung hindi sila lobo. PERO, kung ang binisita mo ay lobo, o kaya binisita mo ang kakainin ng lobo, patay ka din. Kung may binisita ka at sinubukan kang kainin ng lobo o irecruit ng chismosa sa bahay mo, mabubuhay ka o di marerecruit. (Gala pa more)</value>
 	</string>
 	<string key="RoleInfoTraitor">
 		<value>Traydor ka 🖕! Sa ngayon, isang Mamamayan ka palang, pero pag namatay na lahat ng lobo, magiging isa kang ganap na lobo. Pag sinilip ka ng Madam Auring, pwede ka niyang masilip na lobo, pwede ring hindi (Ayos diba?).</value>
@@ -203,7 +203,7 @@
 		<value >Ikaw ang Tagamasid 👁, malalaman mo kung sino ang tunay na Madam Auring, yun lang.</value>
 	</string>
 	<string key="RoleInfoApprenticeSeer" >
-		<value>Ikaw ang OJT ni Madam Auring. Kapag namatay si Madam Auring, mappromote ka bilang bagong Madam Auring. (Galing no?)</value>
+		<value>Ikaw ang OJT ni Madam Auring 🙇🏻‍♂️. Kapag namatay si Madam Auring, mappromote ka bilang bagong Madam Auring. (Galing no?)</value>
 	</string>
 	<string key="RoleInfoCultist" >
 		<value >Ikaw ay isang Chismosa 👤. Tuwing gabi, pwede ka pumili ng manlalaro na i-rerecruit sa asosasyon. Kapag lahat ng natitirang manlalaro sa dulo ay puro mga Chismosa, lahat sila ay panalo.</value>
@@ -355,7 +355,7 @@
 		<!-- 0 - Gunner's name -->
 		<!-- 1 - target name -->
 		<!-- 2 - Target's revealed name ( Target was a role) -->
-		<value>Isang malakas na putok na baril ang narinig ng lahat. Pinuntahan ng mga mamamayan ang pinanggalingan ng putok at nakita nila si {0} na nakatayo at hawak ang baril na nakatutok pa sa ulo ng bangkay ni {1}. {2}</value>
+		<value>Isang malakas na putok ng baril ang narinig ng lahat. Pinuntahan ng mga mamamayan ang pinanggalingan ng putok at nakita nila si {0} na nakatayo at hawak ang baril na nakatutok pa sa ulo ng bangkay ni {1}. {2}</value>
 	</string>
 	<string key="WolfWins" isgif="true" >
 		<value>Nanalo ang lobo!</value>
@@ -438,7 +438,7 @@
 		<value>Ang Pokpok 💃🏻</value>
 	</string>
 	<string key="Seer">
-		<value>Si Madam Auring 🙇🏻‍♂️</value>
+		<value>Si Madam Auring 👳🏻‍♂️</value>
 	</string>
 	<string key="Traitor">
 		<value>Ang Traydor 🖕</value>
@@ -497,7 +497,7 @@
 		<value>Isang Kantero 👷🏻‍♂️</value>
 	</string>
 	<string key="RoleInfoMason">
-		<value>Isa kang Kantero. Kung may iba pang Kantero ay malalaman mo kung sino sila.</value>
+		<value>Isa kang Kantero 👷🏻‍♂️. Kung may iba pang Kantero ay malalaman mo kung sino sila.</value>
 	</string>
 	<string key="MasonEaten">
 		<!-- 0 - dead man's name -->
@@ -561,7 +561,7 @@
 	</string>
 	<string key="AlreadyInGame">
 		<!-- 0 - target's name -->
-		<value>Kasali ka na sa laro!</value>
+		<value>Kasali ka na sa laro sa ibang grupo!</value>
 	</string>
 	<string key="MultipleGames">
 		<value>Ang iyong grupo ay nakapagsimula ng maraming laro... Aalisin ang mga sobra...</value>
@@ -671,9 +671,6 @@
 		<!-- 2 - target's role -->
 		<value>Nang maramdaman ni {0} ang tama ng bala sakanya, natumba ito sa lupa ngunit hindi siya pumayag na hindi makaganti at binaril si {1} sa ulo. {2}</value>
 	</string>
-	<string key="CultConvertSerialKiller">
-		<value>Pumunta si {0} sa bahay ni {1} para i-recruit ito. Ngunit pagbukas niya ng pinto ay isang adik na mananaksak (serial killer) ang bumungad. Sa pag-aakalang isa siyang pulis, tinadtad agad ng saksak si {0} ng adik (serial killer). Patay na si {0}</value>
-	</string>
 	<string key="HunterShotWolfMulti">
 		<!-- 0 - target's name -->
 		<value>Sinubukan ng mga lobo na kainin ang mangangaso kagabi. Napatay nila ang mangangaso pero isa sa kanila ang napatay din nito! Ngayon ay wala na si {0} (wolf)</value>
@@ -712,7 +709,7 @@
 		<value>Pumunta ka sa bahay ni {0} para sa panandaliang kaligayahan. Nag-uumpisa ng yumugyog ang kama nang bigla siyang kumuha ng kustilyo at pinagsasaksak ka habang tawa nang tawa. Tuwang-tuwang pa ang adik. Ikaw ay namatay na...</value>
 	</string>
 	<string key="HarlotFuckKillerPublic">
-		<value>*kroo* *kroo* *kroo*</value>
+		<value>Nakita ng mga taga lungsod ang katawan ni {0} nakahandusay at may mga taga ng kutsilyo. Si {0} ay patay na.</value>
 	</string>
 	<string key="DGToMason">
 		<!-- 0 - target's name -->
@@ -774,13 +771,9 @@
 	<string key="Doppelgänger">
 		<value>Ang Doble Kara 🎭</value>
 	</string>
-	<string key="CupidChosen">
-		<!-- 0 - lover's name -->
-		<value>Pinana ka ni Kupido. Naniniwala kang may forver kayo ni {0}'. Kailangang magsurvive kayong dalawa. Kapag namatay ang isa madedepress ka ng todo kaya magsusuicide ka nalang (baka kasi may forever sa kabilang buhay diba?)</value>
-	</string>
 	<string key="NewWCRoleModel">
 		<!-- 0 - target's name -->
-		<value>Isa ka ng Batang Hamog. Ang idol mo ay si {0}</value>
+		<value>Isa ka ng Batang Hamog 👶. Ang idol mo ay si {0}</value>
 	</string>
 	<string key="LoversWin">
 		<value>May forever! Nanalo ang lovers!</value>
@@ -839,28 +832,28 @@
 		<value>Simple lang ang papel mo sa lungsod. Ang huminga at mabuhay. Kada araw may pagkakataon ka bumoto kung sino bibitayin.</value>
 	</string>
 	<string key="AboutSeer">
-		<value>Ikaw si Madam Auring. Tuwing gabi, pwede ka pumili ng manlalaro na sisilipin para malaman ang papel nila sa lungsod. Wag ipagsabi ang papel mo sa lungsod. Pag nalaman ng mga lobo na ikaw si Madam Auring ay pwede ka nilang kainin!</value>
+		<value>Ikaw si Madam Auring 👳🏻‍♂️. Tuwing gabi, pwede ka pumili ng manlalaro na sisilipin para malaman ang papel nila sa lungsod. Wag ipagsabi ang papel mo sa lungsod. Pag nalaman ng mga lobo na ikaw si Madam Auring ay pwede ka nilang kainin!</value>
 	</string>
 	<string key="AboutWw">
 		<value>Enjoy ka lang. Araw-araw mo pwede paniwalain mga kasama mo na di ka lobo. Pero pag gabi iba na ang usapan, pwede ka pumili ng isang manlalaro na kakainin! PERO: Pag ang lasinggero (drunk) ang nakain mo, malalasing ka din at magkaka-hang over kaya di ka makakakain sa sunod na gabi. Pag sinubukan mong kainin ang isinumpa (cursed), magiging lobo din siya gaya mo. Pag sinubukan mong kainin ang adik (Serial Killer) mayroon lamang 20% tsansa na mapatay siya.</value>
 	</string>
 	<string key="AboutHarlot">
-		<value>Salahula ka! Isa kang Pokpok. Tuwing gabi, pwede ka pumili ng bibisitahing manlalaro para malaman kung hindi sila lobo. PERO, kung ang binisita mo ay lobo, o kaya binisita mo ang kakainin ng lobo, patay ka din. Kung may binisita ka at sinubukan kang kainin ng lobo o irecruit ng chismosa sa bahay mo, mabubuhay ka o di marerecruit. (Gala mo eh)</value>
+		<value>Salahula ka! Isa kang Pokpok 💃🏻. Tuwing gabi, pwede ka pumili ng bibisitahing manlalaro para malaman kung hindi sila lobo. PERO, kung ang binisita mo ay lobo, o kaya binisita mo ang kakainin ng lobo, patay ka din. Kung may binisita ka at sinubukan kang kainin ng lobo o irecruit ng chismosa sa bahay mo, mabubuhay ka o di marerecruit. (Gala mo eh)</value>
 	</string>
 	<string key="AboutDrunk">
-		<value> Ikaw ang lasinggero ng lungsod! (Drunk) Bilang lasinggero, akala mo may special? Wala lasinggero ka lang. PERO! Pag kinain ka ng mga lobo, malalasing sila at di makakakain sa sunod na gabi dahil sa hang over na dala mo.</value>
+		<value> Ikaw ang lasinggero ng lungsod 🍻! (Drunk) Bilang lasinggero, akala mo may special? Wala lasinggero ka lang. PERO! Pag kinain ka ng mga lobo, malalasing sila at di makakakain sa sunod na gabi dahil sa hang over na dala mo.</value>
 	</string>
 	<string key="AboutCursed">
-		<value>Ikaw ang isinumpa! (Cursed). Isa ka lang mamamayan sa ngayon, pero pag sinubukan kang kainin ng lobo, magiging lobo ka. </value>
+		<value>Ikaw ang isinumpa 😾! (Cursed). Isa ka lang mamamayan sa ngayon, pero pag sinubukan kang kainin ng lobo, magiging lobo ka. </value>
 	</string>
 	<string key="AboutTraitor">
-		<value>Isa kang Traydor! Kapag hindi ka namatay at wala nang natirang mga lobo, magiging lobo ka, handa kang pumatay sa ngalan ng iyong mga kasapi sa gabi!</value>
+		<value>Isa kang Traydor 🖕! Kapag hindi ka namatay at wala nang natirang mga lobo, magiging lobo ka, handa kang pumatay sa ngalan ng iyong mga kasapi sa gabi!</value>
 	</string>
 	<string key="AboutGA">
-		<value>Ikaw ang Barangay Tanod. Tuwing gabi, pwede ka pumili ng isang manlalaro na babantayan. PERO, kung ang napili mo ay lobo, may 50% tsansa na mapatay ka niya.</value>
+		<value>Ikaw ang Barangay Tanod 👼. Tuwing gabi, pwede ka pumili ng isang manlalaro na babantayan. PERO, kung ang napili mo ay lobo, may 50% tsansa na mapatay ka niya.</value>
 	</string>
 	<string key="AboutDetective">
-		<value>Ikaw ang Imbestigador. Sa araw, pwede ka pumili ng manlalaro para malaman ang papel nila. PERO, may 40% tsansa na malaman ng mga lobo na ikaw ang imbestigador.</value>
+		<value>Ikaw ang Imbestigador 🕵️. Sa araw, pwede ka pumili ng manlalaro para malaman ang papel nila. PERO, may 40% tsansa na malaman ng mga lobo na ikaw ang imbestigador.</value>
 	</string>
 	<string key="AboutGunner">
 		<value>Masaya kumalabit no? meron kang 2 bala sa simula ng laro. Kada araw, pipili ka ng manlalaro na babarilin. Kapag nagawa mo na, malalaman ng lahat na ikaw ang Cardo Dalisay! Maging maingat, meron ka lamang 2 na bala!</value>
@@ -869,11 +862,11 @@
 		<value>Simple lang ang layunin ng Ex Mo: Kapag ikaw ay nabitay, panalo ka kaagad. Ang iba naman ay talo.</value>
 	</string>
 	<string key="AboutFool">
-		<value>Isa kang Lukayo! Akala mo ikaw si Madam Auring. PERO kapag pumili ka ng player na sisilipin sa gabi, di tiyak na papel lang ang makukuha mo. </value>
+		<value>Isa kang Lukayo 🃏! Akala mo ikaw si Madam Auring. PERO kapag pumili ka ng player na sisilipin sa gabi, di tiyak na papel lang ang makukuha mo. </value>
 		<value>Ang lukayo ay sinasabihan na siya si Madam Auring… kapag pumili siya ng player na makita sa gabi, bibigyan siya ng di tiyak na papel. </value>
 	</string>
 	<string key="AboutCult">
-		<value>Isa kang Chismosa, ang layunin mo ay maisanib lahat ng manlalaro (maliban sa mga lobo) sa iyong asosasyon ng mga Chismosa. Kapag ang natira sa dulo ng laro ay mga chismosa, mananalo ang mga chismosa.</value>
+		<value>Isa kang Chismosa 👤, ang layunin mo ay maisanib lahat ng manlalaro (maliban sa mga lobo) sa iyong asosasyon ng mga Chismosa. Kapag ang natira sa dulo ng laro ay mga chismosa, mananalo ang mga chismosa.</value>
 	</string>
 	<string key="AboutCH">
 		<value>May asosasyon sa barangay na nangrerecruit! Tuwing gabi, pwede ka pumili ng manlalaro. Pag chismosa na sila, mamamatay sila. Pag sinubukan kang irecruit ng mga chismosa, mamamatay ang pinakabago nilang recruit.</value>
@@ -886,7 +879,7 @@
 		<value>Sa ngayon, isa kang mamamayan. Pero kapag namatay si Madam Auring, ikaw ang papalit sa kanya. </value>
 	</string>
 	<string key="AboutBH">
-		<value>Ikaw ang Tagamasid, malalaman mo kung sino ang tunay na Madam Auring. Yun lang.</value>
+		<value>Ikaw ang Tagamasid 👁, malalaman mo kung sino ang tunay na Madam Auring. Yun lang.</value>
 		<value>Malalaman mo kung sino ang tunay na Madam Auring (yung totoo, hindi yung lukayo)</value>
 	</string>
 	<string key="AboutMason">
@@ -894,13 +887,13 @@
 	</string>
 	<string key="AboutDG">
 		<value>
-			Isa kang Doble Kara. Sabi sa kwento na ang iyong mga ninuno raw ay metamorphs,  at maaaring makapagpalit anyo sa ano mang gusto nila. Namana mo ang kakayahang ito sa kanila. Pumili ka ng isang manlalaro. Kapag namatay ito, makukuha mo ang papel niya.
+			Isa kang Doble Kara🎭 . Sabi sa kwento na ang iyong mga ninuno raw ay metamorphs,  at maaaring makapagpalit anyo sa ano mang gusto nila. Namana mo ang kakayahang ito sa kanila. Pumili ka ng isang manlalaro. Kapag namatay ito, makukuha mo ang papel niya.
 			Note:\n1. Kung ang  napili mong manlalaro ay narecruit ng mga chismosa, ang makukuha mo ay ang orihinal nilang papel sa lungsod. Kung Batang Hamog siya at naging isang lobo na, magiging lobo ka. Kung hindi, ang makukuha mo ay ang papel ng idol niya sa lungsod.\n2. Hindi maaaring irecruit ng mga chismosa ang Doble Kara(pero pwede kung nakapagpalit na ng papel sa lungsod)\n3. Ang Doble Kara ay HINDI mananalo bukod kung nakapagpalit na ito ng anyo. Kung nagtapos na ang laro at Doble Kara pa rin siya. Talo pa rin siya (bukod kapag may kasintahan).
 		</value>
 	</string>
 	<string key="AboutCupid">
 		<value>
-			Ikaw si Kupido (Matchmaker). Pinadala sa mundo ng naka-diaper lang na may hawak na pana. Pumili ng dalawang manlalaro na papanain at sila’y magmamahalan habang buhay (kasi may forever). Kapag namatay ang isa sa kanila, madedepress ng todo yung isa kaya magsusuicide nalang siya (baka daw kasi may forever sa kabilang buhay).
+			Ikaw si Kupido (Matchmaker) 💘. Pinadala sa mundo ng naka-diaper lang na may hawak na pana. Pumili ng dalawang manlalaro na papanain at sila’y magmamahalan habang buhay (kasi may forever). Kapag namatay ang isa sa kanila, madedepress ng todo yung isa kaya magsusuicide nalang siya (baka daw kasi may forever sa kabilang buhay).
 			1. Malalaman ng magkasintahan kung sino ang isa’t-isa pero hindi ang papel nila.
 			2. Kung ang magkasintahan nalang matira sa huli ng laro. Panalo sila kahit ano pa ang papel nila sa lungsod.
 			3. Kung ang magkasintahan ay nasa magkaibang panig, at kung manalo ang isang panig, pati ang kasintahan nito ay mananalo.
@@ -909,7 +902,7 @@
 	</string>
 	<string key="AboutHunter">
 		<value>
-			Ikaw ang Mangangaso. May insomnia ka kaya di ka nakakatulog sa gabi at sobrang adik ka sa baril mo kaya di mo ito iniiwan kahit saan ka magpunta. Pag namatay ka may pagkakataon kang magsama ng isang manlalaro sa hukay. Kapag nakain ka ng lobo, may pagkakataon ka na magsama ng isang lobo sa hukay pero hindi mo mapipili kung sinong manlalaro ang gusto mo isama sa hukay.
+			Ikaw ang Mangangaso 🎯. May insomnia ka kaya di ka nakakatulog sa gabi at sobrang adik ka sa baril mo kaya di mo ito iniiwan kahit saan ka magpunta. Pag namatay ka may pagkakataon kang magsama ng isang manlalaro sa hukay. Kapag nakain ka ng lobo, may pagkakataon ka na magsama ng isang lobo sa hukay pero hindi mo mapipili kung sinong manlalaro ang gusto mo isama sa hukay.
 			Note:
 			Kung isa lang ang lobo may 30% tsansa na mapatay mo ang lobo (at mabuhay). Kada isang lobo na madadagdag, ay madadagdagan ng 20% ang tsansa. Pero kung maraming lobo, kahit may tsansa na mapatay mo ang isa sa kanila, mas marami parin sila sayo kaya mamamatay ka parin)
 			Kapag sinubukan kang irecruit ng mga chismosa, may 50% tsansa silang mabigo. Pag nabigo sila may 50% tsansa ka na patayin ang isa sa kanila!
@@ -955,7 +948,7 @@
 		<value>Kailangan mong magsimula ng laro sa mula groupchat!</value>
 	</string>
 	<string key="PingInfo">
-		<value>Oras na inabot ng Telegram para magmessage sa akin: {0}\nPakialam ko: {1}%\nMessages per second: {2}</value>
+		<value>Oras na inabot ng Telegram para magmessage sa akin: {0}\nMga Mensanhe kada segundo: {1}</value>
 	</string>
 	<string key="WhatLang">
 		<value>Anong Lengguwahe?\nKasalukuyan: {0}</value>
@@ -1092,6 +1085,12 @@
 	<string key="AllowCultA">
 		<value>Ang papel na Cult ay ibinigay kay: {0}</value>
 	</string>
+	<string key="EnableSecretLynchQ">
+		<value>Ipagana ang lihim na pagbitay?\nKasalukuyan: {0}</value>
+  	</string>
+  	<string key="EnableSecretLynchA">
+    		<value>Ang pagpapagana ng lihim na pagbitay ay nakatakda sa: {0}</value>
+  	</string>
 	<string key="ThankYou">
 		<value>Maraming Salamat! :)</value>
 	</string>
@@ -1126,25 +1125,25 @@
 
 	<!-- UPDATE 4.0 -->
 	<string key="RoleInfoMayor">
-		<value>Ikaw ang Isko Moreno. Dalawang boto ang katumbas ng boto mo kapag ipinamalita mo ang papel mo sa lungsod. Sa #TeamMamamayan ka kasali</value>
+		<value>Ikaw ang Isko Moreno 🎖. Dalawang boto ang katumbas ng boto mo kapag ipinamalita mo ang papel mo sa lungsod. Sa #TeamMamamayan ka kasali</value>
 	</string>
 	<string key="RoleInfoPrince">
-		<value>Ikaw ang Prinsipe, nainip ka sa magarbo kastilyo niyo kaya naisipan mong tumakas at makisalamuha kasama ang mga mamamayan sa lungsod. Pag sinubukan kang bitayin malalaman nilang mali sila at walang mabibitay.</value>
+		<value>Ikaw ang Prinsipe 🤴🏻, nainip ka sa magarbo kastilyo niyo kaya naisipan mong tumakas at makisalamuha kasama ang mga mamamayan sa lungsod. Pag sinubukan kang bitayin malalaman nilang mali sila at walang mabibitay.</value>
 	</string>
 	<string key="RoleInfoClumsyGuy">
-		<value>Ikaw ang Hari ng Sablay. Susubukan mong bumoto ng piliin ang nais mo. Pero, may 50% tsansa na iba ang maboboto mo kesa sa pinili mo. #TeamMamamayan ka parin wag kang magalala .</value>
+		<value>Ikaw ang Hari ng Sablay 🤕. Susubukan mong bumoto ng piliin ang nais mo. Pero, may 50% tsansa na iba ang maboboto mo kesa sa pinili mo. #TeamMamamayan ka parin wag kang magalala .</value>
 	</string>
 	<string key="RoleInfoSorcerer">
-		<value>Ikaw ang Salamangkera. Sssssh, isa kang traydor na mangkukulam. Sa gabi, magagamit mo ang kapangyarihan mo at malalaman kung sino ang mga Lobo o Madam Auring. Mananalo ka lang kung ang mga Lobo ang mananalo. Masiyahan sa pagtulong sa pagpuksa sa mga kaawa-awang mamamayan.</value>
+		<value>Ikaw ang Salamangkera 🔮. Sssssh, isa kang traydor na mangkukulam. Sa gabi, magagamit mo ang kapangyarihan mo at malalaman kung sino ang mga Lobo o Madam Auring. Mananalo ka lang kung ang mga Lobo ang mananalo. Masiyahan sa pagtulong sa pagpuksa sa mga kaawa-awang mamamayan.</value>
 	</string>
 	<string key="RoleInfoBlacksmith">
-		<value>Ikaw ang Panday, ang panday-bakal ng lungsod. Meron kang kakaunting pilak na sapat lang para hindi makakain ang lobo ng isang gabi. Sa araw, pwede mo pulbusin ang kakaunting pilak na meron ka at ikalat ito sa buong lungsod. Bukod dun, isa kang simpleng mamamayan.</value>
+		<value>Ikaw ang Panday ⚒, ang panday-bakal ng lungsod. Meron kang kakaunting pilak na sapat lang para hindi makakain ang lobo ng isang gabi. Sa araw, pwede mo pulbusin ang kakaunting pilak na meron ka at ikalat ito sa buong lungsod. Bukod dun, isa kang simpleng mamamayan.</value>
 	</string>
 	<string key="RoleInfoAlphaWolf">
-		<value>Ikaw ang Sinyor Lobo, ang ugat ng sumpa sa mga lobo. Kagat mo ang dahilan ng sumpang nagpapabago sa mga mamamayan para maging lobo. Kada gabi ay makakapili ka ng mamamyan na pwedeng kainin. Pero hanggat buhay ka, ang mapipili mo ay may 20% tsansa na maging lobo rin.</value>
+		<value>Ikaw ang Sinyor Lobo ⚡️, ang ugat ng sumpa sa mga lobo. Kagat mo ang dahilan ng sumpang nagpapabago sa mga mamamayan para maging lobo. Kada gabi ay makakapili ka ng mamamyan na pwedeng kainin. Pero hanggat buhay ka, ang mapipili mo ay may 20% tsansa na maging lobo rin.</value>
 	</string>
 	<string key="RoleInfoWolfCub">
-		<value>Isa kang Batang Lobo, paborito sa Pamilya ng Lobo. Tulad ng ibang mga lobo, makakapili ka din ng isang mamamayan para kainin tuwing gabi. Pag namatay ka, maghihiganti lahat ng lobo at kakain sila ng dalawang mamamayan na mapusuan nila sa susunod na gabi.</value>
+		<value>Isa kang Batang Lobo 🐶, paborito sa Pamilya ng Lobo. Tulad ng ibang mga lobo, makakapili ka din ng isang mamamayan para kainin tuwing gabi. Pag namatay ka, maghihiganti lahat ng lobo at kakain sila ng dalawang mamamayan na mapusuan nila sa susunod na gabi.</value>
 	</string>
 	<string key="PrinceLynched">
 		<value>Naghahanda na ang lungsod para bitayin si {0} nang biglang sumigaw ito at sinabing, "TEKA! Ako ang Prinsipe! Ito ang singsing na may Tatak ng Hari bilang patunay. May nakapaligid saking mga alila 24/7, imposible na ako ang masamang mamamayan na hinahanap niyo mga HUNGHANG !". Nang malaman ng mga taga lungsod ito, umuwi nalang sila at natulog.</value>
@@ -1207,13 +1206,13 @@
 		<value>Naalala mo ba yung sikat na si Madam Auring? Ayun sa ngayon meron na siyang katapat. Ang Salamangkera ay ang Madam Auring ng mga lobo. (medj medj medj lang) Ang maaari lang nilang makita ay ang Madam Auring o ang Lobo, at mananalo lang sila kung nanalo ang mga lobo.</value>
 	</string>
 	<string key="AboutClumsy">
-		<value>Ikaw ang Hari ng Sablay. Mukang nalasing ka ng todo kagabi, kaya ayun hanggang ngayon may hangover ka (gabi-gabi kang umiinom kaya araw-araw kang may hangover alak pa more!) Hilong-hilo ka, ni hindi ka nga makaboto ng tama. (May 50% tsansa na maiba ang boto mo kesa sa pinili mo)</value>
+		<value>Ikaw ang Hari ng Sablay 🤕. Mukang nalasing ka ng todo kagabi, kaya ayun hanggang ngayon may hangover ka (gabi-gabi kang umiinom kaya araw-araw kang may hangover alak pa more!) Hilong-hilo ka, ni hindi ka nga makaboto ng tama. (May 50% tsansa na maiba ang boto mo kesa sa pinili mo)</value>
 	</string>
 	<string key="AboutBlacksmith">
-		<value>Ikaw ang Panday. Sa loob ng maraming taon, walang espada o itak na naging sobrang galak kang ipagmalaki bukod sa pilak na espada na pinagawa sayo ng mga dwende.\nMay kakaunti pang natirang pilak mula sa pinagawa nila sayo. Anong malay natin? Baka pwedeng pigilan nito ang pagkain ng lobo  🤔 </value>
+		<value>Ikaw ang Panday ⚒. Sa loob ng maraming taon, walang espada o itak na naging sobrang galak kang ipagmalaki bukod sa pilak na espada na pinagawa sayo ng mga dwende.\nMay kakaunti pang natirang pilak mula sa pinagawa nila sayo. Anong malay natin? Baka pwedeng pigilan nito ang pagkain ng lobo  🤔 </value>
 	</string>
 	<string key="AboutAlphaWolf">
-		<value>Ikaw ang Sinyor Lobo, ang ugat ng mga sumpa sa mga lobo. Habang buhay ka, ang kakainin ng mga lobo ay may 20% tsansa na maging lobo kung siya, ang napili mo.</value>
+		<value>Ikaw ang Sinyor Lobo ⚡️, ang ugat ng mga sumpa sa mga lobo. Habang buhay ka, ang kakainin ng mga lobo ay may 20% tsansa na maging lobo kung siya, ang napili mo.</value>
 	</string>
 	<string key="AboutWolfCub">
 		<value>Arimunding munding munding lalala~ -ehem ehem- Gaya nga ng sinasabi ko, ikaw ang Batang Lobo at hindi ko matiis ang maamo mong anyo. Tingin ko pag pinatay ka, bibigyan ko ng dalawang biktima ang mga lobo. Masyadong maamo ang anyo mo para mamatay lng. Hindi na kita makikiliti pag namatay ka-</value>
@@ -1769,7 +1768,7 @@
 		<value>Dahil sa Pepe Smith, dalawang beses ang pagbitay ngayon! Sana tumahimik na siya bukas.</value>
 	</string>
 	<string key="Chemist">
-		<value>the Chemist 👨‍🔬</value>
+		<value>Ang Pharmaseutiko 👨‍🔬</value>
 	</string>
 	<string key="AboutChemist">
 		<value>Ang Pharmaseutiko ay medyo isang baliw na mamamayan na mahilig magtimpla ng mga gayuma at guluhin ang mga ito. Naghahalo siya ng dalawang gayuma at pinipilit ang ibang mamamayan na pumili ng isa para inumin, habang ang pharmaseutiko naman ang iinom sa isa pa. Gayunpaman, habang ang isang gayuma ay parang putot ng rosas lang, ang isa ay papatayin ka kaagad. Good luck kapag binisita ka nila!</value>
@@ -2130,7 +2129,7 @@
 		<value>Ikaw ang Arsonista. Tulad ng mananaksak, nag-iisa ka lamang sa iyong koponan. Gabi-gabi, maaari mong buhusan ng petrolyo ang isang target na bahay. Kapag nabuhusan na ang isa o higit pang mga bahay, maaari mong piliing magsindi at sunugin ang lahat ng nalagyan ng petrolyo na bahay at patayin ang lahat ng nasa loob, kabilang ang mga potensyal na bisita. Panalo ka kung ikaw na lang ang natitira.</value>
 	</string>
 	<string key="RoleInfoArsonist">
-		<value>Ikaw ang Arsonista 🔥. Bawat gabi, maaari mong buhusan ng petrolyo o magsindi ng isang bahay at sunugin ang lahat ng dating binuhusan na bahay. Maaari ka lang manalo kung ikaw lang ang natittira.</value>
+		<value>Ikaw ang Arsonista 🔥. Bawat gabi, maaari mong buhusan ng petrolyo o magsindi ng isang bahay at sunugin ang lahat ng dating binuhusan na bahay. Maaari kang manalo kung ikaw na lang ang natitira.</value>
 	</string>
 	<string key="Arsonist">
 		<value>Ang Arsonista 🔥</value>
@@ -2295,36 +2294,44 @@
 		<value> puntos, ang iyong kabuoang puntos ay </value>
 	</string>
 
-	<string key="topsmenu">
-		<value> /topscore - Nangungunang 15 sa pandaigdigang puntos\n /topachievements - Mga manlalaro na may pinakamaraming nakamit na tagumpay\n /topgames‌‌ - Mga manlalarong may pinakamaraming nilaro (admin ng grupo lang)\n /toprate - Mga manlalaro na may pinakamataas na porsyento sa mga larong naipanalo (admin ng grupo lang)</value>
-	</string>
+<string key="topsmenu">
+    <value> /topscore - Nangungunang 15 sa pandaigdigang puntos\n /topachievements - Mga manlalaro na may pinakamaraming nakamit na tagumpay\n /topgames‌‌ - Mga manlalarong may pinakamaraming nilaro (admin ng grupo lang)\n /toprate - Mga manlalaro na may pinakamataas na porsyento sa mga larong naipanalo (admin ng grupo lang)</value>
+  </string>
 
-	<string key="cultvisitch" isgif="true" >
-		<!-- 0 - target's name -->
-		<value>Natuklasan ng mga mamamayan ang mga labi ni {0} sa gitna ng bulwagan ng simbahan. Mukhang sinubukan ng mga chismosa na i-sama sa asosasyon ng mga chismosa ang Kapitan ng barangay ngunit nabigo.</value>
-	</string>
-	<string key="cultvisithunter">
-		<!-- 0 - target's name -->
-		<value>BANG! BANG! BANG! Ang mga mamamayan ay gumising sa umaga upang makita ang katawan ni {0} na may kasamang maraming dugo. Sinubukan ng kulto na i-convert ang pinakamabaliw na tao na maaari nilang makilala... Ipinakita sa kanila ng Mananaksak kung bakit hindi siya dapat bisitahin</value>
-		<value>Ang mga mamamayan ay gumising sa umaga at nakita ang mga labi ni {0}, isang chismosa... Tila sinubukan ng chismosa na makipag-away sa isang lobo na nanatili sa bahay. Kinain ng lobo ang mga chismosa at ang natira ay buto na lang nila.</value>
-	</string>
+<string key="cultvisitch" isgif="true" >
+    <!-- 0 - target's name -->
+    <value>Natuklasan ng mga mamamayan ang mga labi ni {0} sa gitna ng bulwagan ng simbahan. Mukhang sinubukan ng mga chismosa na i-sama sa asosasyon ng mga chismosa ang Kapitan ng barangay ngunit nabigo.</value>
+  </string>
+  <string key="cultvisithunter">
+    <!-- 0 - target's name -->
+    <value>BANG! BANG! BANG! Ang mga mamamayan ay gumising sa umaga upang makita ang katawan ni {0} na may kasamang maraming dugo. Sinubukan ng kulto na i-convert ang pinakamabaliw na tao na maaari nilang makilala... Ipinakita sa kanila ng Mananaksak kung bakit hindi siya dapat bisitahin</value>
+    <value>Ang mga mamamayan ay gumising sa umaga at nakita ang mga labi ni {0}, isang chismosa... Tila sinubukan ng chismosa na makipag-away sa isang lobo na nanatili sa bahay. Kinain ng lobo ang mga chismosa at ang natira ay buto na lang nila.</value>
+  </string>
+<string key="cultvisitsk">
+    <!-- 0 - target's name -->
+    <value>Ang mga mamamayan ay gumising sa umaga at nakita ang katawan ni {0} na puno ng dugo. Sinubukan ng mga chismosa i-recruit ang pinakabaliw na taong kanilang nakilala... Ipinakita ng Mananaksak na dapat ay hindi siya binisita.</value>
+  </string>
+  <string key="cultvisitwolf">
+    <!-- 0 - target's name -->
+    <value>Ang mga mamamayan ay gumising sa umaga at nakita ang bangkay ni {0}, isang chismosa... Sa kasamaang palad, sinubukan palang i-recruit sa asosasyon nila ang lobong namamahinga sa bahay nito. Kinain ng lobo ang chismosa at tanging mga buto nalang nito ang natira.</value>
+  </string>
 
 	<string key="gifnotext">
-		<value> </value>
-	</string>
+    		<value> </value>
+  	</string>
 
-	<string key="chhuntcult" isgif="true" >
-		<!-- 0 - target's name -->
-		<value>Isang chismosa ang pumunta sa palengke, ang isa namang chismosa ay pumunta sa simbahan, at ang isa pang chismosa ay NAWAWALA! {0} ay natagpuang patay sa loob ng kanyang bahay na may nakatusok na espada sa kanyang dibdib, maski ang kanyang dasal ay hindi siya maililigtas nito sa isang Kapitan ng Barangay.</value>
-		<value>Nitong umaga sa lungsod ay mapayapa ang lahat, isang mamamayan ang nakapansin na ang kanyang kapitbahay ay hindi pa lumalabas sa kanyang bahay simula nung tuwing umaga naman ay palagi silang sabay magkape sa isang kapehan sa tabi, napansin niya ang isang nakakasulasok na amoy na nanggagaling sa bahay nito, dahil sa nagtataka na ito kung ano ang meron ay pumasok ito sa loob ng bahay upang alamin ang nangyari, natagpuan siyang patay na may naiwang isang damit pang kulto na may tama ng mga palaso at sa kanyang ulo, {0} namatay ang chismosa sa kamay ng Kapitan ng Barangay.</value>
-	</string>
-	<string key="deadxlinch" isgif="true" >
-		<value>Nagpasya ang lungsod na maiging mamatay ka na kaysa buhay. Kaya manatiling patay hanggang matapos ang laro.</value>
-		<value>Sa larong ito wala kang pagpipilian kundi mamatay sa bitay, ang mga mamamayan ay nagpasya at wala ka nang magagawa pa.‌‌</value>
-	</string>
-	<string key="mutexdead">
-		<value>Natahimik ka sa grupo? Hindi 😂, hindi nagsasalita ang patay.</value>
-		<value>Pinatahimik kita, bakit nagsasalita e patay ka na?</value>
-	</string>
+  	<string key="chhuntcult" isgif="true" >
+    	<!-- 0 - target's name -->
+    		<value>Isang chismosa ang pumunta sa palengke, ang isa namang chismosa ay pumunta sa simbahan, at ang isa pang chismosa ay NAWAWALA! {0} ay natagpuang patay sa loob ng kanyang bahay na may nakatusok na espada sa kanyang dibdib, maski ang kanyang dasal ay hindi siya maililigtas nito sa isang Kapitan ng Barangay.</value>
+    		<value>Nitong umaga sa lungsod ay mapayapa ang lahat, isang mamamayan ang nakapansin na ang kanyang kapitbahay ay hindi pa lumalabas sa kanyang bahay simula nung tuwing umaga naman ay palagi silang sabay magkape sa isang kapehan sa tabi, napansin niya ang isang nakakasulasok na amoy na nanggagaling sa bahay nito, dahil sa nagtataka na ito kung ano ang meron ay pumasok ito sa loob ng bahay upang alamin ang nangyari, natagpuan siyang patay na may naiwang isang damit pang kulto na may tama ng mga palaso at sa kanyang ulo, {0} namatay ang chismosa sa kamay ng Kapitan ng Barangay.</value>
+  	</string>
+  	<string key="deadxlinch" isgif="true" >
+    		<value>Nagpasya ang lungsod na maiging mamatay ka na kaysa buhay. Kaya manatiling patay hanggang matapos ang laro.</value>
+    		<value>Sa larong ito wala kang pagpipilian kundi mamatay sa bitay, ang mga mamamayan ay nagpasya at wala ka nang magagawa pa.‌‌</value>
+  	</string>
+  		<string key="mutexdead">
+    		<value>Natahimik ka sa grupo? Hindi 😂, hindi nagsasalita ang patay.</value>
+    		<value>Pinatahimik kita, bakit nagsasalita e patay ka na?</value>
+  	</string>
 
 </strings>
