@@ -2,12 +2,12 @@
 <strings>
 	<language name="Español" base="Español" variant="Normal" owner="Diva" code="es" isDefault="true" />
 	<string key="NotInGame" deprecated="true">
-		<value>No pareces que estés en alguna partida...</value>
+		<value>No parece que estés en alguna partida...</value>
 	</string>
 	<string key="PlayerStartedGame" isgif="true">
 		<!-- 0 - Player name -->
 		<value>¡{0} ha iniciado una partida! Únete para divertirte... o probablemente morir :P</value>
-		<value>¡Una nueva partida ha sido iniciada por {0}! ¡Únete para ser comido!</value>
+		<value>¡{0} ha iniciado una nueva partida! ¡Únete para ser comido!</value>
 	</string>
 	<string key="PlayerStartedChaosGame" isgif="true">
 		<!-- 0 - Player name -->
@@ -28,21 +28,21 @@
 		<value>{0} segundos para unirte.</value>
 	</string>
 	<string key="NotEnoughPlayers">
-		<value>¡No hay jugadores suficientes, se cancela la partida!</value>
+		<value>¡No tengo suficientes jugadores, cancelé la partida!</value>
 	</string>
 	<string key="StartingGameWait">
 		<value>La partida ya comienza, espera unos segundos mientras asigno los roles.</value>
 	</string>
 	<string key="BannedForExploit" deprecated="true">
 		<!-- 0 - Player name -->
-		<value>{0} baneado/a por muchos intentos(no permitimos nombre que inicien con /)</value>
+		<value>{0} baneado/a por muchos intentos. (No permitimos nombre que inicien con /)</value>
 	</string>
 	<string key="ChangeNameToJoin">
 		<!-- 0 - Player name -->
 		<value>{0} ¡por favor, cambia tu nombre antes de unirte!</value>
 	</string>
 	<string key="PlayerLimitReached">
-		<value>¡Perdón, he alcanzado el límite de jugadores!</value>
+		<value>¡Los siento, ya alcancé el límite de jugadores!</value>
 	</string>
 	<string key="PlayerJoined">
 		<!-- 0 - Player name -->
@@ -57,11 +57,11 @@
 		<value>{0} por favor, envíame un mensaje privado (@{1}) con /start. No tengo ningún registro de haberte escrito antes. Necesito que me envíes un mensaje primero, para que pueda comenzar a enviarte mensajes de texto.</value>
 	</string>
 	<string key="DeadFlee">
-		<value> ¡No puedes huír! ESTÁS MUERTO</value>
+		<value> ¡No puedes huir! ESTÁS MUERTO.</value>
 	</string>
 	<string key="Flee">
 		<!-- 0 - Player name -->
-		<value>{0} ¡Ha huído como todo un cobarde!</value>
+		<value>{0} ¡Ha huido como todo un cobarde!</value>
 	</string>
 	<string key="PlayerRoleWas">
 		<!-- 0 - Player name -->
@@ -79,7 +79,7 @@
 		<value>No parece que estés jugando...</value>
 	</string>
 	<string key="NoPlayerName">
-		<value>¡No encuentro ningún jugador con ese nombre!</value>
+		<value>¡No tengo a ningún jugador con ese nombre!</value>
 	</string>
 	<string key="AnswerNonValid" deprecated="true">
 		<value>¡Esta respuesta no es válida!</value>
@@ -173,7 +173,7 @@
 		<value>¡Enhorabuena! ¡Eres el borracho del pueblo! 🍻 (en realidad, todo el mundo lo sabe...)</value>
 	</string>
 	<string key="RoleInfoGuardianAngel">
-		<value>Eres el ángel de la guarda 👼. Cada noche, podás elegir a un jugador para proteger. Sin embargo, Si eliges proteger a un lobo, tienes 50% en probabilidad de sobrevivir o morir.</value>
+		<value>Eres el ángel de la guarda 👼. Cada noche, podás elegir a un jugador para proteger. Sin embargo, Si eliges proteger a un lobo o la sk, tienes 50% en probabilidad de sobrevivir o morir.</value>
 	</string>
 	<string key="RoleInfoGunner">
 		<value>Eres el justiciero 🔫. Tienes dos balas. Durante el día, podrás elegir disparar a cualquier jugador. Todos sabrán que eres el justiciero (y no un hombre lobo).</value>
@@ -182,7 +182,7 @@
 		<value>¡Putón! Eres la ramera 💃🏻. Durante la noche podrás visitar a otro jugador. Si visitas a un rol malo o a su víctima esa noche, morirás, Por otro lado, si esa noche tratan de matarte, no te encontrarán en casa y sobrevivirás. (No eres inmune al ataque de la asesina en serie). Ten cuidado al visitar a la anciana, puedes matarla de un infarto. (probabilidad del 50%).</value>
 	</string>
 	<string key="RoleInfoTraitor">
-		<value>¡Traidor!🖕! Por ahora, eres un ciudadano, una vez que el resto de hombres lobo mueran, te convertirás en uno de ellos... Si el vidente te percibe, no te verá como hombre lobo.</value>
+		<value>¡Traidor!🖕! Por ahora, eres un ciudadano, una vez que el resto de hombres lobo mueran, te convertirás en uno de ellos... Si el vidente te percibe (sin conversión), no te verá como hombre lobo.</value>
 	</string>
 	<string key="RoleInfoWolf">
 		<value>¡¡ERES UN HOMBRE LOBO!!🐺 (bien por ti). Cada noche podrás elegir comerte a alguien.</value>
@@ -213,7 +213,7 @@
 		<string key="LynchTime" >
 			<!-- 0 - number of seconds -->
 			<value>
-				El ocaso se acerca y los aldeanos tratan de decidir a quién lincharán esta noche...
+				El ocaso se acerca y los ciudadanos tratan de decidir a quién lincharán esta noche...
 				¡Todos los jugdores tienen {0} segundos para votar a partir de ahora!
 			</value>
 		</string>
@@ -234,7 +234,7 @@
 			<value >Incapaces de tomar una decisión sobre el linchamiento, los jugadores vuelven fustrados a pasar la noche en sus casas... [Empate en las votaciones].</value>
 		</string>
 		<string key="NoLynchVotes" >
-			<value >¡Qué extraño, nadie ha votado! No hay linchamiento esta noche...</value>
+			<value >¡Qué extraño, nadie votó! No hay linchamiento esta noche...</value>
 		</string>
 		<string key="DetectiveEaten" >
 			<!-- 0 - victim name -->
@@ -246,7 +246,7 @@
 		</string>
 		<string key="GunnerEaten" >
 			<!-- 0 - victim name -->
-			<value >Mientras que los ciudadanos emiezan a salir de sus casas, se encuentran piezas de una escopeta desperdigadas. Más lejos, una de las piernas…, a 10 metros un par de dedos…, y, por último, flotando en la fuente de la plaza de la ciudad, el cuerpo de {0}, víctima de un hombre lobo. Habéis perdido a vuestro justiciero 🔫.</value>
+			<value >Mientras que los ciudadanos emiezan a salir de sus casas, se encuentran piezas de una escopeta desperdigada. Más lejos, una de las piernas…, a 10 metros un par de dedos…, y, por último, flotando en la fuente de la plaza de la ciudad, el cuerpo de {0}, víctima de un hombre lobo. Habéis perdido a vuestro justiciero 🔫.</value>
 		</string>
 		<string key="SeerEaten" >
 			<!-- 0 - victim name -->
@@ -277,7 +277,7 @@
 		</string>
 		<string key="WolfTeam" deprecated="true">
 			<!-- 0 - teammate names -->
-			<value>La manada está compuesta por: {0}</value>
+			<value>Los integrantes de la manada son: {0}</value>
 		</string>
 		<string key="CursedBittenToWolves" >
 			<!-- 0 - victim name -->
@@ -303,7 +303,7 @@
 		</string>
 		<string key="GuardEmptyHouse">
 			<!-- 0 - player name -->
-			<value>Fuiste a salvar  {0}, ¡pero no estaban en casa!</value>
+			<value>Salista para proteger a {0}, ¡pero no estaba en casa!</value>
 		</string>
 		<string key="GuardSavedYou" >
 			<value >¡El ángel de la guarda estuvo velando por ti toda la noche y luchó contra el atacante que te asechaba!</value>
@@ -322,19 +322,19 @@
 		</string>
 		<string key="HarlotFuckedWolfPublic" >
 			<!-- 0 - player name -->
-			<value >¡{0} se escabulló anoche en la casa equivocada! Se ha encontrado su cuerpo lujurioso clavado en la puerta de la iglesia con varas de hierro… ¡Qué tristeza! :( (Visitó a un hombre lobo).</value>
+			<value >¡{0} se escabulló anoche en la casa equivocada! Se ha encontrado su cuerpo lujurioso clavado en la puerta de la iglesia con varas de hierro… ¡Qué tristeza! (Visitó a un hombre lobo)</value>
 		</string>
 		<string key="HarlotFuckedVictimPublic" >
 			<!-- 0 - harlot name -->
 			<!-- 1 - victim name -->
-			<value >{0} se escabulló anoche en la casa de {1} para pasar un buen rato y liberar el estrés. ¡Desafortunadamente, lo que se encontró fue a un hombre lobo que se estaba comiendo a {1}! ¡El hombre lobo se giró en un segundo y saltó a su yugular… {0} ha muerto.</value>
+			<value >Anoche, {0} se escabulló en la casa de {1} para pasar un buen rato y liberar el estrés. ¡Desafortunadamente, lo que se encontró fue a un hombre lobo que estaba comiéndose a {1}! ¡El hombre lobo se giró en un segundo y saltó a su yugular… {0} ha muerto.</value>
 		</string>
 		<string key="HarlotVisitNonWolf" >
 			<!-- 0 - target name -->
-			<value >¡Después de una noche loca de sexo y perversión con {0}, puedes asegurar que no es un hombre lobo!</value>
+			<value >¡Después de una noche de sexo y perversión con {0}, puedes asegurar que no es un hombre lobo!</value>
 		</string>
 		<string key="HarlotVisitYou" >
-			<value >IEn mitad de la noche soñaste que la ramera de la ciudad te estaba cabalgando. ¡Pero al despertarte te diste cuenta de que no fue un sueño! Por desgracia, la noche era oscura y no pudiste ver bien su cara. En cuanto terminasteis, se fue en silencio para dejarte a solas con tus pensamientos. ¡y una buena satisfacción en el cuerpo! [La ramera te ha visitado].</value>
+			<value >IEn mitad de la noche soñaste que la ramera de la ciudad estaba cabalgándote. ¡Pero al despertarte te diste cuenta de que no fue un sueño! [La ramera te ha visitado].</value>
 		</string>
 		<string key="DetectiveCaught" >
 			<!-- 0 - detective name -->
@@ -387,7 +387,7 @@
 			<value>{0} vino a tu casa para convencerte de unirte al culto.... pero empujaste tu espada hacia él. Has asesinado a un cultista... {1} quedan</value>
 		</string>
 		<string key="CultConvertYou">
-			<value>¡El culto te ha convertido a su orden! Ahora eres un cultista. Cada noche, tendrás la oportunidad de convertir a otro jugador.</value>
+			<value>¡El culto te ha convertido a su orden! Cada noche, tendrás la oportunidad de convertir a otro jugador.</value>
 		</string>
 		<string key="CultTeam">
 			<!-- 0 - Number of cultists -->
@@ -407,7 +407,7 @@
 		</string>
 		<string key="HunterVisitDead">
 			<!-- 0 - target name -->
-			<value>Fuiste a cazar a {0}, ¡pero ya estaba muerto!</value>
+			<value>Salista para cazar a {0}, ¡pero ya estaba muerto!</value>
 		</string>
 		<string key="HunterFindCultist">
 			<!-- 0 - target name -->
@@ -509,7 +509,7 @@
 		<!-- new strings May 6 2016-->
 		<string key="CultTargetDead">
 			<!-- 0 - Youngest cultists name -->
-			<value>El miembro más reciente se dirige a la casa de {0} para convertirlo, pero en su lugar encuentra la casa con un naufragio completo, sangre por todas partes y trozos de piel de lobo enganchados en la puerta</value>
+			<value>El miembro más reciente se dirige a la casa de {0} para convertirlo, pero en su lugar encuentra la casa con un naufragio completo, sangre por todas partes y trozos de piel de lobo enganchados en la puerta.</value>
 		</string>
 		<string key="GuardBlockedWolf">
 			<!-- 0 - target's name -->
@@ -519,7 +519,7 @@
 		<string key="CultUnableToConvert">
 			<!-- 0 - newest  -->
 			<!-- 1 - target's name -->
-			<value>Enviaste a {0} para tratar de convertir a {1}, sin embargo, su fe es demasiado fuerte y no pudo culminar su tarea.</value>
+			<value>Enviaste a {0} para tratar de convertir a {1}, sin embargo, su fe es demasiado fuerte y {0} no pudo culminar su tarea.</value>
 		</string>
 		<!-- new string May 12 2016-->
 		<string key="NameExists">
@@ -653,7 +653,7 @@
 			<value>Mientras el nudo se aprieta alrededor del cuello de {0}, saca la pistola, la carga, apunta, aprieta el gatillo ¡y dispara a {1} mientras se acerca al suelo! {1} cae y muere. {2}</value>
 		</string>
 		<string key="HunterShotChoice">
-			<value>¡Has sido asesinado! En tus últimos momentos, puedes escoger a quién disparar. ¡Hazlo rápido!</value>
+			<value>¡Has sido asesinado! son tus últimos segundos de bida, elige a un jugador para dispararle. ¡Hazlo rápido!</value>
 		</string>
 		<string key="HunterNoChoiceShot">
 			<!-- 0 - target's name -->
@@ -701,11 +701,11 @@
 			<value>{0} se cuela a la casa de {1}, abre la puerta e inmediatamente es recibido por una maníaca enloquecida con un cuchillo!!! {1} entierra el cuchillo profundamente en los órganos de {0} en orden alfabético, ¡cacareando todo el tiempo! {0} está muerto.</value>
 		</string>
 		<string key="GuardKiller">
-			<value>Intentaste proteger a la asesina en serie, ¡pero ella te acuchilló 89 veces! Has muerto..</value>
+			<value>Intentaste proteger a la asesina en serie, ¡pero ella te apuñaló 89 veces! Has muerto..</value>
 		</string>
 		<string key="HarlotFuckKiller">
 			<!-- 0 - target's name -->
-			<value>Te cuelas en la casa de {0} y empiezas a tener un poco de diversión. Todo va estupendamente hasta que {0} saca un cuchillo y ¡empieza a acuchillarte riendo como una maníaca! Has muerto.</value>
+			<value>Te cuelas en la casa de {0} y empiezas a tener un poco de diversión. Todo va de maravilla hasta que {0} saca un cuchillo y ¡empieza a acuchillarte riendo como una maníaca! Has muerto.</value>
 		</string>
 		<string key="HarlotFuckKillerPublic">
 			<value>Los ciudadanos ven el cuerpo de {0}, que yace muerto en la plaza pública con innumerables heridas de arma blanca. {0} está muerto.</value>
@@ -1087,7 +1087,7 @@
 			<value>Linche secreto establecido en: {0}</value>
 		</string>
 		<string key="ThankYou">
-			<value>Gracias, que tengas un buen día :)</value>
+			<value>Gracias, que tengas un buen día, tarde, noche o una buena madrugada.</value>
 		</string>
 		<string key="WhatLangGroup">
 			<value>¿En qué idioma quieres jugar?</value>
@@ -1099,16 +1099,16 @@
 			<value>Miembros</value>
 		</string>
 		<string key="StartMe">
-			<value>Por favor inicia una conversación conmigo para que pueda enviarte mensajes privados</value>
+			<value>Por favor inicia una conversación conmigo para que pueda enviarte mensajes privados.</value>
 		</string>
 		<string key="PlayerNoPM">
-			<value>¡{0} no me abrió una conversación y ha sido eliminado del juego!</value>
+			<value>¡{0} no abrió una conversación conmigo y lo eliminé de la partida!</value>
 		</string>
 		<string key="LatestList">
-			<value>Aquí tienes la última lista de jugadores:</value>
+			<value>Aquí tienes la lista de jugadores:</value>
 		</string>
 		<string key="UnableToGetList">
-			<value>No se pudo obtener la última lista de jugadores.</value>
+			<value>No pude obtener la última lista de jugadores.</value>
 		</string>
 		<string key="YouJoined">
 			<!-- 0 - Group Name -->
@@ -1120,7 +1120,7 @@
 
 		<!-- Update 4.0-->
 		<string key="RoleInfoMayor">
-			<value>Eres el alcalde 🎖. Tu voto a la hora de linchar contará el doble una vez hayas revelado tu rol. Perteneces al equipo de los ciudadanos.</value>
+			<value>Eres el alcalde 🎖. Tu voto a la hora de linchar, contará el doble una vez hayas revelado tu rol. Perteneces al equipo de los ciudadanos.</value>
 		</string>
 		<string key="RoleInfoPrince">
 			<value>Eres el príncipe 🤴🏻. Escapaste de tu aburrida y mimada vida pasando el día con tus ciudadanos. Si intentan lincharte, se darán cuenta de su error y nadie será linchado.</value>
@@ -1286,7 +1286,7 @@
 		<value> {0} fue encontrado apuñalado hasta la muerte con un candelabro junto a su altar. ¡La asesina en serie ha atacado de nuevo! {0} era un cultista.</value>
 	</string>
 	<string key="CupidKilled">
-		<value>A la mañana siguiente, los ciuddanos se levantaron destrozados al encontrar a Cupido, {0}, dividido en dos. Curiosamente, le faltaba el corazón.</value>
+		<value>A la mañana siguiente, los ciuddanos se levantaron destrozados al encontrar al casamentero {0}, dividido en dos. Curiosamente, le faltaba el corazón.</value>
 	</string>
 	<string key="DrunkKilled">
 		<value>Los iudadanos esperaban irse de copazos con su borracho preferido, {0}, pero lo único que encontraron en su casa fue un cuchillo y su hígado sobre la mesa. Tantos años bebiendo hicieron que el hígado estuviera tan podrido que ni la asesina en serie lo quisiera...</value>
@@ -1580,7 +1580,7 @@
 		<value>El anciano sabio 🧓🏻.</value>
 	</string>
 	<string key="AboutWiseElder">
-		<value>El anciano sabio 🧓🏻. Puedes sobrevivir a un ataque de hombre lobo una vez, la segunda vez que intenten comerte, lo lograrán. Si el justiciero o el cazador te disparan, perderán sus poderes y se convertirán en un ciudadano.</value>
+		<value>El anciano sabio 🧓🏻. Como anciano sabio, podrás sobrevivir a un ataque de hombre lobo una vez, la segunda vez que intenten comerte, lo lograrán. Si el justiciero o el cazador te disparan, perderán sus poderes y se convertirán en un ciudadano.</value>
 	</string>
 
 	<string key="RoleInfoThief">
@@ -1604,7 +1604,7 @@
 		<value>El pacifista ☮️ {0}, está dando un emotivo discurso de paz, amor y amistad en la plaza de la ciudad. Conmovida por su retórica, la ciudad decide no linchar a nadie esta noche.</value>
 	</string>
 	<string key="PacifistNoLynchNow">
-		<value>A causa del enternecedor discurso del pacifista, no habrá linchamientos por hoy.</value>
+		<value>A causa del enternecedor discurso del pacifista, hoy, no habrá linchamiento.</value>
 	</string>
 	<string key="WolvesTriedToEatWiseElder">
 		<!-- 0 - Wise Elder's name -->
@@ -1710,7 +1710,7 @@
 	</string>
 	<string key="CultistBitten">
 		<!-- {0} - Cultist that was bitten by the Alpha Wolf -->
-		<value>¡Que extraño! En el momento en que comienzas a discutir sobre a quién convertir esta noche, ¡te das cuenta de que {0} no está aquí! ¿Qué le habrá pasado?</value>
+		<value>¡Que extraño! En el momento en que empiezas a discutir sobre a quién convertir esta noche, ¡te das cuenta de que {0} no está aquí! ¿Qué le habrá pasado?</value>
 	</string>
 
 	<string key="Peace">
@@ -1719,7 +1719,7 @@
 	</string>
 	<string key="LynchPeaceTimeout">
 		<!-- Used in PM if the pacifist uses his ability during lynch phase -->
-		<value>¡Hoy no habrá linchamientos gracias al emotivo discurso del pacifista!</value>
+		<value>¡Hoy no habrá linchamientos gracias al emotivo discurso de {0} el pacifista!</value>
 	</string>
 
 	<string key="ThiefStoleYourRoleThief">
@@ -1813,7 +1813,7 @@
 		<value>Visitaste a {0} y le dejaste escoger una poción; sin embargo, tu huésped no escogió la poción con veneno, que dejó para tí. Tal vez tendrías que haberte moderado un poco. Has muerto.</value>
 	</string>
 	<string key="ChemistFailPublic">
-		<value>El cádaver de {0} el químico 👨‍🔬, fue encontrado a la mañana siguientee. Aparentemente {0} tuvo mala suerte y bebió la poción que contenía veneno durante su visita nocturna. Reza para que tus medicamentos nunca provengan de su laboratorio.</value>
+		<value>El cádaver de {0} el químico 👨‍🔬, fue encontrado a la mañana siguiente. Aparentemente {0} tuvo mala suerte y bebió la poción que contenía veneno durante su visita nocturna. Reza para que tus medicamentos nunca provengan de su laboratorio.</value>
 	</string>
 	<string key="ChemistTargetEmpty">
 		<value>{0} no estaba en casa, así que regresas a tu laboratorio maldiciendo tu mala suerte.</value>
@@ -1960,7 +1960,7 @@
 		<value>La lista de jugadores se mezclará cada día: {0}</value>
 	</string>
 	<string key="AboutGraveDigger">
-		<value>Eres el sepulturero ☠️. Cada noche, cavarás tumbas para todas las personas que murieron, sin importal el rol que poseían. Como estás afuera por las noches, no pueden encontrarte, a no ser, que en ese momento no tengas nada que hacer (es decir, que nadie muera), en ese caso te quedarás en casa. Toda persona que te visite tiene una probabilidad de caer en una de tus recién cavadas tumbas. Pero, como estás fuera en la noche los lobos y la asesina podrían encontrarte en el camino y matarte.</value>
+		<value>Eres el sepulturero ☠️. Cada noche, cavarás tumbas para todas las personas que murieron, sin importar el rol que poseían. Como estás afuera por las noches, no pueden encontrarte, a no ser, que en ese momento no tengas nada que hacer (es decir, que nadie muera), en ese caso te quedarás en casa. Toda persona que te visite tiene una probabilidad de caer en una de tus recién cavadas tumbas. Pero, como estás fuera en la noche los lobos y la asesina podrían encontrarte en el camino y matarte.</value>
 	</string>
 	<string key="RoleInfoGraveDigger">
 		<value>Eres el Sepulturero ☠️. Es tu responsabilidad deshacerse de los cadáveres de la ciudad. Cavas una tumba para todos los que fueron asesinados desde anoche. Sin embargo, generalmente te cansas demasiado para terminar la tumba, por lo que permanece al descubierto. Algunos visitantes pueden caer y morir... Al menos, los lobos no pueden comerte ya que estás fuera toda la noche.</value>
@@ -2028,11 +2028,11 @@
 	</string>
 	<!--{0}: grave digger-->
 	<string key="HarlotFell">
-		<value>Te pusiste tu labial favorito y fuiste a casa de {0} por un poco de diversión. No llegaste lejos, ya que pisaste una trampa de osos y caíste sobre una tumba en el camino.... ¡Hablando de tu riesgo ocupacional!</value>
+		<value>Pintaste tus labios con tu labial favorito y fuiste a casa de {0} por un poco de diversión. No llegaste lejos, ya que pisaste una trampa de osos y caíste sobre una tumba en el camino.... ¡Hablando de tu riesgo ocupacional!</value>
 	</string>
 	<!--{0}: harlot-->
 	<string key="HarlotFellDigger">
-		<value>Aparentemente el destino no quiso que te diviertas... No solo porque tuviste que cavar tumbas toda la noche, incluso encuentras a {0}, la ramera, muerta en una de tus tumbas sin terminar.</value>
+		<value>Aparentemente el destino no quiso que te divirtieras... No solo porque tuviste que cavar tumbas toda la noche, incluso encuentras a {0}, la ramera, muerta en una de tus tumbas sin terminar.</value>
 	</string>
 	<!--{0}: grave digger-->
 	<string key="HarlotVisitDigger">
@@ -2068,7 +2068,7 @@
 	</string>
 	<!--{0}: harlot-->
 	<string key="HarlotFellPublic">
-		<value>Como {0} la ramera, salió de casa para una noche de diversión, intentó tomar un atajo por el cementerio local. Debe de haber estado algo mareada, porque no vió la tumba descubierta hasta que cayó después de ver que no había suelo en su siguiente paso. ¡Quizá no debió haber tomado ese trabajo que le ofrecieron ayer!</value>
+		<value> {0} la ramera, salió de casa para una noche de diversión, intentó tomar un atajo por el cementerio local. Debe de haber estado algo mareada, porque no vió la tumba descubierta hasta que cayó después de ver que no había suelo en su siguiente paso. ¡Quizá no debió haber tomado ese trabajo que le ofrecieron ayer!</value>
 	</string>
 	<!--{0}: cultist who died-->
 	<string key="CultistFellPublic">
@@ -2083,7 +2083,7 @@
 		<value>Cuando la manada sale a cazar, ¡{0} huele una presa potencial y no nota la trampa de oso que se atora alrededor de su tobillo! Sorprendido, {0} cayó en la tumba, donde la punta de una lanza de plata conoce su cabeza. ¡Afortunadamente, el sepulturero mantiene seguras sus tumbas! {1}</value>
 	</string>
 	<string key="SerialKillerSpottedYou" isgif="true">
-		<value>Solo estás intentando hacer tu trabajo, cuando de repente, ¡una loca asesina te encuentra y te acuchilla! Qué lástima...</value>
+		<value>Solo estás intentando hacer tu trabajo, cuando de repente, ¡una loca asesina te encuentra y te apuñala! Qué lástima...</value>
 	</string>
 	<!--{0}: grave digger-->
 	<string key="SerialKillerSpotted">
@@ -2286,10 +2286,10 @@
 		<value>AFK</value>
 	</string>
 	<string key="pwin">
-		<value>Has ganado esta partida, obtuviste: .</value>
+		<value>¡Ganaste esta partida!</value>
 	</string>
 	<string key="plost">
-		<value>Has perdido esta partida, quedaste con: .</value>
+		<value>¡Perdiste esta partida!</value>
 	</string>
 	<string key="ppointf">
 		<value>Tienes en total: </value>
@@ -2324,7 +2324,7 @@
 	<string key="chhuntcult" isgif="true" >
 		<!-- 0 - target's name -->
 		<value>Cuando los cultistas salieron, uno de ellos fue al mercado, otro se fue a la iglesia y otro cultista ¡FUE CAZADO! {0} apareció muerto en su casa con una herida de espaada en su pecho, ni sus oraciones pudieron salvarlo de la cazadora de culto.</value>
-		<value>Esta mañana en la cuidad todo parecía tranquilo, un ciudadano notó que su vecino no salía de casa cuando era costumbre que todas las mañanas, saliera a tomar café con él en la cafetería de la esquina, sus fosas nasales detectaron un extraño olor proveniente de su casa, entra a su casa por curiosidad y lo encontró muerto con una extraña túnica como única prenda de ropa en su cuerpo y una herida en su cabeza, {0} el cultista murió a manos de la cazadora de culto.</value>
+		<value>{0} no se presentó a su cita con un amigo en la cafetería, cuando fue a buscarlo lo encontraron muerto con una flecha en la cabeza, {0} el cultista fue asesinado por la cazadora de culto. </value>
 	</string>
 	<string key="deadxlinch" isgif="true" >
 		<value>La ciudad tomó la desición de eres más util muerto que vivo.</value>
@@ -2332,7 +2332,7 @@
 	</string>
 	<string key="mutexdead">
 		<value>¡Los muertos no hablan!</value>
-		<value>¡Has muerto! Te silenciaré y te mantendré así, hasta que termine la partida.</value>
+		<value>¡Has muerto! Así que, te he silenciado y te mantendré así, hasta que termine la partida.</value>
 	</string>
 
 </strings>
