@@ -2,23 +2,23 @@
 <strings>
 	<language name="Türkçe" base="Türkçe" variant="Normal" owner="Gökay" code="TR" isDefault="true"/>
 	<string key="NotInGame" deprecated="true">
-		<value>Şu an herhangi bir oyunda değilsiniz.</value>
+		<value>Şu an herhangi bir oyunda değilsin.</value>
 	</string>
 	<string key="PlayerStartedGame" isgif="true">
 		<!-- 0 - Player name -->
-		<value>{0} yeni bir oyun başlattı! Oyuna katılmak ve biraz sonra da yem olmak için katıl'a tıkla :P </value>
-		<value>{0} yeni bir oyun başlattı! Şehri karıştırmak için hemen katıl... </value>
+		<value>{0} yeni bir oyun başlattı! Oyuna katılmak ve biraz sonra da yem olmak için buton'a tıkla :P </value>
+		<value>{0} normal modda bir oyun başlattı! Şehri birbirne katmak için hemen katıl... </value>
 	</string>
 	<string key="PlayerStartedChaosGame" isgif="true">
 		<!-- 0 - Player name -->
-		<value>{0} kaos modunda oyun başlattı! Oyuna katılmak ve biraz sonra da ölmek için katıl'a tıkla :P </value>
-		<value>{0} kaos modunda oyun başlattı! Parçalara ayrılmak için oyuna katıl... </value>
+		<value>{0} kaos modunda oyun başlattı! Oyuna katılmak ve biraz sonra da ölmek için buton'a tıkla :P </value>
+		<value>{0} yeni bir kaos oyun başlattı! Parçalara ayrılmak için oyuna katıl... </value>
 	</string>
 	<string key="NoJoinGameRunning" deprecated="true">
 		<value>Oyun zaten başladı. Biraz bekleyeceksin.</value>
 	</string>
 	<string key="AlreadyJoined" deprecated="true">
-		<value>Zaten oyundasın, sakin moruk!</value>
+		<value>Zaten oyundasın, sakin ol dostum!</value>
 	</string>
 	<string key="MinuteLeftToJoin">
 		<value>Katılmak için 1 dakika kaldı.</value>
@@ -31,7 +31,7 @@
 		<value>Tüh, Yeterince oyuncu bulamadınız. Oyunu iptal ediyorum!</value>
 	</string>
 	<string key="StartingGameWait">
-		<value>Oyun başlıyor, Ben rolleri dağıtana kadar bekleyiniz.</value>
+		<value>Oyun başlıyor, Ben rolleri dağıtana kadar bekleyin.</value>
 	</string>
 	<string key="BannedForExploit" deprecated="true">
 		<!-- 0 - Player name -->
@@ -39,7 +39,7 @@
 	</string>
 	<string key="ChangeNameToJoin">
 		<!-- 0 - Player name -->
-		<value>{0}, hişt oyuna katılmak için ismini değiştirmen gerekiyor.</value>
+		<value>{0} hey sen! Oyuna katılmak için ismini değiştirmen gerekiyor.</value>
 	</string>
 	<string key="PlayerLimitReached">
 		<value>Üzgünüm ama doluyuz!</value>
@@ -54,10 +54,10 @@
 	<string key="PMTheBot">
 		<!-- 0 - Player name -->
 		<!-- 1 - bot username -->
-		<value>{0} Sen yenisin. Aşağıdaki “Start me”ye ya da {1} buna tıkla ve sonrasında katıl diyerek tekrar oyuna dahil ol, ben de rolünü yollayayım. Bunlardan birini yapmadan oyuna dahil olamazsın.</value>
+		<value>{0} Sen yenisin. Aşağıdaki “Start me” ya da {1} buna tıkla ve sonrasında katıl diyerek tekrar oyuna dahil ol. Ben de rolünü yollayayım. Bunlardan birini yapmadan oyuna dahil olamazsın.</value>
 	</string>
 	<string key="DeadFlee">
-		<value>Oyundan çıkamazsın! SEN ÖLÜSÜN!  Yat aşaaa... haha!</value>
+		<value>Oyundan çıkamazsın! SEN ÖLÜSÜN!</value>
 	</string>
 	<string key="Flee">
 		<!-- 0 - Player name -->
@@ -87,7 +87,7 @@
 	<string key="WolfVotedKill">
 		<!-- 0 - wolf teammate name -->
 		<!-- 1 - Victim name -->
-		<value>{0}, {1}‘i yemek için oyunu kullandı.</value>
+		<value>{0}, {1}‘i yemek için oy kullandı.</value>
 	</string>
 	<string key="PlayerVotedLynch">
 		<!-- 0 - Voter name -->
@@ -111,12 +111,12 @@
 	</string>
 	<string key="ApprenticeNowSeer">
 		<!-- 0 - seer name -->
-		<value>{0} Gözcüydü. En sevdiği çırağı olarak, yeni Gözcü sensin.👳🏻‍♂️</value>
+		<value>{0} Gözcüydü. En sevdiği çırağı olarak yeni Gözcü sensin.👳🏻‍♂️</value>
 	</string>
 	<string key="BeholderNewSeer">
 		<!-- 0 - apprentice name -->
 		<!-- 1 - seer name -->
-		<value>{0} çıraktı, şimdi ise {1}'in boşluğunu dolduracak yeni Gözcü.👳🏻‍♂️</value>
+		<value>{0} çıraktı, şimdi ise {1}'in boşluğunu dolduracak yeni Gözcü oldu 👳🏻‍♂️</value>
 	</string>
 	<string key="SeerSees">
 		<!-- 0 - player name -->
@@ -170,7 +170,7 @@
 		<value>Dedektifsin.🕵️ Gün içinde rölünü öğrenmek için bir oyucuyu seçebilirsin. Fakat bunu yaparken kimliğin kurtlar tarafından öğrenilebilir! (%40 ihtimal)</value>
 	</string>
 	<string key="RoleInfoDrunk">
-		<value> Alkolik bir Vatandaşsın.🍻! Eğer kurtlar seni öldürürse, alkollü kanını içtikleri için bir sonraki öldürmeleri başarısızla sonuçlanacak.</value>
+		<value> Alkolik bir Vatandaşsın.🍻! Eğer kurtlar seni öldürürse, alkollü kanını içtikleri için bir sonraki gece saldırı gerçekleştiremeyecekler.</value>
 	</string>
 	<string key="RoleInfoGuardianAngel">
 		<value>Koruyucu meleksin.👼 Her gece bir kişiyi korumak için seçebilirsin. Fakat eğer bir kurtu seçersen, yaşama ihtimalin yüzde %50.</value>
@@ -179,10 +179,10 @@
 		<value>Silahşörsün.🔫 İki kurşunun var. Gün içinde bir oyuncuyu öldürebilirsin. Şehirde herkes sesi duyacak ve senin kurt değil silahşör olduğun bilinecek.</value>
 	</string>
 	<string key="RoleInfoHarlot">
-		<value>Yancısın!💃🏻 Geceleri kağıt oynamak ve bedava yemek için birine davetsiz misafir olabilirsin, bu sayede kurt olmadığını da bildirmiş oluyorsun. Fakat eğer kurtu ziyaret edersen ya da kurtun o gece saldırdığı birisini ziyaret edersen ölürsün. Birine gider sen evde değilken kurt seni öldürmeyi seçerse de kurtulmuş olursun.</value>
+		<value>Yancısın!💃🏻 Geceleri kağıt oynamak ve bedava yemek için birine davetsiz misafir olabilirsin. Bu sayede kurt olmadığını da bilmiş oluyorsun. Fakat eğer kurtu ziyaret edersen ya da kurtun hedefinin evine ziyarete gidersen o gece ölürsün. Birine gider, sen evde değilken kurt seni öldürmeyi seçerse de kurtulmuş olursun. (Seni evde bulamayacaklar)</value>
 	</string>
 	<string key="RoleInfoTraitor">
-		<value>Hain!🖕 Şimdilik sadece bir vatandaşsın. Tüm kurtlar öldüğündeyse kurtadama dönüşüyorsun. Gözcü sana baktığında, kurt olduğun ortaya çıkmış da olabilir, çıkmamış da olabilir.</value>
+		<value>Hain!🖕 Şimdilik sadece bir vatandaşsın. Tüm kurtlar öldüğündeyse kurtadama dönüşürsün. Gözcü'ye kendini ya sıradan bir vatandaş olarak ya da bir kurt adam olarak tanıtma imkanın var. Bol şans!</value>
 	</string>
 	<string key="RoleInfoWolf">
 		<value>SEN KURTSUN!!🐺 XD (hadi yine iyisin) Her gece öldürmek için birini seçebilirsin.</value>
@@ -197,7 +197,7 @@
 		<value >İblissin.👺 Linç olursan otomatik olarak kazanıyorsun!</value>
 	</string>
 	<string key="RoleInfoWildChild" >
-		<value >Yabani çocuksun!👶 Kendine bir “rol model” seç, eğer ölürse kurtadama dönüşürsün.</value>
+		<value >Yabani çocuksun!👶 Kendine bir “rol model” seçeceksin. Eğer ölürse kurtadama dönüşürsün.</value>
 	</string>
 	<string key="RoleInfoBeholder" >
 		<value >Seyircisin 👁, “gerçek” gözcünün kim olduğunu biliyorsun. Tüm olayın bu..</value>
@@ -209,7 +209,7 @@
 		<value >Gizli tarikat üyesisin.👤 Her gece tarikata almak için birini seçebilirsin. Tüm kalan oyuncular tarikat üyesi olduğunda kazanıyorsun.</value>
 	</string>
 	<string key="RoleInfoCultistHunter" >
-		<value >Tarikatçı avcısısın.💂 Tüm köyün tarikata girmesini engellemeye çalışıyorsun!  Her gece bir oyuncu seçiyorsun.  Seçtiğin kişi tarikat üyesiyse ölür. Eğer seni tarikata almaya çalışırlarsa tarikatın en yeni üyesi ölür.</value>
+		<value >Tarikatçı avcısısın.💂 Tüm köyün tarikata girmesini engellemeye çalışıyorsun!  Her gece bir oyuncu avlamak için ziyaret edebilirsin.  Seçtiğin kişi tarikat üyesiyse ölür. Eğer seni tarikata almaya çalışırlarsa tarikatın en yeni üyesi ölür.</value>
 	</string>
 	<string key="LynchTime" >
 		<!-- 0 - number of seconds -->
@@ -224,7 +224,7 @@
 	</string>
 	<string key="NightTime" >
 		<!-- 0 - number of seconds -->
-		<value >Gece çöktü. Herkes yatağa, stresli bir günden sonra herkes bitkin. Gece oyuncuları, işinizi görmek için {0} saniyeniz var!</value>
+		<value >Gece çöktü. Herkes yatağa, stresli bir günden sonra herkes bitkin. Gece oyuncuları, aksiyonlarınızı gerçekleştirmek için {0} saniyeniz var!</value>
 	</string>
 	<string key="LynchKill" >
 		<!-- 0 - player name -->
@@ -235,19 +235,19 @@
 		<value >Linç için tam bir karara varamadılar, herkes korku ve ürperti içinde evine dönüyor...</value>
 	</string>
 	<string key="NoLynchVotes" >
-		<value >Bu işte bir iş var, kimse oy kullanmadı! Bu akşam linç yok...</value>
+		<value >Bu işte bir iş var. Kimse oy kullanmadı! Bu akşam linç yok...</value>
 	</string>
 	<string key="DetectiveEaten" >
 		<!-- 0 - victim name -->
-		<value >Vatandaşlar sabah kalktılar ama {0}’i göremediler.  Herkes evine koştu, {0}’ı kurt tarafından parçalanmış ve eski rozeti boğazına saplanmış vaziyette buldular.</value>
+		<value >Vatandaşlar sabah kalktılar ama {0}’i göremediler.  Herkes evine koştu. {0}’i kurtlar tarafından parçalanmış ve eski rozeti boğazına saplanmış vaziyette buldular.</value>
 	</string>
 	<string key="GuardianEaten" >
 		<!-- 0 - victim name -->
-		<value >Sabah oldu, herkesi kahreden bir şekilde, {0}  kanatlarından dişlenmiş şekilde bulundu. Kurtlar onu ait olduğu yere, cennete göndermiş olmalı.</value>
+		<value >Sabah oldu, herkesi kahreden bir şekilde, {0} kanatlarından dişlenmiş şekilde bulundu. Kurtlar onu ait olduğu yere, cennete göndermiş olmalı.</value>
 	</string>
 	<string key="GunnerEaten" >
 		<!-- 0 - victim name -->
-		<value > Vatandaşlar evlerinden çıktığında önce uzuvlarını gördüler sonra bacak sonra parmaklar ve {0}’in cansız bedeni. Şehir'in çeşmesinin orada kurtadam tarafından parçalanmış vaziyette. Nişancınızı kaybettiniz.</value>
+		<value > Vatandaşlar evlerinden çıktığında önce uzuvlarını gördüler sonra bacak sonra parmaklar ve {0}’in cansız bedeni. Şehir'in çeşmesinin orada kurtadam tarafından parçalanmış vaziyette. Silahşörünüzü kaybettiniz.</value>
 	</string>
 	<string key="SeerEaten" >
 		<!-- 0 - victim name -->
@@ -255,11 +255,11 @@
 	</string>
 	<string key="DrunkEaten" >
 		<!-- 0 - victim name -->
-		<value >Herkes yanmış odun ve alkol kokusuna uyandı... Barda yangın var! Yangını söndürdükten sonra {0}’i parçalara ayrılmış şekilde gördüler.. Kurtlar kafayı bulmuş. </value>
+		<value >Herkes yanmış odun ve alkol kokusuna uyandı... Barda yangın var! Yangını söndürdükten sonra {0}’i parçalara ayrılmış şekilde gördüler.. Kurtlar kafayı bulmuş. [Kurtlar bir sonraki gece saldıramayacak] </value>
 	</string>
 	<string key="FoolEaten" >
 		<!-- 0 - victim name -->
-		<value >Sabah herkes uyandı. {0}’i ruh çağırma tahtası ve futbolcu kartları arasında hareketsiz buldular ?? Anlaşılan kurtlar Messi ya da Ronaldo’ya benzemiyordu. TAM DA APTALLIK BİR ÖLÜM. </value>
+		<value >Sabah herkes uyandı. {0}’i ruh çağırma tahtası ve futbolcu kartları arasında hareketsiz buldular. Anlaşılan kurtlar Messi ya da Ronaldo’ya benzemiyordu. TAM DA APTALLIK BİR ÖLÜM. </value>
 	</string>
 	<string key="DefaultEaten" >
 		<!-- 0 - victim name -->
@@ -274,7 +274,7 @@
 		<value >Vatandaşlar ertesi sabah meydanda buluştular. Herkesin içi rahatladı. Akşam hiç bir saldırı olmamış.</value>
 	</string>
 	<string key="CursedBitten" >
-		<value >Kurtlar tarafından öldürüldün.  Lanetli biri olarak kurta dönüştün!</value>
+		<value >Kurtlar tarafından saldırıya uğradın. Lanetli biri olarak kurta dönüştün!</value>
 	</string>
 	<string key="WolfTeam" deprecated="true">
 		<!-- 0 - teammate names -->
@@ -282,7 +282,7 @@
 	</string>
 	<string key="CursedBittenToWolves" >
 		<!-- 0 - victim name -->
-		<value >{0} ısırıldı... Lenetliydi ve kurtadama dönüştü! Yeni takım arkadaşın hayırlı olsun!</value>
+		<value >{0} ısırıldı... Lanetliydi ve kurtadama dönüştü! Yeni takım arkadaşın hayırlı olsun!</value>
 	</string>
 	<string key="WolvesEatYou" isgif="true" >
 		<value >Olamaz! Kurtlara yem oldun. NOMNOMNOMNOM</value>
