@@ -268,7 +268,7 @@
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
-    <value>A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!</value>
+    <value>A noticeable stench is coming from {0}'s house... the city inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!</value>
   </string>
   <string key="NoAttack" >
     <value >The citizens gather the next morning in the city center, to sighs of relief - it appears there was no attack the previous night.</value>
@@ -1132,7 +1132,7 @@
     <value>You are the Sorcerer 🔮, allying yourself with creatures of the night rather than citizens. At night you will use your power to find the wolves or the Seer. You win only if the wolves win. Enjoy helping snuff out those miserable citizens.</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>You are the Blacksmith ⚒: the metalworker of the city. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a citizen.</value>
+    <value>You are the Blacksmith ⚒: the metalworker of the city. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the city. Other than that, you are just a citizen.</value>
   </string>
   <string key="RoleInfoAlphaWolf">
     <value>You are the Alpha Wolf ⚡️; the source of the scourge. Your bite is the cause of the curse that turns humans into werewolves. Each night, you will choose a human to attack and kill, but as long as you are alive, your victim has a 20% chance of turning into a werewolf.</value>
@@ -1664,7 +1664,7 @@
   </string>
   <string key="ThiefEnd">
   <!-- 0 - Thief's name -->
-    <value>As {0} wanders around the city, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another city to restart their illustrious career.</value>
+    <value>As {0} wanders around the city, they found out that there are no more fun roles available for them to steal. They quickly left this poor city and search for another city to restart their illustrious career.</value>
   </string>
   <string key="ThiefStealChosen">
   <!-- 0 - target's name -->
@@ -1827,7 +1827,7 @@
     <value>You are the Snow Wolf 🐺❄️. Every night, instead of following your pack to hunt someone, you skulk around on your own to freeze someone out of your pack. A frozen person will be unable to use any night actions, if they have any. However, your victim will have some residue of your power the next night and can not be frozen a second time in a row.</value>
   </string>
   <string key="AboutSnowWolf">
-    <value>The Snow Wolf 🐺❄️ is a wolf that was native to the snowcapped mountains near the village. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their pack at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
+    <value>The Snow Wolf 🐺❄️ is a wolf that was native to the snowcapped mountains near the city. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their pack at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
   </string>
   <string key="AskFreeze">
 	<value>Who do you want to freeze tonight?</value>
@@ -1885,7 +1885,7 @@
     <value>As you admired your liver collection one last time before leaving your house, a gust of wind blew in from the windows, frosting the glass jars... freezing you 🐺❄️. As you unfroze this morning, you gritted your teeth in annoyance at the Snow Wolf's spell, swearing to make them suffer as much as possible when you take their liver. </value>
   </string>
   <string key="ThiefFrozen">
-    <value>As you sulked around the village, you felt a strong gust of wind. You stood frozen in your tracks, literally unable to move 🐺❄️. Luckily, it was dark enough for you to not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you. </value>
+    <value>As you sulked around the city, you felt a strong gust of wind. You stood frozen in your tracks, literally unable to move 🐺❄️. Luckily, it was dark enough for you to not be recognised by anyone who passed you that night. When you were completely thawed by dawn, you scampered back to your home before anyone could see you. </value>
   </string>
   <string key="DefaultFrozen">
   <!-- used for all roles without (every-)night action -->
@@ -2051,7 +2051,7 @@
   </string>
   <!--{0}: thief-->
   <string key="ThiefFellDigger">
-	<value>Good thing you put security measurements around your graves... {0} tried to steal your role last night, but they were caught in your bear trap and fell into your grave! Maybe now the village will believe you that your traps are actually necessary.</value>
+	<value>Good thing you put security measurements around your graves... {0} tried to steal your role last night, but they were caught in your bear trap and fell into your grave! Maybe now the city will believe you that your traps are actually necessary.</value>
   </string>
   <!--{0}: grave digger-->
   <string key="ArsonistFell">
@@ -2263,7 +2263,7 @@
   </string>
   
   <string key="DoppelgangerEnd">
-    <value>Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the village and there is nobody to mimic. The only thing they can do is copy the person in the mirror!</value>
+    <value>Ah! How miserable can the life of someone, who is not even able to do the only task they were made for, be? Is the ability of taking the appearance of others only a legend? We will never know!\n{0} is now alone in the city and there is nobody to mimic. The only thing they can do is copy the person in the mirror!</value>
   </string>
 
 
@@ -2325,11 +2325,79 @@
 	</string>
 	<string key="deadxlinch" isgif="true" >
 		<value>The city decided you're better dead than alive. So stay dead until the game ends.</value>
-		<value>In this game you have no choice but to die lynched, the citizens  has decided and there is nothing you can do.‌‌</value>
+		<value>In this game you have no choice but to die lynched, the citizens has decided and there is nothing you can do.‌‌</value>
 	</string>
 	<string key="mutexdead">
-		<value>Have you been muted in the group? No 😂, the dead don't speak.</value>
-		<value>I muted you. Why talk if you die?</value>
+		<value>You died and so you will be silenced until the end of the game.</value>
+		<value>You've died, so I had to silence you. I'll keep you like this until the game is over.</value>
 	</string>
 	
- </strings>
+<string key="InvalidRolelist">
+    <value>The list of roles is not valid. Please be sure to use only valid emoji separated by commas. For more information, use /helpCustom</value>
+  </string>
+  <string key="PlayerStartedCustomGame">
+    <!-- 0 - Player name -->
+    <value>{0} has started a custom game! Press the button to join the fun ... and probably die: P</value>
+    <value>{0} has started a new custom game! Press the button to be eaten!</value>
+  </string>
+  <string key="NeedRolelist">
+    <value>You need a list of roles to start custom. For more information, use /helpCustom.</value>
+  </string>
+  <string key="NotEnoughBaddies">
+    <value>The list of roles is not valid. One of the first 5 roles must be a bad role. For more information, use /helpCustom.</value>
+  </string>
+  <string key="LatestRoleList">
+    <value>Here is the list of roles:</value>
+  </string>
+  <string key="UnableToGetRoleList">
+    <value>The game has not started.</value>
+  </string>
+  <string key="Random">
+    <value>random role ❓</value>
+  </string>
+  <string key="RandomVillagerNoAlly">
+    <value>citizens' team (without allies) ✅</value>
+  </string>
+  <string key="RandomVillager">
+    <value>citizens' team (with allies) ✅</value>
+  </string>
+  <string key="RandomKiller">
+    <value>random killer role ⚠️</value>
+  </string>
+  <string key="RandomBaddie">
+    <value>killer or cult role ⚠️👤</value>
+  </string>
+  <string key="RandomWolf">
+    <value>random wolf 🆘</value>
+  </string>
+  <string key="RandomAlly">
+    <value>wolf ally 🚫</value>
+  </string>
+  <string key="RandomNeutral">
+    <value>random neutral role ✳️</value>
+  </string>
+  <string key="Random120">
+    <value>random 120 role</value>
+  </string>
+  <string key="RandomSkyro">
+    <value>serial killer or arsonist 🔪🔥</value>
+  </string>
+  <string key="RandomCultable">
+    <value>random always cultable 💯</value>
+  </string>
+  <string key="RandomLowCultable">
+    <value>random low cultable ❇️</value>
+  </string>
+  <string key="HelpCustom">
+    <value>How to create a custom game: \n \nTo start a custom game you must put the command /startcustom followed by the list of roles to use. This list is formed by the emojis of the roles you want to leave, separated by commas and WITHOUT spaces. If fewer players join than those on the list, they will take roles starting from the left. The game starts automatically as many players join as there are roles on the list. To see what emojis you can use, put /emojisCustom.\n</value>
+  </string>
+  <string key="CantSetRolelist">
+    <value>Your rank is too low to use this command. Reach 2200 points first.</value>
+  </string>
+  <string key="RolelistSaved">
+    <value>Changes saved!</value>
+  </string>
+  <string key="EmojisCustom">
+    <value>Specific roles: role emoji, you can see it in /rolelist\n❓ - Allrandomrole\n✅ - Citizen random role (no traitor, cursed, wild child)\n❎ -Citizen random role (with traitor, cursed, wild child)\n⚠️ - Random werewolf, serial killer or arsonist\n⚠️👤 - Random werewolf, serial killer, arsonist or cultist\n🆘 - Random werewolf\n🚫 - Random werewolf ally\n✳️ - Doppelganger or tanner\n120 - Matchmaker, wild child or doppelganger\n🔪🔥 - Serial killer or arsonist\n💯 -Always cultable\n❇️ - Random low cultable (no harlot and guardian angel)</value>
+  </string>
+</strings>
