@@ -2331,6 +2331,9 @@
     <value>Grupta sessize alındınız mı? Hayır 😂, ölüler konuşmaz.</value>
     <value>Seni susturdum. Öleceksen neden konuşuyorsun?</value>
   </string>
+	<string key="InvalidRolelist">
+  <value>Rol listesi geçerli değil. Lütfen yalnızca virgülle ayrılmış geçerli emojiler kullandığınızdan emin olun. Daha fazla bilgi için /helpCustom kullanın.</value> 
+ </string>
 	<string key="PlayerStartedCustomGame">
   <!-- 0 - Oyuncu adı -->
   <value>{0} özel bir oyun başlattı! Eğlenceye katılmak için düğmeye basın...
