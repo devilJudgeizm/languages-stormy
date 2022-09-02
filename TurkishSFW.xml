@@ -2331,4 +2331,68 @@
     <value>Grupta sessize alındınız mı? Hayır 😂, ölüler konuşmaz.</value>
     <value>Seni susturdum. Öleceksen neden konuşuyorsun?</value>
   </string>
+	<string key="PlayerStartedCustomGame">
+  <!-- 0 - Oyuncu adı -->
+  <value>{0} özel bir oyun başlattı! Eğlenceye katılmak için düğmeye basın...
+ve muhtemelen ölür: P</value>
+  <value>{0} yeni bir özel oyun başlattı! Yemek için düğmeye basın!</value>
+ </string>
+ <string key="NeedRolelist">
+  <value>Özel başlatmak için bir roller listesine ihtiyacınız var. Daha fazla bilgi için /helpCustom'u kullanın.</value>
+ </string>
+ <string key="NotEnoughBaddies">
+  <value>Rol listesi geçerli değil.
+İlk 5 rolden biri kötü bir rol olmalı. Daha fazla bilgi için /helpCustom'u kullanın.</value>
+ </string>
+ <string key="LatestRoleList">
+  <value>İşte rollerin listesi:</value>
+ </string>
+ <string key="UnableToGetRoleList">
+  <value>Oyun başlamadı.</value>
+ </string>
+ <string key="Random">
+  <value>Rastgele rol (herhangi bir takım) ❓</value>
+</string>
+ <string key="RandomVillagerNoAlly">
+  <value>Vatandaş rastgele rolü (Hain, Lanetli, Yabani Çocuk yok) ✅</value>
+ </string>
+ <string key="RandomVillager">
+  <value>Vatandaş rastgele rolü (Hain, Lanetli, Yabani Çocuk ile) ❎</value>
+ </string>
+ <string key="RandomKiller">
+  <value>Rastgele Katil rolü ⚠️</value>
+ </string>
+<string key="RandomBaddie">
+  <value> Rastgele Katil veya Tarikatçı ⚠️👤</value>
+ </string>
+ <string key="RandomWolf">
+  <value>Rastgele Kurt 🆘</value>
+ </string>
+ <string key="RandomAlly">
+  <value>Rastgele Kurt Tarafı 🚫</value>
+ </string>
+ <string key="RandomNeutral">
+  <value>Rastgele Nötr rol ✳️</value>
+ </string>
+ <string key="Random120">
+<value>Rastgele 120</value>
+ </string>
+ <string key="RandomSkyro">
+  <value>Seri katil veya Kundakçı 🔪🔥</value>
+ </string>
+ <string key="RandomCultable">
+  <value>Rastgele her zaman tarikat edilebilir 💯</value>
+ </string>
+ <string key="RandomLowCultable">
+  <value>Rastgele düşük tarikatlaşma oranı ❇️</value>
+ </string>
+ <string key="HelpCustom">
+<value>Özel bir oyun nasıl oluşturulur: \n \nÖzel bir oyun başlatmak için /startcustom komutunu ve ardından kullanılacak roller listesini koymalısınız. Bu liste, ayrılmak istediğiniz rollerin emojilerinden virgülle ayrılmış ve boşluksuz olarak oluşturulmuştur. Listedekilerden daha az oyuncu katılırsa, soldan başlayarak rol alırlar.
+Listedeki roller ne kadar çok oyuncu katılırsa oyun otomatik olarak başlar. Hangi emojileri kullanabileceğinizi görmek için /emojisCustom yazın.\n</value>
+ </string>
+ <string key="EmojisCustom">
+  <value>Belirli roller: rol emojisi, /rolelist'te görebilirsiniz\n❓ - Tamamı rastgele roller\n✅ - Vatandaşın rastgele rolü (Hain, Lanetli, Yabani Çocuk yok)\n❎ -
+Rastgele vatandaş rolü (Hain, Lanetli, Yabani Çocuk ile)\n⚠️ - Rastgele Kurt, Seri Katil veya Kundakçı\n⚠️👤 - Rastgele Kurt, Seri Katil, Kundakçı veya Tarikatçı\n🆘 - Rastgele Kurt\n🚫 - Rastgele Kurt müttefiki \n✳️ - Çiftgiden veya İblis\n120 - Çöpçatan, Yabani Çocuk veya Çiftgiden\n🔪🔥 - Seri katil veya Kundakçı\n💯 -Her zaman tarikatlaşma oranı\n❇️ -
+Rastgele düşük oranda tarikatlaşabilir (Yancı ve Koruyucu Melek yok)</value>
+ </string>
 </strings>
